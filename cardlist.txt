@@ -1,0 +1,969 @@
+#1
+* S1/S2 Razorkinder
+* S2/S2 Tatsurion
+* 1/43 Aqua Seneschal
+* 2/43 Frogzooka
+* 3/43 Hydro Spy
+* 4/43 Hydrobot Crab
+* 5/43 Ice Blade
+* 6/43 King Nautilus
+* 7/43 King Pontias
+* 8/43 Reef-Eye
+* 9/43 Spy Mission
+* 10/43 Teleport
+* 11/43 Bone Blades
+* 12/43 Brain Squirmer
+* 13/43 Death Smoke
+* 14/43 Dream Pirate
+* 15/43 Fumes
+* 16/43 Gigargon
+* 17/43 Grave Worm Hatchling
+* 18/43 Horrid Stinger
+* 19/43 Skeeter Swarmer
+* 20/43 Skull Cutter
+* 21/43 Terror Pit
+* 22/43 Zagaan, the Bone Knight
+* 23/43 Blaze Belcher
+* 24/43 Comet Missile
+* 25/43 Draglide the Swiftest
+* 26/43 Flametropus
+* 27/43 Gatling Skyterror
+* 28/43 Little Hissy
+* 29/43 Overcharge
+* 30/43 Pyro Trooper
+* 31/43 Rock Bite
+* 32/43 Simian Trooper Grash
+* 33/43 Tornado Flame
+* 34/43 Ambush Scorpion
+* 35/43 Brave Giant
+* 36/43 Bronze-Arm Tribe
+* 37/43 Essence Elf
+* 38/43 Raging Goliant
+* 39/43 Return to the Soil
+* 40/43 Roaming Bloodmane
+* 41/43 Root Trap
+* 42/43 Rumbling Terrasaur
+* 43/43 Sprout
+#2
+* S1/S5 Alcadeus, Winged Justice
+* S2/S5 King Tsunami
+* S3/S5 Bat-Breath Scaradorable
+* S4/S5 Lord Skycrusher
+* S5/S5 Terradragon Regarion Doom
+* 1/55 Blinder Beetle
+* 2/55 Grand Gure, Tower Keeper
+* 3/55 Keeper of Clouds
+* 4/55 Keeper of Dawn
+* 5/55 Keeper of Twilight
+* 6/55 Luminar
+* 7/55 Regroup
+* 8/55 Shaw K'Naw
+* 9/55 Star Lantern
+* 10/55 Sun-Stalk Seed
+* 11/55 Sunshock
+* 12/55 Aqua Commando
+* 13/55 Aqua Soldier
+* 14/55 Fluorogill Manta
+* 15/55 Hydro Spy
+* 16/55 Ice Blade
+* 17/55 King Bullfang
+* 18/55 Logos Scan
+* 19/55 Potato Gun Glu-urrgle
+* 20/55 Reef Prince Glu-urrgle
+* 21/55 Veil Vortex
+* 22/55 Vikorakas
+* 23/55 Acid-Tongue Chimera
+* 24/55 Black Feather of Shadow Abyss
+* 25/55 Brain Squirmer
+* 26/55 Ghost Spy
+* 27/55 Gigargon
+* 28/55 Skeeter Swarmer
+* 29/55 Skull Cutter
+* 30/55 Specter Claw
+* 31/55 Terror Pit
+* 32/55 Trox, General of Destruction
+* 33/55 Writhing Bone Ghoul
+* 34/55 Bolt-Tail Dragon
+* 35/55 Chain-Lash Tatsurion
+* 36/55 Comet Missile
+* 37/55 Draglide the Swiftest
+* 38/55 Drakon Weaponsmith
+* 39/55 Gatling Skyterror
+* 40/55 Gilaflame the Assaulter
+* 41/55 Little Hissy
+* 42/55 Om Nom Nom
+* 43/55 Super Bazooka Volcanodon
+* 44/55 Tornado Flame
+* 45/55 Brave Giant
+* 46/55 Chief Many-Tribes
+* 47/55 Deathblade Beetle
+* 48/55 Forest Hornet
+* 49/55 Karate Carrot
+* 50/55 Razorhide
+* 51/55 Root Trap
+* 52/55 Rumbling Terrasaur
+* 53/55 Splinterclaw Wasp
+* 54/55 Sprout
+* 55/55 Stampeding Longhorn
+* D1/D1 Quillspike Tatsurion
+#3
+* S1/S15 Ra-Vu, Seeker of Lightning
+* S2/S15 Radiant, the Lawbringer
+* S3/S15 Sasha, Channeler of Light
+* S4/S15 Hovercraft Glu-urrgle
+* S5/S15 King Tsunami
+* S6/S15 Waterspout Gargoyle
+* S7/S15 Death Liger, Lion of Chaos
+* S8/S15 Diabrost, Shadow Marshal
+* S9/S15 Megaria, the Collector
+* S10/S15 Crimson Wyvern
+* S11/S15 Meteor Dragon
+* S12/S15 Tatsurion the Unchained
+* S13/S15 Bestial Rage Tatsurion
+* S14/S15 Earthstomp Giant
+* S15/S15 Xeno Mantis
+* 1/165 Argus, Vigilant Seer
+* 2/165 Astinos, the Cloud Knight
+* 3/165 Blinder Beetle
+* 4/165 Covering Fire
+* 5/165 Current Charger
+* 6/165 Grand Gure, Tower Keeper
+* 7/165 Halon
+* 8/165 Jade Monitor
+* 9/165 Keeper of Clouds
+* 10/165 Keeper of Dawn
+* 11/165 Keeper of Twilight
+* 12/165 Logic Cube
+* 13/165 Luminar
+* 14/165 Magris the Magnetizer
+* 15/165 Nimbus Scout
+* 16/165 Orbital Observer
+* 17/165 Paladio, Patrol Leader
+* 18/165 Perimeter Drone
+* 19/165 Portal Tech
+* 20/165 Rally the Reserves
+* 21/165 Razorpine Tree
+* 22/165 Regroup
+* 23/165 Seer Serpent
+* 24/165 Shaw K'Naw
+* 25/165 Spyweb Scurrier
+* 26/165 Stalker Sphere
+* 27/165 Starlight Strategist
+* 28/165 Stormspark Blast
+* 29/165 Strobe Flash
+* 30/165 Sun-Stalk Seed
+* 31/165 Sunshock
+* 32/165 Thunder Cruiser
+* 33/165 Urth, the Overlord
+* 34/165 Aqua Commando
+* 35/165 Aqua Knight
+* 36/165 Aqua Seneschal
+* 37/165 Aqua Soldier
+* 38/165 Buoyant Blowfish
+* 39/165 Crystal Memory
+* 40/165 Finbarr, Council of Logos
+* 41/165 Fluorogill Manta
+* 42/165 Frogzooka
+* 43/165 Hokira, Council of Logos
+* 44/165 Hydro Spy
+* 45/165 Hydrobot Crab
+* 46/165 Ice Blade
+* 47/165 Ice Launcher
+* 48/165 King Bullfang
+* 49/165 King Coral
+* 50/165 King Nautilus
+* 51/165 King Pontias
+* 52/165 Knowledge Warden
+* 53/165 Logos Scan
+* 54/165 Memory Swarm
+* 55/165 Midnight Crawler
+* 56/165 Milporo, Council of Logos
+* 57/165 Predict
+* 58/165 Queen Orion
+* 59/165 Reef Prince Glu-urrgle
+* 60/165 Reef-Eye
+* 61/165 Rusalka, Aqua Chaser
+* 62/165 Spy Mission
+* 63/165 Steam Star Grapplog
+* 64/165 Teleport
+* 65/165 Thought Probe
+* 66/165 Veil Vortex
+* 67/165 Acid-Tongue Chimera
+* 68/165 Black Feather of Shadow Abyss
+* 69/165 Bone Blades
+* 70/165 Brain Squirmer
+* 71/165 Dark Return
+* 72/165 Death Smoke
+* 73/165 Draxar, the Soul Crusher
+* 74/165 Dream Pirate
+* 75/165 Fumes
+* 76/165 Gigargon
+* 77/165 Gigastand
+* 78/165 Gorgeon, Shadow of Gluttony
+* 79/165 Grave Scrounger
+* 80/165 Grave Worm Hatchling
+* 81/165 Horrid Stinger
+* 82/165 Kronkos, General of Fear
+* 83/165 Marrow Ooze
+* 84/165 Quakes the Unclean
+* 85/165 Razorkinder Puppet
+* 86/165 Roton the Destroyer
+* 87/165 Rupture Spider
+* 88/165 Scaradorable of Gloom Hollow
+* 89/165 Scaradorable the Hunter
+* 90/165 Skeeter Swarmer
+* 91/165 Skull Cutter
+* 92/165 Skull Shatter
+* 93/165 Specter Claw
+* 94/165 Terror Pit
+* 95/165 Trox, General of Destruction
+* 96/165 Venom Worm
+* 97/165 Voidwing
+* 98/165 Writhing Bone Ghoul
+* 99/165 Zagaan, the Bone Knight
+* 100/165 Badlands Lizard
+* 101/165 Barrage
+* 102/165 Blastforge Slaver
+* 103/165 Blaze Belcher
+* 104/165 Bolgash Dragon
+* 105/165 Bolshack Dragon
+* 106/165 Bolt-Tail Dragon
+* 107/165 Comet Missile
+* 108/165 Draglide the Swiftest
+* 109/165 Drakon Weaponsmith
+* 110/165 Flame Aura
+* 111/165 Flametropus
+* 112/165 Gatling Skyterror
+* 113/165 Gilaflame the Assaulter
+* 114/165 Hyperspeed Dragon
+* 115/165 Kenina the Igniter
+* 116/165 Legionnaire Lizard
+* 117/165 Little Hissy
+* 118/165 Magma Madness
+* 119/165 Meteosaur
+* 120/165 Moorna, Gatling Dragon
+* 121/165 Om Nom Nom
+* 122/165 Overcharge
+* 123/165 Pyro Trooper
+* 124/165 Rock Bite
+* 125/165 Simian Trooper Grash
+* 126/165 Skycrusher's Elite
+* 127/165 Snaptongue Lizard
+* 128/165 Stonesaur
+* 129/165 Super Bazooka Volcanodon
+* 130/165 Tornado Flame
+* 131/165 Tracer Rounds
+* 132/165 Vorg
+* 133/165 Ambush Scorpion
+* 134/165 Brave Giant
+* 135/165 Breach the Veil
+* 136/165 Bronze-Arm Tribe
+* 137/165 Carnivorous Dahlia
+* 138/165 Deathblade Beetle
+* 139/165 Drifting Toadstool
+* 140/165 Essence Elf
+* 141/165 Fear Fang
+* 142/165 Forest Hornet
+* 143/165 Gasbag
+* 144/165 Gigahorn Charger
+* 145/165 Karate Carrot
+* 146/165 Launcher Locust
+* 147/165 Mana Storm
+* 148/165 Manabind
+* 149/165 Mighty Shouter
+* 150/165 Power Surge
+* 151/165 Raging Goliant
+* 152/165 Razorhide
+* 153/165 Red-Eye Scorpion
+* 154/165 Return to the Soil
+* 155/165 Roaming Bloodmane
+* 156/165 Root Trap
+* 157/165 Rumbling Terrasaur
+* 158/165 Shell Dome
+* 159/165 Sniper Mosquito
+* 160/165 Splinterclaw Wasp
+* 161/165 Sprout
+* 162/165 Stampeding Longhorn
+* 163/165 The Great Arena
+* 164/165 Thorny Creeper
+* 165/165 Three-Eyed Dragonfly
+* D1/D2 Dark Scaradorable
+* D2/D2 Wrist-Rockets Tatsurion
+#4
+* S1/S5 Orion, Radiant Fury
+* S2/S5 Emperor Neuron
+* S3/S5 Tekamora the Wretched
+* S4/S5 Evo Fury Tatsurion
+* S5/S5 Flamespike Tatsurion
+* 1/55 Chasm Entangler
+* 2/55 Cloudwalker Drone
+* 3/55 Cobalt, the Storm Knight
+* 4/55 Halon, Paragon of Light
+* 5/55 Helios Rings
+* 6/55 Photon Squad
+* 7/55 Prism-Blade Enforcer
+* 8/55 Recharge
+* 9/55 Shock Sentinel
+* 10/55 Starwing
+* 11/55 Twilight Commander
+* 12/55 Aquatic Expulsion
+* 13/55 Cyber Sprite
+* 14/55 Cyber Trader
+* 15/55 Emperor Axon
+* 16/55 Forklift Tank Glu-urrgle
+* 17/55 King Neptas
+* 18/55 Neuron's Oracle
+* 19/55 Rapids Lurker Wwhhshrll
+* 20/55 Reef Gladiator
+* 21/55 Search the Depths
+* 22/55 Sopan, Cyber Renegade
+* 23/55 Chimera Tyrant
+* 24/55 Gigabolver
+* 25/55 Gigazanda
+* 26/55 Hydra Medusa
+* 27/55 Locomotivator
+* 28/55 Olgate, Knight of Shadow
+* 29/55 Return from Beyond
+* 30/55 Scavenging Chimera
+* 31/55 Screeching Scaradorable
+* 32/55 Slyth
+* 33/55 Swampstench Worm
+* 34/55 Big Hissy
+* 35/55 Blastforge Captain
+* 36/55 Cliffcutter
+* 37/55 Drakon Warchief
+* 38/55 Gunwing Dragon
+* 39/55 Heat Seekers
+* 40/55 Jet-Thrust Darter
+* 41/55 Jetflame Bodyguard
+* 42/55 Laser-Arm Drakon
+* 43/55 Lava Leaper
+* 44/55 Twin-Cannon Maelstrom
+* 45/55 Bronze-Arm Sabertooth
+* 46/55 Forsett, Heroic Shaman
+* 47/55 Granite Avenger
+* 48/55 Illusory Berry
+* 49/55 Lepidos the Ancient
+* 50/55 Moonhowler Tribe
+* 51/55 Prickleback
+* 52/55 Reap and Sow
+* 53/55 Silver Fist
+* 54/55 Snapclaw
+* 55/55 Tendril Grasp
+* D1/D1 Ra-Vu the Stormbringer
+#5
+* 1/2 Necrodragon of Vile Ichor
+* 2/2 Hammer Dragon Foulbyrn
+#6
+* S1/S5 Andromeda of the Citadel
+* S2/S5 Issyl of the Frozen Wastes
+* S3/S5 Dracothane of the Abyss
+* S4/S5 Infernus the Awakened
+* S5/S5 Kurragar of the Hordes
+* 1/55 Arachnopod
+* 2/55 Aurora Valkyrie
+* 3/55 Canyon Skimmer
+* 4/55 Defense Mode
+* 5/55 Gemini Dragon
+* 6/55 Lux
+* 7/55 Lyra, the Blazing Sun
+* 8/55 Reflector Cannon
+* 9/55 Spark Cage
+* 10/55 Storm Seeker
+* 11/55 Vectro Scout
+* 12/55 Bottle of Wishes
+* 13/55 Coral-Claw
+* 14/55 Dragon of Reflections
+* 15/55 Emperor Dendrite
+* 16/55 Eye of the Tides
+* 17/55 Kindrix the Psionic
+* 18/55 Logos Lookout
+* 19/55 Man o' Warden
+* 20/55 Nix
+* 21/55 Queen Taniwha
+* 22/55 Trial and Error
+* 23/55 Ancient Grave Worm
+* 24/55 Bonerattle Dragon
+* 25/55 Devouring Smog
+* 26/55 Dreadclaw, Dark Herald
+* 27/55 Drooling Worm
+* 28/55 Gloom Tomb
+* 29/55 Grudge Weaver
+* 30/55 Patchwork Surgeon
+* 31/55 Ripper Reaper
+* 32/55 Toothed Grubling
+* 33/55 Umbra
+* 34/55 Bagash
+* 35/55 Blastforge Dragon
+* 36/55 Branca the Treacherous
+* 37/55 Burnclaw the Relentless
+* 38/55 Dragon's Breath
+* 39/55 Explosive Infantry
+* 40/55 Hammer Fist
+* 41/55 Herald of Infernus
+* 42/55 Kenina
+* 43/55 Ragefire Tatsurion
+* 44/55 Spellbane Dragon
+* 45/55 Belua
+* 46/55 Copper Locust
+* 47/55 Dauntless Tusker
+* 48/55 Energize
+* 49/55 Ensnare
+* 50/55 Hornblade Dragon
+* 51/55 Manapod Beetle
+* 52/55 Sok'ran the Untamed
+* 53/55 Steel Hammer
+* 54/55 The Swarmleader
+* 55/55 Treetop Dragon
+#7
+* S1/S10 Sasha the Observer
+* S2/S10 King Tritonus
+* S3/S10 Death Liger, Apex Predator
+* S4/S10 Infernus the Immolator
+* S5/S10 The Hive Queen
+* S6/S10 Truthseeker Forion
+* S7/S10 Guardian Akhal-Teek
+* S8/S10 Squillace Scourge
+* S9/S10 Shadeblaze the Corruptor
+* S10/S10 Tatsurion the Relentless
+* 1/110 Azuri, the Dawnbreaker
+* 2/110 Beliqua the Ascender
+* 3/110 Citadel Magistrate
+* 4/110 Citadel Steward
+* 5/110 Containment Field
+* 6/110 Halo Hawk
+* 7/110 Keeper of Laws
+* 8/110 Lars, Virtuous Imager
+* 9/110 Rain-Cloud Kraken
+* 10/110 Rodi Gale, Night Guardian
+* 11/110 Shimmerwing
+* 12/110 Spire Zealot
+* 13/110 Thunder Reaper
+* 14/110 Zone Defense
+* 15/110 Aeropica
+* 16/110 Aqua Rider
+* 17/110 Aqua-Ranger Commander
+* 18/110 Cyber Cyclones
+* 19/110 Cyber Lord Corile
+* 20/110 Cybergrid Bandit
+* 21/110 Glu-urrgle 2.0
+* 22/110 Hazard Crawler
+* 23/110 King Poseidon
+* 24/110 Mark of Tritonus
+* 25/110 Queen Sargasso
+* 26/110 Reef Scout
+* 27/110 Tenuous Trove
+* 28/110 Time Rime
+* 29/110 Arachnoir of Cobweb Cavern
+* 30/110 Cave Gulper
+* 31/110 Dreadhusk
+* 32/110 Fanged Horror
+* 33/110 Gregoria the Malevolent
+* 34/110 Gregoria's Fortress
+* 35/110 Mesmerize
+* 36/110 Shapeshifter Scaradorable
+* 37/110 Skeleton Soldier
+* 38/110 Soul Schism
+* 39/110 Spectral Mummy
+* 40/110 Suffocate
+* 41/110 Thunder Grub
+* 42/110 Toxic Fog
+* 43/110 Assault Dragon
+* 44/110 Blade-Rush Wyvern
+* 45/110 Blastforge Bruiser
+* 46/110 Chaotic Skyterror
+* 47/110 Drill Storm
+* 48/110 Ember-Eye
+* 49/110 Flame Spinner
+* 50/110 Jump Jets
+* 51/110 Kaboom!
+* 52/110 Magma Dragon Melgars
+* 53/110 Mark of Infernus
+* 54/110 Redscale Drakon
+* 55/110 Scaled Impaler
+* 56/110 Toolbot
+* 57/110 Chief Thorn-Bringer
+* 58/110 Deepwood Druid
+* 59/110 Ironvine Dragon
+* 60/110 Jackalax
+* 61/110 Lumbering Elderwood
+* 62/110 Mana Tick
+* 63/110 Noble Rumbling Terrasaur
+* 64/110 Reinforce
+* 65/110 Saber Mantis
+* 66/110 Shaman Broccoli
+* 67/110 Shardhide Tusker
+* 68/110 Silver Axe
+* 69/110 Slumbering Titan
+* 70/110 Spore Siren
+* 71/110 Aqua Strider
+* 72/110 Crusader Engine
+* 73/110 Elevan the Seeker
+* 74/110 Memory Keeper
+* 75/110 Panopter
+* 76/110 Piercing Judgment
+* 77/110 Sunspout Quartz
+* 78/110 Wave Lancer
+* 79/110 Blade Seer
+* 80/110 Dawnflower Quartz
+* 81/110 Fullmetal Lemon
+* 82/110 Humonculon the Blaster
+* 83/110 Oathsworn Call
+* 84/110 Starseed Squadron
+* 85/110 Suncloak Protector
+* 86/110 Sword Horned
+* 87/110 Cryptic Worm
+* 88/110 Featherfin Stalker
+* 89/110 Freakish Test Subject
+* 90/110 Grip of Despair
+* 91/110 Ramis the Cloaked
+* 92/110 Seacurse Quartz
+* 93/110 Skarvos the Assassin
+* 94/110 Spelljacker
+* 95/110 Baron Burnfingers
+* 96/110 Chasmblaze Quartz
+* 97/110 Galzak of Shadow Pass
+* 98/110 Haunted Mech
+* 99/110 Kronax the Brutal
+* 100/110 Lizard-Skin Puppet
+* 101/110 Oozing Lavasaur
+* 102/110 Soul Vortex
+* 103/110 Cindermoss Quartz
+* 104/110 Fight!
+* 105/110 Gorim the Striker
+* 106/110 Lotus Warrior
+* 107/110 Smolderhorn
+* 108/110 Steamtank Kryon
+* 109/110 Tatsurion the Champion
+* 110/110 Weaponized Razorcat
+* D1/D2 General Finbarr
+* D2/D2 General Skycrusher
+#8
+* D1/D3 Magnet Mech Glu-uurgle
+* D2/D3 Feral Scaradorable
+* D3/D3 Rampaging Tatsurion
+#9
+* S1/S10 Eternal Haven
+* S2/S10 King Alboran
+* S3/S10 Queen Kalima
+* S4/S10 Forgelord Vesuvius
+* S5/S10 Wildstrider Ramnoth
+* S6/S10 Twilight Archon
+* S7/S10 Dragon Knight Volaron
+* S8/S10 Heretic Prince Var-rakka
+* S9/S10 Borran, the Reality Shaper
+* S10/S10 Khordia, the Soul Tyrant
+* 1/80 Blade Barrier
+* 2/80 Blinder Beetle Prime
+* 3/80 Heliosphere
+* 4/80 Mark of Eternal Haven
+* 5/80 Ra-Vu the Indomitable
+* 6/80 Replicator Patrol
+* 7/80 Repulse
+* 8/80 Sentrus
+* 9/80 Angler Cluster
+* 10/80 Aqua-Reflector Nomulos
+* 11/80 Bladefish
+* 12/80 Cyber Scamp
+* 13/80 Deep Mind Probe
+* 14/80 Finbarr's Dreadnought
+* 15/80 Phase Scout
+* 16/80 Recon Mission
+* 17/80 Curse-Eye Black Feather
+* 18/80 Dagger Doll
+* 19/80 Doomblast Scaradorable
+* 20/80 Gaunt Boneweaver
+* 21/80 Ghost Bite
+* 22/80 Maddening Whispers
+* 23/80 Mark of Kalima
+* 24/80 Tygrif
+* 25/80 Blastforge Scrapper
+* 26/80 Blazetrail Gilaflame
+* 27/80 Cinder Fist
+* 28/80 Magma Ram
+* 29/80 Onslaught Trooper
+* 30/80 Skycrusher's Volcano-Ship
+* 31/80 Skytalon Harrier
+* 32/80 Sledgehammer Slammer
+* 33/80 Dawn Giant
+* 34/80 Headstrong Wanderer
+* 35/80 Jarbala Keeper
+* 36/80 Monstrify
+* 37/80 Ninja Pumpkin
+* 38/80 Striding Hearthwood
+* 39/80 Transforming Totem
+* 40/80 Wild Growth
+* 41/80 Calamity Bell
+* 42/80 Glimmergloom Quartz
+* 43/80 Lost Patrol
+* 44/80 Serpens, the Spirit Shifter
+* 45/80 Spire Puppet
+* 46/80 Stingwing
+* 47/80 Tar Gusher
+* 48/80 Zoltara the Mercenary
+* 49/80 Axos the Avenger
+* 50/80 Blitzer-Mech Falkora
+* 51/80 Flamewing Phoenix
+* 52/80 Metal Max
+* 53/80 Plasma Pincer
+* 54/80 Prototype Gunship
+* 55/80 Starforge Quartz
+* 56/80 Sunstrike
+* 57/80 Aqua Trooper XJ-3
+* 58/80 Flamespitter
+* 59/80 Flame-Vent Diver
+* 60/80 Frostburn Quartz
+* 61/80 Krazzix the Volatile
+* 62/80 Mar-Blurpa the Weaponsmith
+* 63/80 Scalding Surge
+* 64/80 Unstable Rockhound
+* 65/80 Bloomwarden
+* 66/80 Crystalize
+* 67/80 Kivu, Ingenious Shaman
+* 68/80 Lore-Strider
+* 69/80 Mistvine Quartz
+* 70/80 Oktuska the Infused
+* 71/80 Squall Darter
+* 72/80 Wavebreaker Tribe
+* 73/80 Cavernmold Quartz
+* 74/80 Foul Mana
+* 75/80 Goop Striker
+* 76/80 Haunted Harvest
+* 77/80 Masked Gravewing
+* 78/80 Obsidian Death
+* 79/80 Skaak the Stinger
+* 80/80 Terror Hound
+* D1/D1 Death Liger the Justicar
+#10
+* S1/S10 Cassiopeia Starborn
+* S2/S10 Warbringer Poseidon
+* S3/S10 Megaria, the Deceiver
+* S4/S10 Napalmeon the Conquering
+* S5/S10 Almighty Colossus
+* S6/S10 Dark-Seer Jurlon
+* S7/S10 Major Ao
+* S8/S10 Elder Titan Auralia
+* S9/S10 General Charzon
+* S10/S10 Tatsurion the Brawler
+* 1/80 Arc Ward
+* 2/80 Detain
+* 3/80 Graviton Generator
+* 4/80 Haven's Elite
+* 5/80 Ion Cruiser
+* 6/80 Sunmote Field
+* 7/80 Sunwhip Sentry
+* 8/80 Aqua Trickster
+* 9/80 Engulf
+* 10/80 Guardian Rusalka
+* 11/80 King Barnacle
+* 12/80 Morphing Pod
+* 13/80 Seneschal, Choten's Lieutenant
+* 14/80 Veil Slip
+* 15/80 Chimera Predator
+* 16/80 Ravenous Web-Leg
+* 17/80 Sickly Larva
+* 18/80 Snake Trap
+* 19/80 Spinning Terror
+* 20/80 Vile Malvictus
+* 21/80 Wandering Brain-Eater
+* 22/80 Aerial Bombardment
+* 23/80 Blastforge Marauder
+* 24/80 Drakon Upstart
+* 25/80 Flame Fangs
+* 26/80 Galsaur
+* 27/80 Manic Mechanic
+* 28/80 Ricochet Shot
+* 29/80 Broadsword Butterfly
+* 30/80 Cultivate
+* 31/80 Defiant Shaman
+* 32/80 Mark of Almighty Colossus
+* 33/80 Nurturing Hive
+* 34/80 Tricky Turnip
+* 35/80 Tusked Shouter
+* 36/80 Choten's Stalker Sphere
+* 37/80 Fallen Keeper
+* 38/80 Luminar Unleashed
+* 39/80 Reverberate
+* 40/80 Skyvolt Mech
+* 41/80 Corvus Dragon
+* 42/80 Lamp-Lighter
+* 43/80 Mad Watcher
+* 44/80 Panic and Disorder
+* 45/80 Bodyguard Vorg
+* 46/80 Crash and Burn
+* 47/80 Dawnblaze Patrol
+* 48/80 Volcano Dervish
+* 49/80 Beam Bloom
+* 50/80 Chief Toko
+* 51/80 Hunter Sphere
+* 52/80 Stratus Beetle
+* 53/80 Emergency Protocol
+* 54/80 Essence Shade
+* 55/80 Fate's Hand
+* 56/80 Sabotage Worm
+* 57/80 The Reviled
+* 58/80 Ballistic Skyterror
+* 59/80 Blitz Commando
+* 60/80 Cyber Trooper
+* 61/80 Frantic Blast
+* 62/80 Bad Apple
+* 63/80 Bronze-Arm Renegade
+* 64/80 Crystal Pulse
+* 65/80 Tainted Quartz
+* 66/80 Telanar, the Stormer
+* 67/80 Boom Skull
+* 68/80 Flamespine Ravager
+* 69/80 Infernal Taskmaster
+* 70/80 Lava-Tube Crawler
+* 71/80 XT-4 Brutefist
+* 72/80 Cackling Fiend
+* 73/80 Fearfeather the Scavenger
+* 74/80 Looming Devourer
+* 75/80 Shadow Strike
+* 76/80 Skulking Cypress
+* 77/80 Armored Sentinel
+* 78/80 Corporal Pepper
+* 79/80 Emblazoned Giant
+* 80/80 Victory Gunner
+* D1/D1 Vicious Squillace Scourge
+#11
+* 1/3 Kolani, Dragon Oracle
+* 2/3 Spire Widow
+* 3/3 Krakatoa the Shattered
+#12
+* S1/S5 The Mystic of Light
+* S2/S5 Psychic Predator Rusalka
+* S3/S5 Soul-Devourer Black Feather
+* S4/S5 Humonguru
+* S5/S5 Overlord Sargon
+* 1/55 Arcane Warden
+* 2/55 Beacon Drone
+* 3/55 Caelum Skysworn
+* 4/55 Cerulean Core
+* 5/55 Haven's Command
+* 6/55 Lightning Sniper
+* 7/55 Luminous Shieldwing
+* 8/55 Radiant Purification
+* 9/55 Restrain
+* 10/55 Solar Helix
+* 11/55 Captain Orwellia
+* 12/55 Captive Squill
+* 13/55 Hypergrid Hacker
+* 14/55 Liquid Compulsion
+* 15/55 Neural Helix
+* 16/55 Octobot Infiltrator
+* 17/55 Queen Riptide
+* 18/55 Saucer-Head Shark
+* 19/55 Sawtooth Cyclone
+* 20/55 The Mystic of Water
+* 21/55 Absolute Darkness
+* 22/55 Eager Cleaver
+* 23/55 Harbinger of the Void
+* 24/55 Night Haunt
+* 25/55 Nightmare Helix
+* 26/55 Rib Collector
+* 27/55 Scourge Lord
+* 28/55 Terrorfang Clinger
+* 29/55 The Mystic of Darkness
+* 30/55 Vengeful Blast
+* 31/55 Absolute Incineration
+* 32/55 Blaze Helix
+* 33/55 Bluescale Drakon
+* 34/55 Doomcannon Mech
+* 35/55 Lavanator 3000
+* 36/55 Morkaz the Defiant
+* 37/55 Sparkspine Lizard
+* 38/55 The Disassembler
+* 39/55 The Mystic of Fire
+* 40/55 Waylay
+* 41/55 Blademane
+* 42/55 Broodmother
+* 43/55 Jarbala Swordbreaker
+* 44/55 Rampage
+* 45/55 Seedpod Puffer
+* 46/55 Sledgefoot
+* 47/55 Swift Regeneration
+* 48/55 Taunting Totem
+* 49/55 The Mystic of Nature
+* 50/55 Verdant Helix
+* 51/55 Twilight Worm
+* 52/55 Fornax, the Juggernaut
+* 53/55 Deathtongue Leech
+* 54/55 Vectron Crawler
+* 55/55 Magmaclysm Rex
+#13
+* S1/S10 Caius of Cloud Legion
+* S2/S10 Regent Sasha
+* S3/S10 Change-o-bot Glu-urrgle
+* S4/S10 Exalarc, Grand Metachron
+* S5/S10 Grand Manipulator Agaryx
+* S6/S10 Trox the Merciless
+* S7/S10 Supreme Dragon Bolshack
+* S8/S10 Warmaster Tatsurion
+* S9/S10 Boulderfist the Pulverizer
+* S10/S10 Voksa, Herd Matriarch
+* 1/160 Battlesworn Seer
+* 2/160 Blinder Beetle
+* 3/160 Citadel Knight
+* 4/160 Cloudweave
+* 5/160 Commissar Soris
+* 6/160 Eternity Pulse
+* 7/160 Eye Spy
+* 8/160 Flux Drone
+* 9/160 Garrison Duty
+* 10/160 General Dorzim
+* 11/160 Glare of Sanction
+* 12/160 Harmony Wing
+* 13/160 Hover-Talon
+* 14/160 Ironwill Tree
+* 15/160 Laser Drone
+* 16/160 Magistrate Jazuri
+* 17/160 Magris the Magnetizer
+* 18/160 Nova Cruiser
+* 19/160 Pentarc
+* 20/160 Photon Weaver
+* 21/160 Reactor Sphere
+* 22/160 Safe Passage
+* 23/160 Sentinel Orb
+* 24/160 Sky-Ring Captain
+* 25/160 Skybound Keeper
+* 26/160 Spire Keeper
+* 27/160 Stratus Dart
+* 28/160 Strobe Flash
+* 29/160 Sunstorm Dreadnought
+* 30/160 The Arbiter
+* 31/160 Aqua Initiate
+* 32/160 Aqua Inquisitor
+* 33/160 Aqua Scout
+* 34/160 Citizen Tokori
+* 35/160 Cryo-Nucleus
+* 36/160 Cyber Lord Wakiki
+* 37/160 Ethereal Agent
+* 38/160 Gobblemaw
+* 39/160 Hydro Spy
+* 40/160 Hydrobot Nautilus
+* 41/160 Icebelly Blowfish
+* 42/160 Kalorth, Lord of Tides
+* 43/160 Mind Core
+* 44/160 Ocean Ravager
+* 45/160 Outpost Sentry
+* 46/160 Pincer-Fin
+* 47/160 Reef Kraken
+* 48/160 Scavenging Cenophor
+* 49/160 Scrutinize
+* 50/160 Shore Chomper
+* 51/160 Snapping Eel
+* 52/160 Steadfast Vorwhal
+* 53/160 Stockade Virus
+* 54/160 Temporal Tinkering
+* 55/160 Thought Collective
+* 56/160 Tide Angler
+* 57/160 Tide Seer
+* 58/160 Veil Bubble
+* 59/160 Wave Spears
+* 60/160 Whirlpool Warden
+* 61/160 Attic Reaper
+* 62/160 Baleful Drummer
+* 63/160 Cavern Snapper
+* 64/160 Creeping Heap
+* 65/160 Cursed Phantom
+* 66/160 Den Gorger
+* 67/160 Dream Pirate
+* 68/160 Eldritch Lightning
+* 69/160 Forsaken Puppet
+* 70/160 Fumes
+* 71/160 Gloom-Hollow Taskmaster
+* 72/160 Gloomlurker Drask
+* 73/160 Gorgalisk
+* 74/160 Grave Call
+* 75/160 Grievous Strike
+* 76/160 Horrific Tick
+* 77/160 Horror Box
+* 78/160 Lurking Skull Cutter
+* 79/160 Mindwrack Moth
+* 80/160 Mr. Smiles
+* 81/160 Oblivion Knight
+* 82/160 Ravenous Whiptongue
+* 83/160 Shadowblade Conqueror
+* 84/160 Shanok, the Soul Harvester
+* 85/160 Skrap Skull
+* 86/160 Snakebite
+* 87/160 Terror Pit
+* 88/160 Underworld Stalker
+* 89/160 Venomancer
+* 90/160 Vile Reanimator
+* 91/160 Blastforge Sweeper
+* 92/160 Bloodbound Dragon
+* 93/160 Convoy Runner
+* 94/160 Drakon Mercenary
+* 95/160 Dropship Commando
+* 96/160 Ember Adept
+* 97/160 Firemane Dragon
+* 98/160 Flame Auger
+* 99/160 Kenina the Igniter
+* 100/160 Krakus the Dominator
+* 101/160 Laserize
+* 102/160 Megacannon Renegade
+* 103/160 Railgun Raptor
+* 104/160 Rally Bot
+* 105/160 Relentless Vanguard
+* 106/160 Restless Conflagration
+* 107/160 Rocket Hawk
+* 108/160 Scrapheap Hunter
+* 109/160 Searing Spears
+* 110/160 Sergeant Maddox
+* 111/160 Shock Troop
+* 112/160 Siege Dragon
+* 113/160 Slagcannon Grunt
+* 114/160 Technoraptor
+* 115/160 Thundering Clap
+* 116/160 Torhelm, Stomper Elite
+* 117/160 Tornado Flame
+* 118/160 Volcano Trooper
+* 119/160 Warchief Kyo
+* 120/160 Wreck Mech
+* 121/160 Allure
+* 122/160 Amberhorn
+* 123/160 Anjak, the All-Kin
+* 124/160 Ardu Ranger
+* 125/160 Ardu Totem
+* 126/160 Barbed Crusher
+* 127/160 Bronze-Arm Gladiator
+* 128/160 Bronze-Arm Tribe
+* 129/160 Charging Greatclaw
+* 130/160 Colonel Corn
+* 131/160 Cumulofungus
+* 132/160 Grasslands Goliath
+* 133/160 Hunter Blossom
+* 134/160 Huntmaster Taegrin
+* 135/160 Instill Might
+* 136/160 Mesa Behemoth
+* 137/160 Moss Giant
+* 138/160 Pouncing Crickant
+* 139/160 Predatory Snapdragon
+* 140/160 Rapscallion
+* 141/160 Root Trap
+* 142/160 Shouter, Paragon of Nature
+* 143/160 Sigil of Primacy
+* 144/160 Snarling Craghorn
+* 145/160 Sprout
+* 146/160 Sumo Artichoke
+* 147/160 Sun-Clan Tortoise
+* 148/160 Vine Bind
+* 149/160 Violet Puffer
+* 150/160 Woolly Tusker
+* 151/160 Sky Shark
+* 152/160 Eye of Inquisition
+* 153/160 Solstar Commander
+* 154/160 Battlebred Defender
+* 155/160 Mind Censor
+* 156/160 Flame Serpent
+* 157/160 Hydrobot Scarab
+* 158/160 Zombie Backhoe
+* 159/160 Johnny Darkseed
+* 160/160 Thunderaxe Shaman
+* D1/D1 Beastlord Rulchor
+#14
+* D1/D3 Hive Marshal Golian
+* D2/D3 Pakidamo the Resilient
+* D3/D3 Abyssal Stalker Baleia
