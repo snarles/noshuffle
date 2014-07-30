@@ -367,124 +367,124 @@ Soul Schism
 Spec.tral Mum.my
 Suf.fo.cate
 Thun.der Grub
-Toxic Fog
-Assault Dragon
-Blade-Rush Wyvern
-Blastforge Bruiser
-Chaotic Skyterror
+To.xic Fog
+A.ssault Dra.gon
+Blade-Rush Wy.vern
+Blast.forge Brui.ser
+Cha.o.tic Sky.ter.ror
 Drill Storm
-Ember-Eye
-Flame Spinner
+Em.ber-Eye
+Flame Spin.ner
 Jump Jets
-Kaboom!
-Magma Dragon Melgars
-Mark of Infernus
-Redscale Drakon
-Scaled Impaler
-Toolbot
-Chief Thorn-Bringer
-Deepwood Druid
-Ironvine Dragon
-Jackalax
-Lumbering Elderwood
+Ka.boom
+Mag.ma Dra.gon Mel.gars
+Mark of In.fer.nus
+Red.scale Dra.kon
+Scaled Im.pa.ler
+Tool.bot
+Chief Thorn-Brin.ger
+Deep.wood Dru.id
+Iron.vine Dra.gon
+Jack.a.lax
+Lum.be.ring El.der.wood
 Mana Tick
-Noble Rumbling Terrasaur
-Reinforce
-Saber Mantis
-Shaman Broccoli
-Shardhide Tusker
-Silver Axe
-Slumbering Titan
-Spore Siren
-Aqua Strider
-Crusader Engine
-Elevan the Seeker
-Memory Keeper
-Panopter
-Piercing Judgment
-Sunspout Quartz
-Wave Lancer
+No.ble Rumb.ling Ter.ra.saur
+Re.in.force
+Sa.ber Man.tis
+Sha.man Broc.co.li
+Shard.hide Tus.ker
+Sil.ver Axe
+Slumb.er.ing Ti.tan
+Spore Si.ren
+Aqua Stri.der
+Cru.sa.der En.gine
+E.le.van the See.ker
+Me.mo.ry Kee.per
+Pan.op.ter
+Pier.cing Judg.ment
+Sun.spout Quartz
+Wave Lan.cer
 Blade Seer
-Dawnflower Quartz
-Fullmetal Lemon
-Humonculon the Blaster
-Oathsworn Call
-Starseed Squadron
-Suncloak Protector
+Dawn.flo.wer Quartz
+Full.me.tal Le.mon
+Hu.mon.cu.lon the Blas.ter
+Oath.sworn Call
+Star.seed Squa.dron
+Sun.cloak Pro.tec.tor
 Sword Horned
-Cryptic Worm
-Featherfin Stalker
-Freakish Test Subject
-Grip of Despair
-Ramis the Cloaked
-Seacurse Quartz
-Skarvos the Assassin
-Spelljacker
-Baron Burnfingers
-Chasmblaze Quartz
-Galzak of Shadow Pass
-Haunted Mech
-Kronax the Brutal
-Lizard-Skin Puppet
-Oozing Lavasaur
-Soul Vortex
-Cindermoss Quartz
-Fight!
-Gorim the Striker
-Lotus Warrior
-Smolderhorn
-Steamtank Kryon
-Tatsurion the Champion
-Weaponized Razorcat
-General Finbarr
-General Skycrusher
-Magnet Mech Glu-uurgle
-Feral Scaradorable
-Rampaging Tatsurion
-Eternal Haven
-King Alboran
-Queen Kalima
-Forgelord Vesuvius
-Wildstrider Ramnoth
-Twilight Archon
-Dragon Knight Volaron
-Heretic Prince Var-rakka
-Borran, the Reality Shaper
-Khordia, the Soul Tyrant
-Blade Barrier
-Blinder Beetle Prime
-Heliosphere
-Mark of Eternal Haven
-Ra-Vu the Indomitable
-Replicator Patrol
-Repulse
-Sentrus
-Angler Cluster
-Aqua-Reflector Nomulos
-Bladefish
-Cyber Scamp
+Cry.ptic Worm
+Fea.ther.fin Stal.ker
+Frea.kish Test Sub.ject
+Grip of Des.pair
+Ra.mis the Cloaked
+Sea.curse Quartz
+Skar.vos the As.sas.sin
+Spell.jac.ker
+Baron Burn.fin.gers
+Chasm.blaze Quartz
+Gal.zak of Sha.dow Pass
+Haun.ted Mech
+Kro.nax the Bru.tal
+Li.zard-Skin Pup.pet
+Oo.zing La.va.saur
+Soul Vor.tex
+Cin.der.moss Quartz
+Fight
+Go.rim the Stri.ker
+Lo.tus War.rior
+Smol.der.horn
+Steam.tank Kryon
+Tat.su.rion the Champ.i.on
+Wea.po.nized Ra.zor.cat
+Ge.ne.ral Fin.barr
+Ge.ne.ral Sky.cru.sher
+Mag.net Mech Glu.uur.gle
+Fe.ral Scara.do.ra.ble
+Ram.pa.ging Tat.su.rion
+E.ter.nal Haven
+King Al.bo.ran
+Queen Ka.li.ma
+Forge.lord Ve.su.vius
+Wild.stri.der Ram.noth
+Twi.light Ar.chon
+Dra.gon Knight Vo.la.ron
+He.re.tic Prince Var.rak.ka
+Bor.ran the Rea.li.ty Sha.per
+Khor.dia the Soul Ty.rant
+Blade Bar.ri.er
+Blin.der Bee.tle Prime
+He.lio.sphere
+Mark of E.ter.nal Ha.ven
+Ra.Vu the In.do.mi.ta.ble
+Re.plica.tor Pa.trol
+Re.pulse
+Sen.trus
+An.gler Clu.ster
+Aq.ua-Re.flec.tor No.mu.los
+Blade.fish
+Cy.ber Scamp
 Deep Mind Probe
-Finbarr's Dreadnought
+Fin.barrs Dread.nought
 Phase Scout
-Recon Mission
-Curse-Eye Black Feather
-Dagger Doll
-Doomblast Scaradorable
-Gaunt Boneweaver
+Re.con Mis.sion
+Curse-Eye Black Fea.ther
+Dag.ger Doll
+Doom.blast Scara.do.ra.ble
+Gaunt Bone.wea.ver
 Ghost Bite
-Maddening Whispers
-Mark of Kalima
-Tygrif
-Blastforge Scrapper
-Blazetrail Gilaflame
-Cinder Fist
-Magma Ram
-Onslaught Trooper
-Skycrusher's Volcano-Ship
-Skytalon Harrier
-Sledgehammer Slammer
+Mad.de.ning Whis.pers
+Mark of Ka.li.ma
+Ty.grif
+Blast.forge Scrap.per
+Blaze.trail Gi.la.flame
+Cin.der Fist
+Mag.ma Ram
+On.slaught Troo.per
+Sky.cru.shers Vol.ca.no-Ship
+Sky.ta.lon Har.ri.er
+Sledge.hammer Slam.mer
 Dawn Giant
-Headstrong Wanderer
+Head.strong Wan.de.rer
 Jarbala Keeper
 Monstrify
 Ninja Pumpkin

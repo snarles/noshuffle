@@ -967,3 +967,64 @@
 * D1/D3 Hive Marshal Golian
 * D2/D3 Pakidamo the Resilient
 * D3/D3 Abyssal Stalker Baleia
+# P
+* P1/Y1 Draglide the Swiftest
+* P2/Y1 Aqua Seneschal
+* P3/Y1 Blinder Beetle
+* P4/Y1 Blaze Belcher
+* P5/Y1 Fumes
+* P6/Y1 Razorhide
+* P7/Y1 Mighty Shouter, the Shaman
+* P8/Y1 Flare Inhibitor
+* P9/Y1 Moorna the Vengeful
+* P10/Y1 Mother Virus
+* P11/Y1 Impalicus
+* P12/Y1 Sparkblade Protector
+* P13/Y1 Bronze-Arm Sabertooth	
+* P14/Y1 Kenina the Igniter
+* P15/Y1 Old Man Winter
+* P16/Y1 Thorn Dragon
+* P17/Y1 Cybersphere Dragon
+* P18/Y1 Dorado, Golden Dragon
+* P19/Y1 Billion-Degree Dragon
+* P20/Y1 Herald of Infernus
+* P1/Y2 Memory Swarm
+* P2/Y2 Wild Sky Sword
+* P3/Y2 Fault-Line Dragon
+* P4/Y2 Grybolos the Gatherer
+* P5/Y2 Saracon, Storm Dynamo
+* P6/Y2 Sprout
+* P7/Y2 Magris the Magnetizer
+* P8/Y2 Veil Stalker
+* P9/Y2 Ba'kaar Frostwing
+* P10/Y2 Necrose, Nightmare Bloom
+* P11/Y2 Cyber Walker Kaylee
+* P12/Y2 Forgotten Chief
+* P13/Y2 Skraven, Draconic Reaper
+* P14/Y2 Enslaved Flametropus
+* P15/Y2 Shaman of the Vigil
+* P16/Y2 Ember Titan
+* P17/Y2 Gilded Archon
+* P18/Y2 Snow Fort
+* P19/Y2 Fullmetal Lemon
+* P20/Y2 Reckoning
+* P21/Y2 Wavebreaker Shaman
+* P22/Y2 Cyber Seer
+* P23/Y2 Ravenous Detrivore
+* 9/PRM1 Cyber Scamp
+* 13/PRM1 Molten Stonesaur
+* 13/PRM2 Magistrate Jazuri
+* 13/PRM3 Ocean Ravager
+* 13/PRM4 Oblivion Knight
+* 13/PRM5 Firemane Dragon
+* 13/PRM6 Mesa Behemoth
+* 13/PRM7 Swarming Rapids Lurker
+* 13/PRM8 Bristling Tatsurion
+* 13/PRM10 Torhelm, Stomper Elite
+* 13/PRM11 Terror Pit
+* 15/PRM1 Prism Blade the Ascendant
+* 15/PRM2 Karstara the Warder
+* 15/PRM3 Tarvox the Voracious
+* 15/PRM4 Malphalgus the Tormenter
+* 15/PRM5 Quetaro the Gladiator
+* 15/PRM6 Rogonite the Obliterator
