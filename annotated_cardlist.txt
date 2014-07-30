@@ -321,52 +321,52 @@ King Tri.to.nus
 Death Li.ger A.pex Pre.da.tor
 In.fer.nus the Immolator
 The Hive Queen
-Truthseeker Forion
-Guardian Akhal-Teek
-Squillace Scourge
-Shadeblaze the Corruptor
-Tatsurion the Relentless
-Azuri, the Dawnbreaker
-Beliqua the Ascender
-Citadel Magistrate
-Citadel Steward
-Containment Field
-Halo Hawk
-Keeper of Laws
-Lars, Virtuous Imager
-Rain-Cloud Kraken
-Rodi Gale, Night Guardian
-Shimmerwing
-Spire Zealot
-Thunder Reaper
-Zone Defense
-Aeropica
-Aqua Rider
-Aqua-Ranger Commander
-Cyber Cyclones
-Cyber Lord Corile
-Cybergrid Bandit
-Glu-urrgle 2.0
-Hazard Crawler
-King Poseidon
-Mark of Tritonus
-Queen Sargasso
+Truth.see.ker Fo.ri.on
+Guar.di.an Ak.hal-Teek
+Squil.lace Scourge
+Shade.blaze the Cor.rup.tor
+Tat.su.ri.on the Re.lent.less
+Az.u.ri, the Dawn.brea.ker
+Be.li.qua the A.scen.der
+Ci.ta.del Ma.gis.trate
+Ci.ta.del Ste.ward
+Con.tain.ment Field
+Ha.lo Hawk
+Kee.per of Laws
+Lars Vir.tu.ous I.ma.ger
+Rain-Cloud Kra.ken
+Ro.di Gale Night Guar.d.ian
+Shim.mer.wing
+Spi.re Zea.lot
+Thun.der Rea.per
+Zone De.fense
+Ae.ro.pi.ca
+Aq.ua Ri.der
+Aq.ua-Ran.ger Com.man.der
+Cy.ber Cy.clones
+Cy.ber Lord Co.ri.le
+Cy.ber.grid Ban.dit
+Glu.urr.gle 2.0
+Ha.zard Craw.ler
+King Po.sei.don
+Mark of Tri.to.nus
+Queen Sar.gas.so
 Reef Scout
-Tenuous Trove
+Ten.uous Trove
 Time Rime
-Arachnoir of Cobweb Cavern
-Cave Gulper
-Dreadhusk
-Fanged Horror
-Gregoria the Malevolent
-Gregoria's Fortress
-Mesmerize
-Shapeshifter Scaradorable
-Skeleton Soldier
+Arach.noir of Cob.web Cav.ern
+Cave Gul.per
+Dread.husk
+Fanged Hor.ror
+Greg.or.ia the Mal.evo.lent
+Greg.or.ia For.tress
+Mes.me.rize
+Shape.shif.ter Scara.dora.ble
+Ske.le.ton Sol.dier
 Soul Schism
-Spectral Mummy
-Suffocate
-Thunder Grub
+Spec.tral Mum.my
+Suf.fo.cate
+Thun.der Grub
 Toxic Fog
 Assault Dragon
 Blade-Rush Wyvern
