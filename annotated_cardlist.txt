@@ -483,368 +483,408 @@ On.slaught Troo.per
 Sky.cru.shers Vol.ca.no-Ship
 Sky.ta.lon Har.ri.er
 Sledge.hammer Slam.mer
-Dawn Giant
+Dawn Gi.ant
 Head.strong Wan.de.rer
-Jarbala Keeper
-Monstrify
-Ninja Pumpkin
-Striding Hearthwood
-Transforming Totem
+Jar.ba.la Kee.per
+Mons.tri.fy
+Nin.ja Pump.kin
+Stri.ding Hearth.wood
+Trans.for.ming To.tem
 Wild Growth
-Calamity Bell
-Glimmergloom Quartz
-Lost Patrol
-Serpens, the Spirit Shifter
-Spire Puppet
-Stingwing
-Tar Gusher
-Zoltara the Mercenary
-Axos the Avenger
-Blitzer-Mech Falkora
-Flamewing Phoenix
-Metal Max
-Plasma Pincer
-Prototype Gunship
-Starforge Quartz
-Sunstrike
-Aqua Trooper XJ-3
-Flamespitter
-Flame-Vent Diver
-Frostburn Quartz
-Krazzix the Volatile
-Mar-Blurpa the Weaponsmith
-Scalding Surge
-Unstable Rockhound
-Bloomwarden
-Crystalize
-Kivu, Ingenious Shaman
-Lore-Strider
-Mistvine Quartz
-Oktuska the Infused
-Squall Darter
-Wavebreaker Tribe
-Cavernmold Quartz
-Foul Mana
-Goop Striker
-Haunted Harvest
-Masked Gravewing
-Obsidian Death
-Skaak the Stinger
-Terror Hound
-Death Liger the Justicar
-Cassiopeia Starborn
-Warbringer Poseidon
-Megaria, the Deceiver
-Napalmeon the Conquering
-Almighty Colossus
-Dark-Seer Jurlon
-Major Ao
-Elder Titan Auralia
-General Charzon
-Tatsurion the Brawler
+Cala.mi.ty Bell
+Glim.mer.gloom Quartz
+Lost Pa.trol
+Ser.pens the Spi.rit Shif.ter
+Spire Pup.pet
+Sting.wing
+Tar Gu.sher
+Zol.ta.ra the Mer.ce.na.ry
+A.xos the A.ven.ger
+Blit.zer-Mech Fal.ko.ra
+Flame.wing Phoe.nix
+Me.tal Max
+Plas.ma Pin.cer
+Pro.to.type Gun.ship
+Star.forge Quartz
+Sun.strike
+Aq.ua Troo.per XJ3
+Flame.spit.ter
+Flame-Vent Di.ver
+Frost.burn Quartz
+Kraz.zix the Vo.la.ti.le
+Mar-Blur.pa the Wea.pon.smith
+Scal.ding Surge
+Un.sta.ble Rock.hound
+Bloom.war.den
+Crys.ta.lize
+Ki.vu In.gen.ious Sha.man
+Lore-Stri.der
+Mist.vine Quartz
+Ok.tus.ka the In.fused
+Squall Dar.ter
+Wave.brea.ker Tribe
+Cavern.mold Quartz
+Foul Ma.na
+Goop Stri.ker
+Haun.ted Har.vest
+Masked Grave.wing
+Ob.si.di.an Death
+Skaak the Stin.ger
+Ter.ror Hound
+Death Li.ger the Jus.ti.car
+Cas.sio.pe.ia Star.born
+War.brin.ger Po.sei.don
+Me.ga.ria the De.cei.ver
+Na.pal.me.on the Con.que.ring
+Al.migh.ty Co.los.sus
+Dark-Seer Jur.lon
+Ma.jor Ao
+El.der Ti.tan Au.ra.lia
+Ge.ne.ral Char.zon
+Tat.su.ri.on the Braw.ler
 Arc Ward
-Detain
-Graviton Generator
-Haven's Elite
-Ion Cruiser
-Sunmote Field
-Sunwhip Sentry
-Aqua Trickster
-Engulf
-Guardian Rusalka
-King Barnacle
-Morphing Pod
-Seneschal, Choten's Lieutenant
+De.tain
+Gra.vi.ton Ge.ne.ra.tor
+Ha.vens E.lite
+Ion Crui.ser
+Sun.mote Field
+Sun.whip Sen.try
+Aq.ua Trick.ster
+En.gulf
+Guar.di.an Ru.sal.ka
+King Bar.na.cle
+Mor.phing Pod
+Se.ne.schal Cho.tens Lieu.te.nant
 Veil Slip
-Chimera Predator
-Ravenous Web-Leg
-Sickly Larva
+Chi.me.ra Pre.da.tor
+Ra.ve.nous Web-Leg
+Sick.ly Lar.va
 Snake Trap
-Spinning Terror
-Vile Malvictus
-Wandering Brain-Eater
-Aerial Bombardment
-Blastforge Marauder
-Drakon Upstart
+Spin.ning Ter.ror
+Vi.le Mal.vic.tus
+Wan.de.ring Brain-Ea.ter
+Ae.ri.al Bom.bard.ment
+Blast.forge Ma.rau.der
+Dra.kon Up.start
 Flame Fangs
-Galsaur
-Manic Mechanic
-Ricochet Shot
-Broadsword Butterfly
-Cultivate
-Defiant Shaman
-Mark of Almighty Colossus
-Nurturing Hive
-Tricky Turnip
-Tusked Shouter
-Choten's Stalker Sphere
-Fallen Keeper
-Luminar Unleashed
-Reverberate
-Skyvolt Mech
-Corvus Dragon
-Lamp-Lighter
-Mad Watcher
-Panic and Disorder
-Bodyguard Vorg
+Gal.saur
+Ma.nic Me.cha.nic
+Ri.co.chet Shot
+Broad.sword But.ter.fly
+Cul.ti.vate
+De.fi.ant Sha.man
+Mark of Al.migh.ty Co.los.sus
+Nur.tu.ring Hive
+Tric.ky Tur.nip
+Tusked Shou.ter
+Cho.tens Stal.ker Sphere
+Fal.len Kee.per
+Lu.mi.nar Un.leashed
+Re.ver.be.rate
+Sky.volt Mech
+Cor.vus Dra.gon
+Lamp-Ligh.ter
+Mad Wat.cher
+Pa.nic and Dis.or.der
+Bo.dy guard Vorg
 Crash and Burn
-Dawnblaze Patrol
-Volcano Dervish
+Dawn.blaze Pa.trol
+Vol.ca.no Der.vish
 Beam Bloom
-Chief Toko
-Hunter Sphere
-Stratus Beetle
-Emergency Protocol
-Essence Shade
-Fate's Hand
-Sabotage Worm
-The Reviled
-Ballistic Skyterror
-Blitz Commando
-Cyber Trooper
-Frantic Blast
-Bad Apple
-Bronze-Arm Renegade
-Crystal Pulse
-Tainted Quartz
-Telanar, the Stormer
+Chief To.ko
+Hun.ter Sphere
+Stra.tus Bee.tle
+E.mer.gency Pro.to.col
+Es.sence Shade
+Fates Hand
+Sa.bo.tage Worm
+The Re.viled
+Bal.lis.tic Sky.ter.ror
+Blitz Com.man.do
+Cy.ber Troo.per
+Fran.tic Blast
+Bad Ap.ple
+Bronze-Arm Re.ne.gade
+Crys.tal Pulse
+Tain.ted Quartz
+Te.la.nar, the Stor.mer
 Boom Skull
-Flamespine Ravager
-Infernal Taskmaster
-Lava-Tube Crawler
-XT-4 Brutefist
-Cackling Fiend
-Fearfeather the Scavenger
-Looming Devourer
-Shadow Strike
-Skulking Cypress
-Armored Sentinel
-Corporal Pepper
-Emblazoned Giant
-Victory Gunner
-Vicious Squillace Scourge
-Kolani, Dragon Oracle
-Spire Widow
-Krakatoa the Shattered
-The Mystic of Light
-Psychic Predator Rusalka
-Soul-Devourer Black Feather
-Humonguru
-Overlord Sargon
-Arcane Warden
-Beacon Drone
-Caelum Skysworn
-Cerulean Core
-Haven's Command
-Lightning Sniper
-Luminous Shieldwing
-Radiant Purification
-Restrain
-Solar Helix
-Captain Orwellia
-Captive Squill
-Hypergrid Hacker
-Liquid Compulsion
-Neural Helix
-Octobot Infiltrator
-Queen Riptide
-Saucer-Head Shark
-Sawtooth Cyclone
-The Mystic of Water
-Absolute Darkness
-Eager Cleaver
-Harbinger of the Void
+Flame.spine Ra.va.ger
+In.fer.nal Task.mas.ter
+Lava-Tube Craw.ler
+XT4
+Cack.ling Fiend
+Fear.fea.ther the Sca.ven.ger
+Looming De.vou.rer
+Sha.dow Strike
+Skul.king Cy.press
+Ar.mored Sen.ti.nel
+Cor.po.ral Pep.per
+Em.bla.zoned Gi.ant
+Vic.to.ry Gun.ner
+Vi.cious Squil.lace Scourge
+Ko.la.ni Dra.gon O.ra.cle
+Spire Wi.dow
+Kra.ka.toa the Shat.tered
+The Mys.tic of Light
+Psy.chic Pre.da.tor Ru.sal.ka
+Soul-De.vou.rer Black Feather
+Hu.mon.guru
+Over.lord Sar.gon
+Ar.cane War.den
+Bea.con Drone
+Cae.lum Sky.sworn
+Ce.ru.lean Core
+Ha.vens Com.mand
+Light.ning Sni.per
+Lu.mi.nous Shield.wing
+Ra.diant Pu.ri.fi.ca.tion
+Res.train
+So.lar He.lix
+Cap.tain Or.wel.lia
+Cap.tive Squill
+Hyper.grid Hac.ker
+Li.quid Com.pul.sion
+Neu.ral He.lix
+Oc.to.bot In.fil.tra.tor
+Queen Rip.tide
+Sau.cer-Head Shark
+Saw.tooth Cy.clone
+The Mys.tic of Water
+Ab.so.lute Dark.ness
+Ea.ger Clea.ver
+Har.bin.ger of the Void
 Night Haunt
-Nightmare Helix
-Rib Collector
+Night.mare He.lix
+Rib Col.lec.tor
 Scourge Lord
-Terrorfang Clinger
-The Mystic of Darkness
-Vengeful Blast
-Absolute Incineration
-Blaze Helix
-Bluescale Drakon
-Doomcannon Mech
-Lavanator 3000
-Morkaz the Defiant
-Sparkspine Lizard
-The Disassembler
-The Mystic of Fire
-Waylay
-Blademane
-Broodmother
-Jarbala Swordbreaker
-Rampage
-Seedpod Puffer
-Sledgefoot
-Swift Regeneration
-Taunting Totem
-The Mystic of Nature
-Verdant Helix
-Twilight Worm
-Fornax, the Juggernaut
-Deathtongue Leech
-Vectron Crawler
-Magmaclysm Rex
-Caius of Cloud Legion
-Regent Sasha
-Change-o-bot Glu-urrgle
-Exalarc, Grand Metachron
-Grand Manipulator Agaryx
-Trox the Merciless
-Supreme Dragon Bolshack
-Warmaster Tatsurion
-Boulderfist the Pulverizer
-Voksa, Herd Matriarch
-Battlesworn Seer
-Citadel Knight
-Cloudweave
-Commissar Soris
-Eternity Pulse
+Ter.ror.fang Clin.ger
+The Mys.tic of Dark.ness
+Venge.ful Blast
+Ab.so.lute In.ci.ne.ra.tion
+Blaze He.lix
+Blue.scale Dra.kon
+Doom.cannon Mech
+La.va.na.tor 3000
+Mor.kaz the De.fiant
+Spark.spine Li.zard
+The Dis.as.sem.bler
+The Mys.tic of Fi.re
+Way.lay
+Blade.mane
+Brood.mo.ther
+Jar.ba.la Sword.brea.ker
+Ram.page
+Seed.pod Puf.fer
+Sledge.foot
+Swift Re.ge.ne.ra.tion
+Taun.ting Totem
+The Mys.tic of Na.ture
+Ver.dant He.lix
+Twi.light Worm
+For.nax, the Jug.ger.naut
+Death.tongue Leech
+Vec.tron Craw.ler
+Mag.ma.clysm Rex
+Cai.us of Cloud Le.gion
+Re.gent Sa.sha
+Change-o-bot Glu.urr.gle
+Ex.al.arc Grand Me.ta.chron
+Grand Ma.ni.pu.la.tor A.ga.ryx
+Trox the Mer.ci.less
+Su.preme Dra.gon Bol.shack
+War.mas.ter Tat.su.rion
+Boul.der.fist the Pul.ver.i.zer
+Vok.sa Herd Ma.tri.arch
+Bat.tle.sworn Seer
+Ci.ta.del Knight
+Cloud.weave
+Com.mis.sar So.ris
+E.ter.ni.ty Pulse
 Eye Spy
 Flux Drone
-Garrison Duty
-General Dorzim
-Glare of Sanction
-Harmony Wing
-Hover-Talon
-Ironwill Tree
-Laser Drone
-Magistrate Jazuri
-Nova Cruiser
-Pentarc
-Photon Weaver
-Reactor Sphere
-Safe Passage
-Sentinel Orb
-Sky-Ring Captain
-Skybound Keeper
-Spire Keeper
-Stratus Dart
-Sunstorm Dreadnought
-The Arbiter
-Aqua Initiate
-Aqua Inquisitor
-Aqua Scout
-Citizen Tokori
-Cryo-Nucleus
-Cyber Lord Wakiki
-Ethereal Agent
-Gobblemaw
-Hydrobot Nautilus
-Icebelly Blowfish
-Kalorth, Lord of Tides
+Gar.ri.son Du.ty
+Ge.ne.ral Dor.zim
+Glare of Sanc.tion
+Har.mo.ny Wing
+Ho.ver-Ta.lon
+I.ron.will Tree
+La.ser Drone
+Ma.gi.strate Ja.zu.ri
+No.va Crui.ser
+Pen.tarc
+Pho.ton Wea.ver
+Reac.tor Sphere
+Safe Pas.sage
+Sen.ti.nel Orb
+Sky-Ring Cap.tain
+Sky.bound Kee.per
+Spi.re Kee.per
+Stra.tus Dart
+Sun.storm Dread.nought
+The Arb.i.ter
+Aq.ua In.it.iate
+Aq.ua In.qui.si.tor
+Aq.ua Scout
+Ci.ti.zen To.ko.ri
+Cryo-Nu.cle.us
+Cy.ber Lord Wa.ki.ki
+E.the.real A.gent
+Gob.ble.maw
+Hy.dro.bot Nau.ti.lus
+Ice.bel.ly Blow.fish
+Ka.lorth Lord of Tides
 Mind Core
-Ocean Ravager
-Outpost Sentry
-Pincer-Fin
-Reef Kraken
-Scavenging Cenophor
-Scrutinize
-Shore Chomper
-Snapping Eel
-Steadfast Vorwhal
-Stockade Virus
-Temporal Tinkering
-Thought Collective
-Tide Angler
+O.cean Ra.va.ger
+Out.post Sen.try
+Pin.cer-Fin
+Reef Kra.ken
+Sca.ven.ging Ce.no.phor
+Scru.ti.nize
+Shore Chom.per
+Snap.ping Eel
+Stead.fast Vor.whal
+Stoc.kade Vi.rus
+Tem.po.ral Tin.ke.ring
+Thought Col.lec.tive
+Tide An.gler
 Tide Seer
-Veil Bubble
+Veil Bub.ble
 Wave Spears
-Whirlpool Warden
-Attic Reaper
-Baleful Drummer
-Cavern Snapper
-Creeping Heap
-Cursed Phantom
-Den Gorger
-Eldritch Lightning
-Forsaken Puppet
-Gloom-Hollow Taskmaster
-Gloomlurker Drask
-Gorgalisk
+Whirl.pool War.den
+At.tic Rea.per
+Bale.ful Drum.mer
+Ca.vern Snap.per
+Cree.ping Heap
+Cursed Phan.tom
+Den Gor.ger
+El.dritch Light.ning
+For.sa.ken Pup.pet
+Gloom-Hol.low Task.mas.ter
+Gloom.lur.ker Drask
+Gor.ga.lisk
 Grave Call
-Grievous Strike
-Horrific Tick
-Horror Box
-Lurking Skull Cutter
-Mindwrack Moth
-Mr. Smiles
-Oblivion Knight
-Ravenous Whiptongue
-Shadowblade Conqueror
-Shanok, the Soul Harvester
+Grie.vous Strike
+Hor.ri.fic Tick
+Hor.ror Box
+Lur.king Skull Cut.ter
+Mind.wrack Moth
+Mr Smiles
+O.bli.vi.on Knight
+Ra.ve.nous Whip.tongue
+Sha.dow.blade Con.que.ror
+Sha.nok the Soul Har.ves.ter
 Skrap Skull
-Snakebite
-Underworld Stalker
-Venomancer
-Vile Reanimator
-Blastforge Sweeper
-Bloodbound Dragon
-Convoy Runner
-Drakon Mercenary
-Dropship Commando
-Ember Adept
-Firemane Dragon
-Flame Auger
-Krakus the Dominator
-Laserize
-Megacannon Renegade
-Railgun Raptor
-Rally Bot
-Relentless Vanguard
-Restless Conflagration
-Rocket Hawk
-Scrapheap Hunter
-Searing Spears
-Sergeant Maddox
+Snake.bite
+Un.der.world Stal.ker
+Ve.no.man.cer
+Vile Re.an.i.ma.tor
+Blast.forge Swee.per
+Blood.bound Dra.gon
+Con.voy Run.ner
+Dra.kon Mer.ce.na.ry
+Drop.ship Com.man.do
+Em.ber A.dept
+Fire.mane Dra.gon
+Flame Au.ger
+Kra.kus the Do.mi.na.tor
+La.se.rize
+Me.ga.can.non Re.ne.gade
+Rail.gun Rap.tor
+Ral.ly Bot
+Re.lent.less Van.guard
+Rest.less Con.fla.gra.tion
+Roc.ket Hawk
+Scrap.heap Hun.ter
+Sea.ring Spears
+Ser.geant Mad.dox
 Shock Troop
-Siege Dragon
-Slagcannon Grunt
-Technoraptor
-Thundering Clap
-Torhelm, Stomper Elite
-Volcano Trooper
-Warchief Kyo
+Siege Dra.gon
+Slag.can.non Grunt
+Tech.no.rap.tor
+Thun.de.ring Clap
+Tor.helm Stom.per Elite
+Vol.ca.no Troo.per
+War.chief Kyo
 Wreck Mech
 Allure
-Amberhorn
-Anjak, the All-Kin
-Ardu Ranger
-Ardu Totem
-Barbed Crusher
-Bronze-Arm Gladiator
-Charging Greatclaw
-Colonel Corn
-Cumulofungus
-Grasslands Goliath
-Hunter Blossom
-Huntmaster Taegrin
-Instill Might
-Mesa Behemoth
-Moss Giant
-Pouncing Crickant
-Predatory Snapdragon
-Rapscallion
-Shouter, Paragon of Nature
-Sigil of Primacy
-Snarling Craghorn
-Sumo Artichoke
-Sun-Clan Tortoise
+Am.ber.horn
+An.jak the All-Kin
+Ar.du Ran.ger
+Ar.du To.tem
+Bar.bed Crus.her
+Bronze-Arm Gla.dia.tor
+Char.ging Great.claw
+Colo.nel Corn
+Cu.mu.lo fun.gus
+Grass.lands Go.li.ath
+Hun.ter Blos.som
+Hunt.mas.ter Tae.grin
+In.still Might
+Me.sa Be.he.moth
+Moss Gi.ant
+Poun.cing Cric.kant
+Pre.da.to.ry Snap.dra.gon
+Rap.scal.lion
+Shou.ter Pa.ra.gon of Na.ture
+Si.gil of Pri.ma.cy
+Snar.ling Crag.horn
+Su.mo Ar.ti.choke
+Sun-Clan Tor.toise
 Vine Bind
-Violet Puffer
-Woolly Tusker
+Vio.let Puf.fer
+Wool.ly Tus.ker
 Sky Shark
-Eye of Inquisition
-Solstar Commander
-Battlebred Defender
-Mind Censor
-Flame Serpent
-Hydrobot Scarab
-Zombie Backhoe
-Johnny Darkseed
-Thunderaxe Shaman
-Beastlord Rulchor
-Hive Marshal Golian
-Pakidamo the Resilient
-Abyssal Stalker Baleia
+Eye of In.qui.si.tion
+Sol.star Com.man.der
+Bat.tle.bred De.fen.der
+Mind Cen.sor
+Flame Ser.pent
+Hy.dro.bot Sca.rab
+Zom.bie Back.hoe
+John.ny Dark.seed
+Thun.der.axe Sha.man
+Beast.lord Rul.chor
+Hive Mar.shal Go.li.an
+Pa.ki.da.mo the Re.si.li.ent
+A.bys.sal Stal.ker Ba.le.ia
+Migh.ty Shou.ter, the Sha.man
+Flare In.hi.bi.tor
+Moor.na the Venge.ful
+Mo.ther Vi.rus
+Imp.a.li.cus
+Spark.blade Pro.tec.tor
+Bronze-Arm Sa.ber.tooth	
+Old Man Win.ter
+Thorn Dra.gon
+Cy.ber.sphere Dra.gon
+Do.ra.do Gol.den Dra.gon
+Bil.lion-De.gree Dra.gon
+Wild Sky Sword
+Fault-Line Dragon
+Gry.bo.los the Ga.the.rer
+Sa.ra.con, Storm Dy.na.mo
+Veil Stal.ker
+Ba.kaar Frost.wing
+Ne.crose Night.mare Bloom
+Cy.ber Wal.ker Kay.lee
+For.got.ten Chief
+Skra.ven Dra.co.nic Rea.per
+En.slaved Flame.tro.pus
+Sha.man of the Vi.gil
+Em.ber Ti.tan
+Gil.ded Ar.chon
+Snow Fort
+Rec.ko.ning
+Wave.brea.ker Sha.man
+Cy.ber Seer
+Ra.ve.nous De.tri.vore
+Mol.ten Stone.saur
+Swar.ming Ra.pids Lur.ker
+Brist.ling Tat.su.ri.on
+Prism Blade the A.scen.dant
+Kars.ta.ra the War.der
+Tar.vox the Vo.ra.cious
+Mal.phal.gus the Tor.men.ter
+Que.ta.ro the Gla.di.a.tor
+Ro.go.nite the O.bli.te.ra.tor

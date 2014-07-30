@@ -1,325 +1,325 @@
-Ra.zor.kin.der
-Tat.su.ri.on
-Aq.ua Sen.es.chal
-Frog.zoo.ka
-Hy.dro Spy
-Hy.dro.bot Crab
+Razorkinder
+Tatsurion
+Aqua Seneschal
+Frogzooka
+Hydro Spy
+Hydrobot Crab
 Ice Blade
-King Nau.ti.lus
-King Pon.ti.as
+King Nautilus
+King Pontias
 Reef-Eye
-Spy Mis.sion
-Te.le.port
+Spy Mission
+Teleport
 Bone Blades
-Brain Squir.mer
+Brain Squirmer
 Death Smoke
-Dream Pi.rate
+Dream Pirate
 Fumes
-Gi.gar.gon
-Grave Worm Hatch.ling
-Hor.rid Stin.ger
-Skee.ter Swar.mer
-Skull Cut.ter
-Ter.ror Pit
-Za.gaan, the Bone Knight
-Blaze Bel.cher
-Co.met Mis.sile
-Dra.glide the Swif.test
-Flame.tro.pus
-Gat.ling Sky.ter.ror
-Lit.tle His.sy
-O.ver charge
-Py.ro Troo.per
+Gigargon
+Grave Worm Hatchling
+Horrid Stinger
+Skeeter Swarmer
+Skull Cutter
+Terror Pit
+Zagaan, the Bone Knight
+Blaze Belcher
+Comet Missile
+Draglide the Swiftest
+Flametropus
+Gatling Skyterror
+Little Hissy
+Overcharge
+Pyro Trooper
 Rock Bite
-Si.mi.an Troo.per Grash
-Tor.na.do Flame
-Am.bush Scor.pi.on
-Brave Gi.ant
+Simian Trooper Grash
+Tornado Flame
+Ambush Scorpion
+Brave Giant
 Bronze-Arm Tribe
-Es.sence Elf
-Ra.ging Go.li.ant
-Re.turn to the So.il
-Roa.ming Blood.mane
+Essence Elf
+Raging Goliant
+Return to the Soil
+Roaming Bloodmane
 Root Trap
-Rum.bling Ter.ra.saur
+Rumbling Terrasaur
 Sprout
-Al.ca.de.us Winged Jus.tice
-King Tsu.na.mi
-Bat-Breath Scar.ador.able
-Lord Sky.cru.sher
-Terra.dra.gon Re.ga.rion Doom
-Blin.der Bee.tle
-Grand Gure, To.wer Kee.per
-Kee.per of Clouds
-Kee.per of Dawn
-Kee.per of Twi.light
-Lu.mi.nar
-Re.group
-Shaw K Naw
-Star Lan.tern
+Alcadeus, Winged Justice
+King Tsunami
+Bat-Breath Scaradorable
+Lord Skycrusher
+Terradragon Regarion Doom
+Blinder Beetle
+Grand Gure, Tower Keeper
+Keeper of Clouds
+Keeper of Dawn
+Keeper of Twilight
+Luminar
+Regroup
+Shaw K'Naw
+Star Lantern
 Sun-Stalk Seed
-Sun.shock
-Aq.ua Com.man.do
-Aq.ua Sol.dier
-Fluoro.gill Manta
-King Bull.fang
-Lo.gos Scan
-Po.ta.to Gun Glu.urr.gle
-Reef Prince Glu.urr.gle
-Veil Vor.tex
-Vi.kor.akas
-Acid-Tongue Chi.mera
-Black Fea.ther of Sha.dow A.byss
+Sunshock
+Aqua Commando
+Aqua Soldier
+Fluorogill Manta
+King Bullfang
+Logos Scan
+Potato Gun Glu-urrgle
+Reef Prince Glu-urrgle
+Veil Vortex
+Vikorakas
+Acid-Tongue Chimera
+Black Feather of Shadow Abyss
 Ghost Spy
-Spec.ter Claw
-Trox, Ge.ne.ral of Des.truc.tion
-Wri.thing Bone Ghoul
-Bolt-Tail Dra.gon
-Chain-Lash Tat.su.rion
-Dra.kon Wea.pon.smith
-Gila.flame the As.saul.ter
+Specter Claw
+Trox, General of Destruction
+Writhing Bone Ghoul
+Bolt-Tail Dragon
+Chain-Lash Tatsurion
+Drakon Weaponsmith
+Gilaflame the Assaulter
 Om Nom Nom
-Super Ba.zoo.ka Vol.can.odon
+Super Bazooka Volcanodon
 Chief Many-Tribes
-Death.blade Bee.tle
-Fo.rest Hor.net
-Ka.ra.te Car.rot
-Ra.zor.hide
-Splin.ter.claw Wasp
-Stam.pe.ding Long.horn
-Quill.spike Tat.su.rion
-Ra.Vu See.ker of Light.ning
-Radi.ant the Law.brin.ger
-Sa.sha Chan.ne.ler of Light
-Hover.craft Glu.urr.gle
-Water.spout Gar.goy.le
-Death Li.ger Lion of Chaos
-Dia.brost Sha.dow Mar.shal
-Meg.aria the Col.lec.tor
-Crim.son Wy.vern
-Me.teor Dra.gon
-Tat.su.rion the Un.chained
-Bes.tial Rage Tat.sur.ion
-Earth.stomp Gi.ant
-Xe.no Man.tis
-Ar.gus Vi.gi.lant Seer
-As.ti.nos the Cloud Knight
-Co.ve.ring Fi.re
-Cur.rent Char.ger
-Ha.lon
-Jade Mon.itor
-Lo.gic Cube
-Ma.gris the Mag.ne.ti.zer
-Nim.bus Scout
-Or.bi.tal Ob.ser.ver
-Pa.la.dio Pat.rol Lea.der
-Pe.ri.me.ter Drone
-Por.tal Tech
-Ral.ly the Re.serves
-Ra.zor.pine Tree
-Seer Ser.pent
-Spy.web Scur.ri.er
-Stal.ker Sphere
-Star.light Stra.te.gist
-Storm.spark Blast
+Deathblade Beetle
+Forest Hornet
+Karate Carrot
+Razorhide
+Splinterclaw Wasp
+Stampeding Longhorn
+Quillspike Tatsurion
+Ra-Vu, Seeker of Lightning
+Radiant, the Lawbringer
+Sasha, Channeler of Light
+Hovercraft Glu-urrgle
+Waterspout Gargoyle
+Death Liger, Lion of Chaos
+Diabrost, Shadow Marshal
+Megaria, the Collector
+Crimson Wyvern
+Meteor Dragon
+Tatsurion the Unchained
+Bestial Rage Tatsurion
+Earthstomp Giant
+Xeno Mantis
+Argus, Vigilant Seer
+Astinos, the Cloud Knight
+Covering Fire
+Current Charger
+Halon
+Jade Monitor
+Logic Cube
+Magris the Magnetizer
+Nimbus Scout
+Orbital Observer
+Paladio, Patrol Leader
+Perimeter Drone
+Portal Tech
+Rally the Reserves
+Razorpine Tree
+Seer Serpent
+Spyweb Scurrier
+Stalker Sphere
+Starlight Strategist
+Stormspark Blast
 Strobe Flash
-Thun.der Crui.ser
-Urth the O.ver.lord
+Thunder Cruiser
+Urth, the Overlord
 Aqua Knight
-Buo.yant Blow.fish
-Crys.tal Me.mo.ry
-Fin.barr, Coun.cil of Lo.gos
-Ho.ki.ra, Coun.cil of Lo.gos
-Ice Laun.cher
-King Co.ral
-Know.ledge War.den
-Me.mo.ry Swarm
-Mid.night Craw.ler
-Mil.po.ro Coun.cil of Lo.gos
-Pre.dict
-Queen O.ri.on
-Ru.sal.ka, qua Cha.ser
-Steam Star Grapp.log
+Buoyant Blowfish
+Crystal Memory
+Finbarr, Council of Logos
+Hokira, Council of Logos
+Ice Launcher
+King Coral
+Knowledge Warden
+Memory Swarm
+Midnight Crawler
+Milporo, Council of Logos
+Predict
+Queen Orion
+Rusalka, Aqua Chaser
+Steam Star Grapplog
 Thought Probe
-Dark Re.turn
-Dra.xar, the Soul Cru.sher
-Giga.stand
-Gor.ge.on, Sha.dow of Glut.to.ny
-Grave Scroun.ger
-Kron.kos Ge.ne.ral of Fear
-Mar.row Ooze
-Quakes the Un.clean
-Ra.zor kin.der Pup.pet
-Ro.ton the Des.tro.yer
-Rup.ture Spi.der
-Scara.do.ra.ble of Gloom Hol.low
-Scara.do.ra.ble the Hun.ter
-Skull Shat.ter
-Ve.nom Worm
-Void.wing
-Bad.lands Li.zard
-Bar.rage
-Blast.forge Sla.ver
-Bol.gash Dra.gon
-Bol.shack Dra.gon
-Flame Au.ra
-Hy.per.speed Dra.gon
-Ke.ni.na the Ig.ni.ter
-Le.gion.naire Li.zard
-Mag.ma Mad.ness
-Me.teo.saur
-Moor.na Gat.ling Dra.gon
-Sky.cru.shers E.lite
-Snap.tongue Li.zard
-Stone.saur
-Tra.cer Rounds
+Dark Return
+Draxar, the Soul Crusher
+Gigastand
+Gorgeon, Shadow of Gluttony
+Grave Scrounger
+Kronkos, General of Fear
+Marrow Ooze
+Quakes the Unclean
+Razorkinder Puppet
+Roton the Destroyer
+Rupture Spider
+Scaradorable of Gloom Hollow
+Scaradorable the Hunter
+Skull Shatter
+Venom Worm
+Voidwing
+Badlands Lizard
+Barrage
+Blastforge Slaver
+Bolgash Dragon
+Bolshack Dragon
+Flame Aura
+Hyperspeed Dragon
+Kenina the Igniter
+Legionnaire Lizard
+Magma Madness
+Meteosaur
+Moorna, Gatling Dragon
+Skycrusher's Elite
+Snaptongue Lizard
+Stonesaur
+Tracer Rounds
 Vorg
 Breach the Veil
-Car.ni.vo.rous Dah.lia
-Drif.ting Toad.stool
+Carnivorous Dahlia
+Drifting Toadstool
 Fear Fang
-Gas.bag
-Giga.horn Char.ger
-Laun.cher Lo.cust
-Ma.na Storm
-Ma.na.bind
-Migh.ty Shou.ter
-Po.wer Surge
-Red-Eye Scor.pi.on
+Gasbag
+Gigahorn Charger
+Launcher Locust
+Mana Storm
+Manabind
+Mighty Shouter
+Power Surge
+Red-Eye Scorpion
 Shell Dome
-Sni.per Mos.qui.to
-The Great A.re.na
-Thor.ny Cree.per
-Three-Eyed Dra.gon.fly
-Dark Scara.do.ra.ble
-Wrist-Roc.kets Tat.su.rion
-O.ri.on, Ra.diant Fu.ry
-Em.pe.ror Neu.ron
-Te.ka.mo.ra the Wret.ched
-Evo Fu.ry Tat.su.ri.on
-Flame.spike Tat.su.ri.on
-Chasm En.tan.gler
-Cloud.wal.ker Drone
-Co.balt the Storm Knight
-Ha.lon Pa.ra.gon of Light
-Hel.i.os Rings
-Pho.ton Squad
-Pri.sm-Blade En.for.cer
-Re.charge
-Shock Sen.ti.nel
-Star.wing
-Twi.light Com.man.der
-Aqua.tic Ex.pul.sion
-Cy.ber Sprite
-Cy.ber Tra.der
-Em.pe.ror A.xon
-Fork.lift Tank Glu.urr.gle
-King Nep.tas
-Neu.rons O.ra.cle
-Rapids Lur.ker Wwhh.shrll
-Reef Gla.dia.tor
+Sniper Mosquito
+The Great Arena
+Thorny Creeper
+Three-Eyed Dragonfly
+Dark Scaradorable
+Wrist-Rockets Tatsurion
+Orion, Radiant Fury
+Emperor Neuron
+Tekamora the Wretched
+Evo Fury Tatsurion
+Flamespike Tatsurion
+Chasm Entangler
+Cloudwalker Drone
+Cobalt, the Storm Knight
+Halon, Paragon of Light
+Helios Rings
+Photon Squad
+Prism-Blade Enforcer
+Recharge
+Shock Sentinel
+Starwing
+Twilight Commander
+Aquatic Expulsion
+Cyber Sprite
+Cyber Trader
+Emperor Axon
+Forklift Tank Glu-urrgle
+King Neptas
+Neuron's Oracle
+Rapids Lurker Wwhhshrll
+Reef Gladiator
 Search the Depths
-So.pan, Cy.ber Re.ne.gade
-Chi.me.ra Ty.rant
-Gi.ga.bol.ver
-Gi.ga.zan.da
-Hy.dra Me.du.sa
-Lo.co.mo.ti.va.tor
-Ol.ga.te Knight of Sha.dow
-Re.turn from Be.yond
-Sca.ven.ging Chi.me.ra
-Scree.ching Scara.do.ra.ble
+Sopan, Cyber Renegade
+Chimera Tyrant
+Gigabolver
+Gigazanda
+Hydra Medusa
+Locomotivator
+Olgate, Knight of Shadow
+Return from Beyond
+Scavenging Chimera
+Screeching Scaradorable
 Slyth
-Swamp.stench Worm
-Big His.sy
-Blast.forge Cap.tain
-Cliff.cut.ter
-Dra.kon War.chief
-Gun.wing Dra.gon
-Heat See.kers
-Jet-Thrust Dar.ter
-Jet.flame Bo.dy guard
-Laser-Arm Dra.kon
-La.va Lea.per
-Twin-Can.non Mael.strom
-Bronze-Arm Sa.ber.tooth
-For.sett, He.ro.ic Sha.man
-Gra.nite A.ven.ger
-Il.lu.so.ry Ber.ry
-Le.pi.dos the An.cient
-Moon.how.ler Tribe
-Pric.kle.back
+Swampstench Worm
+Big Hissy
+Blastforge Captain
+Cliffcutter
+Drakon Warchief
+Gunwing Dragon
+Heat Seekers
+Jet-Thrust Darter
+Jetflame Bodyguard
+Laser-Arm Drakon
+Lava Leaper
+Twin-Cannon Maelstrom
+Bronze-Arm Sabertooth
+Forsett, Heroic Shaman
+Granite Avenger
+Illusory Berry
+Lepidos the Ancient
+Moonhowler Tribe
+Prickleback
 Reap and Sow
-Sil.ver Fist
-Snap.claw
-Tend.ril Grasp
-Ra.Vu the Storm.brin.ger
-Ne.cro.dra.gon of Vi.le I.chor
-Ham.mer Dra.gon Foul.byrn
-An.dro.me.da of the Ci.ta.del
-Is.syl of the Fro.zen Wastes
-Dra.co.thane of the A.byss
-In.fer.nus the A.wa.kened
-Kur.ra.gar of the Hordes
-Arach.no.pod
-Au.ro.ra Val.kyrie
-Can.yon Skim.mer
-De.fense Mode
-Ge.mi.ni Dra.gon
+Silver Fist
+Snapclaw
+Tendril Grasp
+Ra-Vu the Stormbringer
+Necrodragon of Vile Ichor
+Hammer Dragon Foulbyrn
+Andromeda of the Citadel
+Issyl of the Frozen Wastes
+Dracothane of the Abyss
+Infernus the Awakened
+Kurragar of the Hordes
+Arachnopod
+Aurora Valkyrie
+Canyon Skimmer
+Defense Mode
+Gemini Dragon
 Lux
-Ly.ra the Bla.zing Sun
-Ref.lec.tor Can.non
+Lyra, the Blazing Sun
+Reflector Cannon
 Spark Cage
-Storm See.ker
-Vec.tro Scout
-Bot.tle of Wi.shes
-Co.ral-Claw
-Dra.gon of Re.flec.tions
-Em.pe.ror Den.drite
+Storm Seeker
+Vectro Scout
+Bottle of Wishes
+Coral-Claw
+Dragon of Reflections
+Emperor Dendrite
 Eye of the Tides
-Kin.drix the Psi.o.nic
-Lo.gos Look.out
-Man o War.den
+Kindrix the Psionic
+Logos Lookout
+Man o' Warden
 Nix
-Queen Ta.ni.wha
-Tri.al and Er.ror
-An.cient Grave Worm
-Bone.rat.tle Dra.gon
-De.vou.ring Smog
-Dread.claw Dark He.rald
-Droo.ling Worm
+Queen Taniwha
+Trial and Error
+Ancient Grave Worm
+Bonerattle Dragon
+Devouring Smog
+Dreadclaw, Dark Herald
+Drooling Worm
 Gloom Tomb
-Grudge Wea.ver
-Patch.work Sur.geon
-Rip.per Rea.per
-Toothed Grub.ling
-Um.bra
-Ba.gash
-Blast.forge Dra.gon
-Bran.ca the Treach.e.rous
-Burn.claw the Re.lent.less
-Dra.gons Breath
-Ex.plo.sive In.fan.try
-Ham.mer Fist
-He.rald of In.fer.nus
-Ke.ni.na
-Rage.fire Tat.su.rion
-Spell.bane Dra.gon
-Be.lu.a
-Cop.per Lo.cust
-Daunt.less Tus.ker
-E.ner.gize
-En.snare
-Horn.blade Dra.gon
-Ma.na.pod Bee.tle
-Sok.ran the Un.tamed
-Steel Ham.mer
-The Swarm.lea.der
-Tree.top Dra.gon
-Sa.sha the Ob.ser.ver
-King Tri.to.nus
-Death Li.ger A.pex Pre.da.tor
-In.fer.nus the Immolator
+Grudge Weaver
+Patchwork Surgeon
+Ripper Reaper
+Toothed Grubling
+Umbra
+Bagash
+Blastforge Dragon
+Branca the Treacherous
+Burnclaw the Relentless
+Dragon's Breath
+Explosive Infantry
+Hammer Fist
+Herald of Infernus
+Kenina
+Ragefire Tatsurion
+Spellbane Dragon
+Belua
+Copper Locust
+Dauntless Tusker
+Energize
+Ensnare
+Hornblade Dragon
+Manapod Beetle
+Sok'ran the Untamed
+Steel Hammer
+The Swarmleader
+Treetop Dragon
+Sasha the Observer
+King Tritonus
+Death Liger, Apex Predator
+Infernus the Immolator
 The Hive Queen
 Truthseeker Forion
 Guardian Akhal-Teek
@@ -848,3 +848,43 @@ Beastlord Rulchor
 Hive Marshal Golian
 Pakidamo the Resilient
 Abyssal Stalker Baleia
+Mighty Shouter, the Shaman
+Flare Inhibitor
+Moorna the Vengeful
+Mother Virus
+Impalicus
+Sparkblade Protector
+Bronze-Arm Sabertooth	
+Old Man Winter
+Thorn Dragon
+Cybersphere Dragon
+Dorado, Golden Dragon
+Billion-Degree Dragon
+Wild Sky Sword
+Fault-Line Dragon
+Grybolos the Gatherer
+Saracon, Storm Dynamo
+Veil Stalker
+Ba'kaar Frostwing
+Necrose, Nightmare Bloom
+Cyber Walker Kaylee
+Forgotten Chief
+Skraven, Draconic Reaper
+Enslaved Flametropus
+Shaman of the Vigil
+Ember Titan
+Gilded Archon
+Snow Fort
+Reckoning
+Wavebreaker Shaman
+Cyber Seer
+Ravenous Detrivore
+Molten Stonesaur
+Swarming Rapids Lurker
+Bristling Tatsurion
+Prism Blade the Ascendant
+Karstara the Warder
+Tarvox the Voracious
+Malphalgus the Tormenter
+Quetaro the Gladiator
+Rogonite the Obliterator
