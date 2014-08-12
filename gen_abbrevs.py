@@ -46,6 +46,7 @@ def inc_st(wt,st,ns):
         if (wt[0]==wt[2]):
              # three in one word
              # use the word tracker to do this
+             return inc_wt(st,ns[wt[0]],3)
         else:
              # first word has two
     else:
@@ -86,6 +87,14 @@ def test_inc_wt(nw,cur_nw):
     while json.dumps(wt) != json.dumps([-1,-1,-1]):
         wt = inc_wt(wt,nw,cur_nw)
         print wt
+
+def test_inc_st(wt,ns):
+    st = init_st(wt,ns)
+    print st
+    while json.dumps(st) != json.dumps([-1,-1,-1]):
+        st = inc_st(wt,st,ns)
+        print st
+
 
 def abbrevs(ss):
 
