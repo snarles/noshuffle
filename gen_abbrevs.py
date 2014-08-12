@@ -12,3 +12,6 @@ for ii in range(len(splitns)):
     for jj in range(len(splitns[ii])):
         splitns[ii][jj] = splitns[ii][jj].split('.')
 splitns = splitns[:len(listns)]
+
+vowels = "AEIOU"
+consonants = "BCDFGHJKLMNPQRSTVWXYZ0123456789"

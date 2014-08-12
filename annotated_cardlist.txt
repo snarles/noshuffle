@@ -28,7 +28,7 @@ Dra.glide the Swif.test
 Flame.tro.pus
 Gat.ling Sky.ter.ror
 Lit.tle His.sy
-O.ver charge
+O.ver.charge
 Py.ro Troo.per
 Rock Bite
 Si.mi.an Troo.per Grash
@@ -61,7 +61,7 @@ Sun-Stalk Seed
 Sun.shock
 Aq.ua Com.man.do
 Aq.ua Sol.dier
-Fluoro.gill Manta
+Flu.or.o.gill Manta
 King Bull.fang
 Lo.gos Scan
 Po.ta.to Gun Glu.urr.gle
@@ -77,10 +77,10 @@ Wri.thing Bone Ghoul
 Bolt-Tail Dra.gon
 Chain-Lash Tat.su.rion
 Dra.kon Wea.pon.smith
-Gila.flame the As.saul.ter
+Gi.la.flame the As.saul.ter
 Om Nom Nom
-Super Ba.zoo.ka Vol.can.odon
-Chief Many-Tribes
+Su.per Ba.zoo.ka Vol.can.o.don
+Chief Ma.ny-Tribes
 Death.blade Bee.tle
 Fo.rest Hor.net
 Ka.ra.te Car.rot
@@ -91,13 +91,13 @@ Quill.spike Tat.su.rion
 Ra.Vu See.ker of Light.ning
 Radi.ant the Law.brin.ger
 Sa.sha Chan.ne.ler of Light
-Hover.craft Glu.urr.gle
-Water.spout Gar.goy.le
+Ho.ver.craft Glu.urr.gle
+Wa.ter.spout Gar.goy.le
 Death Li.ger Lion of Chaos
 Dia.brost Sha.dow Mar.shal
-Meg.aria the Col.lec.tor
+Meg.ar.i.a the Col.lec.tor
 Crim.son Wy.vern
-Me.teor Dra.gon
+Me.te.or Dra.gon
 Tat.su.rion the Un.chained
 Bes.ti.al Rage Tat.sur.ion
 Earth.stomp Gi.ant
@@ -117,7 +117,7 @@ Pe.ri.me.ter Drone
 Por.tal Tech
 Ral.ly the Re.serves
 Ra.zor.pine Tree
-Seer Ser.pent
+Se.er Ser.pent
 Spy.web Scur.ri.er
 Stal.ker Sphere
 Star.light Stra.te.gist
@@ -125,7 +125,7 @@ Storm.spark Blast
 Strobe Flash
 Thun.der Crui.ser
 Urth the O.ver.lord
-Aqua Knight
+Aq.ua Knight
 Buo.yant Blow.fish
 Crys.tal Me.mo.ry
 Fin.barr, Coun.cil of Lo.gos
@@ -143,7 +143,7 @@ Steam Star Grapp.log
 Thought Probe
 Dark Re.turn
 Dra.xar, the Soul Cru.sher
-Giga.stand
+Gi.ga.stand
 Gor.ge.on, Sha.dow of Glut.to.ny
 Grave Scroun.ger
 Kron.kos Ge.ne.ral of Fear
