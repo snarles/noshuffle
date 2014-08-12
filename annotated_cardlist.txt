@@ -45,9 +45,9 @@ Rum.bling Ter.ra.saur
 Sprout
 Al.ca.de.us Winged Jus.tice
 King Tsu.na.mi
-Bat-Breath Scar.ador.able
+Bat-Breath Sca.ra.dor.able
 Lord Sky.cru.sher
-Terra.dra.gon Re.ga.rion Doom
+Ter.ra.dra.gon Re.ga.rion Doom
 Blin.der Bee.tle
 Grand Gure, To.wer Kee.per
 Kee.per of Clouds
@@ -67,7 +67,7 @@ Lo.gos Scan
 Po.ta.to Gun Glu.urr.gle
 Reef Prince Glu.urr.gle
 Veil Vor.tex
-Vi.kor.akas
+Vi.kor.a.kas
 Acid-Tongue Chi.mera
 Black Fea.ther of Sha.dow A.byss
 Ghost Spy
@@ -99,7 +99,7 @@ Meg.aria the Col.lec.tor
 Crim.son Wy.vern
 Me.teor Dra.gon
 Tat.su.rion the Un.chained
-Bes.tial Rage Tat.sur.ion
+Bes.ti.al Rage Tat.sur.ion
 Earth.stomp Gi.ant
 Xe.no Man.tis
 Ar.gus Vi.gi.lant Seer
@@ -107,12 +107,12 @@ As.ti.nos the Cloud Knight
 Co.ve.ring Fi.re
 Cur.rent Char.ger
 Ha.lon
-Jade Mon.itor
+Jade Mon.i.tor
 Lo.gic Cube
 Ma.gris the Mag.ne.ti.zer
 Nim.bus Scout
 Or.bi.tal Ob.ser.ver
-Pa.la.dio Pat.rol Lea.der
+Pa.la.di.o Pat.rol Lea.der
 Pe.ri.me.ter Drone
 Por.tal Tech
 Ral.ly the Re.serves
@@ -152,8 +152,8 @@ Quakes the Un.clean
 Ra.zor kin.der Pup.pet
 Ro.ton the Des.tro.yer
 Rup.ture Spi.der
-Scara.do.ra.ble of Gloom Hol.low
-Scara.do.ra.ble the Hun.ter
+Sca.ra.do.ra.ble of Gloom Hol.low
+Sca.ra.do.ra.ble the Hun.ter
 Skull Shat.ter
 Ve.nom Worm
 Void.wing
@@ -162,7 +162,7 @@ Bar.rage
 Blast.forge Sla.ver
 Bol.gash Dra.gon
 Bol.shack Dra.gon
-Flame Au.ra
+Fla.me Au.ra
 Hy.per.speed Dra.gon
 Ke.ni.na the Ig.ni.ter
 Le.gion.naire Li.zard
@@ -198,7 +198,7 @@ Em.pe.ror Neu.ron
 Te.ka.mo.ra the Wret.ched
 Evo Fu.ry Tat.su.ri.on
 Flame.spike Tat.su.ri.on
-Chasm En.tan.gler
+Cha.sm En.tan.gler
 Cloud.wal.ker Drone
 Co.balt the Storm Knight
 Ha.lon Pa.ra.gon of Light
@@ -209,14 +209,14 @@ Re.charge
 Shock Sen.ti.nel
 Star.wing
 Twi.light Com.man.der
-Aqua.tic Ex.pul.sion
+Aq.ua.tic Ex.pul.sion
 Cy.ber Sprite
 Cy.ber Tra.der
 Em.pe.ror A.xon
 Fork.lift Tank Glu.urr.gle
 King Nep.tas
 Neu.rons O.ra.cle
-Rapids Lur.ker Wwhh.shrll
+Ra.pids Lur.ker Wwhh.shrll
 Reef Gla.dia.tor
 Search the Depths
 So.pan, Cy.ber Re.ne.gade
@@ -228,7 +228,7 @@ Lo.co.mo.ti.va.tor
 Ol.ga.te Knight of Sha.dow
 Re.turn from Be.yond
 Sca.ven.ging Chi.me.ra
-Scree.ching Scara.do.ra.ble
+Scree.ching Sca.ra.do.ra.ble
 Slyth
 Swamp.stench Worm
 Big His.sy
@@ -261,7 +261,7 @@ Is.syl of the Fro.zen Wastes
 Dra.co.thane of the A.byss
 In.fer.nus the A.wa.kened
 Kur.ra.gar of the Hordes
-Arach.no.pod
+Ar.ach.no.pod
 Au.ro.ra Val.kyrie
 Can.yon Skim.mer
 De.fense Mode
@@ -312,7 +312,7 @@ E.ner.gize
 En.snare
 Horn.blade Dra.gon
 Ma.na.pod Bee.tle
-Sok.ran the Un.tamed
+So.kran the Un.tamed
 Steel Ham.mer
 The Swarm.lea.der
 Tree.top Dra.gon
@@ -323,7 +323,7 @@ In.fer.nus the Immolator
 The Hive Queen
 Truth.see.ker Fo.ri.on
 Guar.di.an Ak.hal-Teek
-Squil.lace Scourge
+Squil.la.ce Scourge
 Shade.blaze the Cor.rup.tor
 Tat.su.ri.on the Re.lent.less
 Az.u.ri, the Dawn.brea.ker
@@ -352,18 +352,18 @@ King Po.sei.don
 Mark of Tri.to.nus
 Queen Sar.gas.so
 Reef Scout
-Ten.uous Trove
+Ten.u.ous Trove
 Time Rime
-Arach.noir of Cob.web Cav.ern
+Arach.no.ir of Cob.web Cav.ern
 Cave Gul.per
 Dread.husk
 Fanged Hor.ror
 Greg.or.ia the Mal.evo.lent
 Greg.or.ia For.tress
 Mes.me.rize
-Shape.shif.ter Scara.dora.ble
+Shape.shif.ter Sca.ra.dora.ble
 Ske.le.ton Sol.dier
-Soul Schism
+Soul Schi.sm
 Spec.tral Mum.my
 Suf.fo.cate
 Thun.der Grub
@@ -384,10 +384,10 @@ Scaled Im.pa.ler
 Tool.bot
 Chief Thorn-Brin.ger
 Deep.wood Dru.id
-Iron.vine Dra.gon
+I.ron.vine Dra.gon
 Jack.a.lax
 Lum.be.ring El.der.wood
-Mana Tick
+Ma.na Tick
 No.ble Rumb.ling Ter.ra.saur
 Re.in.force
 Sa.ber Man.tis
@@ -404,7 +404,7 @@ Pan.op.ter
 Pier.cing Judg.ment
 Sun.spout Quartz
 Wave Lan.cer
-Blade Seer
+Blade Se.er
 Dawn.flo.wer Quartz
 Full.me.tal Le.mon
 Hu.mon.cu.lon the Blas.ter
@@ -412,7 +412,7 @@ Oath.sworn Call
 Star.seed Squa.dron
 Sun.cloak Pro.tec.tor
 Sword Horned
-Cry.ptic Worm
+Cryp.tic Worm
 Fea.ther.fin Stal.ker
 Frea.kish Test Sub.ject
 Grip of Des.pair
@@ -433,7 +433,7 @@ Fight
 Go.rim the Stri.ker
 Lo.tus War.rior
 Smol.der.horn
-Steam.tank Kryon
+Steam.tank Kry.on
 Tat.su.rion the Champ.i.on
 Wea.po.nized Ra.zor.cat
 Ge.ne.ral Fin.barr
@@ -441,7 +441,7 @@ Ge.ne.ral Sky.cru.sher
 Mag.net Mech Glu.uur.gle
 Fe.ral Scara.do.ra.ble
 Ram.pa.ging Tat.su.rion
-E.ter.nal Haven
+E.ter.nal Ha.ven
 King Al.bo.ran
 Queen Ka.li.ma
 Forge.lord Ve.su.vius
@@ -469,7 +469,7 @@ Phase Scout
 Re.con Mis.sion
 Curse-Eye Black Fea.ther
 Dag.ger Doll
-Doom.blast Scara.do.ra.ble
+Doom.blast Sca.ra.do.ra.ble
 Gaunt Bone.wea.ver
 Ghost Bite
 Mad.de.ning Whis.pers
@@ -490,12 +490,12 @@ Mons.tri.fy
 Nin.ja Pump.kin
 Stri.ding Hearth.wood
 Trans.for.ming To.tem
-Wild Growth
+Wi.ld Growth
 Cala.mi.ty Bell
 Glim.mer.gloom Quartz
 Lost Pa.trol
 Ser.pens the Spi.rit Shif.ter
-Spire Pup.pet
+Spi.re Pup.pet
 Sting.wing
 Tar Gu.sher
 Zol.ta.ra the Mer.ce.na.ry
@@ -538,7 +538,7 @@ Me.ga.ria the De.cei.ver
 Na.pal.me.on the Con.que.ring
 Al.migh.ty Co.los.sus
 Dark-Seer Jur.lon
-Ma.jor Ao
+Ma.jor A.o
 El.der Ti.tan Au.ra.lia
 Ge.ne.ral Char.zon
 Tat.su.ri.on the Braw.ler
@@ -613,9 +613,9 @@ Flame.spine Ra.va.ger
 In.fer.nal Task.mas.ter
 Lava-Tube Craw.ler
 XT4
-Cack.ling Fiend
+Cac.kling Fiend
 Fear.fea.ther the Sca.ven.ger
-Looming De.vou.rer
+Loo.ming De.vou.rer
 Sha.dow Strike
 Skul.king Cy.press
 Ar.mored Sen.ti.nel
@@ -624,16 +624,16 @@ Em.bla.zoned Gi.ant
 Vic.to.ry Gun.ner
 Vi.cious Squil.lace Scourge
 Ko.la.ni Dra.gon O.ra.cle
-Spire Wi.dow
+Spi.re Wi.dow
 Kra.ka.toa the Shat.tered
 The Mys.tic of Light
 Psy.chic Pre.da.tor Ru.sal.ka
 Soul-De.vou.rer Black Feather
-Hu.mon.guru
+Hu.mon.gu.ru
 Over.lord Sar.gon
 Ar.cane War.den
 Bea.con Drone
-Cae.lum Sky.sworn
+Ca.e.lum Sky.sworn
 Ce.ru.lean Core
 Ha.vens Com.mand
 Light.ning Sni.per
@@ -664,7 +664,7 @@ Venge.ful Blast
 Ab.so.lute In.ci.ne.ra.tion
 Blaze He.lix
 Blue.scale Dra.kon
-Doom.cannon Mech
+Doom.can.non Mech
 La.va.na.tor 3000
 Mor.kaz the De.fiant
 Spark.spine Li.zard
@@ -696,7 +696,7 @@ Su.preme Dra.gon Bol.shack
 War.mas.ter Tat.su.rion
 Boul.der.fist the Pul.ver.i.zer
 Vok.sa Herd Ma.tri.arch
-Bat.tle.sworn Seer
+Bat.tle.sworn Se.er
 Ci.ta.del Knight
 Cloud.weave
 Com.mis.sar So.ris
@@ -769,7 +769,7 @@ Hor.ri.fic Tick
 Hor.ror Box
 Lur.king Skull Cut.ter
 Mind.wrack Moth
-Mr Smiles
+Mr Smi.les
 O.bli.vi.on Knight
 Ra.ve.nous Whip.tongue
 Sha.dow.blade Con.que.ror
@@ -807,7 +807,7 @@ Tor.helm Stom.per Elite
 Vol.ca.no Troo.per
 War.chief Kyo
 Wreck Mech
-Allure
+Al.lure
 Am.ber.horn
 An.jak the All-Kin
 Ar.du Ran.ger
@@ -854,7 +854,6 @@ Moor.na the Venge.ful
 Mo.ther Vi.rus
 Imp.a.li.cus
 Spark.blade Pro.tec.tor
-Bronze-Arm Sa.ber.tooth	
 Old Man Win.ter
 Thorn Dra.gon
 Cy.ber.sphere Dra.gon

@@ -980,7 +980,7 @@
 * P10/Y1 Mother Virus
 * P11/Y1 Impalicus
 * P12/Y1 Sparkblade Protector
-* P13/Y1 Bronze-Arm Sabertooth	
+* P13/Y1 Bronze-Arm Sabertooth
 * P14/Y1 Kenina the Igniter
 * P15/Y1 Old Man Winter
 * P16/Y1 Thorn Dragon
