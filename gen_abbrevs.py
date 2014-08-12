@@ -15,3 +15,4 @@ splitns = splitns[:len(listns)]
 
 vowels = "AEIOU"
 consonants = "BCDFGHJKLMNPQRSTVWXYZ0123456789"
+

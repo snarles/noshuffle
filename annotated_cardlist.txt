@@ -196,7 +196,7 @@ Wrist-Roc.kets Tat.su.rion
 O.ri.on, Ra.diant Fu.ry
 Em.pe.ror Neu.ron
 Te.ka.mo.ra the Wret.ched
-Evo Fu.ry Tat.su.ri.on
+E.vo Fu.ry Tat.su.ri.on
 Flame.spike Tat.su.ri.on
 Cha.sm En.tan.gler
 Cloud.wal.ker Drone
@@ -239,7 +239,7 @@ Gun.wing Dra.gon
 Heat See.kers
 Jet-Thrust Dar.ter
 Jet.flame Bo.dy guard
-Laser-Arm Dra.kon
+La.ser-Arm Dra.kon
 La.va Lea.per
 Twin-Can.non Mael.strom
 Bronze-Arm Sa.ber.tooth
@@ -268,7 +268,7 @@ De.fense Mode
 Ge.mi.ni Dra.gon
 Lux
 Ly.ra the Bla.zing Sun
-Ref.lec.tor Can.non
+Re.flec.tor Can.non
 Spark Cage
 Storm See.ker
 Vec.tro Scout
