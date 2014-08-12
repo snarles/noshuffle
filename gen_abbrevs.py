@@ -1,5 +1,95 @@
 import json
 
+# initialize word tracker
+def init_wt(nw,cur_nw):
+    if cur_nw==1:
+        if nw > 0:
+            return [0,0,0]
+        else:
+            return [-1,-1,-1]
+    if cur_nw==2:
+        if nw > 1:
+            return [0,0,1]
+        else:
+            return [-1,-1,-1]
+    if cur_nw==3:
+        if nw > 2:
+            return [0,1,2]
+        else:
+            return [-1,-1,-1]
+
+# initialize syllable tracker
+def init_st(wt,ns):
+    if (wt[0]==wt[1]):
+        if (ns[wt[0]] > 1):
+            if (wt[0]==wt[2]):
+                if (ns[wt[0]] > 2):
+                    return [0,1,2]
+                else:
+                    return [-1,-1,-1]
+            else:
+                return [0,1,0]
+        else:
+            return [-1,-1,-1]
+    else:
+        if (wt[1]==wt[2]):
+            if (ns[wt[1]] > 1):
+                return [0,0,1]
+            else:
+                return [-1,-1,-1]
+        else:
+            return [0,0,0]
+
+# increment syllable tracker
+def inc_st(wt,st,ns):
+    if (wt[0]==wt[1]):
+        if (wt[0]==wt[2]):
+             # three in one word
+             # use the word tracker to do this
+        else:
+             # first word has two
+    else:
+        if (wt[1]==wt[2]):
+             # second word has two
+        else:
+             # three different words
+
+# increment word tracker
+def inc_wt(wt,nw,cur_nw):
+    if cur_nw ==1:
+        if wt[0] < nw:
+            return [wt[0]+1,wt[0]+1,wt[0]+1]
+        else:
+            return [-1,-1,-1]
+    if cur_nw ==2:
+        if wt[0]==wt[1]:
+            return [wt[0],wt[2],wt[2]]
+        elif wt[0] < (wt[2]-1):
+            return [wt[0]+1,wt[0]+1,wt[2]]
+        elif wt[2] < (nw-1):
+            return [0, wt[2]+1,wt[2]+1]
+        else:
+            return [-1,-1,-1]
+    if cur_nw ==3:
+        if wt[0] < (wt[1]-1):
+            return [wt[0]+1,wt[1],wt[2]]
+        elif wt[1] < (wt[2]-1):
+            return [0,wt[1]+1,wt[2]]
+        elif wt[2] < (nw-1):
+            return [0,1,wt[2]+1]
+        else:
+            return [-1,-1,-1]
+
+def test_inc_wt(nw,cur_nw):
+    wt = init_wt(nw,cur_nw)
+    print wt
+    while json.dumps(wt) != json.dumps([-1,-1,-1]):
+        wt = inc_wt(wt,nw,cur_nw)
+        print wt
+
+def abbrevs(ss):
+
+
 # get the names
 
 f = open('p_cardlist.txt','r')
@@ -24,59 +114,10 @@ ns = [len(v) for v in ss]
 cur_nw = min(3,nw)
 cur_char=1
 
-wt = init_wt(cur_nw)
+wt = init_wt(nw,cur_nw)
 st = init_st(wt,ns)
 wtst_map = {}
 wtst_map[json.dumps(wt)] = [json.dumps(st)]
 
 
-
-# initialize word tracker
-def init_wt(cur_nw):
-    if cur_nw==1:
-        return [0,0,0]
-    if cur_nw==2:
-        return [0,0,1]
-    if cur_nw==3:
-        return [0,1,2]
-
-# initialize syllable tracker
-def init_st(wt,ns):
-    if (wt[0]==wt[1]):
-        if (ns[wt[0]] > 1):
-            if (wt[0]==wt[2]):
-                if (ns[wt[0]] > 2):
-                    return [0,1,2]
-                else:
-                    return [-1,-1,-1]
-            else:
-                return [0,1,0]
-        else:
-            return [-1,-1,-1]
-    else:
-        if (wt[1]==wt[2]):
-            if (ns[wt[1]] > 1):
-                return [0,0,1]
-            else:
-                return [-1,-1,-1]
-        else:
-            return [0,0,0]
-
-# increment syllable tracker given cached hash map of words and syllables
-
-
-
-# increment word tracker
-def inc_wt(wt,nw,cur_nw):
-    if cur_nw ==2:
-        if wt[0]==wt[1]:
-            return [wt[0],wt[2],wt[2]]
-        elif min(wt) < (max(wt)-1):
-            m1 = min(wt)+1
-            m2 = max(wt)
-            return [m1,m1,m2]
-        else:
-            return [-1,-1,-1]
-
-def abbrevs(ss):
     
