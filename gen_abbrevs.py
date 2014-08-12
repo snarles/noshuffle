@@ -1,3 +1,5 @@
+import json
+
 # get the names
 
 f = open('p_cardlist.txt','r')
@@ -24,6 +26,10 @@ cur_char=1
 
 wt = init_wt(cur_nw)
 st = init_st(wt,ns)
+wtst_map = {}
+wtst_map[json.dumps(wt)] = [json.dumps(st)]
+
+
 
 # initialize word tracker
 def init_wt(cur_nw):
@@ -55,6 +61,9 @@ def init_st(wt,ns):
                 return [-1,-1,-1]
         else:
             return [0,0,0]
+
+# increment syllable tracker given cached hash map of words and syllables
+
 
 
 # increment word tracker
