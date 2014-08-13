@@ -49,11 +49,33 @@ def inc_st(wt,st,ns):
              return inc_wt(st,ns[wt[0]],3)
         else:
              # first word has two
+             if st[0] < (st[1]-1):
+                 return [st[0]+1,st[1],st[2]]
+             elif (st[2] < (st[1]-1)) & (st[2] < (ns[wt[2]]-1)):
+                 return [0,1,st[2]+1]
+             elif st[1]==ns[wt[1]]:
+                 if st[2] < (ns[wt[2]]-1):
+                     return [0,1,st[2]+1]
+                 else:
+                     return [-1,-1,-1]
+             else:
+                 return [0,st[1]+1,st[2]]
     else:
         if (wt[1]==wt[2]):
              # second word has two
+             # use the previous case, first word has two
+             ans = inc_st([0,0,1], [st[1],st[2],st[0]], [ns[wt[2]],ns[wt[1]]])
+             return [ans[2],ans[0],ans[1]]
         else:
              # three different words
+             if (st[2] < max(st)) & (st[2] < (ns[wt[2]]-1)):
+                 return [st[0],st[1],st[2]+1]
+             elif (st[1] < max(st)) & (st[1] < (ns[wt[1]]-1)):
+                 return [st[0],st[1]+1,0]
+             elif (st[0] < (ns[wt[0]]-1)):
+                 return [st[0]+1,0,0]
+             else:
+                 return [-1,-1,-1]
 
 # increment word tracker
 def inc_wt(wt,nw,cur_nw):
@@ -72,14 +94,35 @@ def inc_wt(wt,nw,cur_nw):
         else:
             return [-1,-1,-1]
     if cur_nw ==3:
-        if wt[0] < (wt[1]-1):
-            return [wt[0]+1,wt[1],wt[2]]
-        elif wt[1] < (wt[2]-1):
-            return [0,wt[1]+1,wt[2]]
-        elif wt[2] < (nw-1):
-            return [0,1,wt[2]+1]
-        else:
-            return [-1,-1,-1]
+
+
+def inc_st3(wt,nw):
+    perm = sorted(st)
+    bounds = sorted([ns[wt[0]],ns[wt[1]],ns[wt[2]]])
+    ap = all_perms(perm)
+    ii=0
+    found=-1
+    flag = True
+        while flag:
+            cand = ap[ii]
+            flag1=(cand[0] > wt[0]) | ((cand[0]==wt[0]) & (cand[1] > wt[1]))
+            flag2=(cand[0] < ns[wt[0]]) & (cand[1] < ns[wt[1])) & (cand[2] < ns[wt[2]])
+            if !(flag1 & flag2):
+                flag=False
+                found=ii
+            ii=ii+1
+
+
+def all_perms(perm):
+    return [[perm[0],perm[1],perm[2]],
+        [perm[0],perm[2],perm[1]],
+        [perm[1],perm[0],perm[2]],
+        [perm[1],perm[2],perm[0]],
+        [perm[2],perm[0],perm[1]],
+        [perm[2],perm[1],perm[0]]]
+
+def inc_perm(perm, bounds):
+
 
 def test_inc_wt(nw,cur_nw):
     wt = init_wt(nw,cur_nw)
