@@ -80,7 +80,7 @@ def inc_st(wt,st,ns):
         if (wt[1]==wt[2]):
              # second word has two
              # use the previous case, first word has two
-             ans = inc_st([0,0,1], [st[1],st[2],st[0]], [ns[wt[2]],ns[wt[1]]])
+             ans = inc_st2([0,0,1], [st[1],st[2],st[0]], [ns[wt[2]],ns[wt[0]]])
              return [ans[2],ans[0],ans[1]]
         else:
              # three different words
@@ -97,8 +97,13 @@ def inc_st2(wt,st,ns):
             return [0,1,st[2]+1]
         else:
             return [-1,-1,-1]
-    else:
+    elif st[1] < (ns[wt[1]]-1):
         return [0,st[1]+1,st[2]]
+    elif (st[2] < (ns[wt[2]]-1)):
+        return [0,1,st[2]+1]
+    else:
+        return [-1,-1,-1]
+        
 
 def test_inc_st2(wt,st,ns):
     print st
@@ -157,10 +162,6 @@ def inc_wt(wt,nw,cur_nw):
             return [0,1,wt[2]+1]
         else:
             return [-1,-1,-1]
-
-
-
-
 
 def test_inc_wt(nw,cur_nw):
     wt = init_wt(nw,cur_nw)
