@@ -887,3 +887,165 @@ Tar.vox the Vo.ra.cious
 Mal.phal.gus the Tor.men.ter
 Que.ta.ro the Gla.di.a.tor
 Ro.go.nite the O.bli.te.ra.tor
+To.ro.nok the Void.sha.per
+The Chro.narch
+Ba.el.gor Ac.cur.sed Dra.gon
+Kro.gon Bla.zing De.va.sta.tion
+E.ter.nal Gai.a Dra.gon
+Ul.pho.nas Fien.dish O.ver.lord
+Dra.ko.mech Com.man.der
+Kro.tork the Mir.ror
+World.wa.ker Om.goth
+Sca.ra.dor.a.ble the Be.he.moth
+Ae.ri.al Ar.ca.vore
+An.cient Kee.per
+Ar.dent Ob.ser.ver
+Au.ro.ra Scout
+Be.wil.der.ing Blast
+Bolt-Hawk
+Ci.ta.del Judge
+Cloud Grap.pler
+Em.py.re.an O.ver.se.er
+Gal.va.nize
+Hy.drus the Oath.bound
+In.tre.pid In.va.der
+Jus.tice Ar.chon
+O.ver.shields
+Per.se.us Dra.gon
+Phase Ge.ne.ra.tor
+Pre.late of Wind
+Ra.di.on Sphere
+Re.gents At.ten.dant
+Sal.va.tion Rec.ko.ner
+Scroll Orb
+Sky.force Ad.ju.tant
+Spark Drone
+Storm.strike En.for.cer
+Su.pe.ri.a-Ci.ta.del Mi.li.tia
+Tem.ple Lan.tern
+Vir.tu.ous Al.ca.de.us
+Ze.phyr Kee.per
+Ae.ro.naut Glu.urr.gle
+Aq.ua In.fil.tra.tor
+Aq.ua Swords.man
+Cloaked Sa.bo.teur
+Cran.ky Lev.i.a.than
+Cy.ber Sa.vant
+Deep-Cur.rents Drif.ter
+Dream.fish
+Em.pe.ror Pa.la.ta
+Gar.gle.vi.sion
+Hy.dro.bot E.lite
+Hyp.no.bot
+Mas.ter Tra.der Ce.phe.li.a
+Me.tro.plex O.pe.ra.tive
+Me.tro.plex Scout
+Op.tic Cell
+Rip Swi.rl
+Rune.mas.ter Zyr
+Spy Tide
+Te.le.por.ta.tion E.qua.tion
+Tide Gul.per
+Time Te.thers
+Tus.ked Naut.i.loid
+Void Seer
+Wave Skimmer
+Wave.crest Craw.ler
+Wave.force Se.er
+A.gent of Lies
+Bat.ter-Axe
+Bloa.ted Gate.kee.per
+Chasm Gi.ga.bol.ver
+Dark.bolt
+De.cay
+De.te.ri.or.ate
+Foul Cave Worm
+Gloom Wraith
+Gre.go.ri.as Gu.ile
+Grim Spe.cter
+Gul.let Ghost
+Hol.low Worm
+I.chor Spi.der
+Jo.ko Lun.a.tic Chimp
+Le.gion.naire Corpse
+Le.thal Lock.box
+Me.ga.ri.as Trap.heap
+Ne.ther Tact.i.cian
+Prow.ling Chi.me.ra
+Rite of Re.vi.val
+Shred.mane
+Si.nis.ter Scheme
+Sli.the.ring Phan.ta.sm
+Soul Re.flec.tion
+Time.lost Phan.tom
+Vi.cious Cof.fer
+Vi.le Pier.cer
+Wraith Hound
+Am.mo Train
+Ar.til.le.ry Dra.gon
+As.hen Tri.bute
+Bat.te.ring Mo.no.lith
+Blaze Dar.ter
+Can.no.nade Dra.gon
+Fla.ming Ar.row Vol.ley
+Fu.ry.wing Troo.per
+Hy.dra.gon
+Ig.niss
+Jack the Ham.mer
+Jet.pack Thug
+Kuth the Der.vish
+La.va Burst
+La.va Ra.cer
+Me.te.or Ri.der
+Migh.ty Stomp
+Mis.chie.vous Fi.re-Chick
+Ra.ging Fi.re.brand
+Rap.tor-Ace Val.ko
+Ro.thos the Des.tro.yer
+Runes of For.tune
+Ry.gar the Tank
+Sand.storm Prow.ler
+Sledge Bot
+Smol.de.ring Brute
+Storm.di.ver
+Wi.ld.fi.re Val.ky.rie
+An.ces.tor Bear
+Ar.du Cloud.stri.der
+Bronze-Arm Fa.na.tic
+Co.los.sal A.ven.ger
+Cree.per Snare
+Daun.ting Pre.sence
+Duke Du.ri.an
+Earth.bond Giant
+Em.bold.en
+Field Mar.shal Cor.nu.co.pi.a
+Gra.nite Ti.tan
+Grove Pro.tec.tor
+Horned Cha.me.le.on
+Jar.ba.la Hat.che.ry
+Leaf.wing To.tem
+Lum.be.ring Co.li.seum
+Lu.nar Boar
+Lur.king Or.chid
+Moon.how.ler Hun.ter
+Muk.tak Life.spark Guide
+Pes.ky Pine.ap.ple
+Ring.lea.der Ra.dish
+Ri.tu.al of Chal.lenge
+Rune.stone Go.li.ath
+Sa.vage Spawn
+Sol.stice Chan.ter
+Sprites Gift
+Trap.door Tun.ne.ler
+War.ren Sha.man
+Ce.tus the Au.gur
+Wave Kee.per
+Brave Shal.lo.te.er
+Ra.di.ant Blin.der.horn
+A.bys.sal Sca.ven.ger
+Mag.gle.kax
+Bi.le Rap.tor
+Tak.sha Scourge Gun.ner
+A.rach.no.mech
+Ri.ot Sprite
+Dra.gon En.gine Glu.urr.gle
