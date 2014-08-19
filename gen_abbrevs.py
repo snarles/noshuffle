@@ -286,14 +286,15 @@ def inc_adict_ct(adict):
     # check if st is new
     if temp.get(temp["st"],"")=="":
         ct = init_st(ast,nc)
-        temp[temp["st"]] = [json.dumps(ct)]
+        temp[temp["st"]] = []
     else:
         ct = inc_st(ast,temp[temp["st"]][-1],nc)
-        if ct[0]==-1:
-            inc_adict_st(adict)
-            inc_adict_ct(adict)
-        else:
-            temp[temp["st"]]=temp[temp["st"]] + [json.dumps(ct)]
+    # check if ct is valid
+    if ct[0]==-1:
+        inc_adict_st(adict)
+        inc_adict_ct(adict)
+    else:
+        temp[temp["st"]]=temp[temp["st"]] + [json.dumps(ct)]
 
 def inc_adict(adict):
     ss = adict["ss"]
