@@ -1,0 +1,1000 @@
+Allure - Level 2
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Choose one of your creatures. Until the start of your next turn, each time one of your opponent's creatures attacks, it attacks that creature if able.
+Almighty Colossus - Level 11
+Creature - Monarch/Colossus - 17000 Power
+Triple Breaker (This creature breaks 3 shields.)
+Pulverize - When this creature enters the battle zone, it battles target enemy creature.
+Primordial Roar - Whenever this creature attacks and whenever it becomes the target of one of your opponent's spells or abilities, reveal the top 3 cards of your deck. You may put a Nature creature from among them into the battle zone. Put the rest on the bottom of your deck in any order.
+Nature Monarch - Each of your other Nature creatures gets +4000 power.
+Amberhorn - Level 3
+Creature - Tusker - 3000 Power
+Ambush Scorpion - Level 2
+Creature - Megabug - 2000 Power
+Ancestor Bear - Level 3
+Evolution Creature - Beast Kin/Spirit Totem - 7000 Power
+Vortex Evolution - Put on 2 of your Nature creatures.
+Double Breaker (This creature breaks 2 shields.)
+Unleash - Put the top card of your deck into your mana zone. Then you may return a creature from your mana zone into your hand. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Anjak, the All-Kin - Level 5
+Evolution Creature - Beast Kin - 8000 Power
+Evolution - Put on one of your Nature creatures.
+Double Breaker
+One with Nature - If this creature would be banished, put it into your mana zone instead.
+Essence Cycle - When this creature is put from the battle zone into your mana zone, you may put a non-evolution creature that is level 5 or less from your mana zone into the battle zone.
+Arachnomech - Level 6
+Evolution Creature - Stomper/Megabug - 11000 Power
+(This card enters your mana zone tapped.)
+Vortex Evolution - Put on 2 of your Fire and/or Nature creatures.
+Double Breaker (This creature breaks 2 shields.)
+Awakening Swarm - When this creature enters the battle zone, you may put a non-evolution creature that is level 5 or less from your mana zone into the battle zone. That creature gets "Fast Attack" until the end of the turn.
+Ardu Cloudstrider - Level 4
+Creature - Colossus - 6000 Power
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Ardu Ranger - Level 3
+Creature - Beast Kin - 1000 Power
+Powerful Attack +2000 (While attacking, this creature gets +2000 power.)
+Mana Infused - If this creature would be banished, put it in your mana zone instead.
+Ardu Totem - Level 5
+Creature - Spirit Totem - 5000 Power
+Armored Sentinel - Level 3
+Creature - Drakon/Beast Kin - 3000 Power
+(This card enters your mana zone tapped.)
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Mustering Roar - Each of your other creatures that has "Protector" gets +2000 power.
+Ba'kaar Frostwing - Level 8
+Creature - Tsunami Dragon/Earthstrike Dragon - 11000 Power
+(This card enters you mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Frozen Field - This creature can't be blocked by creatures that have less power than it.
+Ice Wave - Whenever this creature wins a battle, you may draw 2 cards.
+Bad Apple - Level 4
+Creature - Corrupted/Wild Veggie - 3000 Power
+(This card enters your mana zone tapped.)
+Rotten to the Core - All your Wild Veggies in the battle zone are Corrupted creatures in addition to their other creature types.
+Scattered Seeds - Whenever one of your Corrupted creatures attacks, you may put the top card of your deck into your mana zone.
+Barbed Crusher - Level 5
+Evolution Creature - Megabug - 7000 Power
+Evolution - Put on one of your Nature creatures.
+Double Breaker (This creature breaks 2 shields.)
+Battlebred Defender - Level 3
+Creature - Enforcer/Beast Kin - 3000 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Evo Augment - Each of your evolution creatures has "Powerful Attack +4000" and breaks an additional shield. (A creature that has "Powerful Attack +4000" gets +4000 power while attacking.)
+Beam Bloom - Level 4
+Creature - Star Sentinel/Tree Kin - 3000 Power
+(This card enters your mana zone tapped.)
+Flower Power - During your opponent's turn, each of your other creatures gets +2000 power.
+Beastlord Rulchor - Level 6
+Evolution Creature - Beast Kin - 9000 Power
+Evolution - Put on one of your Nature creatures.
+Double Breaker
+Unleash - Look at the top 5 cards of your deck. You may put a non-evolution creature that is level 3 or less from among them into the battle zone, and you may reveal an evolution creature from among them and put it into your hand. Put the rest on the bottom of your deck in any order. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Belua - Level 4
+Creature - Fire Bird - 2000 Power
+Dragonsong - You tap 1 less mana card to summon Dragons.
+Kurragar's Envoy - Each of your Dragons can't be blocked by creatures that have less power than it.
+Bestial Rage Tatsurion - Level 6
+Creature - Armored Dragon/Beast Kin - 5000 Power
+Powerful Attack +3000 (While attacking, this creature gets +3000 power.)
+Double Breaker (This creature breaks 2 shields.)
+Raging Mad - Whenever this creature wins a battle, choose one of your opponent's shields. This creature breaks that shield.
+Blade Seer - Level 6
+Creature - Storm Patrol/Beast Kin - 4000 Power
+(This card enters your mana zone tapped.)
+Timeslice - When this creature enters the battle zone, look at the top 3 cards of your deck. You may reveal a creature and/or a spell from among them and put the revealed cards into your hand. Put the rest on the bottom of your deck in any order.
+Blademane - Level 2
+Creature - Tusker - 2000 Power
+Bloomwarden - Level 3
+Creature - Cyber Virus/Tree Kin - 4000 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Mana Infused - If this creature would be banished, put it into your mana zone instead.
+Borran, the Reality Shaper - Level 8
+Creature - Earth Eater/Colossus - 9000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Transform Essence - Whenever this creature or one of your other creatures is banished, you may reveal the top card of your deck. If it's a non-evolution creature, put it into the battle zone. If it's not, put it into your hand.
+Boulderfist the Pulverizer - Level 8
+Evolution Creature - Colossus - 13000 Power
+Evolution - Put on one of your Nature creatures.
+Triple Breaker
+Unleash - Put each enemy creature that has power less than or equal to the card used to unleash this creature from the battle zone into your opponent's mana zone. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Brave Giant - Level 7
+Creature - Colossus - 7000 Power
+Double Breaker (This creature breaks 2 shields.)
+Brave Shalloteer - Level 4
+Creature - Storm Patrol/Wild Veggie - 2500 Power
+(This card enters your mana zone tapped.)
+Stinging Lance - When this creature enters the battle zone, tap target enemy creature that has less power than it.
+Bring to Tears - This creature can't be blocked by creatures that have less power than it.
+Breach the Veil - Level 3
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Look at the top 5 cards of your deck. Take a creature from those cards and add it to your hand. Put the rest on the bottom of your deck in any order.
+Bristling Tatsurion - Level 6
+Evolution Creature - Armored Dragon/Beast Kin - 8000 Power
+Evolution - Put on one of your Nature creatures.
+Double Breaker
+Thornshot - While this creature has power 12000 or more, it has "Triple Breaker."
+Quillspike Defender - All your other creatures can't be attacked.
+Unleash - For each other creature you have in the battle zone, this creature gets +3000 power until the start of your next turn. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Broadsword Butterfly - Level 5
+Creature - Megabug - 5000 Power
+Bronze-Arm Fanatic - Level 4
+Creature - Beast Kin - 2000 Power
+Mana Orb - Whenever this creature attacks, you may put the top card of your deck into your mana zone.
+One with Nature - If this creature would be banished, put it into your mana zone instead.
+Bronze-Arm Gladiator - Level 6
+Evolution Creature - Beast Kin - 6000 Power
+Evolution - Put on one of your Nature creatures.
+Double Breaker (This creature breaks 2 shields.)
+Ready to Rumble - During your opponent's turn, this creature gets +4000 power.
+Bronze-Arm Renegade - Level 2
+Creature - Corrupted/Beast Kin - 2000 Power
+(This card enters your mana zone tapped.)
+Mana Extraction - Each time one of your Corrupted creatures would be banished, put it into your mana zone instead.
+Bronze-Arm Sabertooth - Level 4
+Evolution Creature - Beast Kin - 7000 Power
+Evolution - Put on one of your Beast Kin.
+Double Breaker (This creature breaks 2 shields.)
+One with Nature - If this creature would be banished, put it into your mana zone instead.
+Bronze-Arm Tribe - Level 4
+Creature - Beast Kin - 1000 Power
+Harvest - When this creature enters the battle zone, you may put the top card of your deck into your mana zone.
+Broodmother - Level 5
+Creature - Megabug - 4000 Power
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Incubate - When this creature enters the battle zone, look at the top 2 cards of your deck. Reveal any number of creatures from among them and put those creatures into your hand. Put the rest on the bottom of your deck in any order.
+Cackling Fiend - Level 3
+Creature - Chimera/Beast Kin - 6000 Power
+(This card enters you mana zone tapped.)
+Skirmisher (This creature can attack only creatures.)
+Unstable - When this creature wins a battle, banish it.
+Carnivorous Dahlia - Level 3
+Creature - Tree Kin - 5000 Power
+Skirmisher (This creature can attack only creatures.)
+Cavernmold Quartz - Level 4
+Creature - Spirit Quartz - 3000 Power
+(This card enters your mana zone tapped.)
+Onyx Shadow - Each of your other Darkness creatures gets +1000 power.
+Jade Luster - Each of your other Nature creatures gets +1000 power.
+Charging Greatclaw - Level 4
+Evolution Creature - Tusker - 6000 Power
+Evolution - Put on one of your Nature creatures.
+Double Breaker (This creature breaks 2 shields.)
+Unleash - Put the top card of your deck into your mana zone. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Chief Many-Tribes - Level 2
+Creature - Spirit Totem - 1000 Power
+Mana Spirits - When this creature enters the battle zone, if you have at least 2 other Nature creatures in the battle zone, you may put the top card of your deck into your mana zone.
+Chief Thorn-Bringer - Level 4
+Creature - Spirit Totem - 4000 Power
+Seeds of Victory - Whenever one of your creatures win a battle, you may put the top card of your deck into your mana zone.
+Chief Toko - Level 5
+Creature - Skyforce Champion/Spirit Totem - 4000 Power
+(This card enters your mana zone tapped.)
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Ancestors' Blessing - While you have the same number or more shields than your opponent, this creature gets +3000 power and has "Double Breaker." (A creature that has "Double Breaker" breaks 2 shields.)
+Cindermoss Quartz - Level 4
+Creature - Spirit Quartz - 3000 Power
+(This card enters your mana zone tapped.)
+Ruby Glow - Each of your other Fire creatures gets +1000 power.
+Jade Luster - Each of your other Nature creatures gets +1000 power.
+Colonel Corn - Level 5
+Creature - Wild Veggie - 4000 Power
+Husky - When this creature enters the battle zone, one of your other creatures gets +4000 power until the end of the turn.
+Colossal Avenger - Level 5
+Creature - Colossus - 7000 Power
+Skirmisher (This creature can attack only creatures.)
+Copper Locust - Level 4
+Creature - Megabug - 4000 Power
+Corporal Pepper - Level 4
+Creature - Berserker/Wild Veggie - 5000 Power
+(This card enters your mana zone tapped.)
+Red Hot - This creature attacks each turn if able.
+Pickled - If this creature would be banished, put it into your mana zone instead.
+Creeper Snare - Level 3
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Put target enemy creature that has power 3000 or less from the battle zone into your opponent's mana zone.
+Crystal Pulse - Level 5
+Spell
+(This card is put into you mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Reveal the top card of your deck. If it's a spell that has "Shield Blast," cast it for free. Otherwise, put it into your mana zone.
+Crystalize - Level 5
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Return target creature from the battle zone to its owner's hand. Then that player chooses a card from his or her hand and puts it into his or mana zone.
+Cultivate - Level 3
+Spell
+Look at the top card of your deck. Put that card into your hand or into your mana zone.
+Cumulofungus - Level 5
+Creature - Flying Fungus - 5000 Power
+Sporeburst - Whenever one of your creatures wins a battle, you may put the top card of your deck into your mana zone.
+Daunting Presence - Level 4
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Choose a number equal to the power of one of your creatures. Until the start of your next turn, enemy creatures that have less power than that number can attack only creatures.
+Dauntless Tusker - Level 3
+Creature - Tusker - 2000 Power
+Dragonic Might - While you have a Dragon in the battle zone, this creature gets +4000 power and has "Double Breaker." (A creature that has "Double Breaker" breaks 2 shields.)
+Dawn Giant - Level 7
+Creature - Colossus - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Upheave - Whenever this creature attacks, you may reveal the top card of your deck. If it's a creature, this creature gets +6000 power and "Triple Breaker" until the end of the turn. Put the revealed card on the bottom of your deck. (A creature that has "Triple Breaker" breaks 3 shields.)
+Dawnflower Quartz - Level 4
+Creature - Spirit Quartz - 3000 Power
+(This card enters your mana zone tapped.)
+Opal Aura - Each of your other Light creatures gets +1000 power.
+Jade Luster - Each of your other Nature creatures gets +1000 power.
+Deathblade Beetle - Level 8
+Creature - Megabug - 9000 Power
+Double Breaker (This creature breaks 2 shields.)
+Booming Chirp - Whenever this creature attacks, look at the top card of your deck. If it's a creature that has power 5000 or more, you may reveal it and put it into your hand.
+Deepwood Druid - Level 5
+Creature - Beast Kin - 2000 Power
+Nurturing Touch - When this creature enters the battle zone, you may put the top card of your deck into your mana zone.
+Defiant Shaman - Level 3
+Creature - Beast Kin - 2000 Power
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+One with Nature - If this creature would be banished, put it into your mana zone instead.
+Drifting Toadstool - Level 2
+Creature - Flying Fungus - 1000 Power
+Spore Seeds — When this creature enters the battle zone, you may put a card from your hand into your mana zone.
+Duke Durian - Level 2
+Creature - Wild Veggie - 1000 Power
+Very Important Veggie - Each time one of your opponent's creatures attacks, it attacks this creature if able.
+Earthbond Giant - Level 5
+Creature - Colossus - 5000 Power
+Mana Link - Whenever a card is put into your opponent's mana zone, you may put the top card of your deck into your mana zone.
+Earthstomp Giant - Level 8
+Creature - Colossus - 11000 Power
+Double Breaker (This creature breaks 2 shields.)
+Elder Titan Auralia - Level 7
+Evolution Creature - Skyforce Champion/Colossus - 8500 Power
+(This card enters your mana zone tapped)
+Evolution - Put on one of your Skyforce Champions or Colossus.
+Double Breaker (This creature breaks 2 shields.)
+Spell Sanctum - Each time a spell that is level 7 or less would enter your mana zone from your deck, you may cast it for free instead.
+Ember Titan - Level 7
+Creature - Rock Brute/Colossus - 7000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Lava Thorns - When this creature enters the battle zone, banish all enemy creatures that have power 2000 or less.
+Emblazoned Giant - Level 7
+Creature - Attack Raptor/Colossus - 7000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Embolden - Level 4
+Spell
+Each of your creatures gets +3000 power until the end of the turn and can't be blocked this turn by creatures that have less power than it.
+Energize - Level 3
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Put the top card of your deck into the mana zone. Each of your creatures gets +1000 power until end of turn.
+Ensnare - Level 6
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Your opponent chooses one of his or her untapped creatures in the battle zone. Put that creature into your opponent's mana zone.
+Essence Elf - Level 2
+Creature - Tree Kin - 1000 Power
+Nature's Gift - Each of your other creatures gets +1000 power.
+Eternal Gaia Dragon - Level 8
+Creature - Earthstrike Dragon - 11000 Power
+Double Breaker
+Awaken - You may summon this creature from your mana zone.
+Dream - If this creature would be banished, put it into your mana zone instead.
+Fault-Line Dragon - Level 6
+Creature - Armored Dragon/Earthstrike Dragon - 5000 Power
+(This card enters your mana zone tapped.)
+Sword of Outrage - This creature can attack tapped creatures on the turn it enters the battle zone.
+Sword of Reaping - Whenever this creature wins a battle, you may put the top card of your deck into your mana zone.
+Fear Fang - Level 3
+Creature - Beast Kin - 3000 Power
+Fearfeather the Scavenger - Level 3
+Evolution Creature - Chimera/Tree Kin - 5000 Power
+(This card enters your mana zone tapped.)
+Evolution - Put on one of your Chimeras or Tree Kin.
+Carrion Feast - Whenever this creature wins a battle, you opponent discards a card at random, then you may put the top card of your deck into your mana zone.
+Field Marshal Cornucopia - Level 6
+Creature - Wild Veggie - 5000 Power
+Veggie Might - Each of your other Wild Veggies gets +2000 power.
+Miracle Growth - Whenever one of your Wild Veggies attacks, you may put a non-evolution Wild Veggie that is level 5 or less from your mana zone into the battle zone.
+Fight! - Level 4
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Chooses one of your creatures. It battles target enemy creature.
+Flamespike Tatsurion - Level 6
+Evolution Creature - Armored Dragon/Beast Kin - 8000 Power
+Evolution - Put on one of your Beast Kin.
+Double Breaker (This creature breaks 2 shields.)
+Built to Brawl - While battling, this creature gets +6000 power.
+Forest Hornet - Level 5
+Creature - Megabug - 3000 Power
+Insect Ally - When this creature enters the battle zone, choose one of your other creatures. It gets +3000 power until the end of that turn.
+Forgotten Chief - Level 5
+Creature - Corrupted/Spirit Totem - 5000 Power
+(This card enters your mana zone tapped.)
+Dreadful Chant - Each of your Corrupted creatures can't be blocked by creatures that have less power than it.
+Fornax, the Juggernaut - Level 6
+Creature - Celestial Dragon/Earthstrike Dragon - 8500 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Forsett, Heroic Shaman - Level 5
+Creature - Beast Kin - 7000 Power
+Double Breaker (This creature breaks 2 shields.)
+Focused Anger - This creature can't attack creatures.
+Foul Mana - Level 6
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Target enemy creature gets -2000 power until the end of the turn. (A creature that has power 0 or less is banished.)
+Put the top card of your deck into your mana zone.
+Fullmetal Lemon - Level 3
+Creature - Enforcer/Wild Veggie - 3500 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Juiced - If this creature would be banished, put it into your mana zone instead.
+Gasbag - Level 3
+Creature - Flying Fungus - 2000 Power
+Mana Infused - If this creature would be banished, put it into your mana zone instead.
+Gigahorn Charger - Level 5
+Creature - Tusker - 3000 Power
+Call the Herd - When this creature enters the battle zone, search your deck. You may take a creature that has power 5000 or more from your deck, reveal that creature, and put it into your hand. Then shuffle your deck.
+Goop Striker - Level 3
+Creature - Tarborg/Tree Kin - 2000 Power
+(This card enters your mana zone tapped.)
+Slayer (When this creature loses a battle, banish the other creature.)
+Decompose - If this creature would be banished, put it into your mana zone instead.
+Gorim the Striker - Level 5
+Creature - Drakon/Beast Kin - 3000 Power
+(This card enters your mana zone tapped.)
+Battle Order - When this creature enters the battle zone, choose one of your other creatures. It can attack untapped creatures this turn as though they were tapped.
+Empower - When this creature enters the battle zone, choose one of your other creatures. It gets +3000 power until the end of the turn.
+Granite Avenger - Level 7
+Creature - Colossus - 8000 Power
+Double Breaker (This creature breaks 2 shields.)
+Granite Titan - Level 7
+Creature - Colossus - 8000 Power
+Double Breaker (This creature breaks 2 shields.)
+Grasslands Goliath - Level 8
+Creature - Colossus - 9000 Power
+Double Breaker (This creature breaks 2 shields.)
+Grove Protector - Level 3
+Creature - Tree Kin - 2000 Power
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Rugged Bark - While it's your opponent's turn, this creature gets +3000 power.
+Guardian Akhal-Teek - Level 9
+Creature - Skyforce Champion/Beast Kin - 11500 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Double Breaker (This creature breaks 2 shields.)
+Righteous Frenzy - Whenever this creature wins a battle, choose 2 of your opponent's shields. This creature breaks those shields.
+Haunted Harvest - Level 4
+Creature - Evil Toy/Wild Veggie - 3000 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Nutritious — Whenever this creature blocks, you may put the top card of your deck into your mana zone.
+Headstrong Wanderer - Level 3
+Creature - Beast Kin - 3000 Power
+Tribal Matriarch - Whenever this creature attacks, each of your other Beast Kin gets +2000 power until the end of the turn.
+Hive Marshal Golian - Level 8
+Evolution Creature - Megabug - 8000 Power
+Evolution - Put on one of your Nature creatures.
+Double Breaker (This creature breaks 2 shields.)
+Unleash - Each of your other creatures gets +3000 power until the end of the turn and can't be blocked this turn by creatures that have less power than it. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Hornblade Dragon - Level 5
+Creature - Earthstrike Dragon - 7000 Power
+Skirmisher (This creature can attack only creatures.)
+Horned Chameleon - Level 1
+Creature - Tusker - 2000 Power
+Shield Blast (Instead of putting this creature into your hand from a broken shield, you may summon it for free.)
+Skirmisher (This creature can attack only creatures.)
+Humonculon the Blaster - Level 5
+Creature - Enforcer/Megabug - 3000 Power
+(This card enters your mana zone tapped.)
+Stun - When this creature enters the battle zone, tap target enemy creature.
+Empower - When this creature enters the battle zone, choose one of your other creatures. It gets +3000 power until the end of the turn.
+Humonguru - Level 8
+Creature - Corrupted/Enforcer/Megabug/Human - 8000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Rampant Mutation - Whenever a card enters your mana zone, tap target enemy creature, and this creature gets +3000 power until the end of the turn.
+Monstrous - While this creature has power 12000 or more, it has "Triple Breaker."
+Hunter Blossom - Level 4
+Creature - Tree Kin - 2000 Power
+Prickle-Thorns - This creature gets +1000 power for each tapped enemy creature.
+Hunter Sphere - Level 4
+Creature - Battle Sphere/Beast Kin - 3000 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Powerful Attack +4000 (While attacking, this creature gets +4000 power.)
+Huntmaster Taegrin - Level 4
+Creature - Beast Kin - 4000 Power
+Advocate of Nature - Each of your other Nature creatures gets +1000 power.
+Hydrobot Scarab - Level 6
+Creature - Undertow Engine/Megabug - 4000 Power
+(This card enters your mana zone tapped.)
+Gathering Swarm - When this creature enters the battle zone, you may draw a card for each other creature you have in the battle zone.
+Illusory Berry - Level 4
+Creature - Tree Kin - 3000 Power
+Powerful Attack +2000 (While attacking, this creature gets +2000 power.)
+Instill Might - Level 1
+Spell
+One of your creatures gets +2000 power until the end of the turn.
+Ironvine Dragon - Level 8
+Creature - Earthstrike Dragon - 8000 Power
+Double Breaker (This creature breaks 2 shields.)
+Coiling Crush - While battling, this creature gets +8000 power.
+Jackalax - Level 2
+Creature - Beast Kin - 4000 Power
+Skirmisher (This creature can attack only creatures.)
+Jarbala Hatchery - Level 3
+Creature - Living City - 2000 Power
+Abounding Essence - You tap 2 fewer mana cards to summon the second creature you summon each turn.
+Jarbala Keeper - Level 4
+Creature - Beast Kin - 4000 Power
+Jarbala Swordbreaker - Level 4
+Creature - Beast Kin - 4000 Power
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Johnny Darkseed - Level 5
+Creature - Evil Toy/Tree Kin - 5000 Power
+(This card enters your mana zone tapped.)
+Horrid Transplant - When this creature enters the battle zone, you may banish one of your other creatures. If you do, put the top 2 cards of your deck into your mana zone tapped.
+Karate Carrot - Level 4
+Creature - Wild Veggie - 3000 Power
+Powerful Attack +2000 (While attacking, this creature gets +2000 power.)
+Unsliceable - If this creature would be banished, put it into your mana zone instead.
+Khordia, the Soul Tyrant - Level 9
+Creature - Shadow Champion/Earthstrike Dragon - 9000 Power
+(This card enters you mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Essence Siphon - When this creature enters the battle zone, put all creatures from your discard pile into your mana zone tapped.
+Soul Shackle - Whenever this creature attacks, you may choose a creature in your mana zone that is level 6 or less and put it into the battle zone.
+Kivu, Ingenious Shaman - Level 7
+Creature - Cyber Virus/Spirit Totem - 7000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Mana Guide - When this creature enters the battle zone, you may choose a card in your mana zone and return it to your hand. If you do, put the top card of your deck into your mana zone.
+Krakatoa the Shattered - Level 6
+Creature - Armored Dragon/Living City - 5000 Power
+(This card enters your mana zone tapped.)
+Rousing Bellow - When this creature enters the battle zone, you may put a non-evolution creature that is level 4 or less from your hand into the battle zone. That creature gets "Fast Attack" until the end of the turn. At the end of the turn, put it into your mana zone. (A creature that has "Fast Attack" can attack on the turn it enters the battle zone.)
+Kurragar of the Hordes - Level 9
+Creature - Earthstrike Dragon - 12000 Power
+Triple Breaker (This creature breaks 3 shields.)
+Ancient Call - Whenever a card is put into your mana zone, reveal the top card of your deck. If it's a non-evolution creature, put it into the battle zone. Otherwise, put it on the bottom of your deck.
+Launcher Locust - Level 6
+Creature - Megabug - 5000 Power
+Rocket Swarm - Each of your other Megabugs can't be blocked by creatures that have less power than them.
+Leafwing Totem - Level 3
+Creature - Spirit Totem - 3000 Power
+Lepidos the Ancient - Level 8
+Creature - Megabug - 8000 Power
+Double Breaker (This creature breaks 2 shields.)
+Deafening Wingbeat - Whenever one of your creatures wins a battle, choose one of your opponent's shields. Your opponent puts it into his or her mana zone.
+Looming Devourer - Level 6
+Creature - Specter/Colossus - 6000 Power
+(This card enters your mana zone tapped.)
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Double Breaker (This creature breaks 2 shields.)
+Slayer (When this creature loses a battle, banish the other creature.)
+Lore-Strider - Level 4
+Creature - Cyber Lord/Spirit Totem - 4000 Power
+(This card enters the mana zone tapped.)
+Vitalize - Whenever this creature attacks, you may draw a card.
+Mana Infused - If this creature would be banished, put it into your mana zone instead.
+Lotus Warrior - Level 5
+Creature - Stomper/Wild Veggie - 5000 Power
+(This card enters your mana zone tapped.)
+Skewer - While battling a creature that has "Blocker", this creature gets +3000 power.
+Recycle - If this creature would be banished, put it into your mana zone instead.
+Lumbering Coliseum - Level 4
+Creature - Living City - 4000 Power
+Lumbering Elderwood - Level 7
+Creature - Tree Kin - 7000 Power
+Double Breaker (This creature breaks 2 shields.)
+Lunar Boar - Level 4
+Creature - Tusker - 1000 Power
+New Moon - You tap 1 less mana card to summon creatures that have power 6000 or less.
+Full Moon - At the end of each of your turns, if you have a creature in the battle zone that has power 6000 or more, you may draw a card.
+Lurking Orchid - Level 5
+Creature - Tree Kin - 1000 Power
+Shield Blast (Instead of putting this creature into your hand from a broken shield, you may summon it for free.)
+Verdant - When this creature enters the battle zone, you may put the top card of your deck into your mana zone.
+Magmaclysm Rex - Level 7
+Creature - Rock Brute/Colossus - 5000 Power
+(This card enters your mana zone tapped.)
+Powerful Attack +7000 (While attacking, this creature gets +7000 power.)
+Triple Breaker (This creature breaks 3 shields.)
+Mana Storm - Level 5
+Spell
+Put the top 2 cards of your deck into your mana zone.
+Mana Tick - Level 3
+Creature - Megabug - 1000 Power
+Bug Buddy - When this creature enters the battle zone, look at the top 4 cards of your deck. You may reveal a Megabug from among them and put it into your hand. Put the rest on the bottom of your deck in any order.
+Manabind - Level 1
+Spell
+Choose one of your creatures in the battle zone and put it into the mana zone.
+Manapod Beetle - Level 2
+Creature - Megabug - 1000 Power
+Mana Infused - If this creature would be banished, put this card into the mana zone instead.
+Mark of Almighty Colossus - Level 9
+Spell
+Choose one:
+* Put a creature named Almighty Colossus from your hand into the battle zone.
+* Choose one of your creatures. It gets +3000 power and battles target enemy creature.
+Masked Gravewing - Level 5
+Creature - Dread Mask/Beast Kin - 6000 Power
+(This card enters your mana zone tapped.)
+Skirmisher (This creature can attack only creatures.)
+Spirit Swap - Whenever this creature wins a battle, choose a creature in your discard pile and return it to your hand.
+Mesa Behemoth - Level 6
+Evolution Creature - Colossus - 8000 Power
+Evolution - Put on one of your Nature creatures.
+Double Breaker (This creature breaks 2 shields.)
+Unleash - Search your deck. You may reveal a creature from it and put that creature into your hand. Then shuffle your deck. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Mighty Shouter - Level 6
+Creature - Beast Kin - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Concussive Shout - Whenever this creature attacks, put target enemy creature that is level 3 or less from the battle zone into your opponent's mana zone.
+Mighty Shouter, the Shaman - Level 5
+Creature - Beast Kin - 5000 Power
+Mighty Roar - Whenever this creature attacks, each of your other creatures gets +2000 power until the end of the turn.
+Mistvine Quartz - Level 4
+Creature - Spirit Quartz - 3000 Power
+(This card enters the mana zone tapped.)
+Sappire Shine - Each of your other Water creatures gets +1000 power.
+Jade Luster - Each of your other Nature creatures gets +1000 power.
+Monstrify - Level 2
+Spell
+Choose one of your creatures. It gets +4000 power until the end of the turn.
+Moonhowler Hunter - Level 7
+Creature - Beast Kin - 3000 Power
+Shield Blast (Instead of putting this creature into your hand from a broken shield, you may summon it for free.)
+Treetop Ambush - When this creature enters the battle zone, you may have it battle target enemy creature.
+Moonhowler Tribe - Level 2
+Creature - Beast Kin - 2000 Power
+Moss Giant - Level 6
+Creature - Colossus - 7000 Power
+Double Breaker (This creature breaks 2 shields.)
+Muk'tak, Lifespark Guide - Level 3
+Creature - Beast Kin - 3000 Power
+Teeming Mana - At the end of each of your turns, if you have a creature in the battle zone that has power 6000 or more, you may return a creature from your mana zone to your hand. If you do, put the top card of your deck into your mana zone.
+Necrose, Nightmare Bloom - Level 6
+Creature - Rot Worm/Tree Kin - 3000 Power
+(This card enters you mana zone tapped.)
+Resurge - When this creature enters the battle zone, choose a creature in your discard pile and return it to your hand. Then you may put a non-evolution creature that is level 5 or less from your hand into the battle zone.
+Ninja Pumpkin - Level 5
+Creature - Wild Veggie - 5000 Power
+Hack-o'-Lantern - While this creature is tapped, each time one of your opponent's creatures attacks, it attacks this creature if able.
+Noble Rumbling Terrasaur - Level 7
+Evolution Creature - Tusker - 8000 Power
+Evolution - Put on one of your Tuskers.
+Double Breaker (This creature breaks 2 shields.)
+Stampede - Whenever this creature or one of your other Tuskers enters the battle zone, put target enemy creature that is lower level that that Tusker from the battle zone into your opponent's mana zone.
+Nurturing Hive - Level 4
+Creature - Living City - 2000 Power
+Everspring - You tap 1 less mana card to summon creatures.
+Oathsworn Call - Level 5
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Put a non-evolution creature that is level 6 or less from your hand into the battle zone. It gets "Blocker" until the start of your next turn. (You may tap a creature that has "Blocker" to change an enemy creature's attack to it.)
+Obsidian Death - Level 6
+Creature - Tarborg/Colossus - 6000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Mulch - Whenever another creature is banished, you may put the top card of your deck into your mana zone.
+Oktuska the Infused - Level 6
+Creature - Cyber Lord/Beast Kin - 3000 Power
+(This card enters your mana zone tapped.)
+Ingunity - When this creature enters the battle zone, you may draw a card.
+Mana Tendrils - When this creature enters the battle zone, you may put the top card of your deck into your mana zone.
+Old Man Winter - Level 6
+Creature - Colossus - 11000 Power
+Double Breaker (This creature breaks 2 shields.)
+Holiday Bash - When this creature enters the battle zone, each player may draw 3 cards. Then your opponent may put any number of non-evolution creatures into the battle zone from his or her hand.
+Pakidamo the Resilient - Level 7
+Creature - Storm Patrol/Beast Kin - 6000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Defense Drop - When this creature enters the battle zone, search your deck. You may put a non-evolution creature that is level 3 or less and has "Blocker" from your deck into the battle zone. Then shuffle your deck.
+Pesky Pineapple - Level 2
+Creature - Wild Veggie - 1000 Power
+Unsliceable - If this creature would be banished, put it into your mana zone instead.
+Pouncing Crickant - Level 2
+Creature - Megabug - 1000 Power
+Shield Blast (Instead of putting this creature into your hand from a broken shield, you may summon it for free.)
+Power Surge - Level 3
+Spell
+All of your creatures get +2000 power until the end of the turn.
+Predatory Snapdragon - Level 5
+Creature - Tree Kin - 1000 Power
+Shield Blast (Instead of putting this creature into your hand from a broken shield, you may summon it for free.)
+Carnivorous - When this creature enters the battle zone, put target enemy creature that has power 2000 or less from the battle zone into your opponent's mana zone.
+Prickleback - Level 1
+Creature - Beast Kin - 2000 Power
+Hit and Run - At the end of each of your turns, if this creature broke a shield this turn, return this creature to your hand.
+Quillspike Tatsurion - Level 5
+Creature - Armored Dragon/Beast Kin - 5000 Power
+Spike Armor - While being attacked, this creature gets +5000 power.
+Radiant Blinderhorn - Level 7
+Evolution Creature - Skyforce Champion/Tusker - 14500 Power
+(This card enters your mana zone tapped.)
+Vortex Evolution - Put on 2 of your Light and/or Nature creatures.
+Triple Breaker (This creature breaks 3 shields.)
+Blinding Charge - Whenever one of your creatures attacks, tap target enemy creature that has less power than it.
+Raging Goliant - Level 5
+Creature - Beast Kin - 4000 Power
+Pack Leader - Each of your other Beast Kin gets +2000 power.
+Rampage - Level 1
+Spell
+Choose one of your creatures. Whenever that creature wins a battle this turn, choose one of your opponent's shields. The creature breaks that shield.
+Rapscallion - Level 2
+Creature - Wild Veggie - 3000 Power
+Skirmisher (This creature can attack only creatures.)
+Unsliceable - If this creature would be banished, put it into your mana zone instead.
+Ravenous Detrivore - Level 6
+Creature - Chimera/Beast Kin - 5000 Power
+(This card enters you mana zone tapped.)
+Munch - Whenever this creature attacks, you may choose a creature in your discard pile and put it on the bottom of your deck. If you do, this creature gets power equal to that creature's power until the end of the turn.
+Necrocharged - While this creature has power 6000 or more, it has "Double Breaker." While it has power 12000 or more, it has "Triple Breaker."
+Razorhide - Level 3
+Creature - Beast Kin - 2000 Power
+Quillspike Harvest - Whenever this creature attacks, you may put the top card of your deck into your mana zone.
+Reap and Sow - Level 4
+Spell
+Look at the top 2 cards of your deck. Put one of them into your hand and the other into your mana zone.
+Red-Eye Scorpion - Level 5
+Creature - Megabug - 4000 Power
+Jungle Stalker - If this creature would be banished, put it in your mana zone instead.
+Reinforce - Level 5
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Look at the top 3 cards of your deck. You may reveal any number of creatures from among them and put those creatures into your hand. Put the rest on the bottom of your deck in any order.
+Return to the Soil - Level 4
+Spell
+Shield Blast(Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Put target enemy creature that level 4 or less from the battle zone into your opponent's mana zone.
+Ringleader Radish - Level 3
+Creature - Wild Veggie - 2000 Power
+Stir the Pot - Whenever this creature attacks, each of your other creatures gets +1000 power until the end of the turn.
+Riot Sprite - Level 4
+Creature - Drakon/Snow Sprite - 3000 Power
+(This card enters your mana zone tapped.)
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Empower - When this creature enters the battle zone, one of your other creatures gets +3000 power until the end of the turn.
+Ritual of Challenge - Level 5
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+One of your creatures gets +3000 power until the end of the turn and battles target enemy creature.
+Roaming Bloodmane - Level 7
+Creature - Beast Kin - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Tactical Camouflage — This creature can't be blocked by creatures that have less power than it.
+Rogonite the Obliterator - Level 5
+Creature - Void Spawn/Colossus - 5000 Power
+Pummel - Whenever this creature attacks, you may clash with your opponent. If you won the clash, each of your creatures gets +5000 power until the end of the turn and breaks an additional shield this turn. (To clash, each player reveals the top card of his or her deck, then puts it on the bottom. You win if your card had the same or higher level.)
+Root Trap - Level 7
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Put target enemy creature from the battle zone into your opponent's mana zone.
+Rumbling Terrasaur - Level 5
+Creature - Tusker - 5000 Power
+Runestone Goliath - Level 5
+Creature - Colossus - 5000 Power
+Formidable - This creature can't be blocked by creatures that have less power than it.
+Saber Mantis - Level 3
+Creature - Megabug - 3000 Power
+Savage Spawn - Level 2
+Creature - Void Spawn/Beast Kin - 2000 Power
+Extract Mana - Whenever this creature attacks, you may clash with your opponent. If you won the clash, put the top card of your deck into your mana zone. (To clash, each player reveals the top card of his or her deck, then puts it on the bottom. You win if your card had the same or higher level.)
+Scaradorable the Behemoth - Level 7
+Evolution Creature - Chimera/Colossus - 12000 Power
+(This card enters your mana zone tapped.)
+Vortex Evolution - Put on 2 of your Darkness and/or Nature creatures.
+Triple Breaker
+Shape Life - When this creature enters the battle zone, you may put target enemy creature from the battle zone into your opponent's mana zone.
+Shape Death - When this creature enters the battle zone, you may banish target enemy creature.
+Seedpod Puffer - Level 4
+Creature - Flying Fungus - 3000 Power
+Spore Seeds - When this creature enters the battle zone, you may put a card from your hand into your mana zone.
+Shadow Strike - Level 4
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Choose one of your creatures. Target enemy creature loses power equal to that creature's power until the end of the turn. (A creature that has power 0 or less is banished.)
+Shaman Broccoli - Level 4
+Creature - Wild Veggie - 2000 Power
+Mixed Veggies - Whenever one of your other creatures enters the battle zone, this creature gets +3000 power until the end of the turn.
+Shaman of the Vigil - Level 3
+Evolution Creature - Enforcer/Beast Kin - 5500 Power
+(This card enters your mana zone tapped)
+Evolution - Put on one of your Enforcers or Beast Kin.
+Pack Sworn - All your Beast Kin have "Protector." (You may tap a creature that has "Protector" to change an attack on one of your other creatures to it.)
+Inspirit - At the end of each of your turns, untap all your Enforcers.
+Shardhide Tusker - Level 4
+Creature - Tusker - 3000 Power
+Powerful Attack +2000 (While attacking, this creature gets +2000 power.)
+Shell Dome - Level 7
+Creature - Living City - 2000 Power
+Squish - When this creature enters the battle zone, your opponent chooses one of his or her creatures in the battle zone. Put that creature into your opponent's mana zone.
+Shouter, Paragon of Nature - Level 5
+Creature - Beast Kin - 5000 Power
+Lead by Example - Whenever this creature attacks, if you have 5 or more creatures in the battle zone, each of your creatures gets +5000 power until the end of the turn and breaks an additional shield this turn.
+Sigil of Primacy - Level 2
+Spell
+One of your creatures gets +3000 power until the end of the turn. If you have an evolution creature in the battle zone, instead that creature gets +5000 power until the end of the turn and breaks an additional shield this turn.
+Silver Axe - Level 5
+Creature - Beast Kin - 5000 Power
+Silver Fist - Level 5
+Creature - Beast Kin - 4000 Power
+Heart of Nature - While all cards in your mana zone are Nature cards, this creature gets +4000 power and has "Double Breaker." (A creature that has "Double Breaker" breaks 2 shields.)
+Skaak the Stinger - Level 6
+Creature - Chimera/Megabug - 3000 Power
+(This card enters your mana zone tapped.)
+Void Vapor - When this creature enters the battle zone, your opponent chooses and discards a card.
+Mana Tendrils - When this creature enters the battle zone, you may put the top card of your deck into your mana zone.
+Skulking Cypress - Level 3
+Creature - Zombie/Tree Kin - 2000 Power
+(This card enters your mana zone tapped.)
+Coiling Vines - When this creature enters the battle zone, each player chooses a card from his or her hand, then puts it into his or her mana zone.
+Sledgefoot - Level 6
+Creature - Colossus - 7000 Power
+Skirmisher (This creature can attack only creatures.)
+Break Through - Whenever this creature wins a battle, choose 2 of your opponent's shields. This creature breaks those shields.
+Slumbering Titan - Level 6
+Creature - Colossus - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Wake the Mountain - If an opponent's spell or ability would cause you to discard this creature, you may put it into the battle zone instead.
+Smolderhorn - Level 3
+Creature - Rock Brute/Tusker - 4000 Power
+(This card enters your mana zone tapped.)
+Fast Attack (This creature can attack on the turn it enters the battle zone.)
+Skirmisher (This creature can attack only creatures.)
+Snapclaw - Level 3
+Creature - Megabug - 2000 Power
+Evo Might - Each of your evolution creatures gets +2000 power.
+Snarling Craghorn - Level 4
+Creature - Tusker - 2000 Power
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Fierce Stance - While battling, this creature gets +3000 power.
+Sniper Mosquito - Level 4
+Creature - Megabug - 4000 Power
+Sok'ran the Untamed - Level 7
+Evolution Creature - Earthstrike Dragon - 11000 Power
+Evolution - Put on one of your Dragons.
+Double Breaker (This creature breaks 2 shields.)
+Dragon Frenzy - Whenever one of your Dragons wins a battle, choose one of your opponent's shields. That Dragon breaks that shield.
+Solstice Chanter - Level 5
+Creature - Snow Sprite - 1000 Power
+Song of Parting - When this creature is banished, reveal the top 3 cards of your deck. Put all creatures from among them into your hand. Put the rest on the bottom of your deck in any order.
+Splinterclaw Wasp - Level 5
+Creature - Megabug - 3000 Power
+Powerful Attack +4000 (While attacking, this creature gets +4000 power.)
+Double Breaker (This creature breaks 2 shields.)
+Spore Siren - Level 4
+Creature - Tree Kin - 3000 Power
+Song of Regrowth - When this creature enters the battle zone, choose a creature in your discard pile and put it into your mana zone.
+Sprite's Gift - Level 1
+Spell
+Return a card from your mana zone to your hand.
+Sprout - Level 2
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Put the top card of your deck into your mana zone.
+Squall Darter - Level 4
+Creature - Aquan/Megabug - 2000 Power
+Powerful Attack +2000 (While attacking, this creature gets +2000 power.)
+Swoop - This creature can't be blocked.
+Stampeding Longhorn - Level 5
+Creature - Tusker - 4000 Power
+Overrun - This creature can't be blocked by creatures that have less power than it.
+Starseed Squadron - Level 4
+Creature - Enforcer/Tree Kin - 4000 Power
+(This card enters your mana zone tapped.)
+Spellcharge - Whenever you cast a spell, each of your creatures gets +2000 power until the end of the turn.
+Overpower - Each of your creatures that has power 6000 or more has "Double Breaker." (A creature that has "Double Breaker" breaks 2 shields.)
+Steamtank Kryon - Level 5
+Creature - Stomper/Megabug - 4000 Power
+(This card enters your mana zone tapped.)
+Turbo Boost - Whenever one of your other creatures enters the battle zone, it gets +2000 power and "Fast Attack" until the end of the turn. (A creature that has "Fast Attack" can attack on the turn it enters the battle zone.)
+Steel Hammer - Level 3
+Creature - Beast Kin - 1000 Power
+Powerful Attack +4000 (While attacking, this creature gets +4000 power.)
+Stratus Beetle - Level 2
+Creature - Storm Patrol/Megabug - 2000 Power
+(This card enters your mana zone tapped.)
+Charged Carapace - When this creature enters the battle zone, choose one of your other creatures. It gets +1000 power until the end of the turn. At the end of the turn, untap it.
+Striding Hearthwood - Level 6
+Creature - Tree Kin - 7000 Power
+Double Breaker (This creature breaks 2 shields.)
+Root Stomp - Whenever this creature wins a battle and the losing creature would be banished, that creature is put into its owner's mana zone instead.
+Sumo Artichoke - Level 8
+Creature - Wild Veggie - 3000 Power
+Shield Blast (Instead of putting this creature into your hand from a broken shield, you may summon it for free.)
+Planted - When this creature enters the battle zone, you may tap it.
+Choke Hold - Each time one of you opponent's creatures attacks, it attacks this creature if able.
+Sun-Clan Tortoise - Level 3
+Creature - Tusker - 1000 Power
+Rouse the Ancients - When this creature enters the battle zone, search your deck. You may reveal a creature named Sun-Clan Tortoise from it and put that creature into your hand. Then shuffle your deck.
+Suncloak Protector - Level 7
+Creature - Skyforce Champion/Colossus - 7500 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Double Breaker (This creature breaks 2 shields.)
+Heroic Challenge - While this creature is tapped, your opponent can't choose to attack your other creatures.
+Swift Regeneration - Level 8
+Spell
+Choose any number of creatures in your mana zone that have total level 7 or less and put them into the battle zone.
+Until the start of your next turn, all your creatures that have more than 0 power can't be banished.
+Sword Horned - Level 3
+Creature - Enforcer/Beast Kin - 5500 Power
+(This card enters your mana zone tapped.)
+Tainted Quartz - Level 4
+Creature - Corrupted/Spirit Quartz - 2000 Power
+(This card enters your mana zone tapped.)
+Choten's Serum - Each of your Corrupted creatures gets +2000 power.
+Tatsurion the Brawler - Level 6
+Creature - Armored Dragon/Beast Kin - 7000 Power
+(This card enters your mana zone tapped.)
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Double Breaker (This creature breaks 2 shields.)
+Fierce Friend - Whenever one of your creatures that has "Scaradorable" or "Glu-urrgle" in its name is attacked, untap this creature, and this creature gets +5000 power until the end of the turn.
+Tatsurion the Champion - Level 6
+Creature - Armored Dragon/Beast Kin - 6000 Power
+(This card enters you mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Stand and Fight - When this creature enters the battle zone, you may put the top card of your deck into your mana zone. If you do and it's a Fire card, this creature gets +2000 power and "Fast Attack" until the end of the turn. (A creature that has "Fast Attack" can attack on the turn it enters the battle zone.)
+Tatsurion the Relentless - Level 9
+Evolution Creature - Armored Dragon/Beast Kin - 13000 Power
+(This card enters your mana zone tapped.)
+Evolution - Put on one of your creatures that has "Tatsurion" in its name.
+Triple Breaker (This creature breaks 3 shields.)
+Weapons Blazing - When this creature wins a battle against a creature that has power 5000 or less, untap this creature and choose one of your opponent's shields. This creature breaks that shield.
+Taunting Totem - Level 3
+Creature - Spirit Totem - 2000 Power
+Battle Chant - While this creature is tapped, each time one of your opponent's creatures attacks, it attacks this creature if able.
+Telanar, the Stormer - Level 8
+Evolution Creature - Tsunami Dragon/Earthstrike Dragon - 11000 Power
+(This card enters your mana zone tapped.)
+Evolution - Put on one of your Tsunami Dragons or Earthstrike Dragons.
+Double Breaker (This creature breaks 2 shields.)
+Cascading Energy - Whenever one of your creatures that has power 6000 or more attacks, you may draw 2 cards.
+Tendril Grasp - Level 6
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Put all creatures that are level 3 or less from the battle zone into their owners' mana zones.
+Terradragon Regarion Doom - Level 9
+Creature - Earthstrike Dragon - 9000 Power
+Double Breaker (This creature breaks 2 shields.)
+Root Grapple - When this creature enters the battle zone, put target enemy creature that is level 8 or less from the battle zone into your opponent's mana zone.
+Terror Hound - Level 4
+Creature - Specter/Beast Kin - 5000 Power
+(This card enters you mana zone tapped.)
+The Great Arena - Level 4
+Creature - Living City - 3000 Power
+Champion's Prize - Whenever you put a creature that has power 5000 or more into the battle zone, you may draw a card.
+The Hive Queen - Level 6
+Evolution Creature - Megabug - 8000 Power
+Evolution - Put on one of your Megabugs.
+Double Breaker (This creature breaks 2 shields.)
+Stir the Hive - Whenever this creature attacks, look at the top 3 cards of your deck. You may put a non-evolution creature that is level 5 or less from among them into the battle zone. Put the rest on the bottom of your deck in any order.
+The Mystic of Nature - Level 4
+Creature - Mystic - 5000 Power
+Renewal - Whenever you cast a Nature spell, choose a creature in your discard pile and put it into your mana zone.
+The Swarmleader - Level 5
+Evolution Creature - Megabug - 6000 Power
+Evolution - Put on one of your Megabugs.
+Double Breaker (This creature breaks 2 shields.)
+Hive Charge - While attacking, this creature gets +2000 power for each other creature you have in the battle zone.
+Thorn Dragon - Level 6
+Creature - Earthstrike Dragon - 5000 Power
+Powerful Attack +4000 (While attacking, this creature gets +4000 power.)
+Double Breaker (This creature breaks 2 shields.)
+Thorny Creeper - Level 2
+Creature - Tree Kin - 1000 Power
+Powerful Attack +2000 (While attacking, this creature gets +2000 power.)
+Three-Eyed Dragonfly - Level 3
+Creature - Megabug - 2000 Power
+Advance Scout - Whenever this creature attacks, choose one of your other creatures. It gets +2000 power until end of turn.
+Thunderaxe Shaman - Level 4
+Creature - Berserker/Beast Kin - 4000 Power
+(This card enters your mana zone tapped.)
+Might of Steel - Whenever one of your creatures wins a battle, all your creatures get "Powerful Attack +2000" until the end of the turn. (A creature that has "Powerful Attack +2000" gets +2000 power while attacking.)
+Might of Oak - All your creatures that have power 6000 or more have "Double Breaker." (A creature that has "Double Breaker" breaks 2 shields.)
+Transforming Totem - Level 5
+Creature - Spirit Totem - 3000 Power
+Vitalize - When this creature enters the battle zone, you may put a card from your hand into your mana zone.
+Mana Infused - If this creature would be banished, put it into your mana zone instead.
+Trapdoor Tunneler - Level 3
+Creature - Megabug - 3000 Power
+Tremors - Each of your creatures that has power 6000 or more can't be blocked by creatures that have less power than it.
+Treetop Dragon - Level 6
+Creature - Earthstrike Dragon - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Tricky Turnip - Level 3
+Creature - Wild Veggie - 3000 Power
+Undiceable - This creature can't be the target of your opponent's spells and abilities.
+Tusked Shouter - Level 5
+Creature - Beast Kin - 7000 Power
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Double Breaker (This creature breaks 2 shields.)
+Battering Tusks - While your opponent has a creature in the battle zone, this creature can attack only creatures.
+Verdant Helix - Level 6
+Spell
+Choose one:
+* Put up to 2 cards from the top of your deck into your mana zone.
+* Choose up to 2 creatures in your mana zone and return them to your hand.
+Victory Gunner - Level 5
+Evolution Creature - Stomper/Beast Kin - 5000 Power
+(This card enters your mana zone tapped.)
+Evolution - Put on one of your Stompers or Beast Kin.
+Reload - Whenever this creature becomes tapped for the first time each turn, untap it.
+Mana-Charged Rounds - Whenever this creature attacks, you may put the top card of your deck into your mana zone.
+Vine Bind - Level 4
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Put target enemy creature that has power 4000 or less from the battle zone into your opponent's mana zone.
+Violet Puffer - Level 3
+Creature - Flying Fungus - 2000 Power
+Spore Seeds - When this creature enters the battle zone, you may put a card from your hand into your mana zone.
+Voksa, Herd Matriarch - Level 7
+Creature - Tusker - 7000 Power
+Double Breaker
+Primal Bond - Whenever this creature attacks, you may put a non-evolution Nature creature from your hand into the battle zone.
+Warren Shaman - Level 4
+Creature - Beast Kin - 3000 Power
+Spirit Conduit - Whenever one of your other creatures enters the battle zone, this creature gets +2000 power until the end of the turn.
+Wavebreaker Shaman - Level 4
+Creature - Aquan/Spirit Totem - 5000 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Spirit Guide - Whenever this creature blocks, look at the top 3 cards of your deck. You may reveal a creature from among them and put it into your hand. Put the rest on the bottom of your deck in any order.
+Wavebreaker Tribe - Level 2
+Creature - Aquan/Beast Kin - 3000 Power
+(This card enters your mana zone tapped.)
+Weaponized Razorcat - Level 2
+Creature - Stomper/Beast Kin - 4000 Power
+(This card enters your mana zone tapped.)
+Wild Growth - Level 4
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Put up to 2 cards from your hand into your mana zone.
+Wild Sky Sword - Level 6
+Creature - Storm Patrol/Beast Kin - 4000 Power
+(This card enters your mana zone tapped.)
+Powerful Attack +4000 (While attacking, this creature gets +4000 power.)
+Double Breaker (This creature breaks 2 shields.)
+Electro-Field - Whenever this creature wins a battle, you may put the top card of your deck into your shield face-down as a new shield.
+Wildstrider Ramnoth - Level 6
+Creature - Primal Champion - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Abundant Growth - At the start of each of your turns, you may put the top card of your deck into your mana zone.
+Woolly Tusker - Level 3
+Creature - Tusker - 2000 Power
+Evo Brawn - While you have an evolution creature in the battle zone, this creature gets +2000 power and can't be blocked by creatures that have less power than it.
+Worldwaker Omgoth - Level 7
+Evolution Creature - Aquan/Colossus - 13000 Power
+(This card enters your mana zone tapped.)
+Vortex Evolution - Put on 2 of your Water and/or Nature creatures.
+Triple Breaker
+Boundless Mana - When this creature enters the battle zone, you may put all cards from your hand into your mana zone.
+Wellspring of Knowledge - Whenever this creature attacks your opponent, for each card you have in hand fewer than 5, you may draw a card.
+Xeno Mantis - Level 7
+Creature - Megabug - 8000 Power
+Powerful Attack +2000 (While attacking, this creature gets +2000 power.)
+Double Breaker (This creature breaks 2 shields.)
