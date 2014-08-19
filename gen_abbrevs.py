@@ -221,20 +221,15 @@ def wsc2abbrev(ss,wt,st,ct):
 # returns a dict which contains all wt,st,ct combinations tried so far and most recent tried wt, and also the three letter abbrev
 def init_adict(ss):
     adict = {}
+    adict["ss"]=ss
     nw,ns,nc = ss2cts(ss)
     cur_nw = min(nw,3)
     wt = init_wt(nw,cur_nw)
-    st = init_st(wt,ns)
-    ast = st2ast(wt,st,ns)
-    ct = init_st(ast,nc)
+    adict["wt"]=json.dumps(wt)
     adict["cur_nw"]=cur_nw
-    adict["wt"] = json.dumps(wt)
-    adict["ss"] = ss
-    temp1 = {}
-    temp1[json.dumps(st)] = [json.dumps(ct)]
-    temp1["st"] = json.dumps(st)
-    adict[json.dumps(wt)] = temp1
-    return adict, wsc2abbrev(ss,wt,st,ct)
+    inc_adict_st(adict)
+    inc_adict_ct(adict)    
+    return adict
 
 # increments wt
 def inc_adict_wt(adict):
@@ -252,6 +247,10 @@ def inc_adict_wt(adict):
     adict["cur_nw"]=cur_nw
     adict["wt"] = json.dumps(wt)
 
+
+
+
+
 # increments st
 def inc_adict_st(adict):
     ss = adict["ss"]
@@ -261,18 +260,24 @@ def inc_adict_st(adict):
     # check if wt is new
     if adict.get(json.dumps(wt),"")=="":
         temp={}
+        temp["bad"]=1
         adict[json.dumps(wt)] = temp
         # if the wt is new, initialize st and add to dict
         st = init_st(wt,ns)
     else:
         # increment st
         temp = adict[json.dumps(wt)]
-        st = inc_st(wt,json.loads(temp["st"]),ns)
+        if temp["bad"]==1:
+            inc_adict_wt(adict)
+            inc_adict_st(adict)
+        else:
+            st = inc_st(wt,json.loads(temp["st"]),ns)
     # check if st is valid: otherwise, go back to wt stage
     if st[0]==-1:
         inc_adict_wt(adict)
         inc_adict_st(adict)
     else:
+        temp["bad"]=0
         temp["st"] = json.dumps(st)
 
 # increments ct
@@ -298,16 +303,19 @@ def inc_adict_ct(adict):
         temp[temp["st"]]=temp[temp["st"]] + [json.dumps(ct)]
 
 def inc_adict(adict):
-    ss = adict["ss"]
-    nw,ns,nc = ss2cts(ss)
     inc_adict_wt(adict)
     inc_adict_st(adict)
     inc_adict_ct(adict)
+
+def cur_abbrev(adict):
+    ss = adict["ss"]
+    nw,ns,nc = ss2cts(ss)
     wt = json.loads(adict["wt"])
     temp = adict[adict["wt"]]
     st = json.loads(temp["st"])
     ct = json.loads(temp[temp["st"]][-1])
     return wsc2abbrev(ss,wt,st,ct)
+
 
 # get the names
 
