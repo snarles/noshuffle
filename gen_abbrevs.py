@@ -242,14 +242,14 @@ def inc_adict_wt(adict):
     nw,ns,nc = ss2cts(ss)
     cur_nw = adict["cur_nw"]
     wt = json.loads(adict["wt"])
-    wt = inc_wt(wt,ns,cur_ns)
+    wt = inc_wt(wt,nw,cur_nw)
     if wt[0]==-1:
         # decrement cur_nw and get the new wt
         cur_nw = cur_nw -1
         if cur_nw==0:
             cur_nw = min(nw,3)
         wt = init_wt(nw,cur_nw)
-    adict["wt"] = json.loads(wt)
+    adict["wt"] = json.dumps(wt)
 
 # increments st
 def inc_adict_st(adict):
@@ -268,7 +268,7 @@ def inc_adict_st(adict):
     else:
         # increment st and check if -1: if so, increment wt and then st
         temp = adict[json.dumps(wt)]
-        st = inc_st(wt,json.loads(temp["st"]))
+        st = inc_st(wt,json.loads(temp["st"]),ns)
         if st[0]==-1:
             inc_adict_wt(adict)
             inc_adict_st(adict)
@@ -304,8 +304,8 @@ def inc_adict(adict):
     inc_adict_ct(adict)
     wt = json.loads(adict["wt"])
     temp = adict[adict["wt"]]
-    st = json.loads(temp[temp["st"]])
-    ct = json.loads(temp[json.dumps(st)][-1])
+    st = json.loads(temp["st"])
+    ct = json.loads(temp[temp["st"]][-1])
     return wsc2abbrev(ss,wt,st,ct)
 
 # get the names
@@ -326,16 +326,9 @@ splitns = splitns[:len(listns)]
 vowels = "AEIOU"
 consonants = "BCDFGHJKLMNPQRSTVWXYZ0123456789"
 
-ss=splitns[2]
-nw = len(ss)
-ns = [len(v) for v in ss]
-cur_nw = min(3,nw)
-cur_char=1
-
-wt = init_wt(nw,cur_nw)
-st = init_st(wt,ns)
-wtst_map = {}
-wtst_map[json.dumps(wt)] = [json.dumps(st)]
+ss=splitns[5]
+adict = init_adict(ss)[0]
+inc_adict(adict)
 
 
     
