@@ -140,7 +140,7 @@ def test_inc_st3(wt,st,ns):
 # increment word tracker
 def inc_wt(wt,nw,cur_nw):
     if cur_nw ==1:
-        if wt[0] < nw:
+        if wt[0] < (nw-1):
             return [wt[0]+1,wt[0]+1,wt[0]+1]
         else:
             return [-1,-1,-1]
