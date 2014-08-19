@@ -177,6 +177,33 @@ def test_inc_st(wt,ns):
         st = inc_st(wt,st,ns)
         print st
 
+def cumsum(ll):
+    sum0 = 0
+    cll = [0]*len(ll)
+    for ii in range(len(ll)):
+        sum0 = sum0+ll[ii]
+        cll[ii]=sum0
+    return cll
+
+# syllable tracker to augmented syllable tracker
+def st2ast(wt,st,ns):
+    cns = [0]+cumsum(ns)
+    ast = [0]*3
+    for ii in range(3):
+        ast[ii] = st[ii]+cns[wt[ii]]
+    return ast
+
+def ast2st(wt,ast,ns):
+    cns = [0]+cumsum(ns)
+    st = [0]*3
+    for ii in range(3):
+        st[ii] = ast[ii]-cns[wt[ii]]
+    return st
+
+
+# split string to number of syllables
+def ss2ncs(ss):
+
 
 def abbrevs(ss):
 
