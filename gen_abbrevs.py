@@ -201,12 +201,79 @@ def ast2st(wt,ast,ns):
     return st
 
 
-# split string to number of syllables
-def ss2ncs(ss):
+# yield nw (number of words), ns (number of syllables) and nc (number of characters)
+def ss2cts(ss):
+    nw = len(ss)
+    ns = [len(v) for v in ss]
+    ss0 = ss[0]
+    if len(ss) > 0:
+        for ii in range(1,len(ss)):
+            ss0=ss0+ss[ii]
+    nc = [len(v) for v in ss0]
+    return nw,ns,nc
 
+def wsc2abbrev(ss,wt,st,ct):
+    abbrev = ""
+    for ii in range(3):
+        abbrev=abbrev+ss[wt[ii]][st[ii]][ct[ii]]
+    return abbrev
 
-def abbrevs(ss):
+# returns a dict which contains all wt,st,ct combinations tried so far and most recent tried wt, and also the three letter abbrev
+def init_adict(ss):
+    adict = {}
+    nw,ns,nc = ss2cts(ss)
+    cur_nw = min(nw,3)
+    wt = init_wt(nw,cur_nw)
+    st = init_st(wt,ns)
+    ast = st2ast(wt,st,ns)
+    ct = init_st(ast,nc)
+    adict["cur_nw"]=cur_nw
+    adict["wt"] = json.dumps(wt)
+    adict["ss"] = ss
+    temp1 = {}
+    temp1[json.dumps(st)] = [json.dumps(ct)]
+    temp1["st"] = json.dumps(st)
+    adict[json.dumps(wt)] = temp1
+    return adict, wsc2abbrev(ss,wt,st,ct)
 
+def inc_adict(adict):
+    ss = adict["ss"]
+    nw,ns,nc = ss2cts(ss)
+    cur_nw = adict["cur_nw"]
+    wt = json.loads(adict["wt"])
+    wt = inc_wt(wt,ns,cur_ns)
+    if wt[0]==-1:
+        # decrement cur_nw and get the new wt
+        cur_nw = cur_nw -1
+        if cur_nw==0:
+            cur_nw = min(nw,3)
+        wt = init_wt(nw,cur_nw)
+    # check if wt is new
+    if adict.get(json.dumps(wt),"")=="":
+        # if the wt is new, initialize st and ct and add to dict
+        st = init_st(wt,ns)
+        ast = st2ast(wt,st,ns)
+        ct = init_st(ast,nc)
+        temp1 = {}
+        temp1[json.dumps(st)] = [json.dumps(ct)]
+        temp1["st"] = json.dumps(st)
+        adict[json.dumps(wt)] = temp1
+    else:
+        # keep wt, increment st
+        temp = adict[json.dumps(wt)]
+        st = inc_st(wt,json.loads(temp["st"]))
+        # check if st is new for this wt
+        if temp.get(json.dumps(st),"")=="":
+            # initialize ct, add st and ct to temp
+
+        else:
+            cts=json.loads(temp[json.dumps(st)])
+            ast = st2ast(wt,st,ns)
+            ct = init_st(ast,nc)
+            ct = inc_st(ast,cts[-1],nc)
+            if ct[0]==-1:
+                
+            else:
 
 # get the names
 
