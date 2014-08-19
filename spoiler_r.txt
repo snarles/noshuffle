@@ -1,0 +1,1002 @@
+Absolute Incineration - Level 8
+Spell
+Banish target enemy creature that has power 9000 or less, then banish target enemy creature that has power 6000 or less.
+Banish all enemy creatures that have power 3000 or less
+Aerial Bombardment - Level 3
+Spell
+If your opponent has 6 or more shields, choose 3 of them. Your opponent puts those shields into his or her discard pile.
+Ammo Train - Level 4
+Creature - Stomper - 4000 Power
+Rearm - All your other creatures have "Powerful Attack +1000." (A creature that has "Powerful Attack +1000" gets +1000 power while attacking.)
+Aqua Trooper XJ-3 - Level 5
+Creature - Aquan/Stomper - 2000 Power
+(This card enters your mana zone tapped.)
+Powerful Attack +3000 (While attacking, this creature gets +3000 power.)
+Reassemble - If this creature would be banished, return it to your hand instead.
+Arachnomech - Level 6
+Evolution Creature - Stomper/Megabug - 11000 Power
+(This card enters your mana zone tapped.)
+Vortex Evolution - Put on 2 of your Fire and/or Nature creatures.
+Double Breaker (This creature breaks 2 shields.)
+Awakening Swarm - When this creature enters the battle zone, you may put a non-evolution creature that is level 5 or less from your mana zone into the battle zone. That creature gets "Fast Attack" until the end of the turn.
+Armored Sentinel - Level 3
+Creature - Drakon/Beast Kin - 3000 Power
+(This card enters your mana zone tapped.)
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Mustering Roar - Each of your other creatures that has "Protector" gets +2000 power.
+Artillery Dragon - Level 7
+Creature - Armored Dragon - 5000 Power
+Howitzer - When this creature enters the battle zone, banish target enemy creature has power 4000 or less.
+Ashen Tribute - Level 2
+Spell
+Your opponent chooses one of his or her creatures that has "Blocker". Banish that creature.
+Assault Dragon - Level 5
+Creature - Armored Dragon - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Enraged - This creature attacks each turn if able.
+Axos the Avenger - Level 6
+Creature - Enforcer/Attack Raptor - 3000 Power
+(This card enters your mana zone tapped.)
+Hold the Line - When this creature enters the battle zone, all your creatures get "Blocker" until the start of your next turn. (You may tap a creature that has "Blocker" to change an enemy creature's attack to it.)
+Flame Jet - When this creature enters the battle zone, banish target enemy creature that has power 2000 or less.
+Badlands Lizard - Level 2
+Creature - Dune Gecko - 2000 Power
+Powerful Attack +1000 (While attacking, this creature gets +1000 power.)
+Enraged - This creature attacks each turn if able.
+Bagash - Level 4
+Creature - Stomper - 3000 Power
+While you have another creature in the battle zone, this creature can't be attacked.
+Ballistic Skyterror - Level 4
+Creature - Corrupted/Attack Raptor - 5000 Power
+(This card enters your mana zone tapped.)
+Baron Burnfingers - Level 2
+Creature - Chimera/Berserker - 3000 Power
+(This card enters your mana zone tapped.)
+Play with Fire - When this creature is banished, choose one of your shields. This creature breaks that shield.
+Barrage - Level 6
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free)
+Banish all enemy creatures that have power 2000 or less.
+Battering Monolith - Level 6
+Creature - Rock Brute - 4000 Power
+Rock Steady - While battling, this creature gets +4000 power.
+Big Hissy - Level 5
+Evolution Creature - Dune Gecko - 6000 Power
+Evolution - Put on one of your Dune Geckos.
+Double Breaker (This creature breaks 2 shields.)
+20-ton Wrecking Ball - This creature can attack untapped creatures.
+Bile Raptor - Level 3
+Creature - Tarborg/Attack Raptor - 5000 Power
+(This card enters your mana zone tapped.)
+Impulsive - When this creature enters the battle zone, you may discard a card. If you do, draw a card.
+Sickening Burst - When this creature wins a battle, banish it.
+Billion-Degree Dragon - Level 8
+Creature - Armored Dragon - 6000 Power
+Fast Attack (This creature can attack on the turn it enters the battle zone.)
+Double Breaker (This creature breaks 2 shields.)
+Hypersonic Charge - This creature can attack untapped creatures on the turn it enters the battle zone.
+Blade-Rush Wyvern - Level 5
+Creature - Attack Raptor - 2000 Power
+Swift Slash - When this creature enters the battle zone, banish target enemy creature that has "Blocker".
+Blastforge Bruiser - Level 3
+Creature - Drakon - 2000 Power
+Plasma Blast - When this creature enters the battle zone, banish target enemy creature that has power 1000 or less.
+Blastforge Captain - Level 5
+Evolution Creature - Drakon - 4000 Power
+Evolution - Put on one of your Drakons.
+Craterize - Whenever this creature attacks, banish any number of target enemy creatures that have total power 4000 or less.
+Blastforge Dragon - Level 6
+Creature - Armored Dragon - 5000 Power
+Slag Cannon - When this creature enters the battle zone, banish target enemy creature that has power 2000 or less.
+Blastforge Marauder - Level 6
+Creature - Drakon - 1000 Power
+Fast Attack (This creature can attack on the turn it enters the battle zone.)
+Powerful Attack +6000 (While attacking, this creature gets +6000 power.)
+Double Breaker (This creature breaks 2 shields.)
+Blastforge Scrapper - Level 3
+Creature - Drakon - 3000 Power
+Blastforge Slaver - Level 3
+Creature - Drakon - 1000 Power
+Taskmaster - Each of your other Drakon gets +2000 power.
+Blastforge Sweeper - Level 4
+Creature - Stomper - 1000 Power
+Smelt - When this creature enters the battle zone, you may discard a card. If you do, draw 2 cards.
+Blaze Belcher - Level 1
+Creature - Burn Belly - 1000 Power
+Hungry! - This creature attacks each turn if able.
+Blaze Darter - Level 2
+Creature - Fire Bird - 1000 Power
+Whoosh! - When this creature enters the battle zone, one of your other creatures gets "Fast Attack" until the end of the turn. (That creature can attack on the turn it enters the battle zone.)
+Blaze Helix - Level 6
+Spell
+Choose one:
+* Banish all enemy creatures that have "Blocker."
+* Each of your creatures can attack untapped creatures this turn as though they were tapped.
+Blazetrail Gilaflame - Level 5
+Evolution Creature - Drakon - 7000 Power
+Evolution - Put on one of your Drakons.
+Double Breaker (This creature breaks 2 shields.)
+Blurring Speed - At the end of each of your turn, you may return this creature from the battle zone to your hand.
+Blitz Commando - Level 3
+Creature - Corrupted/Stomper - 1000 Power
+(This card enters you mana zone tapped.)
+Charge! - All your Corrupted creatures have "Fast Attack." (A creature that has "Fast Attack." can attack on the turn it enters the battle zone.)
+Blitzer-Mech Falkora - Level 4
+Creature - Mecha Thunder/Stomper - 2500 Power
+(This card enters your mana zone tapped.)
+Fast Attack (This creature can attack on the turn it enters the battle zone.)
+Thunderstrike - Whenever this creature attacks, tap target enemy creature. (First choose what this creature is attacking. Then tap the target creature.)
+Bloodbound Dragon - Level 6
+Creature - Armored Dragon - 6000 Power
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Double Breaker (This creature breaks 2 shields.)
+Bluescale Drakon - Level 2
+Creature - Drakon - 1000 Power
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Bodyguard Vorg - Level 2
+Creature - Mecha Thunder/Berserker - 3000 Power
+(This card enters your mana zone tapped.)
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Bolgash Dragon - Level 6
+Creature - Armored Dragon - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Plasma Torch - Whenever this creature attacks, banish target enemy creature that has "Blocker."
+Bolshack Dragon - Level 6
+Creature - Armored Dragon - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Molten Fists - While attacking, this creature gets +1000 power for each Fire card in your discard pile.
+Bolt-Tail Dragon - Level 8
+Creature - Armored Dragon - 7000 Power
+Fast Attack (This creature can attack on the turn it enters the battle zone.)
+Double Breaker (This creature breaks 2 shields.)
+Boom Skull - Level 2
+Creature - Dread Mask/Melt Warrior - 6000 Power
+(This card enters your mana zone tapped.)
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Guard (This creature can't attack.)
+Go Boom - When this creature wins a battle, banish it.
+Branca the Treacherous - Level 2
+Creature - Drakon - 2000 Power
+Burnclaw the Relentless - Level 3
+Evolution Creature - Drakon - 5000 Power
+Evolution - Put on one of your Drakons.
+Deadly Duo - When this creature enters the battle zone, search your deck. You may take a creature named Branca the Treacherous from your deck and put it into the battle zone. Then shuffle your deck.
+Cannonade Dragon - Level 7
+Creature - Armored Dragon - 7000 Power
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Double Breaker (This creature breaks 2 shields.)
+Into the Fray - Whenever this creature wins a battle for the first time each turn, untap it.
+Chain-Lash Tatsurion - Level 6
+Creature - Armored Dragon/Beast Kin - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Whip Chains - When this creature enters the battle zone, choose target untapped enemy creature. This turn, your attacking creatures can attack it.
+Chaotic Skyterror - Level 3
+Creature - Attack Raptor - 2000 Power
+Bunker Buster - Whenever this creature battles a creature that has "Blocker", this creature gets +2000 power.
+Chasmblaze Quartz - Level 4
+Creature - Spirit Quartz - 3000 Power
+(This card enters your mana zone tapped.)
+Onyx Shadow - Each of your other Darkness creatures gets +1000 power.
+Ruby Glow - Each of your other Fire creatures gets +1000 power.
+Cinder Fist - Level 3
+Spell
+Choose one of you creatures. It gets +2000 power until the end of the turn and can attack untapped creatures this turn as though they were tapped.
+Cindermoss Quartz - Level 4
+Creature - Spirit Quartz - 3000 Power
+(This card enters your mana zone tapped.)
+Ruby Glow - Each of your other Fire creatures gets +1000 power.
+Jade Luster - Each of your other Nature creatures gets +1000 power.
+Cliffcutter - Level 2
+Creature - Drakon - 1000 Power
+Evo Inflamed - While you have an evolution creature in the battle zone, this creature gets +2000 power.
+Comet Missile - Level 2
+Spell
+Shield Blast(Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Banish target enemy creature that has "Blocker".
+Convoy Runner - Level 5
+Creature - Stomper - 4000 Power
+Spur On - Whenever this creature attacks, one of your other creatures gets "Fast Attack" until the end of the turn. (That creature can attack on the turn it enters the battle zone.)
+Corporal Pepper - Level 4
+Creature - Berserker/Wild Veggie - 5000 Power
+(This card enters your mana zone tapped.)
+Red Hot - This creature attacks each turn if able.
+Pickled - If this creature would be banished, put it into your mana zone instead.
+Crash and Burn - Level 5
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Tap target enemy creature.
+Banish target enemy creature that has power 2000 or less.
+Crimson Wyvern - Level 8
+Creature - Attack Raptor - 3000 Power
+Block Buster - When this creature enters the battle zone, banish all of your opponent's creatures that have "Blocker".
+Cyber Trooper - Level 3
+Creature - Cyber Lord/Stomper - 1000 Power
+(This card enters your mana zone tapped.)
+Powerful Attack +3000 (While attacking, this creature gets +3000 power.)
+Threat Analysis - Whenever this creature attacks, look at the top card of your opponent's deck.
+Cyber Walker Kaylee - Level 3
+Creature - Cyber Lord/Stomper - 1000 Power
+(This card enters your mana zone tapped.)
+Powerful Attack +2000 (While attacking, this creature gets +2000 power.)
+Fists of Fury - This creature can attack tapped creatures on the turn it enters the battle zone.
+Eject - If this creature would be banished, return it to your hand instead.
+Dawnblaze Patrol - Level 3
+Creature - Storm Patrol/Stomper - 4500 Power
+(This card enters your mana zone tapped.)
+Doomcannon Mech - Level 6
+Creature - Stomper - 5000 Power
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Bombard - Whenever this creature becomes tapped for the first time each turn, untap it.
+Draglide the Swiftest - Level 4
+Creature - Attack Raptor - 2000 Power
+Fast Attack (This creature can attack on the turn it enters the battle zone.)
+Dragon Engine Glu-urrgle - Level 5
+Evolution Creature - Cyber Lord/Armored Dragon - 10000 Power
+(This card enters your mana zone tapped.)
+Vortex Evolution - Put on 2 of your Water and/or Fire creatures.
+Double Breaker
+Clockwork Brain - Whenever one of your creatures attacks, you may draw a card.
+Armored Scales - Whenever you draw a card, choose one of your creatures. Until the start of your next turn, if that creature would be banished, return it to your hand instead.
+Dragon Knight Volaron - Level 9
+Creature - Skyforce Champion/Armored Dragon - 7000 Power
+(This card enters your mana zone tapped.)
+Fast Attack
+Powerful Attack +4000
+Double Breaker
+Armor of Dawn - At the end of each of your turns, if this creature is tapped, you may put the top card of your deck into your shield zone face down as a new shield.
+Dragon's Breath - Level 7
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Banish target enemy creature that has power 3000 or less.
+Banish target enemy creature that has power 2000 or less.
+Banish target enemy creature that has power 1000 or less.
+Drakomech Commander - Level 4
+Evolution Creature - Enforcer/Drakon - 8500 Power
+(This card enters your mana zone tapped.)
+Vortex Evolution - Put on 2 of your Light and/or Fire creatures.
+Double Breaker
+Onslaught - All your creatures have "Fast Attack."
+Mobilize - When this creature enters the battle zone and whenever it becomes the target of one of your opponent's spells or abilities, reveal the top card of your deck. If that card is a non-evolution creature that is level 4 or less, put it into the battle zone. Otherwise, put it into your hand.
+Drakon Mercenary - Level 4
+Creature - Drakon - 4000 Power
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Drakon Upstart - Level 4
+Creature - Drakon - 4000 Power
+Drakon Warchief - Level 4
+Creature - Drakon - 3000 Power
+Heart of Fire - While all cards in your mana zone are Fire cards, this creature has "Fast Attack" and "Powerful Attack +2000." (A creature that has "Fast Attack" can attack on the turn it enters the battle zone. A creature that has "Powerful Attack +2000" gets +2000 power while attacking.)
+Drakon Weaponsmith - Level 2
+Creature - Drakon - 1000 Power
+Powerful Attack +2000 (While attacking, this creature gets +2000 power.)
+Drill Storm - Level 5
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Banish target enemy creature that has power 3000 or less.
+Banish all enemy creatures that have power 1000 or less.
+Dropship Commando - Level 5
+Evolution Creature - Berserker - 6000 Power
+Evolution - Put on one of your Fire creatures.
+Double Breaker (This creature breaks 2 shields.)
+Hit the Ground Shooting - When this creature enters the battle zone, banish target enemy creature that has power 4000 or less.
+Ember Adept - Level 2
+Creature - Drakon - 1000 Power
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Purging Flames - When this creature enters the battle zone, you may discard a card. If you do, draw a card.
+Ember Titan - Level 7
+Creature - Rock Brute/Colossus - 7000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Lava Thorns - When this creature enters the battle zone, banish all enemy creatures that have power 2000 or less.
+Ember-Eye - Level 4
+Creature - Attack Raptor - 2000 Power
+Assault Transport - When this creature is tapped, all your other creatures have "Powerful Attack +2000". (A creature that has "Powerful Attack +2000" gets +2000 power while attacking.)
+Emblazoned Giant - Level 7
+Creature - Attack Raptor/Colossus - 7000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Enslaved Flametropus - Level 5
+Creature - Corrupted/Rock Brute - 4000 Power
+(This card enters your mana zone tapped.)
+Lava Wave - While you have only Corrupted creatures in the battle zone, this creature has "Powerful Attack +4000" and "Double Breaker." (A creature that has "Powerful Attack +4000" and "Double Breaker" gets +4000 power while attacking and breaks 2 shields.)
+Evo Fury Tatsurion - Level 7
+Evolution Creature - Armored Dragon/Beast Kin - 12000 Power
+Evolution - Put on one of your Armored Dragons.
+Triple Breaker (This creature breaks 3 shields.)
+Dragon Wings - When this creature enters the battle zone, target enemy creature can't attack or block until the start of your next turn.
+Explosive Infantry - Level 2
+Creature - Melt Warrior - 1000 Power
+Flame Burst - When this creature is banished, banish target enemy creature that has power 1000 or less.
+Fault-Line Dragon - Level 6
+Creature - Armored Dragon/Earthstrike Dragon - 5000 Power
+(This card enters your mana zone tapped.)
+Sword of Outrage - This creature can attack tapped creatures on the turn it enters the battle zone.
+Sword of Reaping - Whenever this creature wins a battle, you may put the top card of your deck into your mana zone.
+Fight! - Level 4
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Chooses one of your creatures. It battles target enemy creature.
+Firemane Dragon - Level 5
+Evolution Creature - Armored Dragon - 8000 Power
+Evolution - Put on one of your Fire creatures.
+Double Breaker (This creature breaks 2 shields.)
+Unleash - All your creatures get "Fast Attack" until the end of the turn. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Flame Auger - Level 5
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+You may discard a card. If you do, banish target enemy creature that has power 7000 or less.
+Flame Aura - Level 1
+Spell
+One of your creatures gets "Powerful Attack +2000" until the end of the turn.
+Flame Fangs - Level 4
+Spell
+Banish target enemy creature that has power 4000 or less.
+Flame Serpent - Level 5
+Creature - Tsunami Dragon/Armored Dragon - 4000 Power
+(This card enters your mana zone tapped.)
+Powerful Attack +3000 (While attacking, this creature gets +3000 power.)
+Double Breaker (This creature breaks 2 shields.)
+Volcanic Current - Your first creature that attacks each turn can't be blocked.
+Flame Spinner - Level 2
+Creature - Drakon - 1000 Power
+Frenetic - When this creature enters the battle zone, if you have a creature in the battle zone that has "Fast Attack", this creature gets "Fast Attack" until the end of the turn.
+Flame-Vent Diver - Level 2
+Creature - Trench Hunter/Drakon - 3000 Power
+(This card enters your mana zone tapped.)
+Flamespine Ravager - Level 5
+Evolution Creature - Specter/Drakon - 8000 Power
+(This card enters your mana zone tapped.)
+Evolution - Put on one of your Specters or Drakons.
+Double Breaker (This creature breaks 2 shields.)
+Smoke Trail - Whenever this creature attacks, your opponent puts the top card of his or her deck into his or her discard pile. If its a creature, banish target enemy creature that has less power than it.
+Flamespitter - Level 4
+Creature - Undertow Engine/Burn Belly - 1000 Power
+(This card enters your mana zone tapped.)
+Fast Attack (This creature can attack on the turn it enters the battle zone.)
+Ransack - Whenever this creature attacks, you may draw a card.
+Flametropus - Level 5
+Creature - Rock Brute - 4000 Power
+Lava Stomp - While you have no other creatures in the battle zone, this creature has "Powerful Attack +4000" and "Double Breaker". (A creature that has "Powerful Attack +4000" and "Double Breaker" gets +4000 power while attacking and breaks 2 shields.)
+Flamewing Phoenix - Level 5
+Creature - Storm Patrol/Fire Bird - 2000 Power
+(This card enters your mana zone tapped.)
+Powerful Attack +3000 (While attacking, this creature gets +3000 power.)
+Reenergize - If this creature would be banished, put it into your shield zone face down as a new shield instead.
+Flaming Arrow Volley - Level 6
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Banish target enemy creature that has power 3000 or less.
+One of your creatures gets +3000 power until the end of the turn.
+Forgelord Vesuvius - Level 7
+Creature - Blaze Champion - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Rekindle - Whenever this creature wins a battle, you may discard your hand. If you do, draw 5 cards.
+Frantic Blast - Level 7
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Reveal the top card of your deck. If it's a creature, banish target enemy creature that has less power than it. Put the revealed card into your hand.
+Frostburn Quartz - Level 4
+Creature - Spirit Quartz - 3000 Power
+(This card enters the mana zone tapped.)
+Sapphire Shine - Each of your other Water creatures gets +1000 power.
+Ruby Glow - Each of your other Fire creatures gets +1000 power.
+Furywing Trooper - Level 3
+Evolution Creature - Armored Dragon/Berserker - 6000 Power
+Vortex Evolution - Put on 2 of your Fire creatures.
+Double Breaker (This creature breaks 2 shields.)
+Unleash - This creature gets +6000 power until the end of the turn and breaks an additional shield this turn. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Galsaur - Level 8
+Creature - Rock Brute - 8000 Power
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Double Breaker (This creature breaks 2 shields.)
+Incendiary Terrain - Each enemy creature attacks creatures each turn if able.
+Galzak of Shadow Pass - Level 7
+Creature - Shadow Champion/Armored Dragon - 6000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Vampiric Bite - Whenever this creature attacks, target enemy creature gets -3000 power until the end of the turn and this creature gets +3000 power until the end of the turn. (A creature that has power 0 or less is banished)
+Gatling Skyterror - Level 3
+Creature - Attack Raptor - 3000 Power
+General Charzon - Level 6
+Evolution Creature - Corrupted/Armored Dragon - 5000 Power
+(This card enters your mana zone tapped.)
+Evolution - Put on one of your Corrupted creatures or Armored Dragons.
+Corrupted Commander - All of your Corrupted creatures have "Powerful Attack +5000" and "Double Breaker". (A creature that has "Powerful Attack +5000" and "Double Breaker" gets +5000 power while attacking and breaks 2 shields.)
+General Skycrusher - Level 7
+Creature - Armored Dragon - 8000 Power
+Double Breaker (This creature breaks 2 shields.)
+Skycrusher's Saber - When this creature enters the battle zone, banish target enemy creature that has power 3000 or less.
+Skycrusher's Command - Whenever one of your other creatures attacks, it gets "Powerful Attack +3000" until the end of the turn. (A creature that has "Powerful Attack +3000" gets +3000 power while attacking.)
+Gilaflame the Assaulter - Level 4
+Creature - Drakon - 5000 Power
+Fast Attack (This creature can attack on the turn it enters the battle zone.)
+Blurring Speed - At the end of the turn, return this creature from the battle zone to your hand.
+Gorim the Striker - Level 5
+Creature - Drakon/Beast Kin - 3000 Power
+(This card enters your mana zone tapped.)
+Battle Order - When this creature enters the battle zone, choose one of your other creatures. It can attack untapped creatures this turn as though they were tapped.
+Empower - When this creature enters the battle zone, choose one of your other creatures. It gets +3000 power until the end of the turn.
+Gunwing Dragon - Level 6
+Creature - Armored Dragon - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Hammer Dragon Foulbyrn - Level 7
+Creature - Armored Dragon - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Draconic Roar - Whenever this creature attacks, reveal the top card of your deck. If it's a non-evolution Dragon, put it into the battle zone. Otherwise, put it on the bottom of your deck.
+Hammer Fist - Level 4
+Spell
+Banish target enemy creature that has Blocker. Choose one of your creatures; it gains Powerful Attack +3000 until end of your turn.
+Haunted Mech - Level 4
+Creature - Specter/Stomper - 5000 Power
+(This card enters your mana zone tapped.)
+Heat Seekers - Level 3
+Spell
+Banish target enemy creature that has power 3000 or less.
+Herald of Infernus - Level 5
+Creature - Armored Dragon - 5000 Power
+War Cry - Whenever this creature wins a battle, you may put a non-evolution Dragon from your hand into the battle zone.
+Heretic Prince Var-rakka - Level 8
+Creature - Cyber Lord/Armored Dragon - 9000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Fast Attack (This creature can attack on the turn it enters the battle zone.)
+Heatwave - All your other creatures have "Fast Attack."
+Overheat - At the end of each of your turns, choose one of your creatures in the battle zone and return it to your hand.
+Hydragon - Level 6
+Creature - Armored Dragon - 5000 Power
+Outflank - This creature can attack tapped creatures on the turn it enters the battle zone.
+Hyperspeed Dragon - Level 5
+Creature - Armored Dragon - 5000 Power
+Slipstream - While you have another Armored Dragon in the battle zone, all your Armored Dragons have "Fast Attack." (A creature that has "Fast Attack" can attack on the turn it enters the battle zone.)
+Igniss - Level 5
+Creature - Attack Raptor - 3000 Power
+Loyal Mount - When this creature enters the battle zone, search your deck. You may put a creature that has "Valko" in its name from your deck into the battle zone. Then shuffle your deck.
+Infernal Taskmaster - Level 4
+Creature - Shadow Champion/Rock Brute - 5000 Power
+(This card enters your mana zone tapped.)
+Reckless Assault - Whenever one of your other creatures enters the battle zone, it gets "Fast Attack" until the end of the turn. At the end of turn, if that creature attacked this turn, banish it. (A creature that has "Fast Attack" can attack on the turn it enters the battle zone.)
+Infernus the Awakened - Level 9
+Creature - Armored Dragon - 13000 Power
+Triple Breaker (This creature breaks 3 shields.)
+Inferno Rockets - When this creature enters the battle zone and whenever it attacks, banish target enemy creature that has power 4000 or less.
+Infernus's Decree - Your opponent can't summon creatures that have power 4000 or less.
+Infernus the Immolator - Level 11
+Creature - Monarch/Armored Dragon - 17000 Power
+Triple Breaker (This creature breaks 3 shields.)
+Inferno Breath - When this creature enters the battle zone, banish any number of target enemy creatures that have total power 8000 or less.
+Volcanic Temper - Whenever this creature becomes the target of one of your opponent's spells or abilities, choose 3 of your opponents shields. This creature breaks those shields.
+Fire Monarch - Each of your other Fire creatures gets +4000 power.
+Jack, the Hammer - Level 2
+Creature - Berserker - 2000 Power
+Jet-Thrust Darter - Level 3
+Creature - Dune Gecko - 1000 Power
+Fast Attack (This creature can attack on the turn it enters the battle zone.)
+Jetflame Bodyguard - Level 1
+Creature - Drakon - 3000 Power
+Skirmisher (This creature can attack only creatures.)
+Jetpack Thug - Level 5
+Creature - Berserker - 3000 Power
+Fast Attack (This creature can attack on the turn it enters the battle zone.)
+Jump Jets - Level 1
+Spell
+Choose one of your creatures. It gets "Fast Attack" until the end of the turn. (A creature that has "Fast Attack" can attack on the turn it enters the battle zone.)
+Kaboom! - Level 7
+Spell
+Banish target enemy creature that has power 6000 or less.
+Kenina - Level 4
+Creature - Fire Bird - 2000 Power
+Dragonsong - You tap 1 less mana card to summon Dragons.
+Infernus's Envoy - All your Dragons have "Powerful Attack +2000." (A creature that has "Powerful Attack +2000" gets +2000 power while attacking.)
+Kenina the Igniter - Level 2
+Creature - Fire Bird - 1000 Power
+Wings of Flame - When this creature enters the battle zone, choose one of your other creatures. It gets "Powerful Attack +2000" until end of turn. A creature that has "Powerful Attack +2000" gets +2000 power while attacking.
+Krakatoa the Shattered - Level 6
+Creature - Armored Dragon/Living City - 5000 Power
+(This card enters your mana zone tapped.)
+Rousing Bellow - When this creature enters the battle zone, you may put a non-evolution creature that is level 4 or less from your hand into the battle zone. That creature gets "Fast Attack" until the end of the turn. At the end of the turn, put it into your mana zone. (A creature that has "Fast Attack" can attack on the turn it enters the battle zone.)
+Krakus the Dominator - Level 3
+Creature - Berserker - 3000 Power
+Daunting - All your opponent's creatures that have "Blocker" enter the battle zone tapped.
+No Quarter - Each time a card would be put from your opponent's deck into his or her shield zone, that card is put into your opponent's discard pile instead.
+Krazzix the Volatile - Level 6
+Creature - Riptide Champion/Blaze Champion - 6000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Superheated Steam - Whenever you draw a card, this creature gets "Powerful Attack +2000" until the end of the turn.
+Massive - While this creature has power 12000 or more, it has "Triple Breaker."
+Krogon, Blazing Devastation - Level 8
+Creature - Armored Dragon - 9000 Power
+Double Breaker
+Draconic Rampage - Whenever this creature or one of your other Dragons attacks, you may have it battle target enemy creature.
+Kronax the Brutal - Level 5
+Creature - Rot Worm/Drakon - 3000 Power
+(This card enters your mana zone tapped.)
+Envenom - When this creature enters the battle zone, choose one of your other creatures. It gets "Slayer" until the end of the turn. (When a creature that has "Slayer" loses a battle, banish the other creature.)
+Battle Order - When this creature enters the battle zone, choose one of your other creatures. It can attack untapped creatures this turn as though they were tapped.
+Krotork the Mirror - Level 3
+Evolution Creature - Tsunami Dragon/Armored Dragon - 6000 Power
+(This card enters your mana zone tapped.)
+Vortex Evolution - Put on 2 of your Water and/or Fire creatures.
+Double Breaker
+Reimage - Whenever you cast a spell from your hand, you may then cast that spell from your discard pile for free.
+Kuth the Dervish - Level 8
+Creature - Armored Dragon - 7000 Power
+Fast Attack (This creature can attack on the turn it enters the battle zone.)
+Double Breaker (This creature breaks 2 shields.)
+Swords of Sundering - This creature can attack untapped creatures that have "Blocker."
+Laser-Arm Drakon - Level 3
+Evolution Creature - Drakon - 4000 Power
+Evolution - Put on one of your Drakons.
+Powerful Attack +2000 (While attacking, this creature gets +2000 power.)
+Double Breaker (This creature breaks 2 shields.)
+Laserize - Level 3
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Banish target enemy creature that has power 3000 or less.
+Lava Burst - Level 3
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+You may banish one of your creatures. If you do, banish target enemy creature that has power 7000 or less.
+Lava Leaper - Level 2
+Creature - Dune Gecko - 1000 Power
+Rocket Jump - This creature can't be attacked by creatures that have power 3000 or less.
+Lava Racer - Level 2
+Creature - Melt Warrior - 2000 Power
+Fast Attack (This creature can attack on the turn it enters the battle zone.)
+Burnout - At the end of the turn, banish this creature.
+Lava-Tube Crawler - Level 3
+Creature - Rot Worm/Dune Gecko - 2000 Power
+(This card enters your mana zone tapped.)
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Death Lunge - When this creature is banished, target enemy creature gets -1000 power until the end of the turn. (A creature that power 0 or less is banished.)
+Lavanator 3000 - Level 3
+Creature - Stomper - 3000 Power
+Legionnaire Lizard - Level 3
+Creature - Dune Gecko - 2000 Power
+Finishing Blow - While attacking, this creature gets +2000 power for each other tapped creature you have in the battle zone.
+Little Hissy - Level 3
+Creature - Dune Gecko - 2000 Power
+Little Wrecking Ball - This creature can attack untapped creatures.
+Lizard-Skin Puppet - Level 2
+Creature - Evil Toy/Dune Gecko - 1000 Power
+(This card enters your mana zone tapped.)
+Slayer (When this creature loses a battle, banish the other creature.)
+Puppet Strings - This creature attacks each turn if able.
+Lord Skycrusher - Level 7
+Creature - Armored Dragon - 7000 Power
+Double Breaker (This creature breaks 2 shields.)
+Royal Command - Whenever this creature attacks, choose one of your other creatures. It gets +5000 power and Double Breaker until end of turn.
+Lotus Warrior - Level 5
+Creature - Stomper/Wild Veggie - 5000 Power
+(This card enters your mana zone tapped.)
+Skewer - While battling a creature that has "Blocker", this creature gets +3000 power.
+Recycle - If this creature would be banished, put it into your mana zone instead.
+Magma Dragon Melgars - Level 8
+Creature - Armored Dragon - 11000 Power
+Double Breaker (This creature breaks 2 shields.)
+Lava Breath - Whenever this creature attacks, banish target enemy creature that has power 3000 or less, then banish target enemy creature that has power 2000 or less, then banish target enemy creature that has power 1000 or less.
+Magma Madness - Level 3
+Spell
+One of your creatures gets "Powerful Attack +4000" and "Double Breaker" until the end of the turn.(A creature that has "Powerful Attack +4000" and "Double Breaker" gets +4000 power while attacking and breaks 2 shields.)
+Magma Ram - Level 7
+Creature - Rock Brute - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Ramming Speed - When this creature enters the battle zone, banish target enemy creature that has "Blocker".
+Magmaclysm Rex - Level 7
+Creature - Rock Brute/Colossus - 5000 Power
+(This card enters your mana zone tapped.)
+Powerful Attack +7000 (While attacking, this creature gets +7000 power.)
+Triple Breaker (This creature breaks 3 shields.)
+Major Ao - Level 5
+Creature - Skyforce Champion/Drakon - 4500 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Fast Attack (This creature can attack on the turn it enters the battle zone.)
+Into the Fray - Whenever this creature wins a battle for the first time each turn, untap it.
+Manic Mechanic - Level 3
+Creature - Burn Belly - 3000 Power
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Mar-Blurpa the Weaponsmith - Level 6
+Creature - Earth Eater/Drakon - 3000 Power
+(This card enters your mana zone tapped.)
+Ingenuity - When this creature enters the battle zone, you may draw a card.
+Flame Jet - When this creature enters the battle zone, banish target enemy creature that has power 2000 or less.
+Mark of Infernus - Level 9
+Spell
+Choose one:
+* Put a creature named Infernus the Immolator from your hand into the battle zone.
+* Banish any number of target enemy creatures that have total power 5000 or less.
+Megacannon Renegade - Level 3
+Evolution Creature - Berserker - 4000 Power
+Evolution - Put on one of your Fire creatures.
+Unleash - This creature gets +3000 power and "Double Breaker" until the end of the turn. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Metal Max - Level 2
+Creature - Enforcer/Stomper - 3500 Power
+(This card enters your mana zone tapped.)
+Meteor Dragon - Level 7
+Creature - Armored Dragon - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Powerful Attack +4000 (While attacking, this creature gets +4000 power.)
+Meteor Rider - Level 7
+Creature - Melt Warrior - 3000 Power
+Shield Blast (Instead of putting this creature into your hand from a broken shield, you may summon it for free.)
+Fiery Impact - When this creature enters the battle zone, you may banish it. If you do, banish target enemy creature that has power 3000 or less.
+Meteosaur - Level 5
+Creature - Rock Brute - 2000 Power
+Headbutt — When this creature enters the battle zone, banish target enemy creature that has power 2000 or less.
+Mighty Stomp - Level 5
+Spell
+One of your creatures gets +4000 power until the end of the turn and can attack untapped creatures this turn as though they were tapped.
+Mischievous Fire-Chick - Level 2
+Creature - Fire Bird - 1000 Power
+Shenanigans - Whenever this creature attacks, you may discard a card. If you do, draw a card.
+Molten Stonesaur - Level 6
+Evolution Creature - Rock Brute - 8000 Power
+Evolution - Put on one of your Fire creatures.
+Double Breaker
+Magma Burst - When this creature is banished, banish target enemy creature that has power less than or equal to this creature's power.
+Moorna the Vengeful - Level 9
+Creature - Armored Dragon - 8000 Power
+Double Breaker (This creature breaks 2 shields.)
+Rapid Fire - When this creature enters the battle zone, banish up to 2 creatures that each have power 4000 or less.
+Moorna, Gatling Dragon - Level 7
+Creature - Armored Dragon - 7000 Power
+Double Breaker (This creature breaks 2 shields.)
+Twin Cannons - This creature can attack untapped creatures.
+Morkaz the Defiant - Level 7
+Creature - Armored Dragon - 5000 Power
+Powerful Attack +5000 (While attacking, this creature gets +5000 power.)
+Double Breaker (This creature breaks 2 shields.)
+Burning Rage - If an opponent's spell or ability would cause you to discard this creature, you may put it into the battle zone instead.
+Napalmeon the Conquering - Level 9
+Creature - Armored Dragon - 12000 Power
+Triple Breaker (This creature breaks 3 shields.)
+Brutal Offensive - All your other Armored Dragons have "Powerful Attack +5000" and break an additional shield. (While attacking, a creature that has "Powerful Attack +5000" gets +5000 power.)
+Intimidating Presence - All your opponent's Dragons can't attack.
+Om Nom Nom - Level 4
+Creature - Burn Belly - 5000 Power
+Still Hungry! - This creature attacks each turn if able.
+Onslaught Trooper - Level 5
+Creature - Stomper - 4000 Power
+Reload - Whenever this creature becomes tapped for the first time each turn, untap it.
+Oozing Lavasaur - Level 3
+Creature - Tarborg/Rock Brute - 2000 Power
+(This card enters your mana zone tapped.)
+Powerful Attack +2000 (While attacking, this creature gets +2000 power.)
+Splattermelt - When this creature is banished, your opponent chooses and discards a card.
+Overcharge - Level 4
+Spell
+Each of your creatures gets +1000 power until the end of the turn. While attacking, those creatures can attack untapped creatures this turn.
+Overlord Sargon - Level 7
+Creature - Shadow Champion/Armored Dragon - 6000 Power
+(This card enters your mana zone tapped.)
+Fast Attack (This creature can attack on the turn it enters the battle zone.)
+Double Breaker (This creature breaks 2 shields.)
+Grim Command - Whenever this creature attacks, you may choose one of your other creatures and banish it. If you do, banish target enemy creature that has power 5000 or less.
+Plasma Pincer - Level 3
+Creature - Sky Weaver/Melt Warrior - 1000 Power
+(This card enters your mana zone tapped.)
+Powerful Attack +4000 (While attacking, this creature gets +4000 power.)
+Skitter - At the end of each of your turns, untap this creature.
+Prototype Gunship - Level 3
+Creature - Storm Patrol/Stomper - 3000 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Reactor Breach - When this creature is banished, banish target enemy creature that has power 2000 or less.
+Pyro Trooper - Level 4
+Creature - Drakon - 3000 Power
+Powerful Attack +2000 (While attacking, this creature gets +2000 power.)
+Quetaro the Gladiator - Level 7
+Creature - Void Spawn/Armored Dragon - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Brawl - Whenever this creature attacks, you may clash with your opponent. If you won the clash, this creature battles target enemy creature. (To clash, each player reveals the top card of his or her deck, then puts it on the bottom. You win if your card had the same or higher level.)
+Ragefire Tatsurion - Level 5
+Creature - Armored Dragon/Beast Kin - 5000 Power
+Wreak Havoc - While you have no cards in hand, this creature has "Powerful Attack +3000," "Double Breaker," and can't be the target of your opponent's spells and abilities. (A creature that has "Powerful Attack +3000" and "Double Breaker" gets +3000 power while attacking and breaks 2 shields.)
+Raging Firebrand - Level 4
+Creature - Void Spawn/Melt Warrior - 4000 Power
+Outburst - Whenever this creature attacks, you may clash with your opponent. If you won the clash, this creature gets "Powerful Attack +3000" and "Double Breaker" until the end of the turn. (To clash, each player reveals the top card of his or her deck, then puts its on the bottom. You win if your card had the same or higher level.)
+Railgun Raptor - Level 3
+Creature - Attack Raptor - 2000 Power
+Powerful Attack +3000 (While attacking, this creature gets +3000 power.)
+Rally Bot - Level 3
+Creature - Stomper - 3000 Power
+Evo Blitz - While you have an evolution creature in the battle zone, this creature has "Fast Attack" (It can attack the turn it enters the battle zone.)
+Rampaging Tatsurion - Level 7
+Creature - Armored Dragon/Beast Kin - 8000 Power
+Double Breaker (This creature breaks 2 shields.)
+Aftershock Shells - Whenever this creature wins a battle, banish target enemy creature that has power less than the losing creature's power.
+Raptor-Ace Valko - Level 3
+Creature - Burn Belly - 1000 Power
+Yeehaw! - While you have a creature named Igniss in the battle zone, this creature gets +3000 power.
+Redscale Drakon - Level 5
+Creature - Drakon - 2000 Power
+Fast Attack (This creature can attack on the turn it enters the battle zone.)
+Powerful Attack +2000 (While attacking, this creature gets +2000 power.)
+Relentless Vanguard - Level 2
+Creature - Stomper - 3000 Power
+TERMINATE - This creature attacks each turn if able.
+Restless Conflagration - Level 4
+Evolution Creature - Melt Warrior - 6000 Power
+Evolution - Put on one of your Fire creatures.
+Double Breaker
+Unleash - Your opponent chooses one of his or her creatures that has "Blocker." Banish that creature. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Ricochet Shot - Level 2
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Banish up to 2 target enemy creatures that each have power 1000 or less.
+Riot Sprite - Level 4
+Creature - Drakon/Snow Sprite - 3000 Power
+(This card enters your mana zone tapped.)
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Empower - When this creature enters the battle zone, one of your other creatures gets +3000 power until the end of the turn.
+Rock Bite - Level 4
+Spell
+Shield Blast(Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Banish target enemy creature that has power 3000 or less.
+Rocket Hawk - Level 5
+Creature - Attack Raptor - 3000 Power
+Divebomb - When this creature enters the battle zone, you may have it battle target enemy creature.
+Rothos the Destroyer - Level 7
+Creature - Stomper - 4000 Power
+Shield Blast (Instead of putting this creature into your hand from a broken shield, you may summon it for free.)
+Backblast Cannons - When this creature enters the battle zone, you may banish it. If you do, banish all enemy creatures that have power 2000 or less.
+Runes of Fortune - Level 4
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Reveal the top 3 cards of your deck. If each of them is a different level, put them all into your hand. Otherwise, put them all into your discard pile.
+Rygar the Tank - Level 5
+Creature - Berserker - 5000 Power
+Alpha Strike - When this creature enters the battle zone, if you have no cards in hand, you may have this creature battle target enemy creature.
+Brazen Tactics - Whenever this creature wins a battle, you may discard your hand. If you do, draw 2 cards.
+Sandstorm Prowler - Level 4
+Creature - Dune Gecko - 2000 Power
+Pounce - This creature can attack untapped creatures.
+Skulk - While one of your other creatures is tapped, this creature can't be attacked.
+Scalding Surge - Level 4
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Choose target enemy creature. If it has power 3000 or less, banish it. Otherwise, return it to your opponent's hand.
+Scaled Impaler - Level 2
+Evolution Creature - Drakon - 4000 Power
+Evolution - Put on one of your Drakons.
+Horned Armor - This creature can't be attacked.
+Scrapheap Hunter - Level 3
+Creature - Burn Belly - 1000 Power
+Shield Blast (Instead of putting this creature into your hand from a broken shield, you may summon it for free.)
+Verminate - When this creature enters the battle zone, banish target enemy creature that has power 1000 or less.
+Searing Spears - Level 6
+Spell
+Banish target enemy creature that has power 6000 or less. If you have an evolution creature in the battle zone, instead banish target enemy creature that has power 8000 or less.
+Sergeant Maddox - Level 3
+Creature - Berserker - 2000 Power
+Advocate of Fire - Each of your other Fire creatures gets +1000 power.
+Shadeblaze the Corruptor - Level 8
+Creature - Terror Dragon/Armored Dragon - 11000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Wither - When this creature enters the battle zone, target enemy creature gets -2000 power until the end of the turn. (A creature that has power 0 o less is banished.)
+Provoke - Whenever another creature is banished, all your creatures get "Fast Attack" until the end of the turn.
+Shock Troop - Level 4
+Creature - Berserker - 2000 Power
+Fast Attack (This creature can attack on the turn it enters the battle zone.)
+Siege Dragon - Level 5
+Creature - Armored Dragon - 5000 Power
+Simian Trooper Grash - Level 4
+Creature - Stomper - 4000 Power
+Skraven, Draconic Reaper - Level 7
+Creature - Shadow Champion/Armored Dragon - 7000 Power
+(This card enters your mana zone tapped.)
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Double Breaker (This creature breaks 2 shields.)
+Spirit Swap - Whenever this creature wins a battle, choose a creature in your discard pile and return it to your hand.
+Skycrusher's Elite - Level 5
+Creature - Drakon - 4000 Power
+Crack the Whip - Whenever one of your creatures that has power 2000 or less enters the battle zone, it gets "Fast Attack until the end of the turn. (A creature that has "Fast Attack" can attack on the turn it enters the battle zone.)
+Skycrusher's Volcano-Ship - Level 9
+Creature - Inferno Complex - 8000 Power
+Double Breaker (This creature breaks 2 shields.)
+Heavy Weapons - This creature can attack untapped creatures.
+Command Center - When ever this creature wins a battle, choose one of your other creatures. It can attack untapped creatures this turn as though they weren't tapped.
+Skytalon Harrier - Level 4
+Creature - Attack Raptor - 3000 Power
+Squadron Leader - Whenever this creature attacks, choose one of your other creatures. It gets "Fast Attack" until the end of the turn. (A creature that has "Fast Attack" can attack on the turn it enters the battle zone.)
+Slagcannon Grunt - Level 4
+Creature - Drakon - 3000 Power
+Suppressive Blast - Whenever this creature attacks, one of your other creatures gets +3000 power until the end of the turn.
+Sledge Bot - Level 1
+Creature - Stomper - 2000 Power
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Sledgehammer Slammer - Level 4
+Creature - Berserker - 3000 Power
+Powerful Attack +2000 (While attacking, this creature gets +2000 power.)
+Smolderhorn - Level 3
+Creature - Rock Brute/Tusker - 4000 Power
+(This card enters your mana zone tapped.)
+Fast Attack (This creature can attack on the turn it enters the battle zone.)
+Skirmisher (This creature can attack only creatures.)
+Smoldering Brute - Level 3
+Creature - Rock Brute - 3000 Power
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Snaptongue Lizard - Level 5
+Creature - Dune Gecko - 5000 Power
+Solstar Commander - Level 5
+Creature - Enforcer/Berserker - 5500 Power
+(This card enters your mana zone tapped.)
+Incite - All your creatures that are level 3 or less have "Powerful Attack +3000." (A creature that has "Powerful Attack +3000" gets +3000 power while attacking.)
+Embolden - At the end of each of your turns, untap all your creatures that are level 3 or less.
+Soul Vortex - Level 5
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Banish target enemy creature that has power 3000 or less.
+Choose a creature in your discard pile that is level 4 or less and return it to your hand.
+Sparkspine Lizard - Level 3
+Creature - Dune Gecko - 2000 Power
+Pack Frenzy — While you have another creature named Sparkspine Lizard in the battle zone, this creature has "Fast Attack" and "Powerful Attack +2000". (A creature that has "Fast Attack" and "Powerful Attack +2000" can attack on the turn it enters the battle zone and gets +2000 power while attacking.)
+Spellbane Dragon - Level 7
+Creature - Armored Dragon - 8000 Power
+Double Breaker (This creature breaks 2 shields.)
+Backfire - Whenever your opponent casts a spell, choose one of your opponent's shields. This creature breaks that shield.
+Starforge Quartz - Level 4
+Creature - Spirit Quartz - 3000 Power
+(This card enters the mana zone tapped.)
+Opal Aura - Each of your other Light creatures gets +1000 power.
+Ruby Glow - Each of your other Fire creatures gets +1000 power.
+Steamtank Kryon - Level 5
+Creature - Stomper/Megabug - 4000 Power
+(This card enters your mana zone tapped.)
+Turbo Boost - Whenever one of your other creatures enters the battle zone, it gets +2000 power and "Fast Attack" until the end of the turn. (A creature that has "Fast Attack" can attack on the turn it enters the battle zone.)
+Stonesaur - Level 3
+Creature - Rock Brute - 2000 Power
+Powerful Attack +2000 (While attacking, this creature gets +2000 power.)
+Stormdiver - Level 3
+Creature - Attack Raptor - 1000 Power
+Shield Blast (Instead of putting this creature into your hand from a broken shield, you may summon it for free.)
+Powerful Attack +1000 (While attacking, this creature gets +1000 power.)
+Sunstrike - Level 6
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Choose target enemy creature. if it has power 5000 or less, banish it. Otherwise, tap it and it doesn't untap at the start of your opponent's next turn.
+Super Bazooka Volcanodon - Level 3
+Creature - Drakon - 1000 Power
+Powerful Attack +4000 (While attacking, this creature gets +4000 power.)
+Supreme Dragon Bolshack - Level 9
+Creature - Armored Dragon - 12000 Power
+Fast Attack, Triple Breaker
+Rally the Dragonflight - When this creature becomes the target of an opponent's spell or ability, search your deck. You may take a non-evolution Armored Dragon that is level 7 or less from your deck and put it into the battle zone. Then shuffle your deck.
+Taksha, Scourge Gunner - Level 2
+Evolution Creature - Shadow Champion/Berserker - 6000 Power
+(This card enters your mana zone tapped.)
+Vortex Evolution - Put on 2 of your Darkness and/or Fire creatures.
+Double Breaker
+Calibrate - Whenever this creature attacks, you may discard a card. If you do, draw 2 cards.
+Snipe - Whenever a player discards a card, target enemy creature gets -1000 power until the end of the turn.
+Tatsurion - Level 6
+Creature - Armored Dragon/Beast Kin - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Fury Charge - This creature can attack tapped creatures on the turn it enters the battle zone.
+Tatsurion the Brawler - Level 6
+Creature - Armored Dragon/Beast Kin - 7000 Power
+(This card enters your mana zone tapped.)
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Double Breaker (This creature breaks 2 shields.)
+Fierce Friend - Whenever one of your creatures that has "Scaradorable" or "Glu-urrgle" in its name is attacked, untap this creature, and this creature gets +5000 power until the end of the turn.
+Tatsurion the Champion - Level 6
+Creature - Armored Dragon/Beast Kin - 6000 Power
+(This card enters you mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Stand and Fight - When this creature enters the battle zone, you may put the top card of your deck into your mana zone. If you do and it's a Fire card, this creature gets +2000 power and "Fast Attack" until the end of the turn. (A creature that has "Fast Attack" can attack on the turn it enters the battle zone.)
+Tatsurion the Relentless - Level 9
+Evolution Creature - Armored Dragon/Beast Kin - 13000 Power
+(This card enters your mana zone tapped.)
+Evolution - Put on one of your creatures that has "Tatsurion" in its name.
+Triple Breaker (This creature breaks 3 shields.)
+Weapons Blazing - When this creature wins a battle against a creature that has power 5000 or less, untap this creature and choose one of your opponent's shields. This creature breaks that shield.
+Tatsurion the Unchained - Level 7
+Creature - Armored Dragon/Beast Kin - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Howitzer - When this creature enters the battle zone, banish target enemy creature that has power 4000 or less.
+Who's Next? — Whenever this creature wins a battle for the first time each turn, untap it.
+Technoraptor - Level 4
+Creature - Attack Raptor - 2000 Power
+Shield Blast (Instead of putting this creature into your hand from a broken shield, you may summon it for free.)
+The Disassembler - Level 4
+Creature - Burn Belly - 2000 Power
+Powerful Attack +3000 (While attacking, this creature gets +3000 power.)
+The Mystic of Fire - Level 6
+Creature - Mystic - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Fervor - Whenever you cast a Fire spell, choose one of your opponent's shields. This creature breaks that shield.
+Thunderaxe Shaman - Level 4
+Creature - Berserker/Beast Kin - 4000 Power
+(This card enters your mana zone tapped.)
+Might of Steel - Whenever one of your creatures wins a battle, all your creatures get "Powerful Attack +2000" until the end of the turn. (A creature that has "Powerful Attack +2000" gets +2000 power while attacking.)
+Might of Oak - All your creatures that have power 6000 or more have "Double Breaker." (A creature that has "Double Breaker" breaks 2 shields.)
+Thundering Clap - Level 3
+Spell
+Banish target enemy creature that has "Blocker."
+All your creatures get "Powerful Attack +1000" until the end of the turn. (A creature that has "Powerful Attack +1000" gets +1000 power while attacking.)
+Toolbot - Level 2
+Creature - Stomper - 2000 Power
+Torhelm, Stomper Elite - Level 2
+Evolution Creature - Stomper - 5000 Power
+Evolution - Put on one of your Fire creatures.
+Adaptive Weaponry - This creature can attack untapped creatures on the turn it enters the battle zone.
+Counterstrike - Whenever this creature becomes the target of an opponent's spell or ability, this creature breaks one of your opponent's shields.
+Tornado Flame - Level 5
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Banish target enemy creature that has power 5000 or less.
+Tracer Rounds - Level 2
+Spell
+Choose target untapped enemy creature. This turn, your creatures can attack it as though it were tapped.
+Twin-Cannon Maelstrom - Level 5
+Creature - Armored Dragon - 5000 Power
+Extra Cannons - All your other creatures have "Powerful Attack +2000.
+Unstable Rockhound - Level 3
+Creature - Cyber Virus/Rock Brute - 2000 Power
+(This card enters your mana zone tapped.)
+Viral Purge - When this creature is banished, you may return target creature from the battle zone to its owner's hand.
+Vectron Crawler - Level 4
+Creature - Cyber Virus/Stomper - 4000 Power
+(This card enters your mana zone tapped.)
+Recon Scan - Whenever this creature becomes blocked, you may draw a card.
+Strafing Run - Whenever this creature attacks and isn't blocked, banish target enemy creature that has power 3000 or less.
+Victory Gunner - Level 5
+Evolution Creature - Stomper/Beast Kin - 5000 Power
+(This card enters your mana zone tapped.)
+Evolution - Put on one of your Stompers or Beast Kin.
+Reload - Whenever this creature becomes tapped for the first time each turn, untap it.
+Mana-Charged Rounds - Whenever this creature attacks, you may put the top card of your deck into your mana zone.
+Volcano Dervish - Level 4
+Evolution Creature - Skyforce Champion/Melt Warrior - 6500 Power
+(This card enters your mana zone tapped.)
+Evolution - Put on one of your Skyforce Champions or Melt Warriors.
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Double Breaker (This creature breaks 2 shields.)
+Molten Core - At the end of each of your turns, untap this creature.
+Volcano Trooper - Level 5
+Creature - Berserker - 4000 Power
+Stoked - Whenever an enemy creature leaves the battle zone, this creature gets "Powerful Attack +2000" and "Double Breaker" until the end of the turn. (It gets +2000 power while attacking and breaks 2 shields.)
+Vorg - Level 2
+Creature - Berserker - 2000 Power
+Warchief Kyo - Level 6
+Creature - Berserker - 2000 Power
+Shield Blast
+Test of Might - When this creature enters the battle zone, you may have one of your creatures battle target enemy creature.
+Warmaster Tatsurion - Level 6
+Evolution Creature - Armored Dragon/Beast Kin - 9000 Power
+Evolution - Put on one of your Fire creatures.
+Double Breaker
+Unleash - Untap this creature. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Waylay - Level 2
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Banish target enemy creature that has power 2000 or less.
+Weaponized Razorcat - Level 2
+Creature - Stomper/Beast Kin - 4000 Power
+(This card enters your mana zone tapped.)
+Wildfire Valkyrie - Level 3
+Creature - Berserker - 3000 Power
+Fast Attack (This creature can attack on the turn it enters the battle zone.)
+Blazing Speed - At the end of the turn, return this creature from the battle zone to your hand.
+Wreck Mech - Level 2
+Creature - Stomper - 2000 Power
+Wrist-Rockets Tatsurion - Level 7
+Creature - Armored Dragon/Beast Kin - 5000 Power
+Rocket Launchers - When this creature enters the battle zone or whenever it attacks, banish target enemy creature that has power 2000 or less.
+XT-4 Brutefist - Level 3
+Creature - Dread Mask/Stomper - 3000 Power
+(This card enters your mana zone tapped.)
+Skull Spikes - Whenever this creature is attacked, it gets "Slayer" until the end of the turn. (When a creature that has "Slayer" loses a battle, banish the other creature.)
+Zombie Backhoe - Level 3
+Creature - Zombie/Stomper - 3000 Power
+(This card enters your mana zone tapped.)
+Wrecking Crew - Whenever a player discards a card, one of your creatures gets "Powerful Attack +3000" and "Double Breaker" until the end of the turn. (It gets +3000 power while attacking and breaks 2 shields.)
