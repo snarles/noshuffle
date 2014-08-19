@@ -1,0 +1,1040 @@
+Abyssal Scavenger - Level 5
+Creature - Trench Hunter/Chimera - 4000 Power
+(This card enters your mana zone tapped.)
+Scavenge - When this creature enters the battle zone, return a creature from your discard pile to your hand.
+Sneak - This creature can't be blocked.
+Abyssal Stalker Baleia - Level 6
+Creature - Leviathan/Specter - 6000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Aura of Dread - When this creature enters the battle zone, all your creatures get "Slayer" until the end of the turn. (When a creature that has "Slayer" loses a battle, banish the other creature.)
+Ethereal - This creature can't be blocked.
+Aeronaut Glu-urrgle - Level 8
+Creature - Cyber Lord - 8000 Power
+Double Breaker
+Frequent Flier - While you have 8 or more cards in hand, you may summon this creature from your hand for free.
+Special Delivery - While you have 8 or more cards in hand and this card is in your shield zone, it has "Shield Blast."
+Aeropica - Level 3
+Creature - Trench Hunter - 1000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Angler Cluster - Level 4
+Creature - Undertow Engine - 5000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Aqua Commando - Level 3
+Creature - Aquan - 1000 Power
+Liquid Body - If this creature would be banished, return it to your hand instead.
+Aqua Infiltrator - Level 4
+Creature - Aquan - 1000 Power
+Extract Data - Whenever this creature attacks, you may draw a card.
+Liquid Armor - If this creature would be banished, return it to your hand instead.
+Aqua Initiate - Level 1
+Creature - Aquan - 2000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Aqua Inquisitor - Level 5
+Evolution Creature - Aquan - 6000 Power
+Evolution - Put on one of your Water creatures.
+Double Breaker (This creature breaks 2 shields.)
+Unleash - Draw a card. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Aqua Knight - Level 5
+Creature - Aquan - 3000 Power
+Liquid Armor - If this creature would be banished, return it to your hand instead.
+Aqua Rider - Level 4
+Creature - Aquan - 2000 Power
+Remount - If this creature would be banished, return it to your hand instead.
+Aqua Scout - Level 5
+Creature - Aquan - 4000 Power
+Phase Beacon - Whenever this creature attacks, choose one of your other creatures. It can't be blocked this turn.
+Aqua Seneschal - Level 3
+Creature - Cyber Lord - 2000 Power
+Choten's Advisor - Whenever this creature attacks, you may draw a card.
+Aqua Soldier - Level 2
+Creature - Aquan - 1000 Power
+Aqua Strider - Level 2
+Creature - Enforcer/Aquan - 4000 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Aqua Swordsman - Level 4
+Creature - Aquan - 3000 Power
+Aqua Trickster - Level 2
+Creature - Corrupted/Aquan - 1000 Power
+Aqua Trooper XJ-3 - Level 5
+Creature - Aquan/Stomper - 2000 Power
+(This card enters your mana zone tapped.)
+Powerful Attack +3000 (While attacking, this creature gets +3000 power.)
+Reassemble - If this creature would be banished, return it to your hand instead.
+Aqua-Ranger Commander - Level 5
+Evolution Creature - Aquan - 7000 Power
+Evolution - Put on one of your Aquans.
+Double Breaker (This creature breaks 2 shields.)
+Tactical Expert - This creature can't be blocked.
+Aqua-Reflector Nomulos - Level 6
+Creature - Aquan - 2000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Frontline Recon - When this creature enters the battle zone, you may draw a card.
+Liquid Armor - If this creature would be banished, return it to your hand instead.
+Aquatic Expulsion - Level 6
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Return up to 2 target creatures that are level 3 or less from the battle zone to their owners' hands.
+Ba'kaar Frostwing - Level 8
+Creature - Tsunami Dragon/Earthstrike Dragon - 11000 Power
+(This card enters you mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Frozen Field - This creature can't be blocked by creatures that have less power than it.
+Ice Wave - Whenever this creature wins a battle, you may draw 2 cards.
+Bad Apple - Level 4
+Creature - Corrupted/Wild Veggie - 3000 Power
+(This card enters your mana zone tapped.)
+Rotten to the Core - All your Wild Veggies in the battle zone are Corrupted creatures in addition to their other creature types.
+Scattered Seeds - Whenever one of your Corrupted creatures attacks, you may put the top card of your deck into your mana zone.
+Ballistic Skyterror - Level 4
+Creature - Corrupted/Attack Raptor - 5000 Power
+(This card enters your mana zone tapped.)
+Bladefish - Level 3
+Creature - Trench Hunter - 2000 Power
+Blitz Commando - Level 3
+Creature - Corrupted/Stomper - 1000 Power
+(This card enters you mana zone tapped.)
+Charge! - All your Corrupted creatures have "Fast Attack." (A creature that has "Fast Attack." can attack on the turn it enters the battle zone.)
+Bloomwarden - Level 3
+Creature - Cyber Virus/Tree Kin - 4000 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Mana Infused - If this creature would be banished, put it into your mana zone instead.
+Borran, the Reality Shaper - Level 8
+Creature - Earth Eater/Colossus - 9000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Transform Essence - Whenever this creature or one of your other creatures is banished, you may reveal the top card of your deck. If it's a non-evolution creature, put it into the battle zone. If it's not, put it into your hand.
+Bottle of Wishes - Level 5
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Shuffle your deck, then reveal the top card. If it's a non-evolution creature, put it into the battle zone. If it's a spell that is level 7 or less, cast it for free. Otherwise, put it into your hand.
+Bronze-Arm Renegade - Level 2
+Creature - Corrupted/Beast Kin - 2000 Power
+(This card enters your mana zone tapped.)
+Mana Extraction - Each time one of your Corrupted creatures would be banished, put it into your mana zone instead.
+Buoyant Blowfish - Level 4
+Creature - Trench Hunter - 3000 Power
+Captain Orwellia - Level 3
+Creature - Aquan - 3000 Power
+Inquisitive - When this creature enters the battle zone, each player draws a card.
+Captive Squill - Level 4
+Creature - Corrupted/Aquan - 3000 Power
+Cetus the Augur - Level 3
+Evolution Creature - Celestial Dragon/Leviathan - 7500 Power
+(This card enters your mana zone tapped.)
+Vortex Evolution - Put on 2 of your Light and/or Water creatures.
+Double Breaker (This creature breaks 2 shields.)
+Align the Stars - When this creature enters the battle zone, look at the top 2 cards of your deck. Put one of them into your hand and the other into your shield zone face down as a new shield.
+Change-o-bot Glu-urrgle - Level 9
+Evolution Creature - Cyber Lord - 9000 Power
+Evolution - Put on one of your Water creatures.
+Double Breaker
+Unleash - Name a card. Then reveal cards from the top of your deck until you reveal that card. Put all the revealed cards into your hand. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Choten's Stalker Sphere - Level 5
+Creature - Corrupted/Enforcer - 3000 Power
+(This card enters your mana zone tapped.)
+Subverted Network - All your Corrupted creatures have "Blocker." (You may tap a creature that has "Blocker" to change an enemy creature's attack to it.)
+Citizen Tokori - Level 4
+Creature - Aquan - 3000 Power
+Advocate of Water - Each of your other Water creatures gets +1000 power.
+Cloaked Saboteur - Level 5
+Creature - Aquan - 2000 Power
+Shield Blast (Instead of putting this creature into your hand from a broken shield, you may summon it for free.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Coral-Claw - Level 4
+Creature - Trench Hunter - 3000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Memory Strands - When this creature is banished, draw a card.
+Cranky Leviathan - Level 2
+Creature - Leviathan - 4000 Power
+Territorial - When this creature enters the battle zone, return one of your creatures from the battle zone to your hand.
+Crusader Engine - Level 8
+Creature - Battle Sphere/Undertow Engine - 6000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Unblinking - At the end of each of your turns, untap this creature.
+Unstoppable - If this creature would be banished, return it to your hand instead.
+Cryo-Nucleus - Level 6
+Creature - Cyber Complex - 2000 Power
+Shield Blast (Instead of putting this creature into your hand from a broken shield, you may summon it for free.)
+Chill - When this creature enters the battle zone, target enemy creature can't attack or block until the start of your next turn.
+Cryptic Worm - Level 4
+Creature - Cyber Virus/Rot Worm - 5000 Power
+(This card enters your mana zone tapped.)
+Crystal Memory - Level 4
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Search your deck. Take a card from it and put that card into your hand. Then, shuffle your deck.
+Crystal Pulse - Level 5
+Spell
+(This card is put into you mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Reveal the top card of your deck. If it's a spell that has "Shield Blast," cast it for free. Otherwise, put it into your mana zone.
+Crystalize - Level 5
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Return target creature from the battle zone to its owner's hand. Then that player chooses a card from his or her hand and puts it into his or mana zone.
+Cyber Cyclones - Level 4
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Choose one of your creatures in the battle zone and return it to your hand. Then your opponent chooses one of his or her creatures in the battle zone. Return that creature to your opponent's hand.
+Cyber Lord Corile - Level 3
+Creature - Cyber Lord - 2000 Power
+Shield Tactics - When this creature enters the battle zone, you may choose one of your shields and put it into your hand. If you do, put a card from your hand into your shield zone down as as new shield.
+Cyber Lord Wakiki - Level 6
+Creature - Cyber Lord - 3000 Power
+Strong Arm - When this creature enters the battle zone, enemy creatures don't untap at the start of your opponent's next turn.
+Cyber Savant - Level 2
+Creature - Cyber Lord - 3000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Decipher - Whenever you cast a spell, look at the top card of your deck. You may put that card on the the bottom of your deck.
+Cyber Scamp - Level 2
+Creature - Cyber Lord - 1000 Power
+Ditto - Whenever your opponent casts a spell, search your deck. You may take a creature named Cyber Scamp from your deck and put that creature into the battle zone. Then shuffle your deck.
+Cyber Seer - Level 5
+Creature - Cyber Lord - 3000 Power
+Eye of Logos - Whenever you cast a spell, you may draw a card. If you do, discard a card.
+Cyber Sprite - Level 1
+Creature - Cyber Lord - 2000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Cyber Trader - Level 2
+Creature - Cyber Lord - 1000 Power
+Idea Exchange - When this creature enters the battle zone, you may draw a card. If you do, discard a card.
+Cyber Trooper - Level 3
+Creature - Cyber Lord/Stomper - 1000 Power
+(This card enters your mana zone tapped.)
+Powerful Attack +3000 (While attacking, this creature gets +3000 power.)
+Threat Analysis - Whenever this creature attacks, look at the top card of your opponent's deck.
+Cyber Walker Kaylee - Level 3
+Creature - Cyber Lord/Stomper - 1000 Power
+(This card enters your mana zone tapped.)
+Powerful Attack +2000 (While attacking, this creature gets +2000 power.)
+Fists of Fury - This creature can attack tapped creatures on the turn it enters the battle zone.
+Eject - If this creature would be banished, return it to your hand instead.
+Cybergrid Bandit - Level 2
+Creature - Cyber Lord - 1000 Power
+Cybersphere Dragon - Level 7
+Creature - Tsunami Dragon - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Uplink - If this creature would be banished, return it to your hand instead.
+Deathtongue Leech - Level 5
+Evolution Creature - Corrupted/Rot Worm - 6000 Power
+(This card enters your mana zone tapped.)
+Evolution - Put on one of your Corrupted creatures or Rot Worms.
+Double Breaker (This creature breaks 2 shields.)
+Insatiable - Whenever this creature or one of your other Corrupted creatures enters the battle zone, target enemy creature gets -2000 power until the end of the turn. (A creature that has power 0 or less is banished.)
+Deep Mind Probe - Level 3
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Look at the top 3 cards of your deck. Put one of them into your hand, one on the top of your deck, and one on the bottom of your deck.
+Deep-Currents Drifter - Level 3
+Creature - Cyber Virus - 2000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Powerful Block +3000 (While blocking, this creature gets +3000 power.)
+Guard (This creature can't attack.)
+Dragon Engine Glu-urrgle - Level 5
+Evolution Creature - Cyber Lord/Armored Dragon - 10000 Power
+(This card enters your mana zone tapped.)
+Vortex Evolution - Put on 2 of your Water and/or Fire creatures.
+Double Breaker
+Clockwork Brain - Whenever one of your creatures attacks, you may draw a card.
+Armored Scales - Whenever you draw a card, choose one of your creatures. Until the start of your next turn, if that creature would be banished, return it to your hand instead.
+Dragon of Reflections - Level 7
+Creature - Tsunami Dragon - 7000 Power
+Double Breaker (This creature breaks 2 shields.)
+Shield Shift - When this creature enters the battle zone, you may choose one of your shields and put it into your hand. If you do, put a card from your hand into your shield zone face down as a new shield.
+Dreamfish - Level 4
+Creature - Trench Hunter - 3000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Visions - Whenever this creature blocks, you may draw a card.
+Elevan the Seeker - Level 5
+Creature - Enforcer/Cyber Lord - 3000 Power
+(This card enters your mana zone tapped.)
+Stun - When this creature enters the battle zone, tap target enemy creature.
+Pathfind - When this creature enters the battle zone, choose one of your other creatures. It can't be blocked this turn.
+Emergency Protocol - Level 7
+Spell
+(This card enters your mana zone tapped.)
+Draw up to 2 cards.
+Choose up to 2 of your shields, then break them.
+Emperor Axon - Level 4
+Evolution Creature - Cyber Lord - 6000 Power
+Evolution - Put on one of your Cyber Lords.
+Double Breaker (This creature breaks 2 shields.)
+Emperor Dendrite - Level 5
+Evolution Creature - Cyber Lord - 6000 Power
+Evolution - Put on one of your Cyber Lords.
+Double Breaker (This creature breaks 2 shields.)
+Hydrojet - When this creature enters the battle zone, you may return target creature that is level 5 or less from the battle zone to its owner's hand.
+Emperor Neuron - Level 3
+Evolution Creature - Cyber Lord - 5000 Power
+Evolution - Put on one of your Cyber Lords.
+Master Tactician - This creature can't be blocked.
+Extract Data - Whenever this creature attacks, you may draw a card.
+Emperor Palata - Level 3
+Evolution Creature - Cyber Lord/Earth Eater - 6000 Power
+Vortex Evolution - Put on 2 of your Water creatures.
+Double Breaker (This creature breaks 2 shields.)
+Unleash - Look at the top 3 cards of your deck. Put 2 of them into your hand and the other on the bottom of your deck. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Engulf - Level 3
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Your opponent chooses on of his or her untapped creatures in the battle zone. Return that creature to your opponent's hand.
+Enslaved Flametropus - Level 5
+Creature - Corrupted/Rock Brute - 4000 Power
+(This card enters your mana zone tapped.)
+Lava Wave - While you have only Corrupted creatures in the battle zone, this creature has "Powerful Attack +4000" and "Double Breaker." (A creature that has "Powerful Attack +4000" and "Double Breaker" gets +4000 power while attacking and breaks 2 shields.)
+Essence Shade - Level 3
+Creature - Corrupted/Specter - 2000 Power
+(This card enters your mana zone tapped.)
+Creeping Shadows - Each of your Corrupted creatures gets +1000 power.
+Ethereal Agent - Level 3
+Creature - Cyber Virus - 1000 Power
+Snoop - When this creature enters the battle zone, choose one of your opponent's shields and look at it.
+Sneak - This creature can't be blocked.
+Snag - Whenever this creature attacks, you may draw a card.
+Exalarc, Grand Metachron - Level 4
+Creature - Aquan - 3000 Power
+Time Dynamo - Whenever this creature attacks, you may return one of your other creatures from the battle zone to your hand. If you do, reveal a number of cards from the top of your deck equal to that creature's level. Choose a spell from among the revealed cards whose level is less than or equal to that creature's level, and put the rest on the bottom of your deck in any order. Then cast that spell for free.
+Eye of the Tides - Level 2
+Creature - Cyber Virus - 1000 Power
+Fallen Keeper - Level 3
+Creature - Corrupted/Storm Patrol - 1000 Power
+(This card enters your mana zone tapped.)
+Infusion Beams - At the end of each of your turns, untap all your Corrupted creatures.
+Fate's Hand - Level 2
+Spell
+(This card enters your mana zone tapped.)
+Choose target creature. If it has power 3000 or less, return it to its owner's hand. Otherwise, it gets -3000 power until the end of the turn.
+Featherfin Stalker - Level 4
+Creature - Trench Hunter/Tarborg - 3000 Power
+(This card enters your mana zone tapped.)
+Slayer (When this creature loses a battle, banish the other creature.)
+Secrets Slicer - Whenever this creature attacks, you may draw a card.
+Finbarr's Dreadnought - Level 8
+Creature - Cyber Complex - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Data Nexus - When this creature enters the battle zone, you may draw 2 cards.
+Regeneration Chamber - Each time one of your other creatures would be be banished, return it to your hand instead.
+Finbarr, Council of Logos - Level 4
+Creature - Cyber Lord - 2000 Power
+Council Decree — Each of your other Cyber Lords gets +2000 power.
+Flame Serpent - Level 5
+Creature - Tsunami Dragon/Armored Dragon - 4000 Power
+(This card enters your mana zone tapped.)
+Powerful Attack +3000 (While attacking, this creature gets +3000 power.)
+Double Breaker (This creature breaks 2 shields.)
+Volcanic Current - Your first creature that attacks each turn can't be blocked.
+Flame-Vent Diver - Level 2
+Creature - Trench Hunter/Drakon - 3000 Power
+(This card enters your mana zone tapped.)
+Flamespitter - Level 4
+Creature - Undertow Engine/Burn Belly - 1000 Power
+(This card enters your mana zone tapped.)
+Fast Attack (This creature can attack on the turn it enters the battle zone.)
+Ransack - Whenever this creature attacks, you may draw a card.
+Fluorogill Manta - Level 3
+Creature - Trench Hunter - 4000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Forgotten Chief - Level 5
+Creature - Corrupted/Spirit Totem - 5000 Power
+(This card enters your mana zone tapped.)
+Dreadful Chant - Each of your Corrupted creatures can't be blocked by creatures that have less power than it.
+Forklift Tank Glu-urrgle - Level 6
+Creature - Cyber Lord - 4000 Power
+Pedal to the Metal - Whenever this creature attacks, you may have your opponent put the top card of his or her deck into his or her discard pile. If that card is a creature, return target enemy creature to your opponent's hand. If that card isn't a creature, draw a card.
+Frantic Blast - Level 7
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Reveal the top card of your deck. If it's a creature, banish target enemy creature that has less power than it. Put the revealed card into your hand.
+Freakish Test Subject - Level 3
+Creature - Cyber Lord/Chimera - 1000 Power
+(This card enters your mana zone tapped.)
+Slayer (When this creature loses a battle, banish the other creature.)
+Warped Reality - This creature can't be blocked.
+Frogzooka - Level 4
+Creature - Trench Hunter - 5000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Frostburn Quartz - Level 4
+Creature - Spirit Quartz - 3000 Power
+(This card enters the mana zone tapped.)
+Sapphire Shine - Each of your other Water creatures gets +1000 power.
+Ruby Glow - Each of your other Fire creatures gets +1000 power.
+Garglevision - Level 1
+Spell
+Draw a card.
+General Charzon - Level 6
+Evolution Creature - Corrupted/Armored Dragon - 5000 Power
+(This card enters your mana zone tapped.)
+Evolution - Put on one of your Corrupted creatures or Armored Dragons.
+Corrupted Commander - All of your Corrupted creatures have "Powerful Attack +5000" and "Double Breaker". (A creature that has "Powerful Attack +5000" and "Double Breaker" gets +5000 power while attacking and breaks 2 shields.)
+General Finbarr - Level 6
+Creature - Cyber Lord - 4000 Power
+Finbarr's Hoverhex - When this creature enters the battle zone, you may return target creature from the battle zone to its owner's hand.
+Finbarr's Command - Whenever one of your other creatures attacks, you may draw a card
+Gilded Archon - Level 7
+Creature - Storm Patrol/Cyber Lord - 6500 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Spell Echo - When this creature enters the battle zone, you may choose a spell in your discard pile that is level 3 or less and cast it for free. If you do, put it on the bottom of your deck instead of into your discard pile after you cast it.
+Glu-urrgle 2.0 - Level 4
+Evolution Creature - Cyber Lord - 5000 Power
+Evolution - Put on one of your Cyber Lords.
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Gaggle of Gargles - When this creature enters the battle zone, look at the top 4 cards of your deck. You may reveal any number of creatures from among them that have "Glu-urrgle" in their names to your hand and put the rest on the bottom of your deck in any order.
+Gobblemaw - Level 7
+Creature - Earth Eater - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Grip of Despair - Level 5
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Return target creature from the battle zone to its owner's hand. Then that player chooses and discards a card
+Grybolos the Gatherer - Level 7
+Creature - Aquan/Tarborg - 7000 Power
+(This card enters your mana zone tapped.)
+Double Breaker
+Spell-Scrounge - When this creature enters the battle zone, each player puts the top card of his or her deck into his or her discard pile. For each spell put into a discard pile this way, you may draw a card.
+Guardian Rusalka - Level 5
+Creature - Trench Hunter - 3000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Psionic Rebuke - When this creature enters the battle zone, you may return target creature from the battle zone to its owner's hand.
+Hazard Crawler - Level 7
+Creature - Earth Eater - 4000 Power
+Burrow - This creature can't be attacked or blocked.
+Heretic Prince Var-rakka - Level 8
+Creature - Cyber Lord/Armored Dragon - 9000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Fast Attack (This creature can attack on the turn it enters the battle zone.)
+Heatwave - All your other creatures have "Fast Attack."
+Overheat - At the end of each of your turns, choose one of your creatures in the battle zone and return it to your hand.
+Hokira, Council of Logos - Level 5
+Creature - Cyber Lord - 3000 Power
+Master Planner - At the start of each of your turns, if you have 3 or more Cyber Lords in the battle zone, you may draw 2 cards.
+Hovercraft Glu-urrgle - Level 3
+Creature - Cyber Lord - 1000 Power
+Hovercraft Rescue - Each time one of your other creatures loses a battle and would be banished, return it to your hand instead.
+Hydro Spy - Level 4
+Creature - Cyber Lord - 1000 Power
+Subsea Recon - When this creature enters the battle zone, you may draw a card.
+Hydrobot Crab - Level 5
+Creature - Undertow Engine - 4000 Power
+Hydrobot Elite - Level 6
+Creature - Undertow Engine - 5000 Power
+Hydrobot Nautilus - Level 3
+Creature - Undertow Engine - 2000 Power
+Hydrobot Scarab - Level 6
+Creature - Undertow Engine/Megabug - 4000 Power
+(This card enters your mana zone tapped.)
+Gathering Swarm - When this creature enters the battle zone, you may draw a card for each other creature you have in the battle zone.
+Hypergrid Hacker - Level 2
+Creature - Cyber Lord - 1000 Power
+Cybernetic Gateway - When this creature enters the battle zone, choose one of your creatures. If that creature would be banished this turn, return it to your hand instead.
+Hypnobot - Level 5
+Creature - Undertow Engine - 4000 Power
+Mesmerizing - When this creature enters the battle zone, each player chooses a card from his or her hand and puts it on top of his her deck.
+Ice Blade - Level 2
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Return target creature that is level 4 or less from the battle zone to its owner's hand.
+Ice Launcher - Level 5
+Creature - Aquan - 3000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Icebelly Blowfish - Level 4
+Evolution Creature - Trench Hunter - 5000 Power
+Evolution - Put on one of your Water creatures.
+Unleash - Return target creature to its owner's hand. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Issyl of the Frozen Wastes - Level 8
+Creature - Tsunami Dragon - 11000 Power
+Double Breaker (This creature breaks 2 shields.)
+Arctic Winds - While this creature is tapped, enemy creatures don't untap at the start of your opponent's turn.
+Kalorth, Lord of Tides - Level 5
+Evolution Creature - Tsunami Dragon - 8000 Power
+Evolution - Put on one of your Water creatures.
+Double Breaker (This creature breaks 2 shields.)
+Evo Escape - Each time one of your evolution creatures would be banished, return it to your hand instead.
+Kindrix the Psionic - Level 6
+Evolution Creature - Tsunami Dragon - 9000 Power
+Evolution - Put on one of your Dragons.
+Double Breaker (This creature breaks 2 shields.)
+Psionic Aura - This creature can't be blocked.
+Mindhack - At the end of each of your turns, you may draw a card for each shield that was broken that turn.
+King Alboran - Level 7
+Creature - Leviathan - 7000 Power
+Double Breaker (This creature breaks 2 shields.)
+Forecast - At the start of each of your turn, look at the top card of your deck. You may put put that card on the bottom of your deck.
+Waterspout - Whenever you cast a spell, you may return target creature that is the same level as that spell from the battle zone to its owner's hand.
+King Barnacle - Level 5
+Creature - Leviathan - 5000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Reef Salvage - When this creature enters the battle zone and whenever it blocks, you may draw a card.
+King Bullfang - Level 6
+Creature - Leviathan - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+King Coral - Level 7
+Creature - Leviathan - 5000 Power
+Tail Smash - Whenever this creature or one of your other Leviathans enters the battle zone, return all creatures that are level 4 or less from the battle zone to their owners' hands.
+King Nautilus - Level 7
+Creature - Leviathan - 5000 Power
+Sunken Treasure - Whenever this creature attacks, you may draw 2 cards.
+King Neptas - Level 5
+Creature - Leviathan - 5000 Power
+Spiked Shell - This creature can't be the target of your opponent's spells and abilities.
+King Pontias - Level 6
+Creature - Leviathan - 4000 Power
+Dive Deep - This creature can't be blocked.
+King Poseidon - Level 8
+Creature - Leviathan - 11000 Power
+Double Breaker (This creature breaks 2 shields.)
+Overwhelming Current - Whenever one of your other creatures loses a battle, return the winning creature to its owner’s hand.
+King Tritonus - Level 10
+Creature - Monarch/Leviathan - 15000 Power
+Triple Breaker (This creature breaks 3 shields.)
+Towering Intellect - When this creature enters the battle zone, draw up to 5 cards.
+Constrict - Whenever you cast a spell, target enemy creature can't attack or block until the start of your next turn.
+Water Monarch - Each of your other Water creatures gets +4000 power.
+King Tsunami - Level 9
+Creature - Leviathan - 8000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Double Breaker (This creature breaks 2 shields.)
+Kivu, Ingenious Shaman - Level 7
+Creature - Cyber Virus/Spirit Totem - 7000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Mana Guide - When this creature enters the battle zone, you may choose a card in your mana zone and return it to your hand. If you do, put the top card of your deck into your mana zone.
+Knowledge Warden - Level 3
+Creature - Aquan - 2000 Power
+Kolani, Dragon Oracle - Level 7
+Creature - Tsunami Dragon - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Whispering Waves - When this creature enters the battle zone, look at the top 2 cards of your deck. Put one of them into your hand and the other on top of your deck.
+Krazzix the Volatile - Level 6
+Creature - Riptide Champion/Blaze Champion - 6000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Superheated Steam - Whenever you draw a card, this creature gets "Powerful Attack +2000" until the end of the turn.
+Massive - While this creature has power 12000 or more, it has "Triple Breaker."
+Krotork the Mirror - Level 3
+Evolution Creature - Tsunami Dragon/Armored Dragon - 6000 Power
+(This card enters your mana zone tapped.)
+Vortex Evolution - Put on 2 of your Water and/or Fire creatures.
+Double Breaker
+Reimage - Whenever you cast a spell from your hand, you may then cast that spell from your discard pile for free.
+Liquid Compulsion - Level 9
+Spell
+Look a the top 3 cards of your deck. You may put a non-evolution creature from among them into the battle zone. Put the rest into your hand.
+Logos Lookout - Level 3
+Creature - Cyber Lord - 2000 Power
+Sneak a Peek - When this creature enters the battle zone, look at the top card of your deck. You may put that card on the bottom of your deck.
+Logos Scan - Level 3
+Spell
+Draw 2 cards.
+Lore-Strider - Level 4
+Creature - Cyber Lord/Spirit Totem - 4000 Power
+(This card enters the mana zone tapped.)
+Vitalize - Whenever this creature attacks, you may draw a card.
+Mana Infused - If this creature would be banished, put it into your mana zone instead.
+Luminar Unleashed - Level 5
+Evolution Creature - Corrupted/Enforcer - 7000 Power
+(This card enters your mana zone tapped.)
+Evolution - Put on one of your Corrupted creatures or Enforcers.
+Double Breaker (This creature breaks 2 shields.)
+Holo-Decoys - Whenever one of your Corrupted creatures attacks, tap target enemy creature.(First choose what your creature is attacking. Then tap the target creature.)
+Magglekax - Level 6
+Evolution Creature - Earth Eater/Tarborg - 8000 Power
+(This card enters your mana zone tapped.)
+Vortex Evolution — Put on 2 of your Water and/or Darkness creatures.
+Double Breaker (This creature breaks 2 shields.)
+Regurgitate - When this creature enters the battle zone and whenever it attacks, your opponent chooses and discards a card. Then you draw a card.
+Magnet Mech Glu-urrgle - Level 6
+Creature - Cyber Lord - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Magnetic Grapple - Whenever this creature attacks and isn't blocked, you may return target creature that is level 5 or less from the battle zone to its owner's hand.
+Man o' Warden - Level 4
+Creature - Cyber Virus - 4000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Clone Swarm - When this creature is banished, you may put a creature named Man o' Warden from your hand into the battle zone.
+Mar-Blurpa the Weaponsmith - Level 6
+Creature - Earth Eater/Drakon - 3000 Power
+(This card enters your mana zone tapped.)
+Ingenuity - When this creature enters the battle zone, you may draw a card.
+Flame Jet - When this creature enters the battle zone, banish target enemy creature that has power 2000 or less.
+Mark of Tritonus - Level 8
+Spell
+Choose one:
+* Put a creature named King Tritonus from your hand into the battle zone.
+* Draw 3 cards.
+Master Trader Cephalia - Level 5
+Creature - Cyber Lord - 2000 Power
+Shrewd Investment - When this creature enters the battle zone, if your opponent has more cards in hand than you, you may draw cards equal to the difference. Then you may draw a card.
+Memory Keeper - Level 2
+Creature - Storm Patrol/Cyber Virus - 2500 Power
+(This card enters your mana zone tapped.)
+Memory Swarm - Level 3
+Creature - Cyber Virus - 1000 Power
+Thought Blind - This creature can't be blocked.
+Metroplex Operative - Level 5
+Creature - Cyber Lord - 1000 Power
+Shield Blast (Instead of putting this creature into your hand from a broken shield, you may summon it for free.)
+Investigate - When this creature enters the battle zone, you may draw a card.
+Metroplex Scout - Level 3
+Creature - Cyber Lord - 2000 Power
+Analyze - When this creature enters the battle zone, you may draw a card. If you do, discard a card.
+Midnight Crawler - Level 6
+Creature - Earth Eater - 4000 Power
+Hybrid Reactor - Whenever this creature attacks, you may draw a number of cards equal to the number of enemy creatures in the battle zone.
+Milporo, Council of Logos - Level 7
+Creature - Cyber Lord - 2000 Power
+Telepathic Order - When this creature enters the battle zone, put target enemy creature on top of your opponent's deck.
+Mind Censor - Level 5
+Creature - Cyber Virus/Shadow Champion - 4000 Power
+(This card enters your mana zone tapped.)
+Displace Memory - Whenever an enemy creature leaves the battle zone, your opponent chooses and discards a card.
+Mind Core - Level 5
+Spell
+Draw 2 cards. If you have an evolution creature in the battle zone, draw another 2 cards.
+Mistvine Quartz - Level 4
+Creature - Spirit Quartz - 3000 Power
+(This card enters the mana zone tapped.)
+Sappire Shine - Each of your other Water creatures gets +1000 power.
+Jade Luster - Each of your other Nature creatures gets +1000 power.
+Morphing Pod - Level 6
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Put target creature on the bottom of its owner's deck. That player reveals cards from the top of his or her deck until a non-evolution creature of the same level or less is revealed. That player puts the revealed creature into the battle zone, then shuffles the remaining revealed cards and puts them on the bottom of his or her deck.
+Mother Virus - Level 5
+Creature - Cyber Virus - 5000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Evo Archive - At the end of each of your turns, if you have an evolution creature in the battle zone, you may draw a card.
+Neural Helix - Level 4
+Spell
+Choose one:
+* Draw 2 cards.
+* You may choose one of your shields and put it into your hand. If you do, put a card from your hand into your shield zone face down as a new shield.
+Neuron's Oracle - Level 3
+Creature - Cyber Lord - 2000 Power
+Gigantobrain - When this creature enters the battle zone, look at the top card of each player's deck.
+Nix - Level 3
+Creature - Fire Bird - 1000 Power
+Dragonsong - You tap 1 less mana card to summon Dragons.
+Issyl's Envoy - Whenever you put a Dragon into the battle zone, you may draw a card.
+Ocean Ravager - Level 6
+Evolution Creature - Earth Eater - 7000 Power
+Evolution - Put on one of your Water creatures.
+Double Breaker (This creature breaks 2 shields.)
+Unleash - Draw 2 cards. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Octobot Infiltrator - Level 6
+Creature - Corrupted/Undertow Engine - 4000 Power
+Mind Link - Whenever this creature or one of your other Corrupted creatures enters the battle zone, you may draw a card.
+Oktuska the Infused - Level 6
+Creature - Cyber Lord/Beast Kin - 3000 Power
+(This card enters your mana zone tapped.)
+Ingunity - When this creature enters the battle zone, you may draw a card.
+Mana Tendrils - When this creature enters the battle zone, you may put the top card of your deck into your mana zone.
+Optic Cell - Level 2
+Creature - Cyber Virus - 1000 Power
+Focal Link - Whenever you draw a card, this creature gets +1000 power until the end of the turn.
+Outpost Sentry - Level 4
+Creature - Aquan - 2000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Liquid Body - If this creature would be banished, return it to your hand instead.
+Panopter - Level 5
+Creature - Battle Sphere - 4500 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Spy Network - Whenever one of your other creatures that has "Blocker" enters the battle zone, you may draw a card.
+Phase Scout - Level 3
+Creature - Aquan - 2000 Power
+Portal Hop - This creature can't be blocked.
+Trailblaze - Whenever this creature attacks, choose one of your other creatures. It can't be blocked this turn.
+Piercing Judgment - Level 4
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Return target creature from the battle zone to its owner's hand.
+Tap target enemy creature.
+Pincer-Fin - Level 3
+Creature - Trench Hunter - 2000 Power
+Shield Blast (Instead of putting this creature into your hand from a broken shield, you may summon it for free.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Potato Gun Glu-urrgle - Level 4
+Creature - Cyber Lord - 3000 Power
+Spud Salvo - During each of your turns, at the start of each battle that includes this creature, return the other creature to its owner's hand.
+Predict - Level 1
+Spell
+Look at the top 4 cards of your deck and put them back in any order.
+Psychic Predator Rusalka - Level 4
+Creature - Trench Hunter - 2000 Power
+Psionic Lockdown - When this creature enters the battle zone and whenever it attacks, choose target enemy creature. It can't attack or block until the start of your next turn.
+Evasive - This creature can't be blocked.
+Queen Orion - Level 7
+Creature - Leviathan - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Abyssal Hunter - This creature can't be blocked.
+Queen Riptide - Level 7
+Creature - Leviathan - 7000 Power
+Double Breaker (This creature breaks 2 shields.)
+Shifting Tides - When this creature enters the battle zone and whenever it attacks, look at the top card of your deck. You may put that card on the bottom of your deck.
+Queen Sargasso - Level 5
+Creature - Leviathan - 4000 Power
+Paranoia - Whenever this creature attacks, look at the top card of your opponent's deck.
+Queen Taniwha - Level 6
+Creature - Leviathan - 4000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Submerge - If this creature would be banished, return it to your hand.
+Ramis the Cloaked - Level 5
+Creature - Cyber Lord/Shadow Champion - 5000 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Delete Memory - Whenever this creature blocks, your opponent chooses and discards a card.
+Rapids Lurker Wwhhshrll - Level 5
+Creature - Trench Hunter - 4000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Elusive - If this creature would be banished, return it to your hand instead.
+Recon Mission - Level 2
+Spell
+At the end of this turn, count the number of tapped creatures you have in the battle zone and draw that many cards.
+Reef Gladiator - Level 3
+Creature - Aquan - 3000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Heart of Water - While all cards in your mana zone are Water cards, this creature gets +3000 power and has "Whenever this creature blocks, you may draw a card."
+Reef Kraken - Level 5
+Creature - Leviathan - 3000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Ingenuity - When this creature enters the battle zone, you may draw a card.
+Reef Prince Glu-urrgle - Level 5
+Creature - Cyber Lord - 2000 Power
+Tech Support - When this creature enters the battle zone, look at the top 4 cards of your deck. You may put one of them into your hand. Put the rest on the bottom of your deck in any order.
+Reef Scout - Level 4
+Creature - Aquan - 2000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Subsea Recon - When this creature enters the battle zone, you may draw a card
+Reef-Eye - Level 2
+Creature - Trench Hunter - 3000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Reverberate - Level 6
+Spell
+(This card enters your mana zone tapped.)
+Draw a card for each shield you have.
+Rip Swirl - Level 3
+Spell
+Return target creature from the battle zone to its owner's hand.
+Runemaster Zyr - Level 7
+Creature - Tsunami Dragon - 7000 Power
+Double Breaker
+Combat Cognition - Whenever this creature attacks, you may cast a spell that is level 9 or less from your hand for free.
+Rusalka, Aqua Chaser - Level 4
+Creature - Trench Hunter - 1000 Power
+Psionic Rebuke - When this creature enters the battle zone, you may return target creature from the battle zone to its owner's hand.
+Sabotage Worm - Level 5
+Creature - Corrupted/Rot Worm - 2000 Power
+(This card enters your mana zone tapped.)
+Vile Denial - Whenever one of your Corrupted creatures attacks, your opponent chooses and discards a card.
+Saracon, Storm Dynamo - Level 8
+Creature - Skyforce Champion/Trench Hunter - 7500 Power
+(This card enters your mana zone tapped.)
+Blocker
+Double Breaker
+Distress Beacon - When this creature is banished, draw up to 3 cards.
+Saucer-Head Shark - Level 4
+Creature - Trench Hunter - 2000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Sawtooth Cyclone - Level 3
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Return target creature that has power 5000 or less from the battle zone to its owner's hand.
+Scalding Surge - Level 4
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Choose target enemy creature. If it has power 3000 or less, banish it. Otherwise, return it to your opponent's hand.
+Scavenging Cenophor - Level 7
+Creature - Earth Eater - 7000 Power
+Double Breaker (This creature breaks 2 shields.)
+Sift for Treasure - The first time you would draw a card during your turn, you may draw 3 cards instead. If you do, discard 2 cards.
+Scrutinize - Level 4
+Spell
+Look at the top 3 cards of your deck. Put 2 of them into your hand and the other on the bottom of your deck.
+Seacurse Quartz - Level 4
+Creature - Spirit Quartz - 3000 Power
+(This card enters your mana zone tapped.)
+Sapphire Shine - Each of your other Water creatures gets +1000 power.
+Onyx Shadow - Each of your other Darkness creatures gets +1000 power.
+Search the Depths - Level 3
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Look at the top 4 cards of your deck. Put one of them into your hand. Put the rest on the bottom of your deck in any order.
+Seneschal, Choten's Lieutenant - Level 4
+Creature - Corrupted/Cyber Lord - 3000 Power
+Second-in-Command - Whenever one of your Corrupted creatures attacks, you may draw a card.
+Cloaking Field - Each of your Corrupted creatures can't be the target of your opponent's spells that are level 4 or less.
+Shore Chomper - Level 2
+Evolution Creature - Earth Eater - 4000 Power
+Evolution - Put on one of your Water creatures.
+High Tide - This creature can't be blocked.
+Skarvos the Assassin - Level 5
+Creature - Aquan/Chimera - 3000 Power
+(This card enters your mana zone tapped.)
+Pathfind - When this creature enters the battle zone, choose one of your other creatures. It can't be blocked this turn.
+Envenom - When this creature enters the battle zone, choose one of your other creatures. It gets "Slayer" until the end of the turn. (When a creature that has "Slayer" loses a battle, banish the other creature.)
+Sky Shark - Level 6
+Creature - Storm Patrol/Undertow Engine - 5500 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Predatory Directive - All your creatures that have "Guard" or "Skirmisher" abilities can attack as though they didn't have those abilities.
+Skyvolt Mech - Level 2
+Creature - Corrupted/Mecha Thunder - 3000 Power
+(This card enters your mana zone tapped.)
+Snapping Eel - Level 4
+Creature - Trench Hunter - 3000 Power
+Gulp - Whenever this creature attacks, you may draw a card.
+Snow Fort - Level 7
+Creature - Cyber Complex - 9000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Snowball Fight - Whenever one of your creatures attacks, you may discard a card. If you do, target enemy creature can't attack or block until the start of your next turn.
+I'm Melting! - When an Armored Dragon or Melt Warrior attacks, banish this creature.
+Sopan, Cyber Renegade - Level 4
+Creature - Cyber Lord - 2000 Power
+Hacker - When this creature enters the battle zone, choose a shield and look at it.
+Spelljacker - Level 8
+Creature - Aquan/Specter - 4000 Power
+(This card enters your mana zone tapped.)
+Memory Probe - When this creature enters the battle zone, you may choose a spell in your opponent's discard pile and cast it for free. (Return that spell to your opponent's discard pile after you cast it.)
+Spy Mission - Level 4
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Draw 2 cards.
+Spy Tide - Level 3
+Spell
+Draw 3 cards. Then discard 2 cards.
+Squall Darter - Level 4
+Creature - Aquan/Megabug - 2000 Power
+Powerful Attack +2000 (While attacking, this creature gets +2000 power.)
+Swoop - This creature can't be blocked.
+Squillace Scourge - Level 9
+Creature - Leviathan/Chimera - 8000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Mindcrush - When this creature enters the battle zone, each player discards his or her hand.
+Tempest of Tentacles - When this creature enters the battle zone, your opponent can't attack or block with creatures until the start of your next turn.
+Steadfast Vorwhal - Level 4
+Creature - Leviathan - 4000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Powerful Block +2000 (While blocking, this creature gets +2000 power.)
+Guard (This creature can't attack.)
+Steam Star Grapplog - Level 4
+Creature - Cyber Virus - 2000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Stockade Virus - Level 3
+Creature - Cyber Virus - 1000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Sunspout Quartz - Level 4
+Creature - Spirit Quartz - 3000 Power
+(This card enters your mana zone tapped.)
+Opal Aura - Each of your other Light creatures gets +1000 power.
+Sapphire Shine - Each of your other Water creatures gets +1000 power.
+Swarming Rapids Lurker - Level 5
+Evolution Creature - Trench Hunter - 6000 Power
+Evolution - Put on one of your Water creatures.
+Blocker, Double Breaker
+Unleash - This creature gets +5000 power until the end of the turn and can't be blocked this turn.(To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Tainted Quartz - Level 4
+Creature - Corrupted/Spirit Quartz - 2000 Power
+(This card enters your mana zone tapped.)
+Choten's Serum - Each of your Corrupted creatures gets +2000 power.
+Tarvox the Voracious - Level 6
+Creature - Void Spawn/Earth Eater - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Vaporize - Whenever this creature attacks, you may clash with your opponent. If you won the clash, return target creature from the battle zone to its owner's hand. (To clash, each player reveals the top card of his or her deck, then puts it on the bottom. You win if your card had the same or higher level.)
+Telanar, the Stormer - Level 8
+Evolution Creature - Tsunami Dragon/Earthstrike Dragon - 11000 Power
+(This card enters your mana zone tapped.)
+Evolution - Put on one of your Tsunami Dragons or Earthstrike Dragons.
+Double Breaker (This creature breaks 2 shields.)
+Cascading Energy - Whenever one of your creatures that has power 6000 or more attacks, you may draw 2 cards.
+Teleport - Level 5
+Spell
+Return target creature from the battle zone to its owner's hand.
+Draw a card.
+Teleportation Equation - Level 7
+Spell
+Return up to 2 target creatures from the battle zone to their owners' hands.
+Temporal Tinkering - Level 2
+Spell
+Look at the top card of your deck. You may put it on the bottom of your deck. Then draw a card.
+Tenuous Trove - Level 3
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Draw 2 cards, then discard a card.
+The Chronarch - Level 6
+Creature - Survivor - 4000 Power
+Time Portal - At the end of each of your opponent's turns, you may draw a card. Then, if you have any shields, put one of them into your hand and put a card from your hand into your shield zone face down as a new shield.
+The Mystic of Water - Level 5
+Creature - Mystic - 3000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Inspiration - When this creature enters the battle zone, search your deck. You may reveal a Water spell from it and put that spell into your hand. Then shuffle your deck.
+The Reviled - Level 7
+Evolution Creature - Corrupted/Chimera - 6000 Power
+(This card enters your mana zone tapped.)
+Evolution - Put on one of your Corrupted creatures or Chimeras.
+Consume - For each Corrupted creature you have in your discard pile, tap 1 less mana card to summon this creature.
+Double Breaker (This creature breaks 2 shields.)
+Spawn - Whenever one of your Corrupted creatures attacks, choose a creature in your discard pile and return it to your hand.
+Thought Collective - Level 3
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Look at the top 5 cards of your deck. Put one of them into your hand. Put the rest on the bottom of your deck in any order.
+Thought Probe - Level 5
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Draw a number of cards equal to the number of enemy creatures in the battle zone.
+Tide Angler - Level 2
+Creature - Trench Hunter - 1000 Power
+Tide Gulper - Level 5
+Creature - Earth Eater - 4000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Powerful Block +3000 (While blocking, this creature gets +3000 power.)
+Guard (This creature can't attack.)
+Tide Seer - Level 2
+Creature - Aquan - 1000 Power
+Read the Shells - When this creature enters the battle zone, you may draw a card. If you do, discard a card.
+Time Rime - Level 3
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Target enemy creature can't attack or block until the start of your next turn.
+Time Tethers - Level 5
+Spells
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Up to 2 target enemy creatures can't attack or block until the start of your next turn.
+Trial and Error - Level 5
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Draw three cards. Then discard one card.
+Truthseeker Forion - Level 7
+Creature - Skyforce Champion/Cyber Lord - 6000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Spellsword - When this creature enters the battle zone, you may cast a spell that has "Shield Blast" from your hand for free.
+Tusked Nautiloid - Level 5
+Creature - Trench Hunter - 3000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Dredge - Whenever one of your creatures that has "Blocker" attacks, you may draw a card.
+Unstable Rockhound - Level 3
+Creature - Cyber Virus/Rock Brute - 2000 Power
+(This card enters your mana zone tapped.)
+Viral Purge - When this creature is banished, you may return target creature from the battle zone to its owner's hand.
+Vectron Crawler - Level 4
+Creature - Cyber Virus/Stomper - 4000 Power
+(This card enters your mana zone tapped.)
+Recon Scan - Whenever this creature becomes blocked, you may draw a card.
+Strafing Run - Whenever this creature attacks and isn't blocked, banish target enemy creature that has power 3000 or less.
+Veil Bubble - Level 2
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Return target creature that has power 4000 or less from the battle zone to its owner's hand.
+Veil Slip - Level 5
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Put a non-evolution creature that is level 8 or less from your hand into the battle zone. Then return that creature from the battle zone to your hand.
+Veil Vortex - Level 4
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Return target creature from the battle zone to its owner's hand.
+Vicious Squillace Scourge - Level 5
+Evolution Creature - Corrupted/Leviathan/Chimera - 9000 Power
+(This card enters your mana zone tapped.)
+Evolution - Put on one of your Corrupted creatures, Leviathans, or Chimeras.
+Double Breaker (This creature breaks 2 shields.)
+Crushing Assault - All your Corrupted creatures can't be blocked and have "Slayer". (When a creature that has "Slayer" loses a battle, banish the other creature.)
+Vikorakas - Level 5
+Creature - Trench Hunter - 3000 Power
+Deep Sea Scavenger - When this creature enters the battle zone, you may draw a card. If you do, discard a card.
+Void Seer - Level 2
+Creature - Void Spawn/Aquan - 1000 Power
+Fathom - Whenever this creature attacks, you may clash with your opponent. If you won the clash, draw a card. (To clash, each player reveals the top card of his or her deck, then puts it on the bottom. You win if your card had the same or higher level.)
+Warbringer Poseidon - Level 7
+Creature - Corrupted/Leviathan - 7000 Power
+Double Breaker (This creature breaks 2 shields.)
+Mindwipe - Each time one of your Corrupted creatures would be banished, return it to your hand instead.
+Tainted Seas - You tap 2 fewer mana cards to summon Corrupted creatures.
+Waterspout Gargoyle - Level 8
+Creature - Aquan - 5000 Power
+Frenzied Strike - When this creature enters the battle zone, you may return up to 2 target creatures from the battle zone to their owners' hands.
+Wave Keeper - Level 4
+Creature - Storm Patrol/Undertow Engine - 1500 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Surf - When this creature enters the battle zone, you may draw a card.
+Wave Lancer - Level 5
+Creature - Skyforce Champion/Leviathan - 5500 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Remount - If this creature would be banished, return it to your hand instead.
+Wave Skimmer - Level 4
+Creature - Aquan - 2000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Evasive - This creature can't be blocked.
+Wave Spears - Level 5
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Draw 2 cards. Then discard a card. You may return target creature that is the same level as the discarded card from the battle zone to its owner's hand.
+Wavebreaker Shaman - Level 4
+Creature - Aquan/Spirit Totem - 5000 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Spirit Guide - Whenever this creature blocks, look at the top 3 cards of your deck. You may reveal a creature from among them and put it into your hand. Put the rest on the bottom of your deck in any order.
+Wavebreaker Tribe - Level 2
+Creature - Aquan/Beast Kin - 3000 Power
+(This card enters your mana zone tapped.)
+Wavecrest Crawler - Level 5
+Creature - Earth Eater - 4000 Power
+Hydropowered - Whenever you draw a card, this creature gets +1000 power until the end of the turn.
+Inundate - While this creature has power 6000 or more, it has "Double Breaker." (It breaks 2 shields.)
+Waveforce Seer - Level 3
+Creature - Aquan - 2000 Power
+Learn the Path - Whenever you draw a card, choose one of your creatures. It can't be blocked this turn.
+Whirlpool Warden - Level 3
+Creature - Aquan - 3000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Evo Bond - If this creature would be banished while you have an evolution creature in the battle zone, return this creature to your hand instead.
+Worldwaker Omgoth - Level 7
+Evolution Creature - Aquan/Colossus - 13000 Power
+(This card enters your mana zone tapped.)
+Vortex Evolution - Put on 2 of your Water and/or Nature creatures.
+Triple Breaker
+Boundless Mana - When this creature enters the battle zone, you may put all cards from your hand into your mana zone.
+Wellspring of Knowledge - Whenever this creature attacks your opponent, for each card you have in hand fewer than 5, you may draw a card.
