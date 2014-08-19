@@ -1028,3 +1028,175 @@
 * 15/PRM4 Malphalgus the Tormenter
 * 15/PRM5 Quetaro the Gladiator
 * 15/PRM6 Rogonite the Obliterator
+#16
+* S1/S10 Toronok the Voidshaper
+* S2/S10 The Chronarch
+* S3/S10 Baelgor, Accursed Dragon
+* S4/S10 Krogon, Blazing Devastation
+* S5/S10 Eternal Gaia Dragon
+* S6/S10 Ulphonas, Fiendish Overlord
+* S7/S10 Drakomech Commander
+* S8/S10 Krotork the Mirror
+* S9/S10 Worldwaker Omgoth
+* S10/S10 Scaradorable the Behemoth
+* 1/160 Aerial Arcavore
+* 2/160 Ancient Keeper
+* 3/160 Ardent Observer
+* 4/160 Aurora Scout
+* 5/160 Bewildering Blast
+* 6/160 Bolt-Hawk
+* 7/160 Citadel Judge
+* 8/160 Cloud Grappler
+* 9/160 Empyrean Overseer
+* 10/160 Galvanize
+* 11/160 Hydrus the Oathbound
+* 12/160 Intrepid Invader
+* 13/160 Justice Archon
+* 14/160 Karstara the Warder
+* 15/160 Overshields
+* 16/160 Perseus Dragon
+* 17/160 Phase Generator
+* 18/160 Prelate of Wind
+* 19/160 Radion Sphere
+* 20/160 Regent's Attendant
+* 21/160 Salvation Reckoner
+* 22/160 Scroll Orb
+* 23/160 Skyforce Adjutant
+* 24/160 Spark Drone
+* 25/160 Stormstrike Enforcer
+* 26/160 Sunshock
+* 27/160 Superia-Citadel Militia
+* 28/160 Temple Lantern
+* 29/160 Virtuous Alcadeus
+* 30/160 Zephyr Keeper
+* 31/160 Aeronaut Glu-urrgle
+* 32/160 Aqua Infiltrator
+* 33/160 Aqua Swordsman
+* 34/160 Cloaked Saboteur
+* 35/160 Cranky Leviathan
+* 36/160 Cyber Savant
+* 37/160 Deep-Currents Drifter
+* 38/160 Dreamfish
+* 39/160 Emperor Palata
+* 40/160 Garglevision
+* 41/160 Hydrobot Elite
+* 42/160 Hypnobot
+* 43/160 Master Trader Cephelia
+* 44/160 Metroplex Operative
+* 45/160 Metroplex Scout
+* 46/160 Optic Cell
+* 47/160 Rip Swirl
+* 48/160 Runemaster Zyr
+* 49/160 Spy Mission
+* 50/160 Spy Tide
+* 51/160 Tarvox the Voracious
+* 52/160 Teleportation Equation
+* 53/160 Tide Gulper
+* 54/160 Time Tethers
+* 55/160 Tusked Nautiloid
+* 56/160 Veil Vortex
+* 57/160 Void Seer
+* 58/160 Wave Skimmer
+* 59/160 Wavecrest Crawler
+* 60/160 Waveforce Seer
+* 61/160 Agent of Lies
+* 62/160 Batter-Axe
+* 63/160 Bloated Gatekeeper
+* 64/160 Chasm Gigabolver
+* 65/160 Darkbolt
+* 66/160 Decay
+* 67/160 Deteriorate
+* 68/160 Foul Cave Worm
+* 69/160 Gloom Wraith
+* 70/160 Gregoria's Guile
+* 71/160 Grim Specter
+* 72/160 Gullet Ghost
+* 73/160 Hollow Worm
+* 74/160 Ichor Spider
+* 75/160 Joko, Lunatic Chimp
+* 76/160 Legionnaire Corpse
+* 77/160 Lethal Lockbox
+* 78/160 Malphalgus the Tormenter
+* 79/160 Megaria's Trapheap
+* 80/160 Nether Tactician
+* 81/160 Prowling Chimera
+* 82/160 Rite of Revival
+* 83/160 Shredmane
+* 84/160 Sinister Scheme
+* 85/160 Slithering Phantasm
+* 86/160 Soul Reflection
+* 87/160 Timelost Phantom
+* 88/160 Vicious Coffer
+* 89/160 Vile Piercer
+* 90/160 Wraith Hound
+* 91/160 Ammo Train
+* 92/160 Artillery Dragon
+* 93/160 Ashen Tribute
+* 94/160 Battering Monolith
+* 95/160 Blade-Rush Wyvern
+* 96/160 Blaze Darter
+* 97/160 Cannonade Dragon
+* 98/160 Flaming Arrow Volley
+* 99/160 Furywing Trooper
+* 100/160 Hydragon
+* 101/160 Igniss
+* 102/160 Jack, the Hammer
+* 103/160 Jetpack Thug
+* 104/160 Kuth the Dervish
+* 105/160 Lava Burst
+* 106/160 Lava Racer
+* 107/160 Meteor Rider
+* 108/160 Mighty Stomp
+* 109/160 Mischievous Fire-Chick
+* 110/160 Quetaro the Gladiator
+* 111/160 Raging Firebrand
+* 112/160 Raptor-Ace Valko
+* 113/160 Rothos the Destroyer
+* 114/160 Runes of Fortune
+* 115/160 Rygar the Tank
+* 116/160 Sandstorm Prowler
+* 117/160 Sledge Bot
+* 118/160 Smoldering Brute
+* 119/160 Stormdiver
+* 120/160 Wildfire Valkyrie
+* 121/160 Ancestor Bear
+* 122/160 Ardu Cloudstrider
+* 123/160 Bronze-Arm Fanatic
+* 124/160 Colossal Avenger
+* 125/160 Creeper Snare
+* 126/160 Daunting Presence
+* 127/160 Duke Durian
+* 128/160 Earthbond Giant
+* 129/160 Embolden
+* 130/160 Field Marshal Cornucopia
+* 131/160 Granite Titan
+* 132/160 Grove Protector
+* 133/160 Horned Chameleon
+* 134/160 Jarbala Hatchery
+* 135/160 Leafwing Totem
+* 136/160 Lumbering Coliseum
+* 137/160 Lunar Boar
+* 138/160 Lurking Orchid
+* 139/160 Moonhowler Hunter
+* 140/160 Muk'tak, Lifespark Guide
+* 141/160 Pesky Pineapple
+* 142/160 Ringleader Radish
+* 143/160 Ritual of Challenge
+* 144/160 Rogonite the Obliterator
+* 145/160 Runestone Goliath
+* 146/160 Savage Spawn
+* 147/160 Solstice Chanter
+* 148/160 Sprite's Gift
+* 149/160 Trapdoor Tunneler
+* 150/160 Warren Shaman
+* 151/160 Cetus the Augur
+* 152/160 Wave Keeper
+* 153/160 Brave Shalloteer
+* 154/160 Radiant Blinderhorn
+* 155/160 Abyssal Scavenger
+* 156/160 Magglekax
+* 157/160 Bile Raptor
+* 158/160 Taksha, Scourge Gunner
+* 159/160 Arachnomech
+* 160/160 Riot Sprite
+* D1/D1 Dragon Engine Glu-urrgle
