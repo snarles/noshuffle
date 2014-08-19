@@ -1,0 +1,1009 @@
+Absolute Darkness - Level 9
+Spell
+Each enemy creature gets -6000 power until the end of the turn and can't block this turn. (A creature that has power 0 or less is banished.)
+Abyssal Scavenger - Level 5
+Creature - Trench Hunter/Chimera - 4000 Power
+(This card enters your mana zone tapped.)
+Scavenge - When this creature enters the battle zone, return a creature from your discard pile to your hand.
+Sneak - This creature can't be blocked.
+Abyssal Stalker Baleia - Level 6
+Creature - Leviathan/Specter - 6000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Aura of Dread - When this creature enters the battle zone, all your creatures get "Slayer" until the end of the turn. (When a creature that has "Slayer" loses a battle, banish the other creature.)
+Ethereal - This creature can't be blocked.
+Acid-Tongue Chimera - Level 5
+Creature - Chimera - 3000 Power
+Slayer (When this creature loses a battle, banish the other creature.)
+Agent of Lies - Level 5
+Creature - Shadow Champion - 5000 Power
+Sow Uncertainty - When this creature enters the battle zone, each player chooses and discards a card.
+Ancient Grave Worm - Level 4
+Evolution Creature - Rot Worm - 6000 Power
+Evolution - Put on one of your Rot Worm.
+Double Breaker (This creature breaks 2 shields.)
+Slayer (When this creature loses a battle, banish the other creature.)
+Arachnoir of Cobweb Cavern - Level 4
+Creature - Brain Jacker - 2000 Power
+Venomous Sting - Whenever this creature attacks, target enemy creature gets -1000 power until the end of the turn. (A creature that has power 0 or less is banished.)
+Attic Reaper - Level 3
+Evolution Creature - Dread Mask - 4000 Power
+Evolution - Put on one of your Darkness creatures.
+Unleash - Target enemy creature gets -2000 power until the end of the turn. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Baelgor, Accursed Dragon - Level 9
+Creature - Terror Dragon - 9000 Power
+Double Breaker
+Ruin - When this creature enters the battle zone, for each shield your opponent has more than you, this creature breaks one of your opponent's shields.
+Baleful Drummer - Level 2
+Creature - Evil Toy - 4000 Power
+Vexing Cadence - Whenever this creature attacks, you discard a card.
+Baron Burnfingers - Level 2
+Creature - Chimera/Berserker - 3000 Power
+(This card enters your mana zone tapped.)
+Play with Fire - When this creature is banished, choose one of your shields. This creature breaks that shield.
+Bat-Breath Scaradorable - Level 4
+Creature - Chimera - 4000 Power
+Fear Bats - This creature can't be attacked or blocked by creatures that are level 5 or less.
+Batter-Axe - Level 4
+Creature - Dread Mask - 5000 Power
+Skullcrack - When this creature enters the battle zone, it breaks one of your shields.
+Bile Raptor - Level 3
+Creature - Tarborg/Attack Raptor - 5000 Power
+(This card enters your mana zone tapped.)
+Impulsive - When this creature enters the battle zone, you may discard a card. If you do, draw a card.
+Sickening Burst - When this creature wins a battle, banish it.
+Black Feather of Shadow Abyss - Level 5
+Creature - Specter - 2000 Power
+Ghostly Siphon - Whenever an enemy creature is banished, you may draw a card.
+Bloated Gatekeeper - Level 4
+Creature - Shadow Champion - 5000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Sluggish - This creature enters the battle zone tapped.
+Bone Blades - Level 4
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Banish target enemy creature that is level 4 or less.
+Bonerattle Dragon - Level 6
+Creature - Terror Dragon - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Soul Shivers - Whenever this creature attacks, choose a player. That player puts the top 2 cards of his or her deck into his or her discard pile.
+Boom Skull - Level 2
+Creature - Dread Mask/Melt Warrior - 6000 Power
+(This card enters your mana zone tapped.)
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Guard (This creature can't attack.)
+Go Boom - When this creature wins a battle, banish it.
+Brain Squirmer - Level 2
+Creature - Rot Worm - 2000 Power
+Cackling Fiend - Level 3
+Creature - Chimera/Beast Kin - 6000 Power
+(This card enters you mana zone tapped.)
+Skirmisher (This creature can attack only creatures.)
+Unstable - When this creature wins a battle, banish it.
+Calamity Bell - Level 6
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Your opponent discards a card at random. Tap all enemy creatures that are lower level than that card.
+Cave Gulper - Level 3
+Creature - Rot Worm - 2000 Power
+Leftovers - When this creature is banished, you may draw a card.
+Cavern Snapper - Level 5
+Creature - Brain Jacker - 4000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Clampdown - When this creature attacks, banish it at the end of the attack.
+Cavernmold Quartz - Level 4
+Creature - Spirit Quartz - 3000 Power
+(This card enters your mana zone tapped.)
+Onyx Shadow - Each of your other Darkness creatures gets +1000 power.
+Jade Luster - Each of your other Nature creatures gets +1000 power.
+Chasm Gigabolver - Level 5
+Creature - Chimera - 4000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Battering Rock - Whenever this creature blocks, your opponent chooses and discards a card.
+Chasmblaze Quartz - Level 4
+Creature - Spirit Quartz - 3000 Power
+(This card enters your mana zone tapped.)
+Onyx Shadow - Each of your other Darkness creatures gets +1000 power.
+Ruby Glow - Each of your other Fire creatures gets +1000 power.
+Chimera Predator - Level 5
+Creature - Chimera - 4000 Power
+Chimera Tyrant - Level 4
+Creature - Chimera - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Unstable - When this creature wins a battle, banish it.
+Corvus Dragon - Level 5
+Evolution Creature - Celestial Dragon/Terror Dragon - 10500 Power
+(This card enters your mana zone tapped)
+Evolution - Put on one of your Celestial Dragons or Terror Dragons.
+Double Breaker (This creature breaks 2 shields.)
+Twisted Fate - Whenever this creature attacks, if you have the same number or more shields than your opponent, banish target tapped enemy creature. If you have fewer shields than your opponent, you may put the top card of your deck into your shield zone face down as a new shield.
+Creeping Heap - Level 6
+Creature - Tarborg - 3000 Power
+Shield Blast (Instead of putting this creature into your hand from a broken shield, you may summon it for free.)
+Cryptic Worm - Level 4
+Creature - Cyber Virus/Rot Worm - 5000 Power
+(This card enters your mana zone tapped.)
+Curse-Eye Black Feather - Level 5
+Creature - Specter - 3000 Power
+Soul Blast - Whenever your opponent discards a card, you may draw a card.
+Cursed Phantom - Level 5
+Creature - Specter - 3000 Power
+Defiled Essence - When this creature enters the battle zone, you may banish one of your other creatures. If you do, target enemy creature gets -3000 power until the end of the turn. (A creature that has power 0 or less is banished.)
+Dagger Doll - Level 4
+Creature - Evil Toy - 2000 Power
+Slayer (When this creature loses a battle, banish the other creature.)
+Dark Return - Level 2
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Return a creature from your discard pile to your hand.
+Dark Scaradorable - Level 6
+Creature - Chimera - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Terrifying Gaze - Whenever this creature enters the battle zone, choose one of your opponent's shields. This creature breaks that shield.
+Dark-Seer Jurlon - Level 4
+Creature - Enforcer/Rot Worm - 4500 Power
+(This card enters your mana zone tapped.)
+Scrying Germs - Whenever this creature attacks, your opponent reveals his or her hand. You choose a spell from it and your opponent discards that spell.
+Spell Twist - Whenever one of your creatures become the target of one of your opponents spells, you may tap or untap target creature.
+Darkbolt - Level 7
+Spell
+Target enemy creature gets -7000 power until the end of the turn. (A creature that has power 0 or less is banished.)
+Death Liger the Justicar - Level 8
+Creature - Skyforce Champion/Shadow Champion - 8500 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Soul Rend - When this creature enters the battle zone, target enemy creature gets -3000 power until the end of the turn. (A creature that has power 0 or less is banished.)
+Triumphant Roar - Whenever an enemy creature is banished, tap target enemy creature.
+Death Liger, Apex Predator - Level 7
+Creature - Shadow Champion - 8000 Power
+Double Breaker (This creature breaks 2 shields.)
+Sense Weakness - Whenever this creature attacks your opponent and isn't blocked, banish target enemy creature that is level 6 or less.
+Death Liger, Lion of Chaos - Level 7
+Creature - Shadow Champion - 9000 Power
+Double Breaker (This creature breaks 2 shields.)
+Death Smoke - Level 5
+Spell
+Banish target untapped enemy creature.
+Deathtongue Leech - Level 5
+Evolution Creature - Corrupted/Rot Worm - 6000 Power
+(This card enters your mana zone tapped.)
+Evolution - Put on one of your Corrupted creatures or Rot Worms.
+Double Breaker (This creature breaks 2 shields.)
+Insatiable - Whenever this creature or one of your other Corrupted creatures enters the battle zone, target enemy creature gets -2000 power until the end of the turn. (A creature that has power 0 or less is banished.)
+Decay - Level 3
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Target enemy creature gets -2000 power until the end of the turn. (A creature that has power 0 or less is banished.)
+Den Gorger - Level 4
+Creature - Rot Worm - 4000 Power
+Shield Blast (Instead of putting this creature into your hand from a broken shield, you may summon it for free.)
+Blocker (You may tap this creature to change on enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Ate Too Much - When this creature wins a battle, banish it.
+Deteriorate - Level 4
+Spell
+Target enemy creature gets -1000 power until the end of the turn for each creature in your discard pile. (A creature that has power 0 or less is banished.)
+Devouring Smog - Level 6
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Your opponent chooses one of his or her untapped creatures in the battle zone. Banish that creature.
+Diabrost, Shadow Marshal - Level 9
+Creature - Shadow Champion - 7000 Power
+Double Breaker (This creature breaks 2 shields.)
+Raise the Fallen - Whenever this creature attacks, choose a Shadow Champion in your discard pile and return it to your hand.
+Doomblast Scaradorable - Level 7
+Creature - Chimera - 8000 Power
+Double Breaker (This creature breaks 2 shields.)
+Shattering Scream - When this creature enters the battle zone, banish target enemy creature that is level 4 or less. Then choose one of your opponent's shields. This creature breaks that shield.
+Dracothane of the Abyss - Level 9
+Creature - Terror Dragon - 12000 Power
+Triple Breaker (This creature breaks 3 shields.)
+Dominate the Dead - When this creature enters the battle zone, choose up to 2 non-evolution creatures in your discard pile that are level 4 or less. Put them in the battle zone.
+Draxar, the Soul Crusher - Level 5
+Creature - Shadow Champion - 4000 Power
+Dreadclaw, Dark Herald - Level 7
+Creature - Terror Dragon - 7000 Power
+Double Breaker (This creature breaks 2 shields.)
+Night of the Dragons - When this creature enters the battle zone, return all Dragons from your discard pile to your hand.
+Dreadhusk - Level 4
+Creature - Chimera - 3000 Power
+Dream Pirate - Level 3
+Creature - Specter - 3000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Ghostly - When this creature attacks, banish it at the end of the attack.
+Drooling Worm - Level 5
+Creature - Rot Worm - 3000 Power
+When this creature enters the battle zone, each player chooses and discards a card.
+Eager Cleaver - Level 2
+Creature - Evil Toy - 2000 Power
+Eldritch Lightning - Level 5
+Spell
+Target enemy creature gets -5000 power until the end of the turn. (A creature that has power 0 or less is banished.)
+Emergency Protocol - Level 7
+Spell
+(This card enters your mana zone tapped.)
+Draw up to 2 cards.
+Choose up to 2 of your shields, then break them.
+Essence Shade - Level 3
+Creature - Corrupted/Specter - 2000 Power
+(This card enters your mana zone tapped.)
+Creeping Shadows - Each of your Corrupted creatures gets +1000 power.
+Eye of Inquisition - Level 5
+Creature - Battle Sphere/Dread Mask - 4500 Power
+(This card enters your mana zone tapped.)
+Mortal Recoil - Whenever this creature or one of your other creatures is banished, tap target enemy creature.
+Fanged Horror - Level 2
+Creature - Rot Worm - 5000 Power
+Ravenous Hunger - When this creature attacks, banish it at the end of the attack.
+Fate's Hand - Level 2
+Spell
+(This card enters your mana zone tapped.)
+Choose target creature. If it has power 3000 or less, return it to its owner's hand. Otherwise, it gets -3000 power until the end of the turn.
+Fearfeather the Scavenger - Level 3
+Evolution Creature - Chimera/Tree Kin - 5000 Power
+(This card enters your mana zone tapped.)
+Evolution - Put on one of your Chimeras or Tree Kin.
+Carrion Feast - Whenever this creature wins a battle, you opponent discards a card at random, then you may put the top card of your deck into your mana zone.
+Featherfin Stalker - Level 4
+Creature - Trench Hunter/Tarborg - 3000 Power
+(This card enters your mana zone tapped.)
+Slayer (When this creature loses a battle, banish the other creature.)
+Secrets Slicer - Whenever this creature attacks, you may draw a card.
+Feral Scaradorable - Level 5
+Creature - Chimera - 5000 Power
+Mindshred - At the end of each of your turns, if this creature broke a shield that turn, your opponent puts the top card of his or her deck into his or her discard pile. If it's a spell, banish target enemy creature. Otherwise, your opponent chooses and discards a card.
+Flamespine Ravager - Level 5
+Evolution Creature - Specter/Drakon - 8000 Power
+(This card enters your mana zone tapped.)
+Evolution - Put on one of your Specters or Drakons.
+Double Breaker (This creature breaks 2 shields.)
+Smoke Trail - Whenever this creature attacks, your opponent puts the top card of his or her deck into his or her discard pile. If its a creature, banish target enemy creature that has less power than it.
+Forsaken Puppet - Level 1
+Creature - Evil Toy - 2000 Power
+Loose Strings - This creature enters the battle zone tapped.
+Foul Cave Worm - Level 3
+Creature - Rot Worm - 1000 Power
+Slayer (When this creature loses a battle, banish the other creature.)
+Foul Mana - Level 6
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Target enemy creature gets -2000 power until the end of the turn. (A creature that has power 0 or less is banished.)
+Put the top card of your deck into your mana zone.
+Freakish Test Subject - Level 3
+Creature - Cyber Lord/Chimera - 1000 Power
+(This card enters your mana zone tapped.)
+Slayer (When this creature loses a battle, banish the other creature.)
+Warped Reality - This creature can't be blocked.
+Fumes - Level 4
+Creature - Tarborg - 2000 Power
+Stinky - When this creature enters the battle zone, your opponent chooses and discards a card.
+Galzak of Shadow Pass - Level 7
+Creature - Shadow Champion/Armored Dragon - 6000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Vampiric Bite - Whenever this creature attacks, target enemy creature gets -3000 power until the end of the turn and this creature gets +3000 power until the end of the turn. (A creature that has power 0 or less is banished)
+Gaunt Boneweaver - Level 4
+Creature - Zombie - 3000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Needle Claws - Whenever this creature blocks, target enemy creature gets -2000 power until the end of the turn. (A creature that has power 0 or less is banished.)
+Ghost Bite - Level 4
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Target enemy creature gets -3000 until the end of the turn. (A creature that has power 0 or less is banished.)
+Ghost Spy - Level 4
+Creature - Specter - 1000 Power
+Snitch - When this creature is banished, your opponent chooses and discards a card. Then you may draw a card.
+Gigabolver - Level 1
+Creature - Chimera - 3000 Power
+Decompose - When this creature attacks, banish it at the end of the attack.
+Gigargon - Level 8
+Creature - Chimera - 9000 Power
+Double Breaker (This creature breaks 2 shields.)
+Gigastand - Level 3
+Creature - Chimera - 2000 Power
+Dread Gaze - Whenever this creature attacks, your opponent chooses and discards a card.
+Gigazanda - Level 2
+Creature - Chimera - 2000 Power
+Glimmergloom Quartz - Level 4
+Creature - Spirit Quartz - 3000 Power
+(This card enters the mana zone tapped.)
+Opal Aura - Each of your other Light creatures gets +1000 power.
+Onyx Shadow - Each of your other Darkness creatures gets +1000 power.
+Gloom Tomb - Level 3
+Spell
+Put the top three cards of your deck into your discard pile. Then return a creature from your discard pile to your hand.
+Gloom Wraith - Level 3
+Creature - Specter - 2000 Power
+Haunting Visage - When this creature is banished, target enemy creature gets -2000 power until the end of the turn. (A creature that has power 0 or less is banished.)
+Gloom-Hollow Taskmaster - Level 5
+Evolution Creature - Shadow Champion - 7000 Power
+Evolution - Put on one of your Darkness creatures.
+Double Breaker (This creature breaks 2 shields.)
+Unending Servitude - When this creature enters the battle zone, return a creature from your discard pile to your hand.
+Gloomlurker Drask - Level 3
+Creature - Specter - 2000 Power
+Advocate of Darkness - Each of your other Darkness creatures gets +1000 power.
+Goop Striker - Level 3
+Creature - Tarborg/Tree Kin - 2000 Power
+(This card enters your mana zone tapped.)
+Slayer (When this creature loses a battle, banish the other creature.)
+Decompose - If this creature would be banished, put it into your mana zone instead.
+Gorgalisk - Level 3
+Creature - Chimera - 3000 Power
+Gorgeon, Shadow of Gluttony - Level 3
+Creature - Specter - 5000 Power
+Ate Too Much - When this creature wins a battle, banish it.
+Grand Manipulator Agaryx - Level 8
+Creature - Terror Dragon - 9000 Power
+Double Breaker
+Sinister Scheming - When this creature enters the battle zone, put any number of creatures that have total level 6 or less from your discard pile into the battle zone.
+Grand Finale - Whenever this creature attacks, you may choose any number of your other creatures. For each creature chosen this way, this creature gets +5000 power until the end of the turn and breaks an additional shield this turn. Banish the chosen creatures.
+Grave Call - Level 2
+Spell
+You may put the top card of your deck into your discard pile.
+Return a creature from your discard pile to your hand.
+Grave Scrounger - Level 4
+Creature - Dread Mask - 2000 Power
+Fetch Corpse - Whenever this creature attacks, return a level 4 or less creature from your discard pile to your hand.
+Grave Worm Hatchling - Level 4
+Creature - Rot Worm - 3000 Power
+Gregoria the Malevolent - Level 6
+Creature - Dark Lord - 4000 Power
+Subvert - When this creature enters the battle zone, each player reveals his or her hand and discards all spells.
+Gregoria's Fortress - Level 8
+Creature - Chimera - 8000 Power
+Double Breaker (This creature breaks 2 shields.)
+Dark Lord's Revenge - Whenever this creature or one of your other creatures is banished, your opponent chooses one of his or her creatures in the battle zone. Banish that creature.
+Gregoria's Guile - Level 7
+Spell
+Your opponent chooses and discards 3 cards.
+Grievous Strike - Level 6
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Banish target untapped enemy creature.
+Grim Specter - Level 7
+Creature - Specter - 3000 Power
+Ghastly Scythe - When this creature enters the battle zone, target enemy creature gets -3000 power until the end of the turn. (A creature that has power 0 or less is banished.)
+Grip of Despair - Level 5
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Return target creature from the battle zone to its owner's hand. Then that player chooses and discards a card
+Grudge Weaver - Level 2
+Creature - Brain Jacker - 1000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Brainbite - When this creature is banished, your opponent chooses a card in his or her hand and discards it.
+Grybolos the Gatherer - Level 7
+Creature - Aquan/Tarborg - 7000 Power
+(This card enters your mana zone tapped.)
+Double Breaker
+Spell-Scrounge - When this creature enters the battle zone, each player puts the top card of his or her deck into his or her discard pile. For each spell put into a discard pile this way, you may draw a card.
+Gullet Ghost - Level 3
+Creature - Void Spawn/Specter - 3000 Power
+Guzzle - Whenever this creature attacks, you may clash with your opponent. If you won the clash, your opponent chooses and discards a card. (To clash, each player reveals the top card of his or her deck, then puts it on the bottom. You win if your card had the same or higher level.)
+Harbinger of the Void - Level 5
+Creature - Terror Dragon - 7000 Power
+Double Breaker (This creature breaks 2 shields.)
+Unstable - When this creature wins a battle, banish it.
+Haunted Harvest - Level 4
+Creature - Evil Toy/Wild Veggie - 3000 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Nutritious — Whenever this creature blocks, you may put the top card of your deck into your mana zone.
+Haunted Mech - Level 4
+Creature - Specter/Stomper - 5000 Power
+(This card enters your mana zone tapped.)
+Hollow Worm - Level 3
+Creature - Rot Worm - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Squishy - This creature loses all its battles.
+Horrid Stinger - Level 5
+Creature - Rot Worm - 3000 Power
+Bullying Sting - Each of your other Rot Worms gets +2000 power.
+Horrific Tick - Level 3
+Creature - Chimera - 5000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Evo Parasite - When this creature wins a battle, banish it if you don't have an evolution creature in the battle zone.
+Horror Box - Level 5
+Creature - Mimic - 2000 Power
+Shield Blast (Instead of putting this creature into your hand from a broken shield, you may summon it for free.)
+Chomp Chomp - When this creature enters the battle zone, choose a player. That player puts the top 2 cards of his or her deck into his or her discard pile.
+Hydra Medusa - Level 5
+Evolution Creature - Chimera - 5000 Power
+Evolution - Put on one of your Chimeras.
+Eradicate - When this creature enters the battle zone, banish target enemy creature.
+Ichor Spider - Level 2
+Creature - Brain Jacker - 2000 Power
+Shield Blast (Instead of putting this creature into your hand from a broken shield, you may summon it for free.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Sickening Burst - When this creature wins a battle, banish it.
+Impalicus - Level 3
+Evolution Creature - Shadow Champion/Zombie - 7000 Power
+Evolution - Put on one of your Shadow Champions.
+Double Breaker (This creature breaks 2 shields.)
+Impale - Whenever this creature attacks, your opponent chooses and discards a card.
+Infernal Taskmaster - Level 4
+Creature - Shadow Champion/Rock Brute - 5000 Power
+(This card enters your mana zone tapped.)
+Reckless Assault - Whenever one of your other creatures enters the battle zone, it gets "Fast Attack" until the end of the turn. At the end of turn, if that creature attacked this turn, banish it. (A creature that has "Fast Attack" can attack on the turn it enters the battle zone.)
+Johnny Darkseed - Level 5
+Creature - Evil Toy/Tree Kin - 5000 Power
+(This card enters your mana zone tapped.)
+Horrid Transplant - When this creature enters the battle zone, you may banish one of your other creatures. If you do, put the top 2 cards of your deck into your mana zone tapped.
+Joko, Lunatic Chimp - Level 8
+Creature - Evil Toy - 2000 Power
+Shield Blast (Instead of putting this creature into your hand from a broken shield, you may summon it for free.)
+Tormenting Cymbals - When this creature enters the battle zone, you may banish it. If you do, banish target untapped enemy creature.
+Khordia, the Soul Tyrant - Level 9
+Creature - Shadow Champion/Earthstrike Dragon - 9000 Power
+(This card enters you mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Essence Siphon - When this creature enters the battle zone, put all creatures from your discard pile into your mana zone tapped.
+Soul Shackle - Whenever this creature attacks, you may choose a creature in your mana zone that is level 6 or less and put it into the battle zone.
+Kronax the Brutal - Level 5
+Creature - Rot Worm/Drakon - 3000 Power
+(This card enters your mana zone tapped.)
+Envenom - When this creature enters the battle zone, choose one of your other creatures. It gets "Slayer" until the end of the turn. (When a creature that has "Slayer" loses a battle, banish the other creature.)
+Battle Order - When this creature enters the battle zone, choose one of your other creatures. It can attack untapped creatures this turn as though they were tapped.
+Kronkos, General of Fear - Level 7
+Creature - Shadow Champion - 5000 Power
+Minion Fodder - Each time one of your Shadow Champions would be banished, you may banish one of your other creatures instead
+Lamp Lighter - Level 4
+Creature - Mecha Thunder/Dread Mask - 5500 Power
+(This card enters your mana zone tapped.)
+Lava-Tube Crawler - Level 3
+Creature - Rot Worm/Dune Gecko - 2000 Power
+(This card enters your mana zone tapped.)
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Death Lunge - When this creature is banished, target enemy creature gets -1000 power until the end of the turn. (A creature that power 0 or less is banished.)
+Legionnaire Corpse - Level 4
+Creature - Zombie - 4000 Power
+Lethal Lockbox - Level 6
+Creature - Mimic - 2000 Power
+Shield Blast (Instead of putting this creature into your hand from a broken shield, you may summon it for free.)
+Slayer (When this creature loses a battle, banish the other creature.)
+Lizard-Skin Puppet - Level 2
+Creature - Evil Toy/Dune Gecko - 1000 Power
+(This card enters your mana zone tapped.)
+Slayer (When this creature loses a battle, banish the other creature.)
+Puppet Strings - This creature attacks each turn if able.
+Locomotivator - Level 3
+Creature - Tarborg - 3000 Power
+Doom Whistle - When this creature enters the battle zone, choose one of your shields and put it into your hand.
+Looming Devourer - Level 6
+Creature - Specter/Colossus - 6000 Power
+(This card enters your mana zone tapped.)
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Double Breaker (This creature breaks 2 shields.)
+Slayer (When this creature loses a battle, banish the other creature.)
+Lost Patrol - Level 3
+Creature - Storm Patrol/Specter - 5000 Power
+(This card enters your mana zone tapped.)
+Lurking Skull Cutter - Level 2
+Creature - Dread Mask - 1000 Power
+Backstab - While attacking, this creature has "Slayer." (When it loses a battle, banish the other creature.)
+Mad Watcher - Level 3
+Creature - Enforcer/Specter - 1500 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Mind Meddle - When this creature is banished, your opponent discards a card at random.
+Maddening Whispers - Level 5
+Spell
+Your opponent chooses and discards 2 cards.
+Magglekax - Level 6
+Evolution Creature - Earth Eater/Tarborg - 8000 Power
+(This card enters your mana zone tapped.)
+Vortex Evolution — Put on 2 of your Water and/or Darkness creatures.
+Double Breaker (This creature breaks 2 shields.)
+Regurgitate - When this creature enters the battle zone and whenever it attacks, your opponent chooses and discards a card. Then you draw a card.
+Malphalgus the Tormenter - Level 6
+Creature - Void Spawn/Shadow Champion - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Animate - Whenever this creature attacks, you may clash with your opponent. If you won the clash, put a non-evolution creature from your discard pile into the battle zone. (To clash, each player reveals the top card of his or her deck, then puts it on the bottom. You win if your card had the same or higher level.)
+Mark of Kalima - Level 8
+Spell
+Choose one:
+* Put a creature named Queen Kalima from your hand into the battle zone.
+* Put the top 2 cards of your deck into your discard pile. For each Darkness card put into your discard pile this way, your opponent chooses one of his or her creatures in the battle zone. Banish those creatures.
+Marrow Ooze - Level 1
+Creature - Zombie - 1000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+All Teeth - When this creature attacks, banish it at the end of the attack.
+Masked Gravewing - Level 5
+Creature - Dread Mask/Beast Kin - 6000 Power
+(This card enters your mana zone tapped.)
+Skirmisher (This creature can attack only creatures.)
+Spirit Swap - Whenever this creature wins a battle, choose a creature in your discard pile and return it to your hand.
+Megaria's Trapheap - Level 2
+Creature - Tarborg - 1000 Power
+Mind Munch - When this creature is banished, your opponent chooses and discards a card.
+Megaria, the Collector - Level 8
+Creature - Dark Lord - 3000 Power
+Reassemble Minions - When this creature enters the battle zone, choose up to 2 creatures in your discard pile and return them to your hand.
+Megaria, the Deceiver - Level 7
+Creature - Dark Lord - 7000 Power
+Double Breaker (This creature breaks 2 shields.)
+Dark Gambit - When this creature enters the battle zone, put the top 3 cards of your deck into your discard pile. Then choose a card in your discard pile at random. If that card is a non-evolution creature, put it into the battle zone. Otherwise, return it to your hand.
+Mesmerize - Level 3
+Spell
+Your opponent reveals his or her hand. Choose a card from your opponent's hand and discard it.
+Mind Censor - Level 5
+Creature - Cyber Virus/Shadow Champion - 4000 Power
+(This card enters your mana zone tapped.)
+Displace Memory - Whenever an enemy creature leaves the battle zone, your opponent chooses and discards a card.
+Mindwrack Moth - Level 3
+Creature - Brain Jacker - 1000 Power
+Spell Scour - When this creature enters the battle zone, your opponent reveals his or her hand. You choose a spell from it and your opponent discards that spell.
+Mr. Smiles - Level 4
+Creature - Evil Toy - 3000 Power
+Happy Thoughts - Whenever this creature attacks, your opponent chooses and discards a card.
+Necrodragon of Vile Ichor - Level 9
+Creature - Terror Dragon - 7000 Power
+Double Breaker (This creature breaks 2 shields.)
+Slayer (When this creature loses a battle, banish the other creature.)
+Acidic Breath - When this creature enters the battle zone, choose one of your opponent's shields for each Dragon you have in the battle zone. This creature breaks those shields.
+Necrose, Nightmare Bloom - Level 6
+Creature - Rot Worm/Tree Kin - 3000 Power
+(This card enters you mana zone tapped.)
+Resurge - When this creature enters the battle zone, choose a creature in your discard pile and return it to your hand. Then you may put a non-evolution creature that is level 5 or less from your hand into the battle zone.
+Nether Tactician - Level 4
+Creature - Shadow Champion - 4000 Power
+Fated Blade - Whenever this creature attacks, you may banish one of your other creatures. If you do, this creature breaks one of your opponent's shields.
+Night Haunt - Level 3
+Creature - Specter - 5000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Unstable - When this creature wins a battle, banish it.
+Nightmare Helix - Level 6
+Spell
+Choose one:
+* Banish target untapped enemy creature.
+* Choose up to 2 creatures in your discard pile and return them to your hand.
+Oblivion Knight - Level 6
+Evolution Creature - Shadow Champion - 7000 Power
+Evolution - Put on one of your Darkness creatures.
+Double Breaker (This creature breaks 2 shields.)
+Unleash - Your opponent chooses and discards 2 cards. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Obsidian Death - Level 6
+Creature - Tarborg/Colossus - 6000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Mulch - Whenever another creature is banished, you may put the top card of your deck into your mana zone.
+Olgate, Knight of Shadow - Level 6
+Creature - Shadow Champion - 5000 Power
+Necrocharge - Whenever one of your creatures is banished, untap this creature.
+Oozing Lavasaur - Level 3
+Creature - Tarborg/Rock Brute - 2000 Power
+(This card enters your mana zone tapped.)
+Powerful Attack +2000 (While attacking, this creature gets +2000 power.)
+Splattermelt - When this creature is banished, your opponent chooses and discards a card.
+Overlord Sargon - Level 7
+Creature - Shadow Champion/Armored Dragon - 6000 Power
+(This card enters your mana zone tapped.)
+Fast Attack (This creature can attack on the turn it enters the battle zone.)
+Double Breaker (This creature breaks 2 shields.)
+Grim Command - Whenever this creature attacks, you may choose one of your other creatures and banish it. If you do, banish target enemy creature that has power 5000 or less.
+Panic and Disorder - Level 5
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Tap target enemy creature.
+Your opponent discards a card at random.
+Patchwork Surgeon - Level 5
+Creature - Chimera - 2000 Power
+Restitch - When this creature enters the battle zone, choose a creature in your discard pile and return it to your hand.
+Prowling Chimera - Level 2
+Creature - Chimera - 3000 Power
+Unstable - When this creature wins a battle, banish it.
+Quakes the Unclean - Level 5
+Creature - Shadow Champion - 3000 Power
+Plague Bearer - When this creature enters the battle zone, choose one of your other creatures. It gets "Slayer" until the end of the turn. (When a creature that has "Slayer" loses a battle, banish the other creature.)
+Queen Kalima - Level 10
+Creature - Monarch/Dark Lord - 16000 Power
+Triple Breaker (This creature breaks 3 shields.)
+Gaze into the Abyss - When this creature enters the battle zone, you may put the top 3 cards of your deck into your discard pile. For each Darkness card put into your discard pile this way, your opponent chooses one of his or her creatures in the battle zone. Banish those creatures.
+Reanimate - Whenever this creature attacks, choose a creature in your discard pile and return it to your hand.
+Darkness Monarch - Each of your other Darkness creatures gets +4000 power.
+Ramis the Cloaked - Level 5
+Creature - Cyber Lord/Shadow Champion - 5000 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Delete Memory - Whenever this creature blocks, your opponent chooses and discards a card.
+Ravenous Detrivore - Level 6
+Creature - Chimera/Beast Kin - 5000 Power
+(This card enters you mana zone tapped.)
+Munch - Whenever this creature attacks, you may choose a creature in your discard pile and put it on the bottom of your deck. If you do, this creature gets power equal to that creature's power until the end of the turn.
+Necrocharged - While this creature has power 6000 or more, it has "Double Breaker." While it has power 12000 or more, it has "Triple Breaker."
+Ravenous Web-Leg - Level 6
+Creature - Shadow Champion - 6000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Dinner - When this creature wins a battle, banish it.
+Dessert - When this creature is banished, your opponent chooses one of his or her creatures in the battle zone. Banish that creature.
+Ravenous Whiptongue - Level 6
+Evolution Creature - Rot Worm - 6000 Power
+Evolution - Put on one of your Darkness creatures.
+Double Breaker (This creature breaks 2 shields.)
+Unleash - Banish target untapped enemy creature. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Razorkinder - Level 7
+Creature - Evil Toy - 4000 Power
+Grab and Stab - When this creature enters the battle zone, banish target untapped enemy creature.
+Razorkinder Puppet - Level 6
+Creature - Evil Toy - 3000 Power
+Slice and Dice - When this creature enters the battle zone, your opponent reveals his or her hand. You choose a card from it and your opponent discards that card.
+Return from Beyond - Level 4
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Choose a non-evolution creature in your discard pile that is level 4 or less and put it into the battle zone.
+Rib Collector - Level 3
+Creature - Zombie - 1000 Power
+Slayer (When this creature loses a battle, banish the other creature.)
+Ripper Reaper - Level 5
+Creature - Shadow Champion - 4000 Power
+Cursed Scythe - When this creature enters the battle zone, you may choose one of your other creatures in the battle zone and banish it. If you do, your opponent chooses one of his or her creatures in the battle zone. Banish that creature.
+Rite of Revival - Level 4
+Spell
+Put a non-evolution creature that is level 5 or less from your discard pile into the battle zone.
+Roton the Destroyer - Level 7
+Creature - Evil Toy - 4000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Rupture Spider - Level 4
+Creature - Brain Jacker - 6000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Sickening Burst - When this creature wins a battle, banish it.
+Sabotage Worm - Level 5
+Creature - Corrupted/Rot Worm - 2000 Power
+(This card enters your mana zone tapped.)
+Vile Denial - Whenever one of your Corrupted creatures attacks, your opponent chooses and discards a card.
+Scaradorable of Gloom Hollow - Level 3
+Creature - Chimera - 2000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Adorable Gaze - While this creature is battling a creature that is level 4 or less, neither creature can be banished.
+Scaradorable the Behemoth - Level 7
+Evolution Creature - Chimera/Colossus - 12000 Power
+(This card enters your mana zone tapped.)
+Vortex Evolution - Put on 2 of your Darkness and/or Nature creatures.
+Triple Breaker
+Shape Life - When this creature enters the battle zone, you may put target enemy creature from the battle zone into your opponent's mana zone.
+Shape Death - When this creature enters the battle zone, you may banish target enemy creature.
+Scaradorable the Hunter - Level 5
+Creature - Chimera - 4000 Power
+Intimidate - All enemy creatures that are level 2 or less can't attack or block.
+Scavenging Chimera - Level 2
+Creature - Chimera - 1000 Power
+Heart of Darkness - While all cards in your mana zone are Darkness cards, this creature gets +2000 power and has "Whenever this creature attacks, choose a creature in your discard pile and return it to your hand.
+Scourge Lord - Level 7
+Creature - Shadow Champion - 5000 Power
+Cursed Whip - Whenever this creature attacks, your opponent chooses and discards 2 cards.
+Screeching Scaradorable - Level 4
+Creature - Chimera - 3000 Power
+Sonic Blast - When this creature enters the battle zone, choose target enemy creature. If it's level 2 or less, banish it. Otherwise, it can't block this turn.
+Seacurse Quartz - Level 4
+Creature - Spirit Quartz - 3000 Power
+(This card enters your mana zone tapped.)
+Sapphire Shine - Each of your other Water creatures gets +1000 power.
+Onyx Shadow - Each of your other Darkness creatures gets +1000 power.
+Serpens, the Spirit Shifter - Level 7
+Creature - Celestial Dragon/Terror Dragon - 6500 Power
+(This card enters your mana zone tapped)
+Double Breaker (This creature breaks 2 shields.)
+Soul Shields - Whenever one of your other creatures is banished, you may put the top card of your deck into your shield zone face-down as a new shield.
+Shadeblaze the Corruptor - Level 8
+Creature - Terror Dragon/Armored Dragon - 11000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Wither - When this creature enters the battle zone, target enemy creature gets -2000 power until the end of the turn. (A creature that has power 0 o less is banished.)
+Provoke - Whenever another creature is banished, all your creatures get "Fast Attack" until the end of the turn.
+Shadow Strike - Level 4
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Choose one of your creatures. Target enemy creature loses power equal to that creature's power until the end of the turn. (A creature that has power 0 or less is banished.)
+Shadowblade Conqueror - Level 7
+Creature - Shadow Champion - 7000 Power
+Double Breaker (This creature breaks 2 shields.)
+Shanok, the Soul Harvester - Level 7
+Evolution Creature - Specter - 7000 Power
+Evolution - Put on one of your Darkness creatures.
+Double Breaker
+Unleash - All enemy creatures get -2000 power until the end of the turn. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Shapeshifter Scaradorable - Level 3
+Evolution Creature - Chimera - 5000 Power
+Evolution - Put on one of your creatures.
+Loyal Friend - When this creature is banished, return this card from your discard pile to your hand.
+Doppelganger - This creature can be evolved on as though it had all creature types, card names, and civilizations.
+Shredmane - Level 5
+Creature - Chimera - 4000 Power
+Grafted Claws - When this creature enters the battle zone, choose one:
+* Target enemy creature gets -2000 power until the end of the turn. (A creature that has power 0 or less is banished.)
+* One of your creatures gets "Slayer" until the end of the turn. (When that creature loses a battle, banish the other creature.)
+Sickly Larva - Level 2
+Creature - Rot Worm - 2000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Decay - When this creature attacks, banish it at the end of the attack.
+Sinister Scheme - Level 6
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+You may discard a card. If you do, banish target enemy creature.
+Skaak the Stinger - Level 6
+Creature - Chimera/Megabug - 3000 Power
+(This card enters your mana zone tapped.)
+Void Vapor - When this creature enters the battle zone, your opponent chooses and discards a card.
+Mana Tendrils - When this creature enters the battle zone, you may put the top card of your deck into your mana zone.
+Skarvos the Assassin - Level 5
+Creature - Aquan/Chimera - 3000 Power
+(This card enters your mana zone tapped.)
+Pathfind - When this creature enters the battle zone, choose one of your other creatures. It can't be blocked this turn.
+Envenom - When this creature enters the battle zone, choose one of your other creatures. It gets "Slayer" until the end of the turn. (When a creature that has "Slayer" loses a battle, banish the other creature.)
+Skeeter Swarmer - Level 2
+Creature - Brain Jacker - 4000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Angry Swarm - When this creature wins a battle, banish it.
+Skeleton Soldier - Level 1
+Creature - Zombie - 2000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Brittle Bones - Whenever this creature wins a battle, banish it.
+Skrap Skull - Level 2
+Creature - Dread Mask - 2000 Power
+Skraven, Draconic Reaper - Level 7
+Creature - Shadow Champion/Armored Dragon - 7000 Power
+(This card enters your mana zone tapped.)
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Double Breaker (This creature breaks 2 shields.)
+Spirit Swap - Whenever this creature wins a battle, choose a creature in your discard pile and return it to your hand.
+Skulking Cypress - Level 3
+Creature - Zombie/Tree Kin - 2000 Power
+(This card enters your mana zone tapped.)
+Coiling Vines - When this creature enters the battle zone, each player chooses a card from his or her hand, then puts it into his or her mana zone.
+Skull Cutter - Level 3
+Creature - Dread Mask - 1000 Power
+Slayer (When this creature loses a battle, banish the other creature.)
+Skull Shatter - Level 8
+Spell
+Your opponent discard his or her hand.
+Slithering Phantasm - Level 4
+Evolution Creature - Rot Worm/Specter - 7000 Power
+Vortex Evolution - Put on 2 of your Darkness creatures.
+Double Breaker (This creature breaks 2 shields.)
+Unleash - Your opponent chooses and discards 2 cards. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Slyth - Level 3
+Creature - Specter - 2000 Power
+Undermine - Whenever this creature attacks, your opponent puts the top card of his or her deck into his or her discard pile.
+Snake Trap - Level 3
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Target enemy creature gets -2000 power until the end of the turn. (A creature that has power 0 or less is banished.)
+Snakebite - Level 2
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Target enemy creature gets -1000 power until the end of the turn. (A creature that has power 0 or less is banished.)
+Soul Reflection - Level 5
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Reveal the top 3 cards of your deck and choose a creature from among them. Target enemy creature loses power equal to the chosen creature's power until the end of the turn. Put the revealed cards into your discard pile. (A creature that has power 0 or less is banished.)
+Soul Schism - Level 4
+Spell
+Target enemy creature gets -4000 power until the end of the turn. (A creature that has power 0 or less is banished.)
+Soul Vortex - Level 5
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Banish target enemy creature that has power 3000 or less.
+Choose a creature in your discard pile that is level 4 or less and return it to your hand.
+Soul-Devourer Black Feather - Level 8
+Creature - Specter - 5000 Power
+Dark Tactics - When this creature enters the battle zone, reveal the top 3 cards of your deck and choose a creature from among them. All creatures lose power equal to the chosen creature's power until the end of the turn. Put the revealed cards into your discard pile.
+Specter Claw - Level 2
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Your opponent chooses and discards a card.
+Spectral Mummy - Level 5
+Creature - Specter - 4000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Unravel - When this creature attacks, banish it at the end of the attack.
+Spelljacker - Level 8
+Creature - Aquan/Specter - 4000 Power
+(This card enters your mana zone tapped.)
+Memory Probe - When this creature enters the battle zone, you may choose a spell in your opponent's discard pile and cast it for free. (Return that spell to your opponent's discard pile after you cast it.)
+Spinning Terror - Level 3
+Creature - Dread Mask - 3000 Power
+Dark Lord's Verdict - Whenever your opponent draws a card other than the first card of his or her turn, choose one of your opponent's shields. This creature breaks that shield.
+Spire Puppet - Level 4
+Creature - Mecha Thunder/Evil Toy - 2500 Power
+(This card enters your mana zone tapped.)
+Tainted - When this creature enters the battle zone, your opponent discards a card at random.
+Spire Widow - Level 8
+Creature - Sky Weaver/Brain Jacker - 2000 Power
+(This card enters your mana zone tapped.)
+Slayer (When this creature loses a battle, banish the other creature.)
+Unweaving - When this creature enters the battle zone, choose target enemy creature. Your opponent shuffles it into his or her deck.
+Squillace Scourge - Level 9
+Creature - Leviathan/Chimera - 8000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Mindcrush - When this creature enters the battle zone, each player discards his or her hand.
+Tempest of Tentacles - When this creature enters the battle zone, your opponent can't attack or block with creatures until the start of your next turn.
+Stingwing - Level 2
+Creature - Enforcer/Brain Jacker - 4500 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Angry Swarm - When this creature wins a battle banish it.
+Suffocate - Level 7
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Each enemy creature gets -2000 power until the end of the turn. (A creature that power 0 or less is banished.)
+Swampstench Worm - Level 4
+Creature - Rot Worm - 2000 Power
+Slayer (When this creature loses a battle, banish the other creature.)
+Taksha, Scourge Gunner - Level 2
+Evolution Creature - Shadow Champion/Berserker - 6000 Power
+(This card enters your mana zone tapped.)
+Vortex Evolution - Put on 2 of your Darkness and/or Fire creatures.
+Double Breaker
+Calibrate - Whenever this creature attacks, you may discard a card. If you do, draw 2 cards.
+Snipe - Whenever a player discards a card, target enemy creature gets -1000 power until the end of the turn.
+Tar Gusher - Level 3
+Creature - Enforcer/Tarborg - 1500 Power
+(This card enters your mana zone tapped.)
+Slayer (When this creature loses a battle, banish the other creature.)
+Gunk Up - When this creature is banished, tap target enemy creature.
+Tekamora the Wretched - Level 6
+Evolution Creature - Chimera - 11000 Power
+Evolution - Put on one of your Chimeras.
+Double Breaker (This creature breaks 2 shields.)
+Engulf - Whenever this creature attacks, banish all enemy creatures that are level 1.
+Terror Hound - Level 4
+Creature - Specter/Beast Kin - 5000 Power
+(This card enters you mana zone tapped.)
+Terror Pit - Level 7
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Banish target enemy creature.
+Terrorfang Clinger - Level 6
+Creature - Brain Jacker - 4000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Mindclamp - When this creature enters the battle zone, your opponent chooses and discards a card.
+The Mystic of Darkness - Level 6
+Creature - Mystic - 4000 Power
+Contempt - Whenever you cast a Darkness spell, each enemy creature gets -2000 power until the end of the turn. (A creature that has power 0 or less is banished.)
+The Reviled - Level 7
+Evolution Creature - Corrupted/Chimera - 6000 Power
+(This card enters your mana zone tapped.)
+Evolution - Put on one of your Corrupted creatures or Chimeras.
+Consume - For each Corrupted creature you have in your discard pile, tap 1 less mana card to summon this creature.
+Double Breaker (This creature breaks 2 shields.)
+Spawn - Whenever one of your Corrupted creatures attacks, choose a creature in your discard pile and return it to your hand.
+Thunder Grub - Level 5
+Evolution Creature - Rot Worm - 7000 Power
+Evolution - Put on one of your Rot Worms.
+Double Breaker (This creature breaks 2 shields.)
+Doom Bellow - When this creature enters the battle zone, your opponent chooses and discards a card.
+Timelost Phantom - Level 2
+Creature - Specter - 2000 Power
+Dark Pact - Whenever this creature attacks, it breaks one of your shields.
+Howl from Beyond - While you have no shields, this creature gets +4000 power and has "Double Breaker."
+Toothed Grubling - Level 3
+Creature - Rot Worm - 3000 Power
+Toxic Fog - Level 3
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Each enemy creature gets -1000 power until the end of the turn. (A creature that has power 0 or less is banished.)
+Trox the Merciless - Level 7
+Evolution Creature - Shadow Champion - 11000 Power
+Evolution - Put on one of your Darkness creatures.
+Double Breaker
+Unleash - Name a card. Banish all enemy creatures that have that name. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Trox, General of Destruction - Level 7
+Creature - Shadow Champion - 6000 Power
+Double Breaker (This creature breaks two shields.)
+Cleaving Axe - Whenever this creature wins a battle, banish target enemy creature that is level 4 or less.
+Twilight Archon - Level 9
+Creature - Skyforce Champion/Shadow Champion - 11500 Power
+(This card enters your mana zone tapped.)
+Blocker
+Double Breaker
+Immobilize - When this creature enters the battle zone, tap target enemy creature. That creature doesn't untap at the start of your opponent's next turn.
+Impale - Whenever you cast a spell, banish target tapped enemy creature.
+Twilight Worm - Level 5
+Creature - Enforcer/Rot Worm - 3500 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Slayer (When this creature loses a battle, banish the other creature.)
+Tygrif - Level 3
+Creature - Chimera - 3000 Power
+Ulphonas, Fiendish Overlord - Level 5
+Evolution Creature - Invader/Dread Mask - 8500 Power
+(This card enters your mana zone tapped.)
+Vortex Evolution - Put on 2 of your Light and/or Darkness creatures.
+Double Breaker
+Abduct - Whenever this creature attacks, if your opponent has more creatures in the battle zone than you, your opponent chooses one of his or her creatures in the battle zone. Banish that creature.
+Force Field - Whenever this creature attacks, if your opponent has more shields than you, put the top card of your deck into your shield zone face down as a new shield.
+Umbra - Level 2
+Creature - Fire Bird - 1000 Power
+Dragonsong - You tap 1 less mana card to summon Dragons.
+Dracothane's Envoy - All your Dragons have "Slayer." (When a creature that has "Slayer" loses a battle, banish the other creature.)
+Underworld Stalker - Level 4
+Creature - Shadow Champion - 4000 Power
+Slayer
+Unrelenting - You may summon this creature from your discard pile.
+Bone Spurs - Each time a creature would be put into your opponent's discard pile from anywhere, your opponent puts that creature on the bottom of his or her deck instead.
+Veil Stalker - Level 6
+Creature - Skyforce Champion/Shadow Champion - 6000 Power
+(This card enters you mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Piercing Gaze - When this creature enters the battle zone, your opponent discards a card at random. If that card is level 3 or less, you may draw a card.
+Vengeful Blast - Level 5
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Target enemy creature gets -4000 power until the end of the turn. (A creature that has power 0 or less is banished.)
+Venom Worm - Level 6
+Creature - Rot Worm - 1000 Power
+Devour - When this creature enters the battle zone, banish target enemy creature that is level 2 or less.
+Venomancer - Level 4
+Creature - Specter - 1000 Power
+Snakebite Chain - When this creature enters the battle zone, one of your creatures gets "Slayer" until the end of the turn. (When that creature loses a battle, banish the other creature.)
+Vicious Coffer - Level 3
+Creature - Mimic - 3000 Power
+Spiteful Clutch - When this creature enters the battle zone, put the top 3 cards of your deck into your discard pile.
+Vicious Squillace Scourge - Level 5
+Evolution Creature - Corrupted/Leviathan/Chimera - 9000 Power
+(This card enters your mana zone tapped.)
+Evolution - Put on one of your Corrupted creatures, Leviathans, or Chimeras.
+Double Breaker (This creature breaks 2 shields.)
+Crushing Assault - All your Corrupted creatures can't be blocked and have "Slayer". (When a creature that has "Slayer" loses a battle, banish the other creature.)
+Vile Malvictus - Level 8
+Creature - Shadow Champion - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Cull the Weak - Whenever this creature enters the battle zone, each enemy creature gets -3000 power until the end of the turn. (A creature that has power 0 or less is banished.)
+Vile Piercer - Level 4
+Creature - Brain Jacker - 1000 Power
+Neurotoxin - When this creature enters the battle zone, your opponent reveals his or her hand. You choose a non-evolution creature from it and your opponent discards that card.
+Vile Reanimator - Level 6
+Creature - Zombie - 4000 Power
+Gift of Undeath - When this creature enters the battle zone, return a creature from your discard pile to your hand.
+Voidwing - Level 6
+Creature - Shadow Champion - 4000 Power
+Slayer (When this creature loses a battle, banish the other creature)
+Death Rattle - When this creature is banished, you may draw a card.
+Wandering Brain-Eater - Level 2
+Creature - Zombie - 4000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Guard (This creature can't attack.)
+Shambling - This creature enters the battle zone tapped.
+Wraith Hound - Level 2
+Creature - Specter - 2000 Power
+Writhing Bone Ghoul - Level 5
+Creature - Zombie - 4000 Power
+XT-4 Brutefist - Level 3
+Creature - Dread Mask/Stomper - 3000 Power
+(This card enters your mana zone tapped.)
+Skull Spikes - Whenever this creature is attacked, it gets "Slayer" until the end of the turn. (When a creature that has "Slayer" loses a battle, banish the other creature.)
+Zagaan, the Bone Knight - Level 6
+Creature - Shadow Champion - 7000 Power
+Double Breaker (This creature breaks 2 shields.)
+Zoltara the Mercenary - Level 6
+Creature - Enforcer/Specter - 3000 Power
+(This card enters your mana zone tapped.)
+Hold the Line - When this creature enters the battle zone, all your creatures get "Blocker" until the start of your next turn. (You may tap a creature that has "Blocker" to change an enemy creature's attack to it.)
+Void Vapor - When this creature enters the battle zone, your opponent chooses and discards a card.
+Zombie Backhoe - Level 3
+Creature - Zombie/Stomper - 3000 Power
+(This card enters your mana zone tapped.)
+Wrecking Crew - Whenever a player discards a card, one of your creatures gets "Powerful Attack +3000" and "Double Breaker" until the end of the turn. (It gets +3000 power while attacking and breaks 2 shields.)
