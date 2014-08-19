@@ -259,21 +259,20 @@ def inc_adict_st(adict):
     wt = json.loads(adict["wt"])
     # check if wt is new
     if adict.get(json.dumps(wt),"")=="":
+        temp={}
+        adict[json.dumps(wt)] = temp
         # if the wt is new, initialize st and add to dict
         st = init_st(wt,ns)
-        ast = st2ast(wt,st,ns)
-        temp={}
-        temp["st"] = json.dumps(st)
-        adict[json.dumps(wt)] = temp
     else:
-        # increment st and check if -1: if so, increment wt and then st
+        # increment st
         temp = adict[json.dumps(wt)]
         st = inc_st(wt,json.loads(temp["st"]),ns)
-        if st[0]==-1:
-            inc_adict_wt(adict)
-            inc_adict_st(adict)
-        else:
-            temp["st"] = json.dumps(st)
+    # check if st is valid: otherwise, go back to wt stage
+    if st[0]==-1:
+        inc_adict_wt(adict)
+        inc_adict_st(adict)
+    else:
+        temp["st"] = json.dumps(st)
 
 # increments ct
 def inc_adict_ct(adict):
