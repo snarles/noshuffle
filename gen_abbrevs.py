@@ -267,37 +267,46 @@ def inc_adict_st(adict):
         adict[json.dumps(wt)] = temp
     else:
         # increment st and check if -1: if so, increment wt and then st
+        temp = adict[json.dumps(wt)]
+        st = inc_st(wt,json.loads(temp["st"]))
+        if st[0]==-1:
+            inc_adict_wt(adict)
+            inc_adict_st(adict)
+        else:
+            temp["st"] = json.dumps(st)
 
-   
+# increments ct
+def inc_adict_ct(adict):
+    ss = adict["ss"]
+    nw,ns,nc = ss2cts(ss)
+    cur_nw = adict["cur_nw"]
+    wt = json.loads(adict["wt"])
+    temp = adict[adict["wt"]]
+    st = json.loads(temp["st"])
+    ast = st2ast(wt,st,ns)
+    # check if st is new
+    if temp.get(temp["st"],"")=="":
+        ct = init_st(ast,nc)
+        temp[temp["st"]] = [json.dumps(ct)]
+    else:
+        ct = inc_st(ast,temp[temp["st"]][-1],nc)
+        if ct[0]==-1:
+            inc_adict_st(adict)
+            inc_adict_ct(adict)
+        else:
+            temp[temp["st"]]=temp[temp["st"]] + [json.dumps(ct)]
 
 def inc_adict(adict):
     ss = adict["ss"]
     nw,ns,nc = ss2cts(ss)
-    cur_nw = adict["cur_nw"]
     inc_adict_wt(adict)
     inc_adict_st(adict)
-    else:
-        # keep wt, increment st
-        temp = adict[json.dumps(wt)]
-        st = inc_st(wt,json.loads(temp["st"]))
-        ast = st2ast(wt,st,ns)
-        # check if st is negative
-        
-        # check if st is new for this wt
-        if temp.get(json.dumps(st),"")=="":
-            # initialize ct, add st and ct to temp
-            ct = init_st(ast,nc)
-            temp[json.dumps(st)] = [json.dumps(ct)]
-            temp["st"] = json.dumps(st)
-            adict[json.dumps(wt)] = temp
-        else:
-            # increment ct, check if reached -1
-            cts=json.loads(temp[json.dumps(st)])
-            ast = st2ast(wt,st,ns)
-            ct = inc_st(ast,cts[-1],nc)
-            if ct[0]==-1:
-                
-            else:
+    inc_adict_ct(adict)
+    wt = json.loads(adict["wt"])
+    temp = adict[adict["wt"]]
+    st = json.loads(temp[temp["st"]])
+    ct = json.loads(temp[json.dumps(st)][-1])
+    return wsc2abbrev(ss,wt,st,ct)
 
 # get the names
 
