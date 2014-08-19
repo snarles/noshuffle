@@ -1,0 +1,1036 @@
+Aerial Arcavore - Level 4
+Creature - Battle Sphere - 4000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Arcane Power - Whenever you cast a spell, this creature gets +1000 power until the end of the tun and can attack this turn as though it didn't have "Skirmisher."
+Alcadeus, Winged Justice - Level 7
+Creature - Skyforce Champion - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Infuse with Light - Whenever this creature attacks, choose one of your creatures that is level 5 or less and untap it.
+Ancient Keeper - Level 3
+Creature - Storm Patrol - 2000 Power
+De-Archive - When this creature is banished, return a spell from your discard pile to your hand.
+Andromeda of the Citadel - Level 9
+Creature - Celestial Dragon - 11500 Power
+Double Breaker (This creature breaks 2 shields.)
+Fortress of Light - When this creature enters the battle zone, put the top 2 cards of your deck into your shield zone face down as new shields.
+Awe Strike - When a creature attacks you, your opponent chooses one of his or her untapped creatures in the battle zone. Tap that creature.
+Aqua Strider - Level 2
+Creature - Enforcer/Aquan - 4000 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Arachnopod - Level 5
+Creature - Sky Weaver - 4500 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Spyweb Signal - When this creature blocks, choose one of your other creatures and untap it.
+Arc Ward - Level 2
+Spell
+Choose one of your creatures. At the end of this turn, untap that creature. It gets "Blocker" until the start of your next turn. (You may tap a creature that has "Blocker" to change an enemy creature's attack to it.)
+Arcane Warden - Level 5
+Creature - Skyforce Champion - 5500 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Consult the Archives - Whenever this creature blocks, you may reveal the top card of your deck. If it's a spell, put it into your hand. If it's not a spell, put it on the bottom of your deck.
+Ardent Observer - Level 5
+Creature - Star Sentinel - 2500 Power
+Shield Blast (Instead of putting this creature into your hand from a broken shield, you may summon it for free.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Argus, Vigilant Seer - Level 4
+Creature - Battle Sphere - 2500 Power
+Surveillance Drones - Whenever this creature wins a battle, you may draw a card.
+Astinos, the Cloud Knight - Level 6
+Creature - Skyforce Champion - 6500 Power
+Double Breaker (This creature breaks 2 shields.)
+Aurora Scout - Level 4
+Creature - Storm Patrol - 4000 Power
+Aurora Valkyrie - Level 5
+Evolution Creature - Skyforce Champion - 8500 Power
+Evolution - Put on one of your Skyforce Champions.
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Double Breaker (This creature breaks 2 shields.)
+Overtake - Whenever this creature wins a battle, you may draw a card.
+Axos the Avenger - Level 6
+Creature - Enforcer/Attack Raptor - 3000 Power
+(This card enters your mana zone tapped.)
+Hold the Line - When this creature enters the battle zone, all your creatures get "Blocker" until the start of your next turn. (You may tap a creature that has "Blocker" to change an enemy creature's attack to it.)
+Flame Jet - When this creature enters the battle zone, banish target enemy creature that has power 2000 or less.
+Azuri, the Dawnbreaker - Level 7
+Evolution Creature - Skyforce Champion - 11000 Power
+Evolution - Put on one of your Skyforce Champions.
+Double Breaker (This creature breaks 2 shields.)
+Sunstorm - When this creature enters the battle zone, tap all enemy creatures.
+Battlebred Defender - Level 3
+Creature - Enforcer/Beast Kin - 3000 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Evo Augment - Each of your evolution creatures has "Powerful Attack +4000" and breaks an additional shield. (A creature that has "Powerful Attack +4000" gets +4000 power while attacking.)
+Battlesworn Seer - Level 3
+Evolution Creature - Skyforce Champion - 5000 Power
+Evolution - Put on one of your Light creatures.
+Enlightened - When this creature enters the battle zone, look at the top 4 cards of your deck. You may reveal a spell from among them and put it into your hand. Put the rest on the bottom of your deck in any order.
+Beacon Drone - Level 2
+Creature - Storm Patrol - 1000 Power
+Nova Flare - When this creature is banished, choose one of your creatures and untap it.
+Beam Bloom - Level 4
+Creature - Star Sentinel/Tree Kin - 3000 Power
+(This card enters your mana zone tapped.)
+Flower Power - During your opponent's turn, each of your other creatures gets +2000 power.
+Beliqua the Ascender - Level 4
+Creature - Invader - 3500 Power
+Gravity Boom - Whenever this creature attacks, tap target enemy creature that is level 3 or less. (First choose what this creature is attacking. Then tap the target creature.)
+Bewildering Blast - Level 5
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Your opponent chooses 2 of his or her untapped creatures. Tap those creatures.
+Blade Barrier - Level 3
+Spell
+Tap target enemy creature. It doesn't untap at the start of your opponent's next turn.
+Blade Seer - Level 6
+Creature - Storm Patrol/Beast Kin - 4000 Power
+(This card enters your mana zone tapped.)
+Timeslice - When this creature enters the battle zone, look at the top 3 cards of your deck. You may reveal a creature and/or a spell from among them and put the revealed cards into your hand. Put the rest on the bottom of your deck in any order.
+Blinder Beetle - Level 3
+Creature - Enforcer - 1000 Power
+Strobe Pulse - When this creature enters the battle zone, tap target enemy creature.
+Blinder Beetle Prime - Level 5
+Evolution Creature - Enforcer - 6000 Power
+Evolution - Put on one of your Enforcers.
+Double Breaker (This creature breaks 2 shields.)
+Pulse Wave - When this creature enters the battle zone and whenever it attacks, tap target enemy creature. (If this creature attacks, first choose what it's attacking. then tap the target creature.)
+Blitzer-Mech Falkora - Level 4
+Creature - Mecha Thunder/Stomper - 2500 Power
+(This card enters your mana zone tapped.)
+Fast Attack (This creature can attack on the turn it enters the battle zone.)
+Thunderstrike - Whenever this creature attacks, tap target enemy creature. (First choose what this creature is attacking. Then tap the target creature.)
+Bodyguard Vorg - Level 2
+Creature - Mecha Thunder/Berserker - 3000 Power
+(This card enters your mana zone tapped.)
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Bolt-Hawk - Level 5
+Creature - Mecha Thunder - 6000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Brave Shalloteer - Level 4
+Creature - Storm Patrol/Wild Veggie - 2500 Power
+(This card enters your mana zone tapped.)
+Stinging Lance - When this creature enters the battle zone, tap target enemy creature that has less power than it.
+Bring to Tears - This creature can't be blocked by creatures that have less power than it.
+Caelum Skysworn - Level 6
+Creature - Celestial Dragon - 7500 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Double Breaker (This creature breaks 2 shields.)
+Cross Swords - While your opponent has a tapped creature in the battle zone, this creature can attack only creatures.
+Caius of Cloud Legion - Level 8
+Creature - Skyforce Champion - 9000 Power
+Double Breaker
+Warbringer's Clarion - All Light creatures in your shield zone have "Shield Blast."
+Calamity Bell - Level 6
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Your opponent discards a card at random. Tap all enemy creatures that are lower level than that card.
+Canyon Skimmer - Level 4
+Creature - Enforcer - 3000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Lock On - When this creature enters the battle zone, tap target enemy creature.
+Cassiopeia Starborn - Level 10
+Creature - Celestial Dragon - 12500 Power
+Triple Breaker (This creature breaks 3 shields.)
+Supernova - When this creature enters the battle zone, tap all enemy creatures. They don't untap at the start of your opponent's next turn.
+Cerulean Core - Level 4
+Creature - Star Sentinel - 4000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Signal Pulse - Whenever this creature blocks, choose one your other creatures and untap it.
+Cetus the Augur - Level 3
+Evolution Creature - Celestial Dragon/Leviathan - 7500 Power
+(This card enters your mana zone tapped.)
+Vortex Evolution - Put on 2 of your Light and/or Water creatures.
+Double Breaker (This creature breaks 2 shields.)
+Align the Stars - When this creature enters the battle zone, look at the top 2 cards of your deck. Put one of them into your hand and the other into your shield zone face down as a new shield.
+Chasm Entangler - Level 1
+Creature - Enforcer - 2000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Chief Toko - Level 5
+Creature - Skyforce Champion/Spirit Totem - 4000 Power
+(This card enters your mana zone tapped.)
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Ancestors' Blessing - While you have the same number or more shields than your opponent, this creature gets +3000 power and has "Double Breaker." (A creature that has "Double Breaker" breaks 2 shields.)
+Choten's Stalker Sphere - Level 5
+Creature - Corrupted/Enforcer - 3000 Power
+(This card enters your mana zone tapped.)
+Subverted Network - All your Corrupted creatures have "Blocker." (You may tap a creature that has "Blocker" to change an enemy creature's attack to it.)
+Citadel Judge - Level 3
+Creature - Enforcer - 2000 Power
+Overrule - Whenever this creature attacks, choose a number. Tap each enemy creature whose level is equal to that number.
+Citadel Knight - Level 7
+Creature - Skyforce Champion - 7500 Power
+Double Breaker (This creature breaks 2 shields.)
+Citadel Magistrate - Level 7
+Creature - Skyforce Champion - 10500 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Citadel Steward - Level 4
+Creature - Fractal - 3000 Power
+De-Archive - When this creature is banished, choose a spell in your discard pile and return it to your hand.
+Cloud Grappler - Level 4
+Creature - Void Spawn/Storm Patrol - 3500 Power
+Lockjaw - Whenever this creature attacks, you may clash with your opponent. If you won the clash, tap target enemy creature. (To clash, each player reveals the top card of his or her deck, then puts it on the bottom. You win if your card had the same or higher level.)
+Cloudwalker Drone - Level 2
+Creature - Enforcer - 1500 Power
+Drone Swarm - While you have another Enforcer in the battle zone, this creature gets +1000 power.
+Cloudweave - Level 8
+Spell
+Put the top card of your deck into your shield zone face down as a new shield. If you have an evolution creature in the battle zone, put another card from the top of your deck into your shield zone face down as a new shield.
+Cobalt, the Storm Knight - Level 6
+Evolution Creature - Enforcer - 6500 Power
+Evolution - Put on one of your Enforcers.
+Double Breaker (This creature breaks 2 shields.)
+Grid Charge - When this creature enters the battle zone, you may put the top card of your deck into your shield zone face down as a new shield.
+Commissar Soris - Level 2
+Creature - Storm Patrol - 1000 Power
+Advocate of Light - Each of your other Light creatures gets +1000 power.
+Containment Field - Level 4
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Tap a number of target enemy creatures equal to the number of creatures you have in the battle zone.
+Corvus Dragon - Level 5
+Evolution Creature - Celestial Dragon/Terror Dragon - 10500 Power
+(This card enters your mana zone tapped)
+Evolution - Put on one of your Celestial Dragons or Terror Dragons.
+Double Breaker (This creature breaks 2 shields.)
+Twisted Fate - Whenever this creature attacks, if you have the same number or more shields than your opponent, banish target tapped enemy creature. If you have fewer shields than your opponent, you may put the top card of your deck into your shield zone face down as a new shield.
+Covering Fire - Level 1
+Spell
+Choose one of your creatures. It can't be blocked this turn.
+Crash and Burn - Level 5
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Tap target enemy creature.
+Banish target enemy creature that has power 2000 or less.
+Crusader Engine - Level 8
+Creature - Battle Sphere/Undertow Engine - 6000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Unblinking - At the end of each of your turns, untap this creature.
+Unstoppable - If this creature would be banished, return it to your hand instead.
+Current Charger - Level 5
+Creature - Enforcer - 2000 Power
+Recharge - At the end of each of your turns, you may untap all your creatures in the battle zone.
+Dark-Seer Jurlon - Level 4
+Creature - Enforcer/Rot Worm - 4500 Power
+(This card enters your mana zone tapped.)
+Scrying Germs - Whenever this creature attacks, your opponent reveals his or her hand. You choose a spell from it and your opponent discards that spell.
+Spell Twist - Whenever one of your creatures become the target of one of your opponents spells, you may tap or untap target creature.
+Dawnblaze Patrol - Level 3
+Creature - Storm Patrol/Stomper - 4500 Power
+(This card enters your mana zone tapped.)
+Dawnflower Quartz - Level 4
+Creature - Spirit Quartz - 3000 Power
+(This card enters your mana zone tapped.)
+Opal Aura - Each of your other Light creatures gets +1000 power.
+Jade Luster - Each of your other Nature creatures gets +1000 power.
+Death Liger the Justicar - Level 8
+Creature - Skyforce Champion/Shadow Champion - 8500 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Soul Rend - When this creature enters the battle zone, target enemy creature gets -3000 power until the end of the turn. (A creature that has power 0 or less is banished.)
+Triumphant Roar - Whenever an enemy creature is banished, tap target enemy creature.
+Defense Mode - Level 1
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Choose one of your creatures. It gains Blocker until the start of your next turn.
+Detain - Level 1
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Your opponent chooses one of his or her untapped creatures in the battle zone. Tap that creature.
+Dorado, Golden Dragon - Level 6
+Creature - Celestial Dragon - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Flawless Champion - While you have 5 or more shields, this creature gets +6000 power and has "Triple Breaker." (A creature that has "Triple Breaker" breaks 3 shields.)
+Dragon Knight Volaron - Level 9
+Creature - Skyforce Champion/Armored Dragon - 7000 Power
+(This card enters your mana zone tapped.)
+Fast Attack
+Powerful Attack +4000
+Double Breaker
+Armor of Dawn - At the end of each of your turns, if this creature is tapped, you may put the top card of your deck into your shield zone face down as a new shield.
+Drakomech Commander - Level 4
+Evolution Creature - Enforcer/Drakon - 8500 Power
+(This card enters your mana zone tapped.)
+Vortex Evolution - Put on 2 of your Light and/or Fire creatures.
+Double Breaker
+Onslaught - All your creatures have "Fast Attack."
+Mobilize - When this creature enters the battle zone and whenever it becomes the target of one of your opponent's spells or abilities, reveal the top card of your deck. If that card is a non-evolution creature that is level 4 or less, put it into the battle zone. Otherwise, put it into your hand.
+Elder Titan Auralia - Level 7
+Evolution Creature - Skyforce Champion/Colossus - 8500 Power
+(This card enters your mana zone tapped)
+Evolution - Put on one of your Skyforce Champions or Colossus.
+Double Breaker (This creature breaks 2 shields.)
+Spell Sanctum - Each time a spell that is level 7 or less would enter your mana zone from your deck, you may cast it for free instead.
+Elevan the Seeker - Level 5
+Creature - Enforcer/Cyber Lord - 3000 Power
+(This card enters your mana zone tapped.)
+Stun - When this creature enters the battle zone, tap target enemy creature.
+Pathfind - When this creature enters the battle zone, choose one of your other creatures. It can't be blocked this turn.
+Empyrean Overseer - Level 4
+Evolution Creature - Skyforce Champion/Storm Patrol - 6500 Power
+Vortex Evolution - Put on 2 of your Light creatures.
+Double Breaker (This creature breaks 2 shields.)
+Unleash - Put the top card of your deck into your shield zone face down as a new shield. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Eternal Haven - Level 10
+Creature - Monarch/Angel Command - 15500 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Triple Breaker (This creature breaks 3 shields.)
+Blockade - Whenever this creature enters the battle zone, and whenever it attacks, you may draw a card. Then you may put a non-evolution creature that is level 9 or less and has "Blocker" from your hand into the battle zone.
+Aurora Armor - This creature can't be the target of your opponent's spells and abilities.
+Light Monarch - Each of your other Light creatures gets +4000 power.
+Eternity Pulse - Level 5
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Untap all your creatures. They get "Blocker" until the start of your next turn. (You may tap a creature that has "Blocker" to change an enemy creature's attack to it.)
+Eye of Inquisition - Level 5
+Creature - Battle Sphere/Dread Mask - 4500 Power
+(This card enters your mana zone tapped.)
+Mortal Recoil - Whenever this creature or one of your other creatures is banished, tap target enemy creature.
+Eye Spy - Level 4
+Creature - Battle Sphere - 2000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Scout - When this creature enters the battle zone, look at the top 3 cards of your deck. You may reveal a creature from among them that has "Blocker" and put it into your hand. Put the rest on the bottom of your deck in any order.
+Fallen Keeper - Level 3
+Creature - Corrupted/Storm Patrol - 1000 Power
+(This card enters your mana zone tapped.)
+Infusion Beams - At the end of each of your turns, untap all your Corrupted creatures.
+Flamewing Phoenix - Level 5
+Creature - Storm Patrol/Fire Bird - 2000 Power
+(This card enters your mana zone tapped.)
+Powerful Attack +3000 (While attacking, this creature gets +3000 power.)
+Reenergize - If this creature would be banished, put it into your shield zone face down as a new shield instead.
+Flare Inhibitor - Level 5
+Creature - Enforcer - 1500 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Recalibrate - If this creature would be banished, put it into your shield zone face down as a new shield instead.
+Flux Drone - Level 5
+Creature - Fractal - 1500 Power
+Shield Blast (Instead of putting this creature into your hand from a broken shield, you may summon it for free.)
+Bravo Protocol - When this creature enters the battle zone, target creature gets "Blocker" until the start of your next turn. (You may tap one of your creatures that has "Blocker" to change an enemy creature's attack to it.)
+Fornax, the Juggernaut - Level 6
+Creature - Celestial Dragon/Earthstrike Dragon - 8500 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Fullmetal Lemon - Level 3
+Creature - Enforcer/Wild Veggie - 3500 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Juiced - If this creature would be banished, put it into your mana zone instead.
+Galvanize - Level 3
+Spell
+Up to 2 of your creatures each get +1000 power until the end of the turn. At the end of the turn, untap them.
+Garrison Duty - Level 1
+Spell
+Target creature gets "Blocker" until the start of your next turn. (You may tap one of your creatures that has "Blocker" to change an enemy creature's attack to it.)
+Gemini Dragon - Level 7
+Creature - Celestial Dragon - 6500 Power
+Double Breaker (This creature breaks 2 shields.)
+Spellsurge - Whenever you cast a spell, this creature gets +4000 power until the end of the turn.
+General Dorzim - Level 5
+Evolution Creature - Skyforce Champion - 7500 Power
+Evolution - Put on one of your Light creatures.
+Blocker, Double Breaker
+Beacon of Courage - All your creatures that are level 4 or less have "Blocker."
+Gilded Archon - Level 7
+Creature - Storm Patrol/Cyber Lord - 6500 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Spell Echo - When this creature enters the battle zone, you may choose a spell in your discard pile that is level 3 or less and cast it for free. If you do, put it on the bottom of your deck instead of into your discard pile after you cast it.
+Glare of Sanction - Level 5
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Tap all enemy creatures that have power 2000 or less.
+Glimmergloom Quartz - Level 4
+Creature - Spirit Quartz - 3000 Power
+(This card enters the mana zone tapped.)
+Opal Aura - Each of your other Light creatures gets +1000 power.
+Onyx Shadow - Each of your other Darkness creatures gets +1000 power.
+Grand Gure, Tower Keeper - Level 6
+Creature - Storm Patrol - 9000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Graviton Generator - Level 4
+Creature - Enforcer - 4000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+G-Force - Whenever this creature blocks, tap target enemy creature.
+Guardian Akhal-Teek - Level 9
+Creature - Skyforce Champion/Beast Kin - 11500 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Double Breaker (This creature breaks 2 shields.)
+Righteous Frenzy - Whenever this creature wins a battle, choose 2 of your opponent's shields. This creature breaks those shields.
+Halo Hawk - Level 2
+Creature - Storm Patrol - 2000 Power
+Halon - Level 5
+Creature - Enforcer - 5500 Power
+Halon, Paragon of Light - Level 5
+Evolution Creature - Enforcer - 8000 Power
+Evolution - Put on one of your Enforcers.
+Double Breaker (This creature breaks 2 shields.)
+Harmony Wing - Level 5
+Creature - Skyforce Champion - 4000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Resonate - Whenever this creature blocks a creature that has power 2000 or less, untap this creature.
+Haven's Command - Level 3
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Target creature gets "Blocker" and "Skirmisher" until the start of your next turn. (You may tap a creature that has "Blocker" to change an enemy creature's attack to it. A creature that has "Skirmisher" can attack only creatures.)
+Haven's Elite - Level 6
+Creature - Skyforce Champion - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Oathbound - Each time this creature or one of your other non-evolution Skyforce Champions would be banished, put it into your shield zone face down as a new shield instead.
+Helios Rings - Level 5
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Tap up to 2 target enemy creatures.
+Heliosphere - Level 3
+Creature - Battle Sphere - 3000 Power
+Hover-Talon - Level 3
+Creature - Storm Patrol - 2000 Power
+Shield Blast (Instead of putting this creature into your hand from a broken shield, you may summon it for free.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Humonculon the Blaster - Level 5
+Creature - Enforcer/Megabug - 3000 Power
+(This card enters your mana zone tapped.)
+Stun - When this creature enters the battle zone, tap target enemy creature.
+Empower - When this creature enters the battle zone, choose one of your other creatures. It gets +3000 power until the end of the turn.
+Humonguru - Level 8
+Creature - Corrupted/Enforcer/Megabug/Human - 8000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Rampant Mutation - Whenever a card enters your mana zone, tap target enemy creature, and this creature gets +3000 power until the end of the turn.
+Monstrous - While this creature has power 12000 or more, it has "Triple Breaker."
+Hunter Sphere - Level 4
+Creature - Battle Sphere/Beast Kin - 3000 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Powerful Attack +4000 (While attacking, this creature gets +4000 power.)
+Hydrus the Oathbound - Level 7
+Creature - Celestial Dragon - 6000 Power
+Blocker, Double Breaker
+Oath of Dominance - This creature gets +3000 power for each tapped enemy creature.
+Oath of Vengeance - While this creature has power 12000 or more, it has "Triple Breaker."
+Intrepid Invader - Level 4
+Creature - Invader - 3000 Power
+Gyroscopic Stabilizer - At the end of each of your turns, untap this creature.
+Disaster Protocol - While you have 2 or fewer shields, this creature has "Blocker." (You may tap it to change an enemy creature's attack to it.)
+Ion Cruiser - Level 5
+Creature - Storm Patrol - 5500 Power
+Ironwill Tree - Level 2
+Creature - Star Sentinel - 2500 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Mind Ward - Your opponent's spells and abilities can't cause you to discard cards.
+Jade Monitor - Level 3
+Creature - Star Sentinel - 4000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Justice Archon - Level 5
+Creature - Skyforce Champion - 4000 Power
+Righteous Wrath - Whenever you cast a spell, this creature gets +2000 power and "Double Breaker" until the end of the turn. (It breaks 2 shields.)
+Karstara the Warder - Level 7
+Creature - Void Spawn/Skyforce Champion - 6500 Power
+Double Breaker (This creature breaks 2 shields.)
+Impede - Whenever this creature attacks, you may clash with your opponent. If you won the clash, put the top card of your deck into your shield zone face down as a new shield. (To clash, each player reveals the top card of his or her deck, then puts it on the bottom. You win if your card had the same or higher level.)
+Keeper of Clouds - Level 4
+Creature - Storm Patrol - 5000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Keeper of Dawn - Level 5
+Creature - Storm Patrol - 4000 Power
+Astral Recovery - When this creature enters the battle zone, choose a spell in your discard pile and return it to your hand.
+Keeper of Laws - Level 4
+Creature - Storm Patrol - 3500 Power
+Deflecting Aura - While you have another creature in the battle zone, this creature can't be the target of your opponent's spells and abilities.
+Spell Siphon - Whenever your opponent casts a spell, you may draw a card.
+Keeper of Twilight - Level 5
+Creature - Storm Patrol - 6000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Lamp Lighter - Level 4
+Creature - Mecha Thunder/Dread Mask - 5500 Power
+(This card enters your mana zone tapped.)
+Lars, Virtuous Imager - Level 5
+Creature - Invader - 4000 Power
+Helioglyph - Whenever you cast a spell, this creature gains +2000 power and "Double Breaker" until the end of the turn. (A creature that has "Double Breaker" breaks 2 shields.)
+Laser Drone - Level 3
+Creature - Enforcer - 2000 Power
+Follow the Leader - While at least 2 of your other creatures are tapped, this creature gets +2000 power.
+Lightning Sniper - Level 3
+Creature - Mecha Thunder - 3000 Power
+Logic Cube - Level 3
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Look at the top 5 cards of your deck. Choose a spell and add it to your hand. Put the rest on the bottom of your deck in any order.
+Lost Patrol - Level 3
+Creature - Storm Patrol/Specter - 5000 Power
+(This card enters your mana zone tapped.)
+Luminar - Level 3
+Creature - Enforcer - 3000 Power
+Luminar Unleashed - Level 5
+Evolution Creature - Corrupted/Enforcer - 7000 Power
+(This card enters your mana zone tapped.)
+Evolution - Put on one of your Corrupted creatures or Enforcers.
+Double Breaker (This creature breaks 2 shields.)
+Holo-Decoys - Whenever one of your Corrupted creatures attacks, tap target enemy creature.(First choose what your creature is attacking. Then tap the target creature.)
+Luminous Shieldwing - Level 2
+Creature - Enforcer - 1500 Power
+Reconfigure - If this creature would be banished, put it into your shield zone face down as a new shield instead.
+Lux - Level 2
+Creature - Fire Bird - 1500 Power
+Dragonsong - You tap 1 less mana card to summon Dragons.
+Andromeda's Envoy - If one of your Dragons would be banished, you may banish this creature instead.
+Lyra, the Blazing Sun - Level 6
+Creature - Celestial Dragon - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Solar Flare - When this creature enters the battle zone, tap target enemy creature. That creature doesn't untap at the start of your opponent's next turn.
+Mad Watcher - Level 3
+Creature - Enforcer/Specter - 1500 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Mind Meddle - When this creature is banished, your opponent discards a card at random.
+Magistrate Jazuri - Level 6
+Evolution Creature - Skyforce Champion - 8500 Power
+Evolution - Put on one of your Light creatures.
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Double Breaker (This creature breaks 2 shields.)
+Unleash - Untap all your creatures at the end of the turn. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Magris the Magnetizer - Level 1
+Creature - Enforcer - 500 Power
+Major Ao - Level 5
+Creature - Skyforce Champion/Drakon - 4500 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Fast Attack (This creature can attack on the turn it enters the battle zone.)
+Into the Fray - Whenever this creature wins a battle for the first time each turn, untap it.
+Mark of Eternal Haven - Level 8
+Spell
+Choose one:
+* Put a creature named Eternal Haven from your hand into the battle zone.
+* Draw a card. Then you may put a non-evolution creature that is level 7 or less and has "Blocker" from your hand into the battle zone.
+Memory Keeper - Level 2
+Creature - Storm Patrol/Cyber Virus - 2500 Power
+(This card enters your mana zone tapped.)
+Metal Max - Level 2
+Creature - Enforcer/Stomper - 3500 Power
+(This card enters your mana zone tapped.)
+Nimbus Scout - Level 4
+Creature - Enforcer - 3000 Power
+Tireless - At the end of each of your turns, untap this creature.
+Nova Cruiser - Level 2
+Evolution Creature - Storm Patrol - 4000 Power
+Evolution - Put on one of your Light creatures.
+Unleash - Tap target enemy creature. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Oathsworn Call - Level 5
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Put a non-evolution creature that is level 6 or less from your hand into the battle zone. It gets "Blocker" until the start of your next turn. (You may tap a creature that has "Blocker" to change an enemy creature's attack to it.)
+Orbital Observer - Level 3
+Creature - Star Sentinel - 3000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Watcher - At the end of each of your turns, untap this creature.
+Orion, Radiant Fury - Level 9
+Creature - Celestial Dragon - 10500 Power
+Double Breaker (This creature breaks 2 shields.)
+Laser Lances - When this creature enters the battle zone, tap up to 3 target enemy creatures.
+Three Headed - When this creature is banished, look at the top 3 cards of your deck. You may put any number of non-evolution Light creatures from among them into the battle zone. Put the rest on the bottom of your deck in any order.
+Overshields - Level 4
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Put the top 2 cards of your deck into your shield zone face down as new shields.
+At the start of your next turn, put 2 of your shields into your discard pile.
+Pakidamo the Resilient - Level 7
+Creature - Storm Patrol/Beast Kin - 6000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Defense Drop - When this creature enters the battle zone, search your deck. You may put a non-evolution creature that is level 3 or less and has "Blocker" from your deck into the battle zone. Then shuffle your deck.
+Paladio, Patrol Leader - Level 4
+Creature - Storm Patrol - 2500 Power
+Defense Grid - Each of your other Storm Patrols gets +2000 power.
+Panic and Disorder - Level 5
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Tap target enemy creature.
+Your opponent discards a card at random.
+Panopter - Level 5
+Creature - Battle Sphere - 4500 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Spy Network - Whenever one of your other creatures that has "Blocker" enters the battle zone, you may draw a card.
+Pentarc - Level 4
+Creature - Mecha Thunder - 5000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Perimeter Drone - Level 4
+Creature - Enforcer - 4000 Power
+Perseus Dragon - Level 6
+Creature - Celestial Dragon - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Unshakable Aegis - While you have 2 or fewer shields, this creature gets +2000 power and has "Blocker." (You may tap it to change an enemy creatures attack to it.)
+Phase Generator - Level 1
+Spell
+Choose one of your creatures. It can't be blocked this turn. At the end of the turn, untap it.
+Photon Squad - Level 3
+Creature - Storm Patrol - 3000 Power
+Photon Weaver - Level 2
+Creature - Sky Weaver - 2000 Power
+Piercing Judgment - Level 4
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Return target creature from the battle zone to its owner's hand.
+Tap target enemy creature.
+Plasma Pincer - Level 3
+Creature - Sky Weaver/Melt Warrior - 1000 Power
+(This card enters your mana zone tapped.)
+Powerful Attack +4000 (While attacking, this creature gets +4000 power.)
+Skitter - At the end of each of your turns, untap this creature.
+Portal Tech - Level 5
+Spell
+Choose up to 3 of your creatures. They can't be blocked this turn.
+Prelate of Wind - Level 7
+Creature - Skyforce Champion - 5500 Power
+Updraft - When this creature enters the battle zone, one of your creatures gets "Blocker" until the start of your next turn. (You may tap that creature to change an enemy creature's attack to it.)
+Prism Blade the Ascendant - Level 4
+Evolution Creature - Enforcer - 6000 Power
+Evolution - Put on one of your Light creatures.
+Double Breaker
+Beacon of Hope - Whenever you're attacked for the first time each turn, you may untap one of your other creatures. It gets "Blocker" until the end of the turn.
+Prism-Blade Enforcer - Level 2
+Creature - Enforcer - 1500 Power
+Heart of Light - While all cards in your mana zone are Light cards, this creature gets +2000 power and has blocker.
+Prototype Gunship - Level 3
+Creature - Storm Patrol/Stomper - 3000 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Reactor Breach - When this creature is banished, banish target enemy creature that has power 2000 or less.
+Ra-Vu the Indomitable - Level 8
+Creature - Skyforce Champion - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Omega Pulse - This creature wins all its battles.
+Ra-Vu the Stormbringer - Level 6
+Evolution Creature - Skyforce Champion - 11000 Power
+Evolution - Put on one of your Skyforce Champions.
+Double Breaker (This creature breaks 2 shields.)
+Lightning Vortex - At the end of each of your turns, untap all your creatures.
+Eye of the Storm - All your creatures have "Blocker." (You may tap a creature that has "blocker" to change an enemy creature's attack to it.)
+Ra-Vu, Seeker of Lightning - Level 7
+Creature - Skyforce Champion - 6500 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Double Breaker (This creature breaks 2 shields.)
+Solar Powered - At the end of each of your turns, untap this creature.
+Radiant Blinderhorn - Level 7
+Evolution Creature - Skyforce Champion/Tusker - 14500 Power
+(This card enters your mana zone tapped.)
+Vortex Evolution - Put on 2 of your Light and/or Nature creatures.
+Triple Breaker (This creature breaks 3 shields.)
+Blinding Charge - Whenever one of your creatures attacks, tap target enemy creature that has less power than it.
+Radiant Purification - Level 10
+Spell
+Choose up to 2 target enemy creatures. Your opponent shuffles them into his or her deck. Then tap all enemy creatures.
+Radiant, the Lawbringer - Level 7
+Creature - Skyforce Champion - 9500 Power
+Double Breaker (This creature breaks 2 shields.)
+Radion Sphere - Level 3
+Creature - Battle Sphere - 3000 Power
+Luminous - At the end of each of your turns, untap all your creatures that have power 6000 or more.
+Rain-Cloud Kraken - Level 2
+Creature - Enforcer - 3000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Rally the Reserves - Level 5
+Spell
+This turn, all your creatures that have "Guard" or "Skirmisher" abilities can attack as though they didn't have those abilities.
+Razorpine Tree - Level 4
+Creature - Star Sentinel - 2500 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Defend the Dojo - Whenever this creature blocks, untap it.
+Reactor Sphere - Level 6
+Creature - Battle Sphere - 3500 Power
+Flashbang - When this creature is banished, tap target enemy creature.
+Recharge - Level 4
+Spell
+Put the top card of your deck into your shield zone face down as a new shield.
+Reckoning - Level 7
+Spell
+Until the start of your next turn, each of your creatures wins all of its battles.
+Reflector Cannon - Level 4
+Creature - Fractal - 2000 Power
+Mirror Armor - When this creature is banished, tap all enemy creatures.
+Regent Sasha - Level 7
+Evolution Creature - Angel Command - 12500 Power
+Evolution - Put on one of your Light creatures.
+Triple Breaker
+Unleash - Until the start of your next turn, this creature can't leave the battle zone, and whenever one of your shields would be broken, you may discard a creature instead. (To use a creature's "Unleash" ability, put a card from under it into your discard pile when it attacks.)
+Regent's Attendant - Level 2
+Creature - Mecha Thunder - 1500 Power
+Noble Sacrifice - If one of your creatures that has power 6000 or more would be banished, you may banish this creature instead.
+Regroup - Level 2
+Spell
+At the end of this turn, untap all your creatures.
+Replicator Patrol - Level 4
+Creature - Storm Patrol - 3500 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Wingman - When this creature enters the battle zone, you may put a creature named Replicator Patrol from your hand into the battle zone.
+Repulse - Level 6
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Tap target enemy creature.
+If you have 2 or fewer shields, put the top card of your deck into your shield zone face down as a new shield.
+Restrain - Level 1
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Tap target enemy creature that has power 4000 or less.
+Reverberate - Level 6
+Spell
+(This card enters your mana zone tapped.)
+Draw a card for each shield you have.
+Rodi Gale, Night Guardian - Level 2
+Evolution Creature - Enforcer - 4500 Power
+Evolution - Put on one of your Enforcers.
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Safe Passage - Level 3
+Spell
+Choose up to 2 of your creatures. They can't be blocked this turn.
+Salvation Reckoner - Level 5
+Creature - Storm Patrol - 2000 Power
+Shield Blast (Instead of putting this creature into your hand from a broken shield, you may summon it for free.)
+Lock On - When this creature enters the battle zone, tap target enemy creature.
+Saracon, Storm Dynamo - Level 8
+Creature - Skyforce Champion/Trench Hunter - 7500 Power
+(This card enters your mana zone tapped.)
+Blocker
+Double Breaker
+Distress Beacon - When this creature is banished, draw up to 3 cards.
+Sasha the Observer - Level 5
+Creature - Angel Command - 4500 Power
+Observe and Report - Whenever a creature attacks you and isn't blocked, you may draw a card.
+Hologram - If this creature would be banished, you may discard a creature instead.
+Sasha, Channeler of Light - Level 9
+Creature - Angel Command - 5500 Power
+Megalaser Cannon - When this creature enters the battle zone, choose up to 2 target tapped enemy creatures. Your opponent shuffles those creatures into his or her deck.
+Scroll Orb - Level 6
+Creature - Battle Sphere - 3000 Power
+Astral Recovery - When this creature enters the battle zone, return a spell from your discard pile to your hand.
+Seer Serpent - Level 6
+Creature - Fractal - 3000 Power
+Future Perfect - When this creature enters the battle zone, search your deck. You may take a Light spell from your deck, reveal that spell, and put it into your hand. Then shuffle your deck.
+Sentinel Orb - Level 4
+Creature - Battle Sphere - 4000 Power
+Sentrus - Level 5
+Creature - Enforcer - 5000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Bold Defense - Whenever this creature blocks, it gets +2000 power until the end of the turn.
+Serpens, the Spirit Shifter - Level 7
+Creature - Celestial Dragon/Terror Dragon - 6500 Power
+(This card enters your mana zone tapped)
+Double Breaker (This creature breaks 2 shields.)
+Soul Shields - Whenever one of your other creatures is banished, you may put the top card of your deck into your shield zone face-down as a new shield.
+Shaman of the Vigil - Level 3
+Evolution Creature - Enforcer/Beast Kin - 5500 Power
+(This card enters your mana zone tapped)
+Evolution - Put on one of your Enforcers or Beast Kin.
+Pack Sworn - All your Beast Kin have "Protector." (You may tap a creature that has "Protector" to change an attack on one of your other creatures to it.)
+Inspirit - At the end of each of your turns, untap all your Enforcers.
+Shaw K'Naw - Level 3
+Creature - Storm Patrol - 2000 Power
+Rolling Thunder — Whenever this creature attacks, tap target enemy creature. (First choose what this creature is attacking. Then tap the target creature.)
+Shimmerwing - Level 2
+Creature - Enforcer - 1000 Power
+Flashbang - When this creature is banished, tap target enemy creature.
+Shock Sentinel - Level 3
+Creature - Storm Patrol - 2500 Power
+Evo Shock - Whenever one of your evolution creatures enters the battle zone, tap target enemy creature.
+Sky Shark - Level 6
+Creature - Storm Patrol/Undertow Engine - 5500 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Predatory Directive - All your creatures that have "Guard" or "Skirmisher" abilities can attack as though they didn't have those abilities.
+Sky-Ring Captain - Level 5
+Creature - Skyforce Champion - 4500 Power
+Sentry Alert - At the end of each of your turns, if this creature is tapped, untap one of your other creatures.
+Skybound Keeper - Level 3
+Creature - Storm Patrol - 3500 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Evo Escort - While you have an evolution creature in the battle zone, this creature gets +1000 power and can attack as though it didn't have "Skirmisher."
+Skyforce Adjutant - Level 5
+Creature - Skyforce Champion - 5500 Power
+Glorius Duty - All your creatures that have power 6000 or more have "Blocker." (You may tap a creature that has "Blocker" to change an enemy creature's attack to it.)
+Skyvolt Mech - Level 2
+Creature - Corrupted/Mecha Thunder - 3000 Power
+(This card enters your mana zone tapped.)
+Solar Helix - Level 4
+Spell
+Choose one:
+* Tap target enemy creature. It doesn't untap at the start of your opponent's next turn.
+* All your creatures get "Blocker" until the start of your next turn. (You may tap a creature that has "Blocker" to change an enemy creature's attack to it.)
+Solstar Commander - Level 5
+Creature - Enforcer/Berserker - 5500 Power
+(This card enters your mana zone tapped.)
+Incite - All your creatures that are level 3 or less have "Powerful Attack +3000." (A creature that has "Powerful Attack +3000" gets +3000 power while attacking.)
+Embolden - At the end of each of your turns, untap all your creatures that are level 3 or less.
+Spark Cage - Level 3
+Spell
+Tap target enemy creature.
+Draw a card.
+Spark Drone - Level 2
+Creature - Enforcer - 2000 Power
+Sparkblade Protector - Level 4
+Evolution Creature - Enforcer - 6000 Power
+Evolution - Put on one of your Enforcers.
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Double Breaker (This creature breaks 2 shields.)
+Raise the Alarm - Whenever another creature is banished during your opponent's turn, each of your creatures gets +2000 power until the end of the turn.
+Spire Keeper - Level 2
+Creature - Storm Patrol - 3000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Spire Puppet - Level 4
+Creature - Mecha Thunder/Evil Toy - 2500 Power
+(This card enters your mana zone tapped.)
+Tainted - When this creature enters the battle zone, your opponent discards a card at random.
+Spire Widow - Level 8
+Creature - Sky Weaver/Brain Jacker - 2000 Power
+(This card enters your mana zone tapped.)
+Slayer (When this creature loses a battle, banish the other creature.)
+Unweaving - When this creature enters the battle zone, choose target enemy creature. Your opponent shuffles it into his or her deck.
+Spire Zealot - Level 3
+Creature - Mecha Thunder - 3000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Spur to Action - When this creature enters the battle zone, choose one of your other creatures that has "Skirmisher." It can attack this turn as though it didn't have that ability.
+Spyweb Scurrier - Level 3
+Creature - Battle Sphere - 1500 Power
+Skitter - At the end of each of your turns, untap this creature.
+Stalker Sphere - Level 2
+Creature - Enforcer - 2000 Power
+Star Lantern - Level 3
+Creature - Star Sentinel - 3000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Photon Sting - Whenever this creature blocks, tap target enemy creature.
+Starforge Quartz - Level 4
+Creature - Spirit Quartz - 3000 Power
+(This card enters the mana zone tapped.)
+Opal Aura - Each of your other Light creatures gets +1000 power.
+Ruby Glow - Each of your other Fire creatures gets +1000 power.
+Starlight Strategist - Level 6
+Creature - Skyforce Champion - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Celestial Guide - Whenever this creature or one of your Skyforce Champions enters the battle zone, tap target enemy creature.
+Starseed Squadron - Level 4
+Creature - Enforcer/Tree Kin - 4000 Power
+(This card enters your mana zone tapped.)
+Spellcharge - Whenever you cast a spell, each of your creatures gets +2000 power until the end of the turn.
+Overpower - Each of your creatures that has power 6000 or more has "Double Breaker." (A creature that has "Double Breaker" breaks 2 shields.)
+Starwing - Level 5
+Creature - Skyforce Champion - 5500 Power
+Stingwing - Level 2
+Creature - Enforcer/Brain Jacker - 4500 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Angry Swarm - When this creature wins a battle banish it.
+Storm Seeker - Level 5
+Creature - Skyforce Champion - 4500 Power
+Spellspark - When this creature enters the battle zone, reveal the top card of your deck. If it's a spell, put it into your hand. Otherwise, put it on the bottom of your deck.
+Stormspark Blast - Level 6
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free)
+Tap all enemy creatures.
+Stormstrike Enforcer - Level 6
+Creature - Enforcer - 4000 Power
+Lock On - When this creature enters the battle zone, tap target enemy creature.
+Stratus Beetle - Level 2
+Creature - Storm Patrol/Megabug - 2000 Power
+(This card enters your mana zone tapped.)
+Charged Carapace - When this creature enters the battle zone, choose one of your other creatures. It gets +1000 power until the end of the turn. At the end of the turn, untap it.
+Stratus Dart - Level 2
+Creature - Storm Patrol - 1000 Power
+Wingman - When this creature enters the battle zone, you may put a creature named Stratus Dart from your hand into the battle zone.
+Strobe Flash - Level 4
+Spell
+Tap up to 2 target enemy creatures.
+Sun-Stalk Seed - Level 2
+Creature - Star Sentinel - 3000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Suncloak Protector - Level 7
+Creature - Skyforce Champion/Colossus - 7500 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Double Breaker (This creature breaks 2 shields.)
+Heroic Challenge - While this creature is tapped, your opponent can't choose to attack your other creatures.
+Sunmote Field - Level 7
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Until the start of your next turn, creatures can't attack you. (They can still attack your creatures.)
+Sunshock - Level 2
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Tap target enemy creature.
+Sunspout Quartz - Level 4
+Creature - Spirit Quartz - 3000 Power
+(This card enters your mana zone tapped.)
+Opal Aura - Each of your other Light creatures gets +1000 power.
+Sapphire Shine - Each of your other Water creatures gets +1000 power.
+Sunstorm Dreadnought - Level 4
+Evolution Creature - Storm Patrol - 6000 Power
+Evolution - Put on one of your Light creatures.
+Double Breaker (This creature breaks 2 shields.)
+Sunstrike - Level 6
+Spell
+(This card enters your mana zone tapped.)
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+Choose target enemy creature. if it has power 5000 or less, banish it. Otherwise, tap it and it doesn't untap at the start of your opponent's next turn.
+Sunwhip Sentry - Level 6
+Creature - Skyforce Champion - 6500 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Double Breaker (This creature breaks 2 shields.)
+Superia-Citadel Militia - Level 3
+Creature - Enforcer - 1500 Power
+Shield Blast (Instead of putting this creature into your hand from a broken shield, you may summon it for free.)
+Sword Horned - Level 3
+Creature - Enforcer/Beast Kin - 5500 Power
+(This card enters your mana zone tapped.)
+Tar Gusher - Level 3
+Creature - Enforcer/Tarborg - 1500 Power
+(This card enters your mana zone tapped.)
+Slayer (When this creature loses a battle, banish the other creature.)
+Gunk Up - When this creature is banished, tap target enemy creature.
+Temple Lantern - Level 2
+Creature - Star Sentinel - 2000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Photon Sting - Whenever this creature blocks, tap target enemy creature.
+The Arbiter - Level 7
+Creature - Enforcer - 2500 Power
+Shield Blast
+Hand of Judgement - When this creature enters the battle zone, tap up to 2 target enemy creatures.
+The Mystic of Light - Level 7
+Creature - Mystic - 7500 Power
+Double Breaker (This creature breaks 2 shields.)
+Clarity - When this creature enters the battle zone, choose a Light spell in your discard pile and return it to your hand.
+Mystic Harmony - At the end of your turn, if you have at least one Mystic in the battle zone from each civilization, you win the game.
+Thunder Cruiser - Level 1
+Creature - Storm Patrol - 2000 Power
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Thunder Reaper - Level 4
+Creature - Mecha Thunder - 4000 Power
+Toronok the Voidshaper - Level 7
+Creature - Void Spawn/Skyforce Champion - 8500 Power
+Double Breaker
+Sigil of Shaping - Whenever this creature attacks, you may clash with your opponent. If you won the clash by revealing a non-evolution creature or a spell, instead of putting that card on the bottom of your deck, you may play it for free. (To clash, each player reveals the top card of his or her deck, then puts it on the bottom. You win if your card had the same or higher level.)
+Truthseeker Forion - Level 7
+Creature - Skyforce Champion/Cyber Lord - 6000 Power
+(This card enters your mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Spellsword - When this creature enters the battle zone, you may cast a spell that has "Shield Blast" from your hand for free.
+Twilight Archon - Level 9
+Creature - Skyforce Champion/Shadow Champion - 11500 Power
+(This card enters your mana zone tapped.)
+Blocker
+Double Breaker
+Immobilize - When this creature enters the battle zone, tap target enemy creature. That creature doesn't untap at the start of your opponent's next turn.
+Impale - Whenever you cast a spell, banish target tapped enemy creature.
+Twilight Commander - Level 5
+Creature - Skyforce Champion - 5000 Power
+Rally - Whenever this creature attacks, you may choose one of your creatures that has less power than this creature and untap it.
+Twilight Worm - Level 5
+Creature - Enforcer/Rot Worm - 3500 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Slayer (When this creature loses a battle, banish the other creature.)
+Ulphonas, Fiendish Overlord - Level 5
+Evolution Creature - Invader/Dread Mask - 8500 Power
+(This card enters your mana zone tapped.)
+Vortex Evolution - Put on 2 of your Light and/or Darkness creatures.
+Double Breaker
+Abduct - Whenever this creature attacks, if your opponent has more creatures in the battle zone than you, your opponent chooses one of his or her creatures in the battle zone. Banish that creature.
+Force Field - Whenever this creature attacks, if your opponent has more shields than you, put the top card of your deck into your shield zone face down as a new shield.
+Urth, the Overlord - Level 8
+Creature - Skyforce Champion - 6000 Power
+Double Breaker (This creature breaks 2 shields.)
+Paralyzing Presence - When this creature enters the battle zone, tap all enemy creatures that don't have "Blocker".
+Vectro Scout - Level 3
+Creature - Invader - 3000 Power
+Veil Stalker - Level 6
+Creature - Skyforce Champion/Shadow Champion - 6000 Power
+(This card enters you mana zone tapped.)
+Double Breaker (This creature breaks 2 shields.)
+Piercing Gaze - When this creature enters the battle zone, your opponent discards a card at random. If that card is level 3 or less, you may draw a card.
+Virtuous Alcadeus - Level 6
+Creature - Skyforce Champion - 6000 Power
+Double Breaker
+Purity of Purpose - This creature can't be banished while its power is more than 0.
+Volcano Dervish - Level 4
+Evolution Creature - Skyforce Champion/Melt Warrior - 6500 Power
+(This card enters your mana zone tapped.)
+Evolution - Put on one of your Skyforce Champions or Melt Warriors.
+Protector (You may tap this creature to change an attack on one of your other creatures to this creature.)
+Double Breaker (This creature breaks 2 shields.)
+Molten Core - At the end of each of your turns, untap this creature.
+Wave Keeper - Level 4
+Creature - Storm Patrol/Undertow Engine - 1500 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Surf - When this creature enters the battle zone, you may draw a card.
+Wave Lancer - Level 5
+Creature - Skyforce Champion/Leviathan - 5500 Power
+(This card enters your mana zone tapped.)
+Blocker (You may tap this creature to change an enemy creature's attack to this creature.)
+Skirmisher (This creature can attack only creatures.)
+Remount - If this creature would be banished, return it to your hand instead.
+Wild Sky Sword - Level 6
+Creature - Storm Patrol/Beast Kin - 4000 Power
+(This card enters your mana zone tapped.)
+Powerful Attack +4000 (While attacking, this creature gets +4000 power.)
+Double Breaker (This creature breaks 2 shields.)
+Electro-Field - Whenever this creature wins a battle, you may put the top card of your deck into your shield face-down as a new shield.
+Zephyr Keeper - Level 3
+Creature - Storm Patrol - 2500 Power
+Shield Saver - If one of your shields would be broken, you may banish this creature instead.
+Zoltara the Mercenary - Level 6
+Creature - Enforcer/Specter - 3000 Power
+(This card enters your mana zone tapped.)
+Hold the Line - When this creature enters the battle zone, all your creatures get "Blocker" until the start of your next turn. (You may tap a creature that has "Blocker" to change an enemy creature's attack to it.)
+Void Vapor - When this creature enters the battle zone, your opponent chooses and discards a card.
+Zone Defense - Level 4
+Spell
+Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
+All your creatures get " Blocker" until the start of your next turn. (You may tap a creature that has "Blocker" to change an enemy creature's attack to it.)
