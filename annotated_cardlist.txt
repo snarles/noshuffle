@@ -93,8 +93,8 @@ Radi.ant the Law.brin.ger
 Sa.sha Chan.ne.ler of Light
 Ho.ver.craft Glu.urr.gle
 Wa.ter.spout Gar.goy.le
-Death Li.ger Lion of Chaos
-Dia.brost Sha.dow Mar.shal
+Death Li.ger Li.on of Chaos
+Di.a.brost Sha.dow Mar.shal
 Meg.ar.i.a the Col.lec.tor
 Crim.son Wy.vern
 Me.te.or Dra.gon
@@ -138,8 +138,8 @@ Mid.night Craw.ler
 Mil.po.ro Coun.cil of Lo.gos
 Pre.dict
 Queen O.ri.on
-Ru.sal.ka, qua Cha.ser
-Steam Star Grapp.log
+Ru.sal.ka Aq.ua Cha.ser
+Steam Star Grap.pl.og
 Thought Probe
 Dark Re.turn
 Dra.xar, the Soul Cru.sher
@@ -162,7 +162,7 @@ Bar.rage
 Blast.forge Sla.ver
 Bol.gash Dra.gon
 Bol.shack Dra.gon
-Fla.me Au.ra
+Flame Au.ra
 Hy.per.speed Dra.gon
 Ke.ni.na the Ig.ni.ter
 Le.gion.naire Li.zard
@@ -303,7 +303,7 @@ Ex.plo.sive In.fan.try
 Ham.mer Fist
 He.rald of In.fer.nus
 Ke.ni.na
-Rage.fire Tat.su.rion
+Rage.fi.re Tat.su.rion
 Spell.bane Dra.gon
 Be.lu.a
 Cop.per Lo.cust
@@ -358,8 +358,8 @@ Arach.no.ir of Cob.web Cav.ern
 Cave Gul.per
 Dread.husk
 Fanged Hor.ror
-Greg.or.ia the Mal.evo.lent
-Greg.or.ia For.tress
+Greg.or.i.a the Mal.evo.lent
+Greg.or.i.a For.tress
 Mes.me.rize
 Shape.shif.ter Sca.ra.dora.ble
 Ske.le.ton Sol.dier
@@ -420,8 +420,8 @@ Ra.mis the Cloaked
 Sea.curse Quartz
 Skar.vos the As.sas.sin
 Spell.jac.ker
-Baron Burn.fin.gers
-Chasm.blaze Quartz
+Ba.ron Burn.fin.gers
+Cha.sm.blaze Quartz
 Gal.zak of Sha.dow Pass
 Haun.ted Mech
 Kro.nax the Bru.tal
@@ -445,7 +445,7 @@ E.ter.nal Ha.ven
 King Al.bo.ran
 Queen Ka.li.ma
 Forge.lord Ve.su.vius
-Wild.stri.der Ram.noth
+Wi.ld.stri.der Ram.noth
 Twi.light Ar.chon
 Dra.gon Knight Vo.la.ron
 He.re.tic Prince Var.rak.ka
@@ -456,7 +456,7 @@ Blin.der Bee.tle Prime
 He.lio.sphere
 Mark of E.ter.nal Ha.ven
 Ra.Vu the In.do.mi.ta.ble
-Re.plica.tor Pa.trol
+Re.pli.ca.tor Pa.trol
 Re.pulse
 Sen.trus
 An.gler Clu.ster
@@ -517,7 +517,7 @@ Scal.ding Surge
 Un.sta.ble Rock.hound
 Bloom.war.den
 Crys.ta.lize
-Ki.vu In.gen.ious Sha.man
+Ki.vu In.gen.i.ous Sha.man
 Lore-Stri.der
 Mist.vine Quartz
 Ok.tus.ka the In.fused
@@ -532,12 +532,12 @@ Ob.si.di.an Death
 Skaak the Stin.ger
 Ter.ror Hound
 Death Li.ger the Jus.ti.car
-Cas.sio.pe.ia Star.born
+Cas.si.o.pe.ia Star.born
 War.brin.ger Po.sei.don
 Me.ga.ria the De.cei.ver
 Na.pal.me.on the Con.que.ring
 Al.migh.ty Co.los.sus
-Dark-Seer Jur.lon
+Dark-Se.er Jur.lon
 Ma.jor A.o
 El.der Ti.tan Au.ra.lia
 Ge.ne.ral Char.zon
@@ -546,7 +546,7 @@ Arc Ward
 De.tain
 Gra.vi.ton Ge.ne.ra.tor
 Ha.vens E.lite
-Ion Crui.ser
+I.on Crui.ser
 Sun.mote Field
 Sun.whip Sen.try
 Aq.ua Trick.ster
@@ -558,7 +558,7 @@ Se.ne.schal Cho.tens Lieu.te.nant
 Veil Slip
 Chi.me.ra Pre.da.tor
 Ra.ve.nous Web-Leg
-Sick.ly Lar.va
+Sic.kly Lar.va
 Snake Trap
 Spin.ning Ter.ror
 Vi.le Mal.vic.tus
@@ -594,11 +594,11 @@ Beam Bloom
 Chief To.ko
 Hun.ter Sphere
 Stra.tus Bee.tle
-E.mer.gency Pro.to.col
+E.mer.gen.cy Pro.to.col
 Es.sence Shade
 Fates Hand
 Sa.bo.tage Worm
-The Re.viled
+The Re.vi.led
 Bal.lis.tic Sky.ter.ror
 Blitz Com.man.do
 Cy.ber Troo.per
@@ -611,18 +611,18 @@ Te.la.nar, the Stor.mer
 Boom Skull
 Flame.spine Ra.va.ger
 In.fer.nal Task.mas.ter
-Lava-Tube Craw.ler
+La.va-Tube Craw.ler
 XT4
 Cac.kling Fiend
 Fear.fea.ther the Sca.ven.ger
-Loo.ming De.vou.rer
+Loo.ming De.vo.ur.er
 Sha.dow Strike
 Skul.king Cy.press
 Ar.mored Sen.ti.nel
 Cor.po.ral Pep.per
 Em.bla.zoned Gi.ant
 Vic.to.ry Gun.ner
-Vi.cious Squil.lace Scourge
+Vi.cious Squil.la.ce Scourge
 Ko.la.ni Dra.gon O.ra.cle
 Spi.re Wi.dow
 Kra.ka.toa the Shat.tered
@@ -634,23 +634,23 @@ Over.lord Sar.gon
 Ar.cane War.den
 Bea.con Drone
 Ca.e.lum Sky.sworn
-Ce.ru.lean Core
+Ce.ru.le.an Core
 Ha.vens Com.mand
 Light.ning Sni.per
 Lu.mi.nous Shield.wing
-Ra.diant Pu.ri.fi.ca.tion
+Ra.di.ant Pu.ri.fi.ca.tion
 Res.train
 So.lar He.lix
 Cap.tain Or.wel.lia
 Cap.tive Squill
-Hyper.grid Hac.ker
+Hy.per.grid Hac.ker
 Li.quid Com.pul.sion
 Neu.ral He.lix
 Oc.to.bot In.fil.tra.tor
 Queen Rip.tide
 Sau.cer-Head Shark
 Saw.tooth Cy.clone
-The Mys.tic of Water
+The Mys.tic of Wa.ter
 Ab.so.lute Dark.ness
 Ea.ger Clea.ver
 Har.bin.ger of the Void
@@ -714,7 +714,7 @@ Ma.gi.strate Ja.zu.ri
 No.va Crui.ser
 Pen.tarc
 Pho.ton Wea.ver
-Reac.tor Sphere
+Re.ac.tor Sphere
 Safe Pas.sage
 Sen.ti.nel Orb
 Sky-Ring Cap.tain
@@ -727,7 +727,7 @@ Aq.ua In.it.iate
 Aq.ua In.qui.si.tor
 Aq.ua Scout
 Ci.ti.zen To.ko.ri
-Cryo-Nu.cle.us
+Cr.yo-Nu.cle.us
 Cy.ber Lord Wa.ki.ki
 E.the.real A.gent
 Gob.ble.maw
@@ -748,15 +748,15 @@ Stoc.kade Vi.rus
 Tem.po.ral Tin.ke.ring
 Thought Col.lec.tive
 Tide An.gler
-Tide Seer
+Tide Se.er
 Veil Bub.ble
 Wave Spears
-Whirl.pool War.den
+Whi.rl.pool War.den
 At.tic Rea.per
 Bale.ful Drum.mer
 Ca.vern Snap.per
 Cree.ping Heap
-Cursed Phan.tom
+Cur.sed Phan.tom
 Den Gor.ger
 El.dritch Light.ning
 For.sa.ken Pup.pet
@@ -778,14 +778,14 @@ Skrap Skull
 Snake.bite
 Un.der.world Stal.ker
 Ve.no.man.cer
-Vile Re.an.i.ma.tor
+Vi.le Re.an.i.ma.tor
 Blast.forge Swee.per
 Blood.bound Dra.gon
 Con.voy Run.ner
 Dra.kon Mer.ce.na.ry
 Drop.ship Com.man.do
 Em.ber A.dept
-Fire.mane Dra.gon
+Fi.re.mane Dra.gon
 Flame Au.ger
 Kra.kus the Do.mi.na.tor
 La.se.rize
@@ -805,15 +805,15 @@ Tech.no.rap.tor
 Thun.de.ring Clap
 Tor.helm Stom.per Elite
 Vol.ca.no Troo.per
-War.chief Kyo
+War.chief Ky.o
 Wreck Mech
 Al.lure
 Am.ber.horn
 An.jak the All-Kin
 Ar.du Ran.ger
 Ar.du To.tem
-Bar.bed Crus.her
-Bronze-Arm Gla.dia.tor
+Barbed Crus.her
+Bronze-Arm Gla.di.a.tor
 Char.ging Great.claw
 Colo.nel Corn
 Cu.mu.lo fun.gus
@@ -832,7 +832,7 @@ Snar.ling Crag.horn
 Su.mo Ar.ti.choke
 Sun-Clan Tor.toise
 Vine Bind
-Vio.let Puf.fer
+Vi.o.let Puf.fer
 Wool.ly Tus.ker
 Sky Shark
 Eye of In.qui.si.tion
@@ -858,11 +858,11 @@ Old Man Win.ter
 Thorn Dra.gon
 Cy.ber.sphere Dra.gon
 Do.ra.do Gol.den Dra.gon
-Bil.lion-De.gree Dra.gon
+Bil.li.on-De.gree Dra.gon
 Wild Sky Sword
 Fault-Line Dragon
 Gry.bo.los the Ga.the.rer
-Sa.ra.con, Storm Dy.na.mo
+Sa.ra.con Storm Dy.na.mo
 Veil Stal.ker
 Ba.kaar Frost.wing
 Ne.crose Night.mare Bloom
@@ -880,8 +880,8 @@ Cy.ber Seer
 Ra.ve.nous De.tri.vore
 Mol.ten Stone.saur
 Swar.ming Ra.pids Lur.ker
-Brist.ling Tat.su.ri.on
-Prism Blade the A.scen.dant
+Bris.tl.ing Tat.su.ri.on
+Pri.sm Blade the A.scen.dant
 Kars.ta.ra the War.der
 Tar.vox the Vo.ra.cious
 Mal.phal.gus the Tor.men.ter
@@ -955,7 +955,7 @@ Wave.force Se.er
 A.gent of Lies
 Bat.ter-Axe
 Bloa.ted Gate.kee.per
-Chasm Gi.ga.bol.ver
+Cha.sm Gi.ga.bol.ver
 Dark.bolt
 De.cay
 De.te.ri.or.ate
