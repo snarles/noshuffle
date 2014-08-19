@@ -251,6 +251,12 @@ def inc_adict_wt(adict):
 
 
 
+
+
+
+
+
+
 # increments st
 def inc_adict_st(adict):
     ss = adict["ss"]
@@ -270,6 +276,7 @@ def inc_adict_st(adict):
         if temp["bad"]==1:
             inc_adict_wt(adict)
             inc_adict_st(adict)
+            return
         else:
             st = inc_st(wt,json.loads(temp["st"]),ns)
     # check if st is valid: otherwise, go back to wt stage
