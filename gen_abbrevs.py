@@ -249,6 +249,7 @@ def inc_adict_wt(adict):
         if cur_nw==0:
             cur_nw = min(nw,3)
         wt = init_wt(nw,cur_nw)
+    adict["cur_nw"]=cur_nw
     adict["wt"] = json.dumps(wt)
 
 # increments st
