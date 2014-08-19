@@ -236,7 +236,8 @@ def init_adict(ss):
     adict[json.dumps(wt)] = temp1
     return adict, wsc2abbrev(ss,wt,st,ct)
 
-def inc_adict(adict):
+# increments wt
+def inc_adict_wt(adict):
     ss = adict["ss"]
     nw,ns,nc = ss2cts(ss)
     cur_nw = adict["cur_nw"]
@@ -248,28 +249,51 @@ def inc_adict(adict):
         if cur_nw==0:
             cur_nw = min(nw,3)
         wt = init_wt(nw,cur_nw)
+    adict["wt"] = json.loads(wt)
+
+# increments st
+def inc_adict_st(adict):
+    ss = adict["ss"]
+    nw,ns,nc = ss2cts(ss)
+    cur_nw = adict["cur_nw"]
+    wt = json.loads(adict["wt"])
     # check if wt is new
     if adict.get(json.dumps(wt),"")=="":
-        # if the wt is new, initialize st and ct and add to dict
+        # if the wt is new, initialize st and add to dict
         st = init_st(wt,ns)
         ast = st2ast(wt,st,ns)
-        ct = init_st(ast,nc)
-        temp1 = {}
-        temp1[json.dumps(st)] = [json.dumps(ct)]
-        temp1["st"] = json.dumps(st)
-        adict[json.dumps(wt)] = temp1
+        temp={}
+        temp["st"] = json.dumps(st)
+        adict[json.dumps(wt)] = temp
+    else:
+        # increment st and check if -1: if so, increment wt and then st
+
+   
+
+def inc_adict(adict):
+    ss = adict["ss"]
+    nw,ns,nc = ss2cts(ss)
+    cur_nw = adict["cur_nw"]
+    inc_adict_wt(adict)
+    inc_adict_st(adict)
     else:
         # keep wt, increment st
         temp = adict[json.dumps(wt)]
         st = inc_st(wt,json.loads(temp["st"]))
+        ast = st2ast(wt,st,ns)
+        # check if st is negative
+        
         # check if st is new for this wt
         if temp.get(json.dumps(st),"")=="":
             # initialize ct, add st and ct to temp
-
+            ct = init_st(ast,nc)
+            temp[json.dumps(st)] = [json.dumps(ct)]
+            temp["st"] = json.dumps(st)
+            adict[json.dumps(wt)] = temp
         else:
+            # increment ct, check if reached -1
             cts=json.loads(temp[json.dumps(st)])
             ast = st2ast(wt,st,ns)
-            ct = init_st(ast,nc)
             ct = inc_st(ast,cts[-1],nc)
             if ct[0]==-1:
                 
