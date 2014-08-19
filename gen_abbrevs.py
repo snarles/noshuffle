@@ -327,6 +327,7 @@ vowels = "AEIOU"
 consonants = "BCDFGHJKLMNPQRSTVWXYZ0123456789"
 
 ss=splitns[5]
+nw,ns,nc=ss2cts(ss)
 adict = init_adict(ss)[0]
 inc_adict(adict)
 
