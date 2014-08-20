@@ -933,7 +933,7 @@ Spell
 Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
 Target enemy creature can't attack or block until the start of your next turn.
 Time Tethers - Level 5
-Spells
+Spell
 Shield Blast (Instead of putting this spell into your hand from a broken shield, you may cast it for free.)
 Up to 2 target enemy creatures can't attack or block until the start of your next turn.
 Trial and Error - Level 5
