@@ -72,7 +72,15 @@ def inc_st(wt,st,ns):
         if (wt[0]==wt[2]):
              # three in one word
              # use the word tracker to do this
-             return inc_wt(st,ns[wt[0]],3)
+             ndistinct = 3 - int(st[0]==st[1]) - int(st[1]==st[2])
+             ans=inc_wt(st,ns[wt[0]],ndistinct)
+             if ans[0]==-1:
+                 if ndistinct==1:
+                     return [-1,-1,-1]
+                 else:
+                     return init_wt(ns[wt[0]],ndistinct-1)
+             else:
+                 return ans
         else:
              # first word has two
              return inc_st2(wt,st,ns)
