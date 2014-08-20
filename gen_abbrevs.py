@@ -46,17 +46,17 @@ def init_wt(nw,cur_nw):
 
 # initialize syllable tracker
 def init_st(wt,ns):
-    if (wt[0]==wt[1]):
-        if (ns[wt[0]] > 1):
+    if wt[0]==wt[1]:
+        if ns[wt[0]] > 1:
             if (wt[0]==wt[2]):
                 if (ns[wt[0]] > 2):
                     return [0,1,2]
                 else:
-                    return [-1,-1,-1]
+                    return [0,0,1]
             else:
                 return [0,1,0]
         else:
-            return [-1,-1,-1]
+            return [0,0,0]
     else:
         if (wt[1]==wt[2]):
             if (ns[wt[1]] > 1):
@@ -102,13 +102,19 @@ def inc_st2(wt,st,ns):
         return [0,1,st[2]+1]
     elif st[1]==ns[wt[1]]:
         if st[2] < (ns[wt[2]]-1):
-            return [0,1,st[2]+1]
+            if ns[wt[1]]> 1:
+                return [0,1,st[2]+1]
+            else:
+                return [0,0,st[2]+1]
         else:
             return [-1,-1,-1]
     elif st[1] < (ns[wt[1]]-1):
         return [0,st[1]+1,st[2]]
     elif (st[2] < (ns[wt[2]]-1)):
-        return [0,1,st[2]+1]
+        if ns[wt[1]]> 1:
+            return [0,1,st[2]+1]
+        else:
+            return [0,0,st[2]+1]
     else:
         return [-1,-1,-1]
         
@@ -334,13 +340,38 @@ for ii in range(len(splitns)):
         splitns[ii][jj] = splitns[ii][jj].replace('AQ.','Q.').replace('CY.','Y.').split('.')
 splitns = splitns[:len(listns)]
 
-vowels = "AEIOU"
-consonants = "BCDFGHJKLMNPQRSTVWXYZ0123456789"
+
+
 
 ss=splitns[5]
 nw,ns,nc=ss2cts(ss)
 adict = init_adict(ss)[0]
 inc_adict(adict)
+
+nlvls = 5
+codes = [0]*nlvls
+abvs = [0]*nlvls
+adicts = [0]*len(listns)
+past_abvs = []
+for jj in range(nlvls):
+    codes[jj]={}
+    abvs[jj] = [0]*len(listns)
+    for ii in range(len(listns)):
+        ss = splitns[ii]
+        if jj==0:
+            adicts[ii] = init_adict(ss)
+            abv = cur_abbrev(adicts[ii])
+        else:
+            flag = True
+            abv = cur_abbrev(adicts[ii])
+            while abv in past_abvs:
+                inc_adict(adicts[ii])
+                abv = cur_abbrev(adicts[ii])
+        if codes[jj].get(abv,"")=="":
+            codes[jj][abv]=[]
+        codes[jj][abv] = codes[jj][abv] + [ii]
+        abvs[jj][ii]=abv
+    past_abvs = past_abvs + codes[jj].keys()
 
 
     
