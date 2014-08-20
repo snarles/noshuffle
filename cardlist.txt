@@ -539,7 +539,7 @@
 * D1/D2 General Finbarr
 * D2/D2 General Skycrusher
 #8
-* D1/D3 Magnet Mech Glu-uurgle
+* D1/D3 Magnet Mech Glu-urgle
 * D2/D3 Feral Scaradorable
 * D3/D3 Rampaging Tatsurion
 #9

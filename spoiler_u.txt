@@ -584,7 +584,7 @@ Spell
 Choose one:
 * Put a creature named King Tritonus from your hand into the battle zone.
 * Draw 3 cards.
-Master Trader Cephalia - Level 5
+Master Trader Cephelia - Level 5
 Creature - Cyber Lord - 2000 Power
 Shrewd Investment - When this creature enters the battle zone, if your opponent has more cards in hand than you, you may draw cards equal to the difference. Then you may draw a card.
 Memory Keeper - Level 2
