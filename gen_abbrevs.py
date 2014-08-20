@@ -334,19 +334,31 @@ f.close()
 ncards = len(listns)
 
 f = open('annotated_cardlist.txt','r')
-splitns = f.read().split('\n')
+anncls = f.read().split('\n')
 f.close()
-for ii in range(len(splitns)):
-    splitns[ii] = splitns[ii].upper().replace('-',' ').split(' ')
+splitns = [0]*ncards
+splitns2=[0]*ncards
+splitns3=[0]*ncards
+for ii in range(ncards):
+    splitns[ii] = anncls[ii].upper().replace('-',' ').split(' ')
+    splitns2[ii] = anncls[ii].upper().replace(' OF ',' ').replace(' THE ',' ').replace('-',' ').split(' ')
+    splitns3[ii] = anncls[ii].upper().replace(' OF ',' ').replace('-',' ').split(' ')
     for jj in range(len(splitns[ii])):
         splitns[ii][jj] = splitns[ii][jj].replace('AQ.','Q.').replace('CY.','Y.').split('.')
-splitns = splitns[:len(listns)]
-
+    for jj in range(len(splitns2[ii])):
+        splitns2[ii][jj] = splitns2[ii][jj].replace('AQ.','Q.').replace('CY.','Y.').split('.')
+    for jj in range(len(splitns3[ii])):
+        splitns3[ii][jj] = splitns3[ii][jj].replace('AQ.','Q.').replace('CY.','Y.').split('.')
+nws = [len(v) for v in splitns]
+nws2 = [len(v) for v in splitns2]
+nws3 = [len(v) for v in splitns3]
 
 # demo
 ss=splitns[5]
 adict = init_adict(ss); cur_abbrev(adict)
 inc_adict(adict); cur_abbrev(adict)
+
+
 
 
 # abbrev all cards
@@ -356,21 +368,38 @@ codes = [0]*nlvls
 abvs = [0]*nlvls
 adicts = [0]*ncards
 past_abvs = []
-remaining = range(ncards)
-for jj in range(nlvls):
+remaining = []
+
+# begin with 3+ letter cards
+for ii in range(ncards):
+    if (nws[ii] > 3) & (nws3[ii] > 2):
+        if nws2[ii] > 2:
+            ss = splitns2[ii]
+        else:
+            ss = splitns3[ii]
+        adict = init_adict(ss)
+        abv = cur_abbrev(adict)
+        while abv in past_abvs:
+            print "collision"
+            inc_adict(adict)
+            abv = cur_abbrev(adict)
+        past_abvs = past_abvs + [abv]
+        fcodes[ii] = abv
+    else:
+        remaining = remaining+[ii]
+[(listns[ii],fcodes[ii]) for ii in range(ncards) if fcodes[ii]!='']
+
+def update_codes(splitns,jj,codes,abvs,adicts,past_abvs,remaining):
     codes[jj]={}
     abvs[jj] = [0]*ncards
     for ii in remaining:
         ss = splitns[ii]
         if jj==0:
             adicts[ii] = init_adict(ss)
+        abv = cur_abbrev(adicts[ii])
+        while abv in past_abvs:
+            inc_adict(adicts[ii])
             abv = cur_abbrev(adicts[ii])
-        else:
-            flag = True
-            abv = cur_abbrev(adicts[ii])
-            while abv in past_abvs:
-                inc_adict(adicts[ii])
-                abv = cur_abbrev(adicts[ii])
         if codes[jj].get(abv,"")=="":
             codes[jj][abv]=[]
         codes[jj][abv] = codes[jj][abv] + [ii]
@@ -386,7 +415,12 @@ for jj in range(nlvls):
             new_remaining = new_remaining+[ii]
         else:
             fcodes[ii]=abv
+    jj=jj+1
     remaining = new_remaining
+    return jj, codes, abvs, adicts, past_abvs, remaining
+
+jj=0
+jj, codes, abvs, adicts, past_abvs, remaining = update_codes(splitns,jj,codes,abvs,adicts,past_abvs,remaining)
 
 fcodes_ann = [fcodes[ii]+" "+listns[ii] for ii in range(ncards)]
 o = open('codelist.txt','w')
