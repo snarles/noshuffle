@@ -11,7 +11,7 @@ REE Reef-Eye
 SPM Spy Mission
 TLP Teleport
 BOB Bone Blades
-BRS Brain Squirmer
+BSM Brain Squirmer
 DES Death Smoke
 DRP Dream Pirate
 FUM Fumes
@@ -21,7 +21,7 @@ HRS Horrid Stinger
 STS Skeeter Swarmer
 SKC Skull Cutter
 TRP Terror Pit
-ZTB Zagaan, the Bone Knight
+ZBK Zagaan, the Bone Knight
 BLB Blaze Belcher
 CMM Comet Missile
 DTS Draglide the Swiftest
@@ -38,7 +38,7 @@ BRG Brave Giant
 BAT Bronze-Arm Tribe
 ESE Essence Elf
 RGG Raging Goliant
-RTT Return to the Soil
+RTS Return to the Soil
 RMB Roaming Bloodmane
 ROT Root Trap
 RBT Rumbling Terrasaur
@@ -57,8 +57,8 @@ LMN Luminar
 REG Regroup
 SKN Shaw K'Naw
 STL Star Lantern
-SSS Sun-Stalk Seed
-SUS Sunshock
+SUS Sun-Stalk Seed
+SUN Sunshock
 QUC Aqua Commando
 QSD Aqua Soldier
 FOM Fluorogill Manta
@@ -68,11 +68,11 @@ PGG Potato Gun Glu-urrgle
 RPG Reef Prince Glu-urrgle
 VEV Veil Vortex
 VKA Vikorakas
-ATC Acid-Tongue Chimera
-BFO Black Feather of Shadow Abyss
+ACT Acid-Tongue Chimera
+BFS Black Feather of Shadow Abyss
 GHS Ghost Spy
 STC Specter Claw
-TGO Trox, General of Destruction
+TGD Trox, General of Destruction
 WBG Writhing Bone Ghoul
 BTD Bolt-Tail Dragon
 CLT Chain-Lash Tatsurion
@@ -88,9 +88,9 @@ RZH Razorhide
 STW Splinterclaw Wasp
 SPL Stampeding Longhorn
 QST Quillspike Tatsurion
-RSO Ra-Vu, Seeker of Lightning
+RSL Ra-Vu, Seeker of Lightning
 RTL Radiant, the Lawbringer
-SCO Sasha, Channeler of Light
+SCL Sasha, Channeler of Light
 HVG Hovercraft Glu-urrgle
 WTG Waterspout Gargoyle
 DLL Death Liger, Lion of Chaos
@@ -103,7 +103,7 @@ BRT Bestial Rage Tatsurion
 ESG Earthstomp Giant
 XNM Xeno Mantis
 AVS Argus, Vigilant Seer
-ATK Astinos, the Cloud Knight
+ACK Astinos, the Cloud Knight
 CVF Covering Fire
 CRC Current Charger
 HAL Halon
@@ -128,38 +128,38 @@ UTO Urth, the Overlord
 QUK Aqua Knight
 BYB Buoyant Blowfish
 CTM Crystal Memory
-FCO Finbarr, Council of Logos
-HCO Hokira, Council of Logos
+FCL Finbarr, Council of Logos
+HCL Hokira, Council of Logos
 ICL Ice Launcher
 KIC King Coral
 KLW Knowledge Warden
 MMS Memory Swarm
 MNC Midnight Crawler
-MCO Milporo, Council of Logos
+MCL Milporo, Council of Logos
 PDI Predict
 QUO Queen Orion
 RQC Rusalka, Aqua Chaser
 SSG Steam Star Grapplog
 THP Thought Probe
 DAR Dark Return
-DTC Draxar, the Soul Crusher
+DSC Draxar, the Soul Crusher
 GGS Gigastand
-GSO Gorgeon, Shadow of Gluttony
+GSG Gorgeon, Shadow of Gluttony
 GRS Grave Scrounger
-KGO Kronkos, General of Fear
+KGF Kronkos, General of Fear
 MRO Marrow Ooze
 QTU Quakes the Unclean
 RKP Razorkinder Puppet
 RTD Roton the Destroyer
-RTS Rupture Spider
-SOG Scaradorable of Gloom Hollow
+RSD Rupture Spider
+SGH Scaradorable of Gloom Hollow
 STH Scaradorable the Hunter
 SST Skull Shatter
 VNW Venom Worm
 VOW Voidwing
 BLL Badlands Lizard
 BAR Barrage
-BFS Blastforge Slaver
+BSV Blastforge Slaver
 BGD Bolgash Dragon
 BSD Bolshack Dragon
 FLA Flame Aura
@@ -183,7 +183,7 @@ GHC Gigahorn Charger
 LCL Launcher Locust
 MNS Mana Storm
 MNB Manabind
-MIT Mighty Shouter
+MST Mighty Shouter
 PWS Power Surge
 RES Red-Eye Scorpion
 SHD Shell Dome
@@ -200,8 +200,8 @@ EFT Evo Fury Tatsurion
 FST Flamespike Tatsurion
 CSE Chasm Entangler
 CWD Cloudwalker Drone
-CTS Cobalt, the Storm Knight
-HPO Halon, Paragon of Light
+CSK Cobalt, the Storm Knight
+HPL Halon, Paragon of Light
 HIR Helios Rings
 PTS Photon Squad
 PBE Prism-Blade Enforcer
@@ -225,7 +225,7 @@ GGB Gigabolver
 GGZ Gigazanda
 HDM Hydra Medusa
 LCM Locomotivator
-OKO Olgate, Knight of Shadow
+OKS Olgate, Knight of Shadow
 RFB Return from Beyond
 SVC Scavenging Chimera
 SCS Screeching Scaradorable
@@ -254,20 +254,20 @@ SVF Silver Fist
 SNC Snapclaw
 TRG Tendril Grasp
 RVT Ra-Vu the Stormbringer
-NOV Necrodragon of Vile Ichor
+NVI Necrodragon of Vile Ichor
 HDF Hammer Dragon Foulbyrn
-AOT Andromeda of the Citadel
-IOT Issyl of the Frozen Wastes
-DOT Dracothane of the Abyss
+ATC Andromeda of the Citadel
+IFW Issyl of the Frozen Wastes
+DTA Dracothane of the Abyss
 ITA Infernus the Awakened
-KOH Kurragar of the Hordes
+KTH Kurragar of the Hordes
 AAN Arachnopod
 ARV Aurora Valkyrie
 CYS Canyon Skimmer
 DFM Defense Mode
 GMD Gemini Dragon
 LUX Lux
-LTB Lyra, the Blazing Sun
+LBS Lyra, the Blazing Sun
 RFC Reflector Cannon
 SPC Spark Cage
 SSK Storm Seeker
@@ -276,7 +276,7 @@ BOW Bottle of Wishes
 COR Coral-Claw
 DOR Dragon of Reflections
 EPD Emperor Dendrite
-EOT Eye of the Tides
+ETT Eye of the Tides
 KTP Kindrix the Psionic
 LLO Logos Lookout
 MOW Man o' Warden
@@ -311,7 +311,7 @@ DLT Dauntless Tusker
 ENG Energize
 ENS Ensnare
 HBD Hornblade Dragon
-MNP Manapod Beetle
+MBT Manapod Beetle
 STU Sok'ran the Untamed
 STE Steel Hammer
 THS The Swarmleader
@@ -329,7 +329,7 @@ TTR Tatsurion the Relentless
 ATD Azuri, the Dawnbreaker
 BTA Beliqua the Ascender
 CMG Citadel Magistrate
-CTD Citadel Steward
+CTS Citadel Steward
 CTF Containment Field
 HLH Halo Hawk
 KOL Keeper of Laws
@@ -354,7 +354,7 @@ QSG Queen Sargasso
 REF Reef Scout
 TUT Tenuous Trove
 TIR Time Rime
-AOC Arachnoir of Cobweb Cavern
+ACC Arachnoir of Cobweb Cavern
 CAG Cave Gulper
 DRH Dreadhusk
 FAH Fanged Horror
@@ -379,7 +379,7 @@ JUJ Jump Jets
 KAB Kaboom!
 MDM Magma Dragon Melgars
 MOI Mark of Infernus
-RSD Redscale Drakon
+RDK Redscale Drakon
 SCI Scaled Impaler
 TOB Toolbot
 CTB Chief Thorn-Bringer
@@ -409,7 +409,7 @@ DFQ Dawnflower Quartz
 FML Fullmetal Lemon
 HTB Humonculon the Blaster
 OSC Oathsworn Call
-SQU Starseed Squadron
+SSD Starseed Squadron
 SCP Suncloak Protector
 SWH Sword Horned
 CTW Cryptic Worm
@@ -422,7 +422,7 @@ STA Skarvos the Assassin
 SJK Spelljacker
 BRB Baron Burnfingers
 CSQ Chasmblaze Quartz
-GOS Galzak of Shadow Pass
+GSP Galzak of Shadow Pass
 HTM Haunted Mech
 KTB Kronax the Brutal
 LSP Lizard-Skin Puppet
@@ -449,12 +449,12 @@ WLR Wildstrider Ramnoth
 TLA Twilight Archon
 DKV Dragon Knight Volaron
 HPV Heretic Prince Var-rakka
-TRS Borran, the Reality Shaper
-KTS Khordia, the Soul Tyrant
+BRS Borran, the Reality Shaper
+KST Khordia, the Soul Tyrant
 BBR Blade Barrier
 BBP Blinder Beetle Prime
 HLO Heliosphere
-MOE Mark of Eternal Haven
+MEH Mark of Eternal Haven
 RTI Ra-Vu the Indomitable
 RPP Replicator Patrol
 REP Repulse
@@ -494,7 +494,7 @@ WLG Wild Growth
 CMB Calamity Bell
 GMQ Glimmergloom Quartz
 LOP Lost Patrol
-TSS Serpens, the Spirit Shifter
+SSS Serpens, the Spirit Shifter
 SRP Spire Puppet
 STI Stingwing
 TAG Tar Gusher
@@ -506,13 +506,13 @@ MET Metal Max
 PMP Plasma Pincer
 PTG Prototype Gunship
 SFQ Starforge Quartz
-SUN Sunstrike
+SSU Sunstrike
 QTX Aqua Trooper XJ-3
 FTE Flamespitter
 FVD Flame-Vent Diver
 FBQ Frostburn Quartz
 KTV Krazzix the Volatile
-MBT Mar-Blurpa the Weaponsmith
+MBW Mar-Blurpa the Weaponsmith
 SDS Scalding Surge
 USR Unstable Rockhound
 BWD Bloomwarden
@@ -525,7 +525,7 @@ SQD Squall Darter
 WBT Wavebreaker Tribe
 CMQ Cavernmold Quartz
 FMN Foul Mana
-GSK Goop Striker
+GOS Goop Striker
 HTH Haunted Harvest
 MAG Masked Gravewing
 OSD Obsidian Death
@@ -554,13 +554,13 @@ EGU Engulf
 GDR Guardian Rusalka
 KBN King Barnacle
 MPP Morphing Pod
-SCL Seneschal, Choten's Lieutenant
+LTN Seneschal, Choten's Lieutenant
 VES Veil Slip
 CMP Chimera Predator
 RWL Ravenous Web-Leg
 SKL Sickly Larva
 SNT Snake Trap
-SPN Spinning Terror
+TER Spinning Terror
 VLM Vile Malvictus
 WBE Wandering Brain-Eater
 ARB Aerial Bombardment
@@ -573,11 +573,11 @@ RCS Ricochet Shot
 BSB Broadsword Butterfly
 CTV Cultivate
 DFS Defiant Shaman
-MOA Mark of Almighty Colossus
+MAC Mark of Almighty Colossus
 NTH Nurturing Hive
 TKT Tricky Turnip
 TUS Tusked Shouter
-CSK Choten's Stalker Sphere
+SPH Choten's Stalker Sphere
 FLK Fallen Keeper
 LMU Luminar Unleashed
 RVB Reverberate
@@ -625,8 +625,8 @@ VTG Victory Gunner
 VSS Vicious Squillace Scourge
 KDO Kolani, Dragon Oracle
 SRW Spire Widow
-KKT Krakatoa the Shattered
-TMO The Mystic of Light
+KTS Krakatoa the Shattered
+TML The Mystic of Light
 PPR Psychic Predator Rusalka
 SDB Soul-Devourer Black Feather
 HMG Humonguru
@@ -653,11 +653,11 @@ STY Sawtooth Cyclone
 TMW The Mystic of Water
 ADN Absolute Darkness
 EGC Eager Cleaver
-HOT Harbinger of the Void
+HTV Harbinger of the Void
 NIH Night Haunt
 NMH Nightmare Helix
 RIC Rib Collector
-SOL Scourge Lord
+SCO Scourge Lord
 TRC Terrorfang Clinger
 TMD The Mystic of Darkness
 VFB Vengeful Blast
@@ -686,13 +686,13 @@ FTJ Fornax, the Juggernaut
 DTL Deathtongue Leech
 VTC Vectron Crawler
 MMC Magmaclysm Rex
-COC Caius of Cloud Legion
+CCL Caius of Cloud Legion
 RGS Regent Sasha
 COB Change-o-bot Glu-urrgle
 EGM Exalarc, Grand Metachron
 GMA Grand Manipulator Agaryx
 TTM Trox the Merciless
-SDG Supreme Dragon Bolshack
+SPD Supreme Dragon Bolshack
 WMT Warmaster Tatsurion
 BTP Boulderfist the Pulverizer
 VHM Voksa, Herd Matriarch
@@ -721,7 +721,7 @@ SRC Sky-Ring Captain
 SBK Skybound Keeper
 SRK Spire Keeper
 STT Stratus Dart
-SSD Sunstorm Dreadnought
+SDN Sunstorm Dreadnought
 THA The Arbiter
 QUI Aqua Initiate
 QIQ Aqua Inquisitor
@@ -733,7 +733,7 @@ EAG Ethereal Agent
 GBM Gobblemaw
 HDN Hydrobot Nautilus
 IBB Icebelly Blowfish
-KLO Kalorth, Lord of Tides
+KLT Kalorth, Lord of Tides
 MIC Mind Core
 OCR Ocean Ravager
 OPS Outpost Sentry
@@ -783,7 +783,7 @@ SWP Blastforge Sweeper
 BBD Bloodbound Dragon
 CVR Convoy Runner
 DKM Drakon Mercenary
-DSC Dropship Commando
+CMD Dropship Commando
 EBA Ember Adept
 FRD Firemane Dragon
 FAG Flame Auger
@@ -825,8 +825,8 @@ MSB Mesa Behemoth
 MOG Moss Giant
 PCC Pouncing Crickant
 PDS Predatory Snapdragon
-RSL Rapscallion
-SPO Shouter, Paragon of Nature
+RSC Rapscallion
+SPN Shouter, Paragon of Nature
 SOP Sigil of Primacy
 SLC Snarling Craghorn
 SMA Sumo Artichoke
@@ -848,7 +848,7 @@ BLR Beastlord Rulchor
 HIM Hive Marshal Golian
 PTR Pakidamo the Resilient
 ASB Abyssal Stalker Baleia
-MST Mighty Shouter, the Shaman
+MSS Mighty Shouter, the Shaman
 FLI Flare Inhibitor
 MTV Moorna the Vengeful
 MVR Mother Virus
@@ -862,7 +862,7 @@ BDD Billion-Degree Dragon
 WSS Wild Sky Sword
 FAL Fault-Line Dragon
 GTG Grybolos the Gatherer
-SDN Saracon, Storm Dynamo
+DNM Saracon, Storm Dynamo
 VSK Veil Stalker
 BKF Ba'kaar Frostwing
 NNB Necrose, Nightmare Bloom
@@ -870,7 +870,7 @@ YWK Cyber Walker Kaylee
 FGC Forgotten Chief
 SDR Skraven, Draconic Reaper
 ESF Enslaved Flametropus
-SOT Shaman of the Vigil
+STV Shaman of the Vigil
 EBT Ember Titan
 GDA Gilded Archon
 SNF Snow Fort
@@ -878,10 +878,10 @@ RKN Reckoning
 WBS Wavebreaker Shaman
 SEE Cyber Seer
 RVD Ravenous Detrivore
-MSS Molten Stonesaur
+TSS Molten Stonesaur
 SRL Swarming Rapids Lurker
 BTI Bristling Tatsurion
-PBT Prism Blade the Ascendant
+PBA Prism Blade the Ascendant
 KTW Karstara the Warder
 TTV Tarvox the Voracious
 MTT Malphalgus the Tormenter
@@ -898,7 +898,7 @@ KTM Krotork the Mirror
 WWO Worldwaker Omgoth
 SRT Scaradorable the Behemoth
 ARA Aerial Arcavore
-ACK Ancient Keeper
+AKP Ancient Keeper
 ADO Ardent Observer
 ARS Aurora Scout
 BWB Bewildering Blast
@@ -919,7 +919,7 @@ RGA Regent's Attendant
 SVR Salvation Reckoner
 SCR Scroll Orb
 SFA Skyforce Adjutant
-SPD Spark Drone
+SPA Spark Drone
 SSE Stormstrike Enforcer
 SCM Superia-Citadel Militia
 TPL Temple Lantern
@@ -997,13 +997,13 @@ KUT Kuth the Dervish
 LVB Lava Burst
 LVR Lava Racer
 MTR Meteor Rider
-MTY Mighty Stomp
+MIT Mighty Stomp
 MFC Mischievous Fire-Chick
 RGF Raging Firebrand
 RAV Raptor-Ace Valko
 RDT Rothos the Destroyer
 ROF Runes of Fortune
-RGT Rygar the Tank
+RTT Rygar the Tank
 SSP Sandstorm Prowler
 SLB Sledge Bot
 BRU Smoldering Brute

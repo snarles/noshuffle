@@ -426,5 +426,8 @@ fcodes_ann = [fcodes[ii]+" "+listns[ii] for ii in range(ncards)]
 o = open('codelist.txt','w')
 o.write('\n'.join(fcodes_ann))
 o.close()
-
+fcodesann2 = sorted(fcodes_ann)
+o = open('codelist2.txt','w')
+o.write('\n'.join(fcodesann2))
+o.close()
     
