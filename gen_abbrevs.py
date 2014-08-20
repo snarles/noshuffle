@@ -227,6 +227,9 @@ def init_adict(ss):
     wt = init_wt(nw,cur_nw)
     adict["wt"]=json.dumps(wt)
     adict["cur_nw"]=cur_nw
+    temp={}
+    temp["st"]=json.dumps([-1,-1,-1])
+    adict[json.dumps(wt)] = temp
     inc_adict_st(adict)
     inc_adict_ct(adict)    
     return adict
@@ -246,16 +249,10 @@ def inc_adict_wt(adict):
         wt = init_wt(nw,cur_nw)
     adict["cur_nw"]=cur_nw
     adict["wt"] = json.dumps(wt)
-
-
-
-
-
-
-
-
-
-
+    if adict.get(json.dumps(wt),"")=="":
+        temp={}
+        temp["st"]=json.dumps([-1,-1,-1])
+        adict[json.dumps(wt)] = temp
 
 # increments st
 def inc_adict_st(adict):
@@ -263,29 +260,20 @@ def inc_adict_st(adict):
     nw,ns,nc = ss2cts(ss)
     cur_nw = adict["cur_nw"]
     wt = json.loads(adict["wt"])
-    # check if wt is new
-    if adict.get(json.dumps(wt),"")=="":
-        temp={}
-        temp["bad"]=1
-        adict[json.dumps(wt)] = temp
-        # if the wt is new, initialize st and add to dict
+    temp = adict[adict["wt"]]
+    # check we should reset
+    if temp["st"]==json.dumps([-1,-1,-1]):
         st = init_st(wt,ns)
+        if temp.get(json.dumps(st),0)==0:
+            temp[json.dumps(st)]=[]
     else:
         # increment st
-        temp = adict[json.dumps(wt)]
-        if temp["bad"]==1:
-            inc_adict_wt(adict)
-            inc_adict_st(adict)
-            return
-        else:
-            st = inc_st(wt,json.loads(temp["st"]),ns)
+        st = inc_st(wt,json.loads(temp["st"]),ns)
     # check if st is valid: otherwise, go back to wt stage
+    temp["st"]=json.dumps(st)
     if st[0]==-1:
         inc_adict_wt(adict)
         inc_adict_st(adict)
-    else:
-        temp["bad"]=0
-        temp["st"] = json.dumps(st)
 
 # increments ct
 def inc_adict_ct(adict):
@@ -296,18 +284,16 @@ def inc_adict_ct(adict):
     temp = adict[adict["wt"]]
     st = json.loads(temp["st"])
     ast = st2ast(wt,st,ns)
-    # check if st is new
-    if temp.get(temp["st"],"")=="":
+    # ct is never reset
+    if len(temp[temp["st"]])==0:
         ct = init_st(ast,nc)
-        temp[temp["st"]] = []
     else:
         ct = inc_st(ast,temp[temp["st"]][-1],nc)
+    temp[temp["st"]]=temp[temp["st"]] + [json.dumps(ct)]
     # check if ct is valid
     if ct[0]==-1:
         inc_adict_st(adict)
         inc_adict_ct(adict)
-    else:
-        temp[temp["st"]]=temp[temp["st"]] + [json.dumps(ct)]
 
 def inc_adict(adict):
     inc_adict_wt(adict)
