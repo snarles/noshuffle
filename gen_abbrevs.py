@@ -264,11 +264,11 @@ def inc_adict_st(adict):
     # check we should reset
     if temp["st"]==json.dumps([-1,-1,-1]):
         st = init_st(wt,ns)
-        if temp.get(json.dumps(st),0)==0:
-            temp[json.dumps(st)]=[]
     else:
         # increment st
         st = inc_st(wt,json.loads(temp["st"]),ns)
+    if temp.get(json.dumps(st),0)==0:
+        temp[json.dumps(st)]=[]
     # check if st is valid: otherwise, go back to wt stage
     temp["st"]=json.dumps(st)
     if st[0]==-1:
@@ -288,7 +288,8 @@ def inc_adict_ct(adict):
     if len(temp[temp["st"]])==0:
         ct = init_st(ast,nc)
     else:
-        ct = inc_st(ast,temp[temp["st"]][-1],nc)
+        oldct = json.loads(temp[temp["st"]][-1])
+        ct = inc_st(ast,oldct,nc)
     temp[temp["st"]]=temp[temp["st"]] + [json.dumps(ct)]
     # check if ct is valid
     if ct[0]==-1:
