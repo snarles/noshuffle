@@ -16,7 +16,7 @@ rlistns = [stripAlph(ss) for ss in listns]
 civs = ['W','U','B','R','G']
 spoiler_fs = ['spoiler_w.txt','spoiler_u.txt','spoiler_b.txt','spoiler_r.txt','spoiler_g.txt']
 
-ii = 0
+ii = 1
 f = open(spoiler_fs[ii],'r')
 temp = f.read().split('\n')
 f.close()
