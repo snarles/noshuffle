@@ -331,6 +331,8 @@ f = open('p_cardlist.txt','r')
 listns = f.read().split('\n')
 f.close()
 
+ncards = len(listns)
+
 f = open('annotated_cardlist.txt','r')
 splitns = f.read().split('\n')
 f.close()
@@ -341,22 +343,24 @@ for ii in range(len(splitns)):
 splitns = splitns[:len(listns)]
 
 
-
-
+# demo
 ss=splitns[5]
-nw,ns,nc=ss2cts(ss)
-adict = init_adict(ss)[0]
-inc_adict(adict)
+adict = init_adict(ss); cur_abbrev(adict)
+inc_adict(adict); cur_abbrev(adict)
 
+
+# abbrev all cards
 nlvls = 5
+fcodes = [""]*ncards
 codes = [0]*nlvls
 abvs = [0]*nlvls
-adicts = [0]*len(listns)
+adicts = [0]*ncards
 past_abvs = []
+remaining = range(ncards)
 for jj in range(nlvls):
     codes[jj]={}
-    abvs[jj] = [0]*len(listns)
-    for ii in range(len(listns)):
+    abvs[jj] = [0]*ncards
+    for ii in remaining:
         ss = splitns[ii]
         if jj==0:
             adicts[ii] = init_adict(ss)
@@ -372,6 +376,21 @@ for jj in range(nlvls):
         codes[jj][abv] = codes[jj][abv] + [ii]
         abvs[jj][ii]=abv
     past_abvs = past_abvs + codes[jj].keys()
+    # compute remaining
+    new_remaining = []
+    for ii in remaining:
+        abv = abvs[jj][ii]
+        if ii == codes[jj][abv][0]:
+            fcodes[ii]=abv
+        elif len(codes[jj][abv]) > 1:
+            new_remaining = new_remaining+[ii]
+        else:
+            fcodes[ii]=abv
+    remaining = new_remaining
 
+fcodes_ann = [fcodes[ii]+" "+listns[ii] for ii in range(ncards)]
+o = open('codelist.txt','w')
+o.write('\n'.join(fcodes_ann))
+o.close()
 
     

@@ -1,0 +1,1051 @@
+RZK Razorkinder
+TSR Tatsurion
+QUS Aqua Seneschal
+FZK Frogzooka
+HDS Hydro Spy
+HDC Hydrobot Crab
+ICB Ice Blade
+KIN King Nautilus
+KIP King Pontias
+REE Reef-Eye
+SPM Spy Mission
+TLP Teleport
+BOB Bone Blades
+BRS Brain Squirmer
+DES Death Smoke
+DRP Dream Pirate
+FUM Fumes
+GGG Gigargon
+GWH Grave Worm Hatchling
+HRS Horrid Stinger
+STS Skeeter Swarmer
+SKC Skull Cutter
+TRP Terror Pit
+ZTB Zagaan, the Bone Knight
+BLB Blaze Belcher
+CMM Comet Missile
+DTS Draglide the Swiftest
+FTP Flametropus
+GLS Gatling Skyterror
+LTH Little Hissy
+OVC Overcharge
+PRT Pyro Trooper
+ROB Rock Bite
+STG Simian Trooper Grash
+TNF Tornado Flame
+ABS Ambush Scorpion
+BRG Brave Giant
+BAT Bronze-Arm Tribe
+ESE Essence Elf
+RGG Raging Goliant
+RTT Return to the Soil
+RMB Roaming Bloodmane
+ROT Root Trap
+RBT Rumbling Terrasaur
+SPR Sprout
+AWJ Alcadeus, Winged Justice
+KIT King Tsunami
+BBS Bat-Breath Scaradorable
+LOS Lord Skycrusher
+TRD Terradragon Regarion Doom
+BDB Blinder Beetle
+GGT Grand Gure, Tower Keeper
+KOC Keeper of Clouds
+KOD Keeper of Dawn
+KOT Keeper of Twilight
+LMN Luminar
+REG Regroup
+SKN Shaw K'Naw
+STL Star Lantern
+SSS Sun-Stalk Seed
+SUS Sunshock
+QUC Aqua Commando
+QSD Aqua Soldier
+FOM Fluorogill Manta
+KIB King Bullfang
+LGS Logos Scan
+PGG Potato Gun Glu-urrgle
+RPG Reef Prince Glu-urrgle
+VEV Veil Vortex
+VKA Vikorakas
+ATC Acid-Tongue Chimera
+BFO Black Feather of Shadow Abyss
+GHS Ghost Spy
+STC Specter Claw
+TGO Trox, General of Destruction
+WBG Writhing Bone Ghoul
+BTD Bolt-Tail Dragon
+CLT Chain-Lash Tatsurion
+DKW Drakon Weaponsmith
+GTA Gilaflame the Assaulter
+ONN Om Nom Nom
+SBV Super Bazooka Volcanodon
+CMT Chief Many-Tribes
+DBB Deathblade Beetle
+FRH Forest Hornet
+KRC Karate Carrot
+RZH Razorhide
+STW Splinterclaw Wasp
+SPL Stampeding Longhorn
+QST Quillspike Tatsurion
+RSO Ra-Vu, Seeker of Lightning
+RTL Radiant, the Lawbringer
+SCO Sasha, Channeler of Light
+HVG Hovercraft Glu-urrgle
+WTG Waterspout Gargoyle
+DLL Death Liger, Lion of Chaos
+DSM Diabrost, Shadow Marshal
+MTC Megaria, the Collector
+CSW Crimson Wyvern
+MTD Meteor Dragon
+TTU Tatsurion the Unchained
+BRT Bestial Rage Tatsurion
+ESG Earthstomp Giant
+XNM Xeno Mantis
+AVS Argus, Vigilant Seer
+ATK Astinos, the Cloud Knight
+CVF Covering Fire
+CRC Current Charger
+HAL Halon
+JAM Jade Monitor
+LGC Logic Cube
+MTM Magris the Magnetizer
+NBS Nimbus Scout
+OBO Orbital Observer
+PPL Paladio, Patrol Leader
+PRD Perimeter Drone
+PTT Portal Tech
+RTR Rally the Reserves
+RZT Razorpine Tree
+SES Seer Serpent
+SWS Spyweb Scurrier
+SKS Stalker Sphere
+SLS Starlight Strategist
+SSB Stormspark Blast
+STF Strobe Flash
+TDC Thunder Cruiser
+UTO Urth, the Overlord
+QUK Aqua Knight
+BYB Buoyant Blowfish
+CTM Crystal Memory
+FCO Finbarr, Council of Logos
+HCO Hokira, Council of Logos
+ICL Ice Launcher
+KIC King Coral
+KLW Knowledge Warden
+MMS Memory Swarm
+MNC Midnight Crawler
+MCO Milporo, Council of Logos
+PDI Predict
+QUO Queen Orion
+RQC Rusalka, Aqua Chaser
+SSG Steam Star Grapplog
+THP Thought Probe
+DAR Dark Return
+DTC Draxar, the Soul Crusher
+GGS Gigastand
+GSO Gorgeon, Shadow of Gluttony
+GRS Grave Scrounger
+KGO Kronkos, General of Fear
+MRO Marrow Ooze
+QTU Quakes the Unclean
+RKP Razorkinder Puppet
+RTD Roton the Destroyer
+RTS Rupture Spider
+SOG Scaradorable of Gloom Hollow
+STH Scaradorable the Hunter
+SST Skull Shatter
+VNW Venom Worm
+VOW Voidwing
+BLL Badlands Lizard
+BAR Barrage
+BFS Blastforge Slaver
+BGD Bolgash Dragon
+BSD Bolshack Dragon
+FLA Flame Aura
+HPD Hyperspeed Dragon
+KTI Kenina the Igniter
+LGL Legionnaire Lizard
+MMM Magma Madness
+MTS Meteosaur
+MGD Moorna, Gatling Dragon
+SCE Skycrusher's Elite
+SLZ Snaptongue Lizard
+SSA Stonesaur
+TCR Tracer Rounds
+VOR Vorg
+BTV Breach the Veil
+CND Carnivorous Dahlia
+DTT Drifting Toadstool
+FEF Fear Fang
+GAB Gasbag
+GHC Gigahorn Charger
+LCL Launcher Locust
+MNS Mana Storm
+MNB Manabind
+MIT Mighty Shouter
+PWS Power Surge
+RES Red-Eye Scorpion
+SHD Shell Dome
+SMQ Sniper Mosquito
+TGA The Great Arena
+TNC Thorny Creeper
+TED Three-Eyed Dragonfly
+DAS Dark Scaradorable
+WRT Wrist-Rockets Tatsurion
+ORF Orion, Radiant Fury
+EPN Emperor Neuron
+TTW Tekamora the Wretched
+EFT Evo Fury Tatsurion
+FST Flamespike Tatsurion
+CSE Chasm Entangler
+CWD Cloudwalker Drone
+CTS Cobalt, the Storm Knight
+HPO Halon, Paragon of Light
+HIR Helios Rings
+PTS Photon Squad
+PBE Prism-Blade Enforcer
+REC Recharge
+SHS Shock Sentinel
+SWI Starwing
+TLC Twilight Commander
+QUE Aquatic Expulsion
+YBS Cyber Sprite
+YBT Cyber Trader
+EPA Emperor Axon
+FTG Forklift Tank Glu-urrgle
+KNT King Neptas
+NRO Neuron's Oracle
+RLW Rapids Lurker Wwhhshrll
+RGD Reef Gladiator
+STD Search the Depths
+SYR Sopan, Cyber Renegade
+CTR Chimera Tyrant
+GGB Gigabolver
+GGZ Gigazanda
+HDM Hydra Medusa
+LCM Locomotivator
+OKO Olgate, Knight of Shadow
+RFB Return from Beyond
+SVC Scavenging Chimera
+SCS Screeching Scaradorable
+SLY Slyth
+SSW Swampstench Worm
+BIH Big Hissy
+BFC Blastforge Captain
+CCT Cliffcutter
+DWC Drakon Warchief
+GWD Gunwing Dragon
+HES Heat Seekers
+JTD Jet-Thrust Darter
+JBG Jetflame Bodyguard
+LAD Laser-Arm Drakon
+LVL Lava Leaper
+TCM Twin-Cannon Maelstrom
+BAS Bronze-Arm Sabertooth
+FHS Forsett, Heroic Shaman
+GNA Granite Avenger
+ILB Illusory Berry
+LTA Lepidos the Ancient
+MHT Moonhowler Tribe
+PKB Prickleback
+RAS Reap and Sow
+SVF Silver Fist
+SNC Snapclaw
+TRG Tendril Grasp
+RVT Ra-Vu the Stormbringer
+NOV Necrodragon of Vile Ichor
+HDF Hammer Dragon Foulbyrn
+AOT Andromeda of the Citadel
+IOT Issyl of the Frozen Wastes
+DOT Dracothane of the Abyss
+ITA Infernus the Awakened
+KOH Kurragar of the Hordes
+AAN Arachnopod
+ARV Aurora Valkyrie
+CYS Canyon Skimmer
+DFM Defense Mode
+GMD Gemini Dragon
+LUX Lux
+LTB Lyra, the Blazing Sun
+RFC Reflector Cannon
+SPC Spark Cage
+SSK Storm Seeker
+VTS Vectro Scout
+BOW Bottle of Wishes
+COR Coral-Claw
+DOR Dragon of Reflections
+EPD Emperor Dendrite
+EOT Eye of the Tides
+KTP Kindrix the Psionic
+LLO Logos Lookout
+MOW Man o' Warden
+NIX Nix
+QUT Queen Taniwha
+TAE Trial and Error
+AGW Ancient Grave Worm
+BRD Bonerattle Dragon
+DVS Devouring Smog
+DDH Dreadclaw, Dark Herald
+DLW Drooling Worm
+GLT Gloom Tomb
+GRW Grudge Weaver
+PSG Patchwork Surgeon
+RPR Ripper Reaper
+TOG Toothed Grubling
+UMB Umbra
+BAG Bagash
+BFD Blastforge Dragon
+BTT Branca the Treacherous
+BTR Burnclaw the Relentless
+DGB Dragon's Breath
+EPI Explosive Infantry
+HMF Hammer Fist
+HOI Herald of Infernus
+KNN Kenina
+RFT Ragefire Tatsurion
+SBD Spellbane Dragon
+BLA Belua
+CPL Copper Locust
+DLT Dauntless Tusker
+ENG Energize
+ENS Ensnare
+HBD Hornblade Dragon
+MNP Manapod Beetle
+STU Sok'ran the Untamed
+STE Steel Hammer
+THS The Swarmleader
+TTD Treetop Dragon
+STO Sasha the Observer
+KTT King Tritonus
+DLA Death Liger, Apex Predator
+ITI Infernus the Immolator
+THQ The Hive Queen
+TSF Truthseeker Forion
+GAT Guardian Akhal-Teek
+SQL Squillace Scourge
+SBT Shadeblaze the Corruptor
+TTR Tatsurion the Relentless
+ATD Azuri, the Dawnbreaker
+BTA Beliqua the Ascender
+CMG Citadel Magistrate
+CTD Citadel Steward
+CTF Containment Field
+HLH Halo Hawk
+KOL Keeper of Laws
+LVI Lars, Virtuous Imager
+RCK Rain-Cloud Kraken
+RGN Rodi Gale, Night Guardian
+SMW Shimmerwing
+SRZ Spire Zealot
+TDR Thunder Reaper
+ZOD Zone Defense
+ARP Aeropica
+QUR Aqua Rider
+QRC Aqua-Ranger Commander
+YBY Cyber Cyclones
+YLC Cyber Lord Corile
+YBB Cybergrid Bandit
+GU2 Glu-urrgle 2.0
+HZC Hazard Crawler
+KPS King Poseidon
+MOT Mark of Tritonus
+QSG Queen Sargasso
+REF Reef Scout
+TUT Tenuous Trove
+TIR Time Rime
+AOC Arachnoir of Cobweb Cavern
+CAG Cave Gulper
+DRH Dreadhusk
+FAH Fanged Horror
+GTM Gregoria the Malevolent
+GOF Gregoria's Fortress
+MMR Mesmerize
+SSR Shapeshifter Scaradorable
+SLT Skeleton Soldier
+SOS Soul Schism
+STM Spectral Mummy
+SFC Suffocate
+TDG Thunder Grub
+TXF Toxic Fog
+ASD Assault Dragon
+BRW Blade-Rush Wyvern
+BFB Blastforge Bruiser
+COS Chaotic Skyterror
+DRS Drill Storm
+EBE Ember-Eye
+FLS Flame Spinner
+JUJ Jump Jets
+KAB Kaboom!
+MDM Magma Dragon Melgars
+MOI Mark of Infernus
+RSD Redscale Drakon
+SCI Scaled Impaler
+TOB Toolbot
+CTB Chief Thorn-Bringer
+DWD Deepwood Druid
+IRD Ironvine Dragon
+JAL Jackalax
+LBE Lumbering Elderwood
+MNT Mana Tick
+NRT Noble Rumbling Terrasaur
+RIF Reinforce
+SBM Saber Mantis
+SMB Shaman Broccoli
+SHT Shardhide Tusker
+SVA Silver Axe
+SET Slumbering Titan
+SPS Spore Siren
+AQS Aqua Strider
+CEG Crusader Engine
+ETS Elevan the Seeker
+MMK Memory Keeper
+POT Panopter
+PCJ Piercing Judgment
+SSQ Sunspout Quartz
+WAL Wave Lancer
+BLS Blade Seer
+DFQ Dawnflower Quartz
+FML Fullmetal Lemon
+HTB Humonculon the Blaster
+OSC Oathsworn Call
+SQU Starseed Squadron
+SCP Suncloak Protector
+SWH Sword Horned
+CTW Cryptic Worm
+FTS Featherfin Stalker
+FKT Freakish Test Subject
+GOD Grip of Despair
+RTC Ramis the Cloaked
+SCQ Seacurse Quartz
+STA Skarvos the Assassin
+SJK Spelljacker
+BRB Baron Burnfingers
+CSQ Chasmblaze Quartz
+GOS Galzak of Shadow Pass
+HTM Haunted Mech
+KTB Kronax the Brutal
+LSP Lizard-Skin Puppet
+OZL Oozing Lavasaur
+SOV Soul Vortex
+CDQ Cindermoss Quartz
+FIG Fight!
+GTS Gorim the Striker
+LTW Lotus Warrior
+SDH Smolderhorn
+STK Steamtank Kryon
+TTC Tatsurion the Champion
+WPR Weaponized Razorcat
+GNF General Finbarr
+GNS General Skycrusher
+MMG Magnet Mech Glu-uurgle
+FRS Feral Scaradorable
+RPT Rampaging Tatsurion
+ETH Eternal Haven
+KIA King Alboran
+QKL Queen Kalima
+FLV Forgelord Vesuvius
+WLR Wildstrider Ramnoth
+TLA Twilight Archon
+DKV Dragon Knight Volaron
+HPV Heretic Prince Var-rakka
+TRS Borran, the Reality Shaper
+KTS Khordia, the Soul Tyrant
+BBR Blade Barrier
+BBP Blinder Beetle Prime
+HLO Heliosphere
+MOE Mark of Eternal Haven
+RTI Ra-Vu the Indomitable
+RPP Replicator Patrol
+REP Repulse
+STR Sentrus
+AGC Angler Cluster
+QRN Aqua-Reflector Nomulos
+BLF Bladefish
+YYB Cyber Scamp
+DMP Deep Mind Probe
+FBD Finbarr's Dreadnought
+PHS Phase Scout
+RCM Recon Mission
+CEB Curse-Eye Black Feather
+DGD Dagger Doll
+DBS Doomblast Scaradorable
+GBW Gaunt Boneweaver
+GHB Ghost Bite
+MDW Maddening Whispers
+MOK Mark of Kalima
+TYG Tygrif
+BSP Blastforge Scrapper
+BTG Blazetrail Gilaflame
+CDF Cinder Fist
+MAM Magma Ram
+OST Onslaught Trooper
+SVS Skycrusher's Volcano-Ship
+SHR Skytalon Harrier
+SSM Sledgehammer Slammer
+DAG Dawn Giant
+HSW Headstrong Wanderer
+JBK Jarbala Keeper
+MTF Monstrify
+NJP Ninja Pumpkin
+SHW Striding Hearthwood
+TFT Transforming Totem
+WLG Wild Growth
+CMB Calamity Bell
+GMQ Glimmergloom Quartz
+LOP Lost Patrol
+TSS Serpens, the Spirit Shifter
+SRP Spire Puppet
+STI Stingwing
+TAG Tar Gusher
+ZTM Zoltara the Mercenary
+ATA Axos the Avenger
+BMF Blitzer-Mech Falkora
+FWP Flamewing Phoenix
+MET Metal Max
+PMP Plasma Pincer
+PTG Prototype Gunship
+SFQ Starforge Quartz
+SUN Sunstrike
+QTX Aqua Trooper XJ-3
+FTE Flamespitter
+FVD Flame-Vent Diver
+FBQ Frostburn Quartz
+KTV Krazzix the Volatile
+MBT Mar-Blurpa the Weaponsmith
+SDS Scalding Surge
+USR Unstable Rockhound
+BWD Bloomwarden
+CTL Crystalize
+KIS Kivu, Ingenious Shaman
+LOR Lore-Strider
+MVQ Mistvine Quartz
+OTI Oktuska the Infused
+SQD Squall Darter
+WBT Wavebreaker Tribe
+CMQ Cavernmold Quartz
+FMN Foul Mana
+GSK Goop Striker
+HTH Haunted Harvest
+MAG Masked Gravewing
+OSD Obsidian Death
+SKT Skaak the Stinger
+TRH Terror Hound
+DLJ Death Liger the Justicar
+CSS Cassiopeia Starborn
+WBP Warbringer Poseidon
+MDC Megaria, the Deceiver
+NTC Napalmeon the Conquering
+AMC Almighty Colossus
+DSJ Dark-Seer Jurlon
+MJA Major Ao
+ETA Elder Titan Auralia
+GNC General Charzon
+TTB Tatsurion the Brawler
+ARW Arc Ward
+DET Detain
+GVG Graviton Generator
+HVE Haven's Elite
+IOC Ion Cruiser
+SMF Sunmote Field
+SUW Sunwhip Sentry
+QTS Aqua Trickster
+EGU Engulf
+GDR Guardian Rusalka
+KBN King Barnacle
+MPP Morphing Pod
+SCL Seneschal, Choten's Lieutenant
+VES Veil Slip
+CMP Chimera Predator
+RWL Ravenous Web-Leg
+SKL Sickly Larva
+SNT Snake Trap
+SPN Spinning Terror
+VLM Vile Malvictus
+WBE Wandering Brain-Eater
+ARB Aerial Bombardment
+BFM Blastforge Marauder
+DKU Drakon Upstart
+FLF Flame Fangs
+GAS Galsaur
+MNM Manic Mechanic
+RCS Ricochet Shot
+BSB Broadsword Butterfly
+CTV Cultivate
+DFS Defiant Shaman
+MOA Mark of Almighty Colossus
+NTH Nurturing Hive
+TKT Tricky Turnip
+TUS Tusked Shouter
+CSK Choten's Stalker Sphere
+FLK Fallen Keeper
+LMU Luminar Unleashed
+RVB Reverberate
+SVM Skyvolt Mech
+CVD Corvus Dragon
+LAL Lamp-Lighter
+MAW Mad Watcher
+PAD Panic and Disorder
+BGV Bodyguard Vorg
+CAB Crash and Burn
+DBP Dawnblaze Patrol
+VCD Volcano Dervish
+BEB Beam Bloom
+CHT Chief Toko
+HTS Hunter Sphere
+STB Stratus Beetle
+EMP Emergency Protocol
+ESS Essence Shade
+FAT Fate's Hand
+SBW Sabotage Worm
+THR The Reviled
+BST Ballistic Skyterror
+BLC Blitz Commando
+YTP Cyber Trooper
+FTB Frantic Blast
+BAA Bad Apple
+BRA Bronze-Arm Renegade
+CTP Crystal Pulse
+TTQ Tainted Quartz
+TTS Telanar, the Stormer
+BOS Boom Skull
+FSR Flamespine Ravager
+IFT Infernal Taskmaster
+LTC Lava-Tube Crawler
+XT4 XT-4 Brutefist
+CKF Cackling Fiend
+FFT Fearfeather the Scavenger
+LMD Looming Devourer
+SDO Shadow Strike
+SKY Skulking Cypress
+AMS Armored Sentinel
+CPP Corporal Pepper
+EBG Emblazoned Giant
+VTG Victory Gunner
+VSS Vicious Squillace Scourge
+KDO Kolani, Dragon Oracle
+SRW Spire Widow
+KKT Krakatoa the Shattered
+TMO The Mystic of Light
+PPR Psychic Predator Rusalka
+SDB Soul-Devourer Black Feather
+HMG Humonguru
+OLS Overlord Sargon
+ACW Arcane Warden
+BCD Beacon Drone
+CES Caelum Skysworn
+CRL Cerulean Core
+HVC Haven's Command
+LNS Lightning Sniper
+LMS Luminous Shieldwing
+RDP Radiant Purification
+RET Restrain
+SLH Solar Helix
+CTO Captain Orwellia
+CAT Captive Squill
+HPH Hypergrid Hacker
+LQC Liquid Compulsion
+NRH Neural Helix
+OIF Octobot Infiltrator
+QRT Queen Riptide
+SCH Saucer-Head Shark
+STY Sawtooth Cyclone
+TMW The Mystic of Water
+ADN Absolute Darkness
+EGC Eager Cleaver
+HOT Harbinger of the Void
+NIH Night Haunt
+NMH Nightmare Helix
+RIC Rib Collector
+SOL Scourge Lord
+TRC Terrorfang Clinger
+TMD The Mystic of Darkness
+VFB Vengeful Blast
+ASI Absolute Incineration
+BLH Blaze Helix
+BDK Bluescale Drakon
+DCM Doomcannon Mech
+LV3 Lavanator 3000
+MKT Morkaz the Defiant
+SSL Sparkspine Lizard
+THD The Disassembler
+TMF The Mystic of Fire
+WLA Waylay
+BLM Blademane
+BMT Broodmother
+JBS Jarbala Swordbreaker
+RAP Rampage
+SPP Seedpod Puffer
+SLF Sledgefoot
+SWR Swift Regeneration
+TTT Taunting Totem
+TMN The Mystic of Nature
+VDH Verdant Helix
+TLW Twilight Worm
+FTJ Fornax, the Juggernaut
+DTL Deathtongue Leech
+VTC Vectron Crawler
+MMC Magmaclysm Rex
+COC Caius of Cloud Legion
+RGS Regent Sasha
+COB Change-o-bot Glu-urrgle
+EGM Exalarc, Grand Metachron
+GMA Grand Manipulator Agaryx
+TTM Trox the Merciless
+SDG Supreme Dragon Bolshack
+WMT Warmaster Tatsurion
+BTP Boulderfist the Pulverizer
+VHM Voksa, Herd Matriarch
+BTS Battlesworn Seer
+CTK Citadel Knight
+CLW Cloudweave
+CMS Commissar Soris
+ETP Eternity Pulse
+EYS Eye Spy
+FLD Flux Drone
+GRD Garrison Duty
+GND General Dorzim
+GLO Glare of Sanction
+HMW Harmony Wing
+HVT Hover-Talon
+IRT Ironwill Tree
+LSD Laser Drone
+MGJ Magistrate Jazuri
+NVC Nova Cruiser
+PET Pentarc
+PTW Photon Weaver
+RAT Reactor Sphere
+SAP Safe Passage
+ORB Sentinel Orb
+SRC Sky-Ring Captain
+SBK Skybound Keeper
+SRK Spire Keeper
+STT Stratus Dart
+SSD Sunstorm Dreadnought
+THA The Arbiter
+QUI Aqua Initiate
+QIQ Aqua Inquisitor
+QQU Aqua Scout
+CTT Citizen Tokori
+CYN Cryo-Nucleus
+YLW Cyber Lord Wakiki
+EAG Ethereal Agent
+GBM Gobblemaw
+HDN Hydrobot Nautilus
+IBB Icebelly Blowfish
+KLO Kalorth, Lord of Tides
+MIC Mind Core
+OCR Ocean Ravager
+OPS Outpost Sentry
+PCF Pincer-Fin
+REK Reef Kraken
+SCN Scavenging Cenophor
+STN Scrutinize
+SHC Shore Chomper
+SPE Snapping Eel
+SFV Steadfast Vorwhal
+SKV Stockade Virus
+TPT Temporal Tinkering
+THC Thought Collective
+TIA Tide Angler
+TIS Tide Seer
+VEB Veil Bubble
+WAS Wave Spears
+WRW Whirlpool Warden
+ATR Attic Reaper
+BDM Baleful Drummer
+CVS Cavern Snapper
+CPH Creeping Heap
+CSP Cursed Phantom
+DEG Den Gorger
+EDL Eldritch Lightning
+FSP Forsaken Puppet
+GHT Gloom-Hollow Taskmaster
+GLD Gloomlurker Drask
+GGL Gorgalisk
+GRC Grave Call
+GVS Grievous Strike
+HRT Horrific Tick
+HRB Horror Box
+LSC Lurking Skull Cutter
+MWM Mindwrack Moth
+MRS Mr. Smiles
+OBK Oblivion Knight
+RVW Ravenous Whiptongue
+SDC Shadowblade Conqueror
+SSH Shanok, the Soul Harvester
+SKR Skrap Skull
+SNB Snakebite
+UDS Underworld Stalker
+VNM Venomancer
+VLR Vile Reanimator
+SWP Blastforge Sweeper
+BBD Bloodbound Dragon
+CVR Convoy Runner
+DKM Drakon Mercenary
+DSC Dropship Commando
+EBA Ember Adept
+FRD Firemane Dragon
+FAG Flame Auger
+KTD Krakus the Dominator
+LSR Laserize
+MGR Megacannon Renegade
+RGR Railgun Raptor
+RLB Rally Bot
+RLV Relentless Vanguard
+RLC Restless Conflagration
+RKH Rocket Hawk
+SHH Scrapheap Hunter
+SRS Searing Spears
+SGM Sergeant Maddox
+SHO Shock Troop
+SID Siege Dragon
+SCG Slagcannon Grunt
+TNR Technoraptor
+DRC Thundering Clap
+TSE Torhelm, Stomper Elite
+VCT Volcano Trooper
+WCK Warchief Kyo
+WRM Wreck Mech
+ALL Allure
+ABH Amberhorn
+AAK Anjak, the All-Kin
+ADR Ardu Ranger
+ADT Ardu Totem
+BAC Barbed Crusher
+AGD Bronze-Arm Gladiator
+CGG Charging Greatclaw
+CNC Colonel Corn
+CMF Cumulofungus
+GLG Grasslands Goliath
+HBS Hunter Blossom
+HMT Huntmaster Taegrin
+ISM Instill Might
+MSB Mesa Behemoth
+MOG Moss Giant
+PCC Pouncing Crickant
+PDS Predatory Snapdragon
+RSL Rapscallion
+SPO Shouter, Paragon of Nature
+SOP Sigil of Primacy
+SLC Snarling Craghorn
+SMA Sumo Artichoke
+SCT Sun-Clan Tortoise
+VIB Vine Bind
+VOP Violet Puffer
+WLT Woolly Tusker
+SHA Sky Shark
+EOI Eye of Inquisition
+SSC Solstar Commander
+BDF Battlebred Defender
+MCS Mind Censor
+SEP Flame Serpent
+HSR Hydrobot Scarab
+ZBB Zombie Backhoe
+JND Johnny Darkseed
+TDS Thunderaxe Shaman
+BLR Beastlord Rulchor
+HIM Hive Marshal Golian
+PTR Pakidamo the Resilient
+ASB Abyssal Stalker Baleia
+MST Mighty Shouter, the Shaman
+FLI Flare Inhibitor
+MTV Moorna the Vengeful
+MVR Mother Virus
+IAL Impalicus
+SBP Sparkblade Protector
+OMW Old Man Winter
+THO Thorn Dragon
+YBD Cybersphere Dragon
+DRG Dorado, Golden Dragon
+BDD Billion-Degree Dragon
+WSS Wild Sky Sword
+FAL Fault-Line Dragon
+GTG Grybolos the Gatherer
+SDN Saracon, Storm Dynamo
+VSK Veil Stalker
+BKF Ba'kaar Frostwing
+NNB Necrose, Nightmare Bloom
+YWK Cyber Walker Kaylee
+FGC Forgotten Chief
+SDR Skraven, Draconic Reaper
+ESF Enslaved Flametropus
+SOT Shaman of the Vigil
+EBT Ember Titan
+GDA Gilded Archon
+SNF Snow Fort
+RKN Reckoning
+WBS Wavebreaker Shaman
+SEE Cyber Seer
+RVD Ravenous Detrivore
+MSS Molten Stonesaur
+SRL Swarming Rapids Lurker
+BTI Bristling Tatsurion
+PBT Prism Blade the Ascendant
+KTW Karstara the Warder
+TTV Tarvox the Voracious
+MTT Malphalgus the Tormenter
+QTG Quetaro the Gladiator
+RTO Rogonite the Obliterator
+TRT Toronok the Voidshaper
+TCN The Chronarch
+BAD Baelgor, Accursed Dragon
+KBD Krogon, Blazing Devastation
+EGD Eternal Gaia Dragon
+UFO Ulphonas, Fiendish Overlord
+DKC Drakomech Commander
+KTM Krotork the Mirror
+WWO Worldwaker Omgoth
+SRT Scaradorable the Behemoth
+ARA Aerial Arcavore
+ACK Ancient Keeper
+ADO Ardent Observer
+ARS Aurora Scout
+BWB Bewildering Blast
+BOH Bolt-Hawk
+CTJ Citadel Judge
+CLG Cloud Grappler
+EPO Empyrean Overseer
+GVN Galvanize
+HTO Hydrus the Oathbound
+IIV Intrepid Invader
+JTA Justice Archon
+OVS Overshields
+PSD Perseus Dragon
+PHG Phase Generator
+POW Prelate of Wind
+RDS Radion Sphere
+RGA Regent's Attendant
+SVR Salvation Reckoner
+SCR Scroll Orb
+SFA Skyforce Adjutant
+SPD Spark Drone
+SSE Stormstrike Enforcer
+SCM Superia-Citadel Militia
+TPL Temple Lantern
+VTA Virtuous Alcadeus
+ZPK Zephyr Keeper
+ARG Aeronaut Glu-urrgle
+QIF Aqua Infiltrator
+QSM Aqua Swordsman
+CLS Cloaked Saboteur
+CKL Cranky Leviathan
+YSV Cyber Savant
+DCD Deep-Currents Drifter
+DRF Dreamfish
+EPP Emperor Palata
+GGV Garglevision
+HDE Hydrobot Elite
+HNB Hypnobot
+MCP Master Trader Cephelia
+MTO Metroplex Operative
+MTP Metroplex Scout
+OTC Optic Cell
+RIS Rip Swirl
+RMZ Runemaster Zyr
+SPT Spy Tide
+TLE Teleportation Equation
+TIG Tide Gulper
+TIT Time Tethers
+TKN Tusked Nautiloid
+VOS Void Seer
+WAV Wave Skimmer
+WCC Wavecrest Crawler
+WFS Waveforce Seer
+AOL Agent of Lies
+AXE Batter-Axe
+BGK Bloated Gatekeeper
+CSG Chasm Gigabolver
+DAB Darkbolt
+DEC Decay
+DTR Deteriorate
+FCW Foul Cave Worm
+GLW Gloom Wraith
+GGI Gregoria's Guile
+GSC Grim Specter
+GUL Gullet Ghost
+HLW Hollow Worm
+ICS Ichor Spider
+JLC Joko, Lunatic Chimp
+LGN Legionnaire Corpse
+LTL Lethal Lockbox
+MGT Megaria's Trapheap
+NTT Nether Tactician
+PLC Prowling Chimera
+ROR Rite of Revival
+SHM Shredmane
+SNS Sinister Scheme
+STP Slithering Phantasm
+SOR Soul Reflection
+TIL Timelost Phantom
+VCC Vicious Coffer
+VLP Vile Piercer
+WRH Wraith Hound
+AMT Ammo Train
+ADG Artillery Dragon
+AHT Ashen Tribute
+BTM Battering Monolith
+BLD Blaze Darter
+CDG Cannonade Dragon
+FAV Flaming Arrow Volley
+FRT Furywing Trooper
+HDG Hydragon
+IGN Igniss
+JTH Jack, the Hammer
+JPT Jetpack Thug
+KUT Kuth the Dervish
+LVB Lava Burst
+LVR Lava Racer
+MTR Meteor Rider
+MTY Mighty Stomp
+MFC Mischievous Fire-Chick
+RGF Raging Firebrand
+RAV Raptor-Ace Valko
+RDT Rothos the Destroyer
+ROF Runes of Fortune
+RGT Rygar the Tank
+SSP Sandstorm Prowler
+SLB Sledge Bot
+BRU Smoldering Brute
+SDV Stormdiver
+WLV Wildfire Valkyrie
+ACB Ancestor Bear
+ADC Ardu Cloudstrider
+BAF Bronze-Arm Fanatic
+CLA Colossal Avenger
+CPS Creeper Snare
+DTP Daunting Presence
+DUD Duke Durian
+EAB Earthbond Giant
+EMB Embolden
+FMC Field Marshal Cornucopia
+GNT Granite Titan
+GRP Grove Protector
+HOC Horned Chameleon
+JBH Jarbala Hatchery
+LWT Leafwing Totem
+LBC Lumbering Coliseum
+LNB Lunar Boar
+LKO Lurking Orchid
+MHH Moonhowler Hunter
+MLG Muk'tak, Lifespark Guide
+PKP Pesky Pineapple
+RLR Ringleader Radish
+ROC Ritual of Challenge
+RSG Runestone Goliath
+SAV Savage Spawn
+CTE Solstice Chanter
+SPG Sprite's Gift
+TDT Trapdoor Tunneler
+WRS Warren Shaman
+CTA Cetus the Augur
+WAK Wave Keeper
+BSL Brave Shalloteer
+RDB Radiant Blinderhorn
+ASV Abyssal Scavenger
+MGK Magglekax
+BIL Bile Raptor
+TSG Taksha, Scourge Gunner
+ARN Arachnomech
+ROS Riot Sprite
+DGE Dragon Engine Glu-urrgle
