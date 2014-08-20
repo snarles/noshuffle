@@ -147,30 +147,10 @@ racemap['Zombie']='Zom'
 racemap2 = {}
 for ky in racemap.keys():
     racemap2[ky.upper()] = racemap[ky]
+    racemap2[ky.upper()+'S'] = racemap[ky]
+    racemap2[ky.upper()+'ES'] = racemap[ky]
 racemap2['CREATURES'] = 'allies'
-
-# fill in race and level
-for ii in range(ncards):
-    dentry = database[ii]
-    spoiler = database[ii]["spoiler"]
-    l1 = spoiler[0]
-    lv = int(l1.split(' - Level ')[1])
-    dentry["Level"] = lv
-    l2 = spoiler[1]
-    if l2=="Spell":
-        dentry["Type"]="Spell"
-        dentry["Power"]=0
-        rest = spoiler[:]
-    else:
-        dentry["Type"]="Creature"
-        temp1 = l2.split(" - ")
-        temp2 = temp1[1].split("/")
-        temp3 = [racemap[tt] for tt in temp2]
-        dentry["Races"]=temp3
-        #power
-        dentry["Power"] = int(temp1[2].split(' ')[0])
-    dentry["Special"]=[]
-
+racemap2['DRAGONS']='Drgn'
 
 def process_special(spoiler):
     special = []
@@ -182,6 +162,7 @@ def process_special(spoiler):
     return special
 
 def process_special1(sp):
+    sp = sp.replace('into','in')
     # kill the opening label
     if ' - ' in sp:
         sp = sp.split(' - ')[1]
@@ -196,8 +177,14 @@ def process_special1(sp):
                 sp=sp+ss
             else:
                 sp=sp+ss.split(')')[1]
-    if sp[:14]=='Double Breaker':
+    if sp[:19]=='Put on one of your ':
+        sp = sp[19:]
+        sp = sp.upper().replace('.','')
+        sp = 'Evo: '+racemap2[sp]
+    elif sp[:14]=='Double Breaker':
         sp='DBkr'
+    elif sp[:14]=='Triple Breaker':
+        sp='TBkr'
     elif sp[:7]=='Blocker':
         sp='Blkr'
     elif sp[:10]=='Skirmisher':
@@ -223,6 +210,10 @@ def process_special1(sp):
         sp = 'Atk+'+no
     elif sp.upper()=='IF THIS CREATURE WOULD BE BANISHED, RETURN IT TO YOUR HAND INSTEAD.':
         sp = 'DIES: self-bounce'
+    elif sp.upper()=='AT THE END OF EACH OF YOUR TURNS, UNTAP THIS CREATURE.':
+        sp = 'EOT: untaps'
+    elif sp.upper()=='IF THIS CREATURE WOULD BE BANISHED, PUT IT IN YOUR MANA ZONE INSTEAD.':
+        sp = 'DIES: to mana'
     else:
         sp=process_special2(sp)
     return sp
@@ -230,12 +221,13 @@ def process_special1(sp):
 def process_special2(sp):
     ftype=''
     # check ETB, DIES, ATK, WIN, LOSE conditions
-    if sp[:30]=='Whenever this creature attacks':
-        ftype='ATKS'
-        sp = sp[32:]
-    elif sp[:29].upper()=='WHENEVER THIS CREATURE BLOCKS':
+    sp = sp.replace('Whenever','When')
+    if sp[:64]=='When this creature enters the battle zone or whenever it attacks':
+        ftype = 'ETB or ATKS'
+        sp = sp[66:]
+    elif sp[:25].upper()=='WHEN THIS CREATURE BLOCKS':
         ftype='BLOCKS'
-        sp=sp[31:]
+        sp=sp[26:]
     elif sp[:26]=='When this creature attacks':
         ftype='ATKS'
         sp = sp[28:]
@@ -245,12 +237,19 @@ def process_special2(sp):
     elif sp[:32].upper()=='WHEN THIS CREATURE WINS A BATTLE':
         ftype ='WINS'
         sp = sp[34:]
+    elif sp[:30].upper()=='WHEN THIS CREATURE IS BANISHED':
+        ftype = 'DIES'
+        sp = sp[32:]
     else:
         # special effects which occur commonly
         if sp=='This creature can attack tapped creatures on the turn it enters the battle zone.':
             return 'ETB: attack tapped'
-    sp = process_special3(sp)
-    # attach trigger conditions
+    if not 'THEN' in sp.upper():
+        sp = process_special3(sp)
+    else:
+        sps = sp.upper().split(' THEN ')
+        sps = [process_special3(ss) for ss in sps]
+        sp = ', '.join(sps)
     if ftype != '':
         sp = ftype+": "+sp
     return sp
@@ -297,9 +296,39 @@ def process_special3(sp):
     elif sp=='PUT THE TOP CARD OF YOUR DECK INTO YOUR MANA ZONE.':
         sp = 'ramp 1'
     elif sp[:18]=='EACH OF YOUR OTHER':
-        temp = sp[19:].split(' GETS ')
-        sp = 'lord '+racemap2[temp[0]]+temp[1]
+        if 'GETS' in sp:
+            temp = sp[19:].split(' GETS ')
+            sp = 'lord '+racemap2[temp[0]]+temp[1]
+        if "CAN'T BE" in sp:
+            temp = sp[19:].split(" CAN'T BE ")
+            sp = 'lord '+racemap2[temp[0]]+" cant be "+temp[1]
     sp = pre+sp
     return sp
+
+# fill in race and level
+for ii in range(ncards):
+    dentry = database[ii]
+    spoiler = database[ii]["spoiler"]
+    l1 = spoiler[0]
+    lv = int(l1.split(' - Level ')[1])
+    dentry["Level"] = lv
+    l2 = spoiler[1]
+    if l2=="Spell":
+        dentry["Type"]="Spell"
+        dentry["Power"]=0
+        rest = spoiler[:]
+    else:
+        dentry["Type"]="Creature"
+        if l2.split(" - ")[0]=="Evolution Creature":
+            dentry["Type"]="Evolution Creature"
+        temp1 = l2.split(" - ")
+        temp2 = temp1[1].split("/")
+        temp3 = [racemap[tt] for tt in temp2]
+        dentry["Races"]=temp3
+        #power
+        dentry["Power"] = int(temp1[2].split(' ')[0])
+    dentry["Special"]=[]
+
+
 
 
