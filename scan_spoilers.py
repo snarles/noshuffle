@@ -180,7 +180,7 @@ def process_special1(sp):
     if sp[:19]=='Put on one of your ':
         sp = sp[19:]
         sp = sp.upper().replace('.','')
-        sp = 'Evo: '+racemap2[sp]
+        sp = 'Evo: '+racemap2.get(sp,sp)
     elif sp[:14]=='Double Breaker':
         sp='DBkr'
     elif sp[:14]=='Triple Breaker':
@@ -230,13 +230,13 @@ def process_special2(sp):
         sp=sp[26:]
     elif sp[:26]=='When this creature attacks':
         ftype='ATKS'
-        sp = sp[28:]
+        sp = sp[27:]
     elif sp[:41]=='When this creature enters the battle zone':
         ftype='ETB'
         sp = sp[43:]
     elif sp[:32].upper()=='WHEN THIS CREATURE WINS A BATTLE':
         ftype ='WINS'
-        sp = sp[34:]
+        sp = sp[33:]
     elif sp[:30].upper()=='WHEN THIS CREATURE IS BANISHED':
         ftype = 'DIES'
         sp = sp[32:]
@@ -244,6 +244,9 @@ def process_special2(sp):
         # special effects which occur commonly
         if sp=='This creature can attack tapped creatures on the turn it enters the battle zone.':
             return 'ETB: attack tapped'
+    if (len(sp) > 1):
+        if(sp[0]==' '):
+            sp=sp[1:]
     if not 'THEN' in sp.upper():
         sp = process_special3(sp)
     else:
@@ -252,6 +255,9 @@ def process_special2(sp):
         sp = ', '.join(sps)
     if ftype != '':
         sp = ftype+": "+sp
+    return sp
+
+def process_special3(sp):
     return sp
 
 def process_special3(sp):
@@ -314,21 +320,37 @@ for ii in range(ncards):
     dentry["Level"] = lv
     l2 = spoiler[1]
     if l2=="Spell":
-        dentry["Type"]="Spell"
+        dentry["Type"]="Sp"
         dentry["Power"]=0
         rest = spoiler[:]
     else:
-        dentry["Type"]="Creature"
+        dentry["Type"]="Cr"
         if l2.split(" - ")[0]=="Evolution Creature":
-            dentry["Type"]="Evolution Creature"
+            dentry["Type"]="Evo Cr"
         temp1 = l2.split(" - ")
         temp2 = temp1[1].split("/")
         temp3 = [racemap[tt] for tt in temp2]
         dentry["Races"]=temp3
         #power
         dentry["Power"] = int(temp1[2].split(' ')[0])
-    dentry["Special"]=[]
+    dentry["Special"]=process_special(dentry["spoiler"])
 
+# compile spoiler text
+spstring = ''
+for ii in range(ncards):
+    dentry = database[ii]
+    spstring = spstring + codes[ii] + '(' + ''.join([civs[v] for v in dentry["civs"]])+str(dentry["Level"])+') '+ listns[ii] + '\n'
+    spstring = spstring + dentry["Type"]
+    if dentry["Type"]=="Sp":
+        0
+    else:
+        spstring = spstring + "-"+"/".join(dentry["Races"]) + " " + str(dentry["Power"])
+    spstring = spstring + '\n'
+    dentry["Special"] = [spp for spp in dentry["Special"] if spp!='']
+    if len(dentry["Special"]) > 0:
+        spstring = spstring+' ; '.join(dentry["Special"])+'\n'
+    spstring = spstring + '\n'
 
-
-
+o = open('formatted_spoiler.txt','w')
+o.write(spstring)
+o.close()
