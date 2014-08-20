@@ -144,7 +144,10 @@ racemap['Void Spawn']='VdSpwn'
 racemap['Wild Veggie']='WldVgg'
 racemap['Zombie']='Zom'
 
-
+racemap2 = {}
+for ky in racemap.keys():
+    racemap2[ky.upper()] = racemap[ky]
+racemap2['CREATURES'] = 'allies'
 
 # fill in race and level
 for ii in range(ncards):
@@ -182,6 +185,8 @@ def process_special1(sp):
     # kill the opening label
     if ' - ' in sp:
         sp = sp.split(' - ')[1]
+    if '\xe2\x80\x94' in sp:
+        sp = sp.split(' \xe2\x80\x94 ')[1]
     # kill reminder text
     if '(' in sp:
         sp1 = sp.split('(')
@@ -195,12 +200,16 @@ def process_special1(sp):
         sp='DBkr'
     elif sp[:7]=='Blocker':
         sp='Blkr'
+    elif sp[:10]=='Skirmisher':
+        sp='Skmshr'
     elif sp[:5]=='Guard':
         sp='Grd'
     elif sp[:12]=='Shield Blast':
         sp='SB'
     elif sp=="This creature can't be blocked.":
         sp='Unblockable'
+    elif sp=="This creature can't be blocked by creatures that have less power than it.":
+        sp='UnChumpBlockable'
     elif sp[:6]=='Slayer':
         sp = 'Slay'
     elif sp.upper()=='THIS CREATURE ATTACKS EACH TURN IF ABLE.':
@@ -212,6 +221,8 @@ def process_special1(sp):
     elif sp[:17].upper()=='POWERFUL ATTACK +':
         no = sp.split('+')[1]
         sp = 'Atk+'+no
+    elif sp.upper()=='IF THIS CREATURE WOULD BE BANISHED, RETURN IT TO YOUR HAND INSTEAD.':
+        sp = 'DIES: self-bounce'
     else:
         sp=process_special2(sp)
     return sp
@@ -222,6 +233,9 @@ def process_special2(sp):
     if sp[:30]=='Whenever this creature attacks':
         ftype='ATKS'
         sp = sp[32:]
+    elif sp[:29].upper()=='WHENEVER THIS CREATURE BLOCKS':
+        ftype='BLOCKS'
+        sp=sp[31:]
     elif sp[:26]=='When this creature attacks':
         ftype='ATKS'
         sp = sp[28:]
@@ -247,6 +261,7 @@ def process_special3(sp):
     sp = sp.upper()
     if sp[:7]=='YOU MAY':
         pre = 'may '
+        sp=sp[8:]
     if sp[:11]=='DRAW A CARD':
         sp = 'draw 1'
     elif sp[:12]=='DRAW 2 CARDS':
@@ -266,10 +281,24 @@ def process_special3(sp):
             sp = 'killEnemy power' + temp.split(' ')[0]
         else:
             sp = 'killEnemy'
+    elif (sp[:10]=='PUT TARGET') & (sp[-21:]=="OPPONENT'S MANA ZONE."):
+        new_sp='manabind'
+        if 'ENEMY' in sp:
+            new_sp = new_sp+' enemy'
+        if 'LEVEL' in sp.upper():
+            new_sp = new_sp+' lv '+sp.upper().split(' LEVEL ')[1][0]
+        sp = new_sp
+    elif sp[:25]=='TAP TARGET ENEMY CREATURE':
+        sp = 'tap enemy'
     elif sp=='banish target untapped enemy creature.'.upper():
         sp = 'deathSmoke'
     elif sp=='YOUR OPPONENT CHOOSES AND DISCARDS A CARD.':
         sp = 'oppDiscard 1'
+    elif sp=='PUT THE TOP CARD OF YOUR DECK INTO YOUR MANA ZONE.':
+        sp = 'ramp 1'
+    elif sp[:18]=='EACH OF YOUR OTHER':
+        temp = sp[19:].split(' GETS ')
+        sp = 'lord '+racemap2[temp[0]]+temp[1]
     sp = pre+sp
     return sp
 
