@@ -339,7 +339,7 @@ RGN Rodi Gale, Night Guardian
 SMW Shimmerwing
 SRZ Spire Zealot
 TDR Thunder Reaper
-ZOD Zone Defense
+ZDF Zone Defense
 ARP Aeropica
 QRD Aqua Rider
 QRC Aqua-Ranger Commander
@@ -583,8 +583,8 @@ LMU Luminar Unleashed
 RVB Reverberate
 SVM Skyvolt Mech
 CVD Corvus Dragon
-LAL Lamp-Lighter
-MAW Mad Watcher
+LLT Lamp-Lighter
+MWT Mad Watcher
 PAD Panic and Disorder
 BGV Bodyguard Vorg
 CAB Crash and Burn
@@ -948,7 +948,7 @@ TLE Teleportation Equation
 TGP Tide Gulper
 TIT Time Tethers
 TKN Tusked Nautiloid
-VOS Void Seer
+VSE Void Seer
 WSM Wave Skimmer
 WCC Wavecrest Crawler
 WFS Waveforce Seer
