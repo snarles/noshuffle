@@ -1,3 +1,4 @@
+
 AAK Anjak, the All-Kin
 AAN Arachnopod
 ABH Amberhorn
@@ -14,7 +15,6 @@ ADO Ardent Observer
 ADR Ardu Ranger
 ADT Ardu Totem
 AGC Angler Cluster
-AGD Bronze-Arm Gladiator
 AGW Ancient Grave Worm
 AHT Ashen Tribute
 AKP Ancient Keeper
@@ -23,7 +23,6 @@ AMC Almighty Colossus
 AMS Armored Sentinel
 AMT Ammo Train
 AOL Agent of Lies
-AQS Aqua Strider
 ARA Aerial Arcavore
 ARB Aerial Bombardment
 ARG Aeronaut Glu-urrgle
@@ -43,12 +42,11 @@ ATR Attic Reaper
 AVS Argus, Vigilant Seer
 AWJ Alcadeus, Winged Justice
 AXE Batter-Axe
-BAA Bad Apple
-BAC Barbed Crusher
 BAD Baelgor, Accursed Dragon
 BAF Bronze-Arm Fanatic
-BAG Bagash
-BAR Barrage
+BAG Bronze-Arm Gladiator
+BAP Bad Apple
+BAR Bronze-Arm Renegade
 BAS Bronze-Arm Sabertooth
 BAT Bronze-Arm Tribe
 BBD Bloodbound Dragon
@@ -56,6 +54,7 @@ BBP Blinder Beetle Prime
 BBR Blade Barrier
 BBS Bat-Breath Scaradorable
 BCD Beacon Drone
+BCS Barbed Crusher
 BDB Blinder Beetle
 BDD Billion-Degree Dragon
 BDF Battlebred Defender
@@ -69,8 +68,9 @@ BFM Blastforge Marauder
 BFS Black Feather of Shadow Abyss
 BGD Bolgash Dragon
 BGK Bloated Gatekeeper
+BGS Bagash
 BGV Bodyguard Vorg
-BIH Big Hissy
+BHS Big Hissy
 BIL Bile Raptor
 BKF Ba'kaar Frostwing
 BLA Belua
@@ -89,9 +89,9 @@ BOB Bone Blades
 BOH Bolt-Hawk
 BOS Boom Skull
 BOW Bottle of Wishes
-BRA Bronze-Arm Renegade
 BRB Baron Burnfingers
 BRD Bonerattle Dragon
+BRG Barrage
 BRG Brave Giant
 BRS Borran, the Reality Shaper
 BRT Bestial Rage Tatsurion
@@ -118,8 +118,6 @@ BWB Bewildering Blast
 BWD Bloomwarden
 BYB Buoyant Blowfish
 CAB Crash and Burn
-CAG Cave Gulper
-CAT Captive Squill
 CCL Caius of Cloud Legion
 CCT Cliffcutter
 CDF Cinder Fist
@@ -129,6 +127,7 @@ CEB Curse-Eye Black Feather
 CEG Crusader Engine
 CES Caelum Skysworn
 CGG Charging Greatclaw
+CGP Cave Gulper
 CHT Chief Toko
 CKF Cackling Fiend
 CKL Cranky Leviathan
@@ -174,11 +173,12 @@ CTL Crystalize
 CTM Crystal Memory
 CTO Captain Orwellia
 CTP Crystal Pulse
+CTQ Captive Squill
 CTR Chimera Tyrant
 CTS Citadel Steward
-CTT Citizen Tokori
 CTV Cultivate
 CTW Cryptic Worm
+CTZ Citizen Tokori
 CVD Corvus Dragon
 CVF Covering Fire
 CVR Convoy Runner
@@ -197,7 +197,6 @@ DCD Deep-Currents Drifter
 DCM Doomcannon Mech
 DDH Dreadclaw, Dark Herald
 DEC Decay
-DEG Den Gorger
 DES Death Smoke
 DET Detain
 DFM Defense Mode
@@ -206,6 +205,7 @@ DFS Defiant Shaman
 DGB Dragon's Breath
 DGD Dagger Doll
 DGE Dragon Engine Glu-urrgle
+DGG Den Gorger
 DKC Drakomech Commander
 DKM Drakon Mercenary
 DKU Drakon Upstart
@@ -296,6 +296,7 @@ FLV Forgelord Vesuvius
 FMC Field Marshal Cornucopia
 FML Fullmetal Lemon
 FMN Foul Mana
+FMS Flamespitter
 FOM Fluorogill Manta
 FRD Firemane Dragon
 FRH Forest Hornet
@@ -305,7 +306,6 @@ FSP Forsaken Puppet
 FSR Flamespine Ravager
 FST Flamespike Tatsurion
 FTB Frantic Blast
-FTE Flamespitter
 FTG Forklift Tank Glu-urrgle
 FTJ Fornax, the Juggernaut
 FTP Flametropus
@@ -315,7 +315,7 @@ FVD Flame-Vent Diver
 FWP Flamewing Phoenix
 FZK Frogzooka
 GAB Gasbag
-GAS Galsaur
+GAL Galsaur
 GAT Guardian Akhal-Teek
 GBM Gobblemaw
 GBW Gaunt Boneweaver
@@ -355,7 +355,6 @@ GRC Grave Call
 GRD Garrison Duty
 GRP Grove Protector
 GRS Grave Scrounger
-GRW Grudge Weaver
 GSC Grim Specter
 GSG Gorgeon, Shadow of Gluttony
 GSP Galzak of Shadow Pass
@@ -370,10 +369,12 @@ GVN Galvanize
 GVS Grievous Strike
 GWD Gunwing Dragon
 GWH Grave Worm Hatchling
+GWV Grudge Weaver
 HAL Halon
 HBD Hornblade Dragon
 HBS Hunter Blossom
 HCL Hokira, Council of Logos
+HCM Horned Chameleon
 HDC Hydrobot Crab
 HDE Hydrobot Elite
 HDF Hammer Dragon Foulbyrn
@@ -392,7 +393,6 @@ HMG Humonguru
 HMT Huntmaster Taegrin
 HMW Harmony Wing
 HNB Hypnobot
-HOC Horned Chameleon
 HOI Herald of Infernus
 HPD Hyperspeed Dragon
 HPH Hypergrid Hacker
@@ -444,17 +444,16 @@ JTD Jet-Thrust Darter
 JTH Jack, the Hammer
 JUJ Jump Jets
 KAB Kaboom!
+KAL King Alboran
 KBD Krogon, Blazing Devastation
+KBF King Bullfang
 KBN King Barnacle
+KCR King Coral
 KDO Kolani, Dragon Oracle
 KGF Kronkos, General of Fear
-KIA King Alboran
-KIB King Bullfang
-KIC King Coral
 KIN King Nautilus
 KIP King Pontias
 KIS Kivu, Ingenious Shaman
-KIT King Tsunami
 KLT Kalorth, Lord of Tides
 KLW Knowledge Warden
 KNN Kenina
@@ -465,6 +464,7 @@ KOL Keeper of Laws
 KOT Keeper of Twilight
 KPS King Poseidon
 KRC Karate Carrot
+KSN King Tsunami
 KST Khordia, the Soul Tyrant
 KTB Kronax the Brutal
 KTD Krakus the Dominator
@@ -496,12 +496,12 @@ LMS Luminous Shieldwing
 LMU Luminar Unleashed
 LNB Lunar Boar
 LNS Lightning Sniper
-LOP Lost Patrol
 LOR Lore-Strider
-LOS Lord Skycrusher
+LPT Lost Patrol
 LQC Liquid Compulsion
 LSC Lurking Skull Cutter
 LSD Laser Drone
+LSK Lord Skycrusher
 LSP Lizard-Skin Puppet
 LSR Laserize
 LTA Lepidos the Ancient
@@ -518,7 +518,6 @@ LVL Lava Leaper
 LVR Lava Racer
 LWT Leafwing Totem
 MAC Mark of Almighty Colossus
-MAG Masked Gravewing
 MAM Magma Ram
 MAW Mad Watcher
 MBT Manapod Beetle
@@ -532,11 +531,13 @@ MDW Maddening Whispers
 MEH Mark of Eternal Haven
 MET Metal Max
 MFC Mischievous Fire-Chick
+MGA Moss Giant
 MGD Moorna, Gatling Dragon
 MGJ Magistrate Jazuri
 MGK Magglekax
 MGR Megacannon Renegade
 MGT Megaria's Trapheap
+MGW Masked Gravewing
 MHH Moonhowler Hunter
 MHT Moonhowler Tribe
 MIC Mind Core
@@ -555,7 +556,6 @@ MNC Midnight Crawler
 MNM Manic Mechanic
 MNS Mana Storm
 MNT Mana Tick
-MOG Moss Giant
 MOI Mark of Infernus
 MOK Mark of Kalima
 MOT Mark of Tritonus
@@ -622,7 +622,7 @@ PDI Predict
 PDS Predatory Snapdragon
 PET Pentarc
 PGG Potato Gun Glu-urrgle
-PHG Phase Generator
+PGN Phase Generator
 PHS Phase Scout
 PKB Prickleback
 PKP Pesky Pineapple
@@ -642,35 +642,36 @@ PTS Photon Squad
 PTT Portal Tech
 PTW Photon Weaver
 PWS Power Surge
+QCM Aqua Commando
 QIF Aqua Infiltrator
+QIN Aqua Initiate
 QIQ Aqua Inquisitor
 QKL Queen Kalima
-QQU Aqua Scout
+QKN Aqua Knight
+QOI Queen Orion
 QRC Aqua-Ranger Commander
+QRD Aqua Rider
 QRN Aqua-Reflector Nomulos
 QRT Queen Riptide
+QSC Aqua Scout
 QSD Aqua Soldier
 QSG Queen Sargasso
 QSM Aqua Swordsman
+QSN Aqua Seneschal
+QSR Aqua Strider
 QST Quillspike Tatsurion
 QTG Quetaro the Gladiator
+QTN Queen Taniwha
 QTS Aqua Trickster
 QTU Quakes the Unclean
-QTX Aqua Trooper XJ-3
-QUC Aqua Commando
 QUE Aquatic Expulsion
-QUI Aqua Initiate
-QUK Aqua Knight
-QUO Queen Orion
-QUR Aqua Rider
-QUS Aqua Seneschal
-QUT Queen Taniwha
 RAP Rampage
 RAS Reap and Sow
 RAT Reactor Sphere
 RAV Raptor-Ace Valko
 RBT Rumbling Terrasaur
 RCK Rain-Cloud Kraken
+RCL Rib Collector
 RCM Recon Mission
 RCS Ricochet Shot
 RDB Radiant Blinderhorn
@@ -696,7 +697,6 @@ RGG Raging Goliant
 RGN Rodi Gale, Night Guardian
 RGR Railgun Raptor
 RGS Regent Sasha
-RIC Rib Collector
 RIF Reinforce
 RIS Rip Swirl
 RKH Rocket Hawk
@@ -734,7 +734,7 @@ RTS Return to the Soil
 RTT Rygar the Tank
 RVB Reverberate
 RVD Ravenous Detrivore
-RVT Ra-Vu the Stormbringer
+RVS Ra-Vu the Stormbringer
 RVW Ravenous Whiptongue
 RWL Ravenous Web-Leg
 RZH Razorhide
@@ -764,6 +764,7 @@ SCS Screeching Scaradorable
 SCT Sun-Clan Tortoise
 SDB Soul-Devourer Black Feather
 SDC Shadowblade Conqueror
+SDG Siege Dragon
 SDH Smolderhorn
 SDN Sunstorm Dreadnought
 SDO Shadow Strike
@@ -790,14 +791,13 @@ SHR Skytalon Harrier
 SHS Shock Sentinel
 SHT Shardhide Tusker
 SHW Striding Hearthwood
-SID Siege Dragon
 SJK Spelljacker
 SKC Skull Cutter
+SKK Skaak the Stinger
 SKL Sickly Larva
 SKN Shaw K'Naw
 SKR Skrap Skull
 SKS Stalker Sphere
-SKT Skaak the Stinger
 SKV Stockade Virus
 SKY Skulking Cypress
 SLB Sledge Bot
@@ -837,12 +837,12 @@ SPS Spore Siren
 SPT Spy Tide
 SQD Squall Darter
 SQL Squillace Scourge
+SRB Scaradorable the Behemoth
 SRC Sky-Ring Captain
 SRK Spire Keeper
 SRL Swarming Rapids Lurker
 SRP Spire Puppet
 SRS Searing Spears
-SRT Scaradorable the Behemoth
 SRW Spire Widow
 SRZ Spire Zealot
 SSA Stonesaur
@@ -899,11 +899,14 @@ SWP Blastforge Sweeper
 SWR Swift Regeneration
 SWS Spyweb Scurrier
 SYR Sopan, Cyber Renegade
+TAB The Arbiter
 TAE Trial and Error
-TAG Tar Gusher
+TAL Tide Angler
+TCL Thought Collective
 TCM Twin-Cannon Maelstrom
 TCN The Chronarch
 TCR Tracer Rounds
+TDA The Disassembler
 TDC Thunder Cruiser
 TDG Thunder Grub
 TDR Thunder Reaper
@@ -914,16 +917,11 @@ TER Spinning Terror
 TFT Transforming Totem
 TGA The Great Arena
 TGD Trox, General of Destruction
-THA The Arbiter
-THC Thought Collective
-THD The Disassembler
+TGP Tide Gulper
+TGS Tar Gusher
 THO Thorn Dragon
 THP Thought Probe
 THQ The Hive Queen
-THR The Reviled
-THS The Swarmleader
-TIA Tide Angler
-TIG Tide Gulper
 TIL Timelost Phantom
 TIR Time Rime
 TIS Tide Seer
@@ -953,9 +951,11 @@ TRG Tendril Grasp
 TRH Terror Hound
 TRP Terror Pit
 TRT Toronok the Voidshaper
+TRV The Reviled
 TSE Torhelm, Stomper Elite
 TSF Truthseeker Forion
 TSG Taksha, Scourge Gunner
+TSL The Swarmleader
 TSR Tatsurion
 TSS Molten Stonesaur
 TTB Tatsurion the Brawler
@@ -978,11 +978,11 @@ UFO Ulphonas, Fiendish Overlord
 UMB Umbra
 USR Unstable Rockhound
 UTO Urth, the Overlord
+VBB Veil Bubble
 VCC Vicious Coffer
 VCD Volcano Dervish
 VCT Volcano Trooper
 VDH Verdant Helix
-VEB Veil Bubble
 VES Veil Slip
 VEV Veil Vortex
 VFB Vengeful Blast
@@ -1004,8 +1004,6 @@ VTA Virtuous Alcadeus
 VTC Vectron Crawler
 VTG Victory Gunner
 VTS Vectro Scout
-WAK Wave Keeper
-WAL Wave Lancer
 WAS Wave Spears
 WAV Wave Skimmer
 WBE Wandering Brain-Eater
@@ -1016,7 +1014,9 @@ WBT Wavebreaker Tribe
 WCC Wavecrest Crawler
 WCK Warchief Kyo
 WFS Waveforce Seer
+WKP Wave Keeper
 WLA Waylay
+WLC Wave Lancer
 WLG Wild Growth
 WLR Wildstrider Ramnoth
 WLT Woolly Tusker
@@ -1031,6 +1031,7 @@ WRW Whirlpool Warden
 WSS Wild Sky Sword
 WTG Waterspout Gargoyle
 WWO Worldwaker Omgoth
+XJ3 Aqua Trooper XJ-3
 XNM Xeno Mantis
 XT4 XT-4 Brutefist
 YBB Cybergrid Bandit
@@ -1040,10 +1041,10 @@ YBT Cyber Trader
 YBY Cyber Cyclones
 YLC Cyber Lord Corile
 YLW Cyber Lord Wakiki
+YSC Cyber Scamp
 YSV Cyber Savant
 YTP Cyber Trooper
 YWK Cyber Walker Kaylee
-YYB Cyber Scamp
 ZBB Zombie Backhoe
 ZBK Zagaan, the Bone Knight
 ZOD Zone Defense

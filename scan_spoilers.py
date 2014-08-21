@@ -9,6 +9,9 @@ ncards = len(listns)
 f = open('codelist.txt','r')
 temp = f.read().split('\n')
 f.close()
+o = open('codelist2.txt','w')
+o.write('\n'.join(sorted(temp)))
+o.close()
 codes = [ss[:4] for ss in temp]
 def stripAlph(ss):
     return ss.replace('-','').replace(' ','').replace("'",'').replace(',','').upper()
@@ -260,7 +263,7 @@ def process_special2(sp):
 def process_special3(sp):
     return sp
 
-def process_special3(sp):
+def inprogress_process_special3(sp):
     # effects
     pre = ''
     sp = sp.upper()

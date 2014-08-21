@@ -6,7 +6,7 @@ TSR (R6) Tatsurion
 Cr-ArmDrgn/BstKn 6000
 DBkr ; ETB: attack tapped
 
-QUS (U3) Aqua Seneschal
+QSN (U3) Aqua Seneschal
 Cr-CybLrd 2000
 ATKS: you may draw a card.
 
@@ -175,7 +175,7 @@ AWJ (W7) Alcadeus, Winged Justice
 Cr-SkfcChmpn 6000
 DBkr ; ATKS: choose one of your creatures that is level 5 or less and untap it.
 
-KIT (U9) King Tsunami
+KSN (U9) King Tsunami
 Cr-Lvth 8000
 Blkr ; DBkr
 
@@ -183,7 +183,7 @@ BBS (B4) Bat-Breath Scaradorable
 Cr-Chmra 4000
 This creature can't be attacked or blocked by creatures that are level 5 or less.
 
-LOS (R7) Lord Skycrusher
+LSK (R7) Lord Skycrusher
 Cr-ArmDrgn 7000
 DBkr ; ATKS: choose one of your other creatures. It gets +5000 power and Double Breaker until end of turn.
 
@@ -234,7 +234,7 @@ SUN (W2) Sunshock
 Sp
 SB ; Tap target enemy creature.
 
-QUC (U3) Aqua Commando
+QCM (U3) Aqua Commando
 Cr-Aqn 1000
 DIES: self-bounce
 
@@ -245,7 +245,7 @@ FOM (U3) Fluorogill Manta
 Cr-TrcHnt 4000
 Blkr ; Grd
 
-KIB (U6) King Bullfang
+KBF (U6) King Bullfang
 Cr-Lvth 6000
 DBkr
 
@@ -492,7 +492,7 @@ UTO (W8) Urth, the Overlord
 Cr-SkfcChmpn 6000
 DBkr ; ETB: tap all enemy creatures that don't have "Blocker".
 
-QUK (U5) Aqua Knight
+QKN (U5) Aqua Knight
 Cr-Aqn 3000
 DIES: self-bounce
 
@@ -515,7 +515,7 @@ ICL (U5) Ice Launcher
 Cr-Aqn 3000
 Blkr
 
-KIC (U7) King Coral
+KCR (U7) King Coral
 Cr-Lvth 5000
 When this creature or one of your other Leviathans enters the battle zone, return all creatures that are level 4 or less from the battle zone to their owners' hands.
 
@@ -538,7 +538,7 @@ PDI (U1) Predict
 Sp
 Look at the top 4 cards of your deck and put them back in any order.
 
-QUO (U7) Queen Orion
+QOI (U7) Queen Orion
 Cr-Lvth 6000
 DBkr ; Unblockable
 
@@ -621,7 +621,7 @@ BLL (R2) Badlands Lizard
 Cr-DunGko 2000
 Atk+1000  ; MustAtk
 
-BAR (R6) Barrage
+BRG (R6) Barrage
 Sp
 SB ; Banish all enemy creatures that have power 2000 or less.
 
@@ -906,7 +906,7 @@ SSW (B4) Swampstench Worm
 Cr-RotWrm 2000
 Slay
 
-BIH (R5) Big Hissy
+BHS (R5) Big Hissy
 Evo Cr-DunGko 6000
 Evo: DunGko ; DBkr ; AtkUntapped
 
@@ -993,7 +993,7 @@ TRG (G6) Tendril Grasp
 Sp
 SB ; Put all creatures that are level 3 or less from the battle zone in their owners' mana zones.
 
-RVT (W6) Ra-Vu the Stormbringer
+RVS (W6) Ra-Vu the Stormbringer
 Evo Cr-SkfcChmpn 11000
 Evo: SkfcChmpn ; DBkr ; At the end of each of your turns, untap all your creatures. ; All your creatures have "Blocker." 
 
@@ -1103,7 +1103,7 @@ NIX (U3) Nix
 Cr-FirBrd 1000
 You tap 1 less mana card to summon Dragons. ; When you put a Dragon in the battle zone, you may draw a card.
 
-QUT (U6) Queen Taniwha
+QTN (U6) Queen Taniwha
 Cr-Lvth 4000
 Blkr ; If this creature would be banished, return it to your hand.
 
@@ -1135,7 +1135,7 @@ GLT (B3) Gloom Tomb
 Sp
 PUT THE TOP THREE CARDS OF YOUR DECK IN YOUR DISCARD PILE., RETURN A CREATURE FROM YOUR DISCARD PILE TO YOUR HAND.
 
-GRW (B2) Grudge Weaver
+GWV (B2) Grudge Weaver
 Cr-BrnJkr 1000
 Blkr ; Grd ; DIES: your opponent chooses a card in his or her hand and discards it.
 
@@ -1154,7 +1154,7 @@ UMB (B2) Umbra
 Cr-FirBrd 1000
 You tap 1 less mana card to summon Dragons. ; All your Dragons have "Slayer." 
 
-BAG (R4) Bagash
+BGS (R4) Bagash
 Cr-Stmpr 3000
 While you have another creature in the battle zone, this creature can't be attacked.
 
@@ -1232,7 +1232,7 @@ STE (G3) Steel Hammer
 Cr-BstKn 1000
 Atk+4000 
 
-THS (G5) The Swarmleader
+TSL (G5) The Swarmleader
 Evo Cr-Mgbug 6000
 Evo: Mgbug ; DBkr ; While attacking, this creature gets +2000 power for each other creature you have in the battle zone.
 
@@ -1338,7 +1338,7 @@ ARP (U3) Aeropica
 Cr-TrcHnt 1000
 Blkr
 
-QUR (U4) Aqua Rider
+QRD (U4) Aqua Rider
 Cr-Aqn 2000
 DIES: self-bounce
 
@@ -1393,7 +1393,7 @@ ACC (B4) Arachnoir of Cobweb Cavern
 Cr-BrnJkr 2000
 ATKS: target enemy creature gets -1000 power until the end of the turn. 
 
-CAG (B3) Cave Gulper
+CGP (B3) Cave Gulper
 Cr-RotWrm 2000
 DIES: you may draw a card.
 
@@ -1553,7 +1553,7 @@ SPS (G4) Spore Siren
 Cr-TreeKn 3000
 ETB: choose a creature in your discard pile and put it in your mana zone.
 
-AQS (WU2) Aqua Strider
+QSR (WU2) Aqua Strider
 Cr-Enfcr/Aqn 4000
 Blkr ; Skmshr
 
@@ -1580,7 +1580,7 @@ SSQ (WU4) Sunspout Quartz
 Cr-SptQtz 3000
 Each of your other Light creatures gets +1000 power. ; Each of your other Water creatures gets +1000 power.
 
-WAL (WU5) Wave Lancer
+WLC (WU5) Wave Lancer
 Cr-SkfcChmpn/Lvth 5500
 Blkr ; Skmshr ; DIES: self-bounce
 
@@ -1732,7 +1732,7 @@ ETH (W10) Eternal Haven
 Cr-Monrch/AnglCmd 15500
 Blkr ; TBkr ; ETB: AND WHENEVER IT ATTACKS, YOU MAY DRAW A CARD., YOU MAY PUT A NON-EVOLUTION CREATURE THAT IS LEVEL 9 OR LESS AND HAS "BLOCKER" FROM YOUR HAND IN THE BATTLE ZONE. ; This creature can't be the target of your opponent's spells and abilities. ; Each of your other Light creatures gets +4000 power.
 
-KIA (U7) King Alboran
+KAL (U7) King Alboran
 Cr-Lvth 7000
 DBkr ; At the start of each of your turn, look at the top card of your deck. You may put put that card on the bottom of your deck. ; When you cast a spell, you may return target creature that is the same level as that spell from the battle zone to its owner's hand.
 
@@ -1810,7 +1810,7 @@ Blkr ; Grd ; ETB: you may draw a card. ; DIES: self-bounce
 BLF (U3) Bladefish
 Cr-TrcHnt 2000
 
-YYB (U2) Cyber Scamp
+YSC (U2) Cyber Scamp
 Cr-CybLrd 1000
 WHEN YOUR OPPONENT CASTS A SPELL, SEARCH YOUR DECK. YOU MAY TAKE A CREATURE NAMED CYBER SCAMP FROM YOUR DECK AND PUT THAT CREATURE IN THE BATTLE ZONE., SHUFFLE YOUR DECK.
 
@@ -1931,7 +1931,7 @@ GMQ (WB4) Glimmergloom Quartz
 Cr-SptQtz 3000
 Each of your other Light creatures gets +1000 power. ; Each of your other Darkness creatures gets +1000 power.
 
-LOP (WB3) Lost Patrol
+LPT (WB3) Lost Patrol
 Cr-StrmPtrl/Spctr 5000
 
 SSS (WB7) Serpens, the Spirit Shifter
@@ -1946,7 +1946,7 @@ STI (WB2) Stingwing
 Cr-Enfcr/BrnJkr 4500
 Blkr ; Skmshr ; WINS: banish it.
 
-TAG (WB3) Tar Gusher
+TGS (WB3) Tar Gusher
 Cr-Enfcr/Tarbg 1500
 Slay ; DIES: tap target enemy creature.
 
@@ -1985,11 +1985,11 @@ SSU (WR6) Sunstrike
 Sp
 SB ; Choose target enemy creature. if it has power 5000 or less, banish it. Otherwise, tap it and it doesn't untap at the start of your opponent's next turn.
 
-QTX (UR5) Aqua Trooper XJ-3
+XJ3 (UR5) Aqua Trooper XJ-3
 Cr-Aqn/Stmpr 2000
 Atk+3000  ; DIES: self-bounce
 
-FTE (UR4) Flamespitter
+FMS (UR4) Flamespitter
 Cr-UndtEngn/BrnBly 1000
 Haste ; ATKS: you may draw a card.
 
@@ -2063,7 +2063,7 @@ HTH (BG4) Haunted Harvest
 Cr-EvlToy/WldVgg 3000
 Blkr ; Grd ; BLOCKS: you may put the top card of your deck in your mana zone.
 
-MAG (BG5) Masked Gravewing
+MGW (BG5) Masked Gravewing
 Cr-DrdMsk/BstKn 6000
 Skmshr ; WINS: choose a creature in your discard pile and return it to your hand.
 
@@ -2071,7 +2071,7 @@ OSD (BG6) Obsidian Death
 Cr-Tarbg/Colss 6000
 DBkr ; When another creature is banished, you may put the top card of your deck in your mana zone.
 
-SKT (BG6) Skaak the Stinger
+SKK (BG6) Skaak the Stinger
 Cr-Chmra/Mgbug 3000
 ETB: your opponent chooses and discards a card. ; ETB: you may put the top card of your deck in your mana zone.
 
@@ -2218,7 +2218,7 @@ FLF (R4) Flame Fangs
 Sp
 Banish target enemy creature that has power 4000 or less.
 
-GAS (R8) Galsaur
+GAL (R8) Galsaur
 Cr-RokBrt 8000
 Protector  ; DBkr ; Each enemy creature attacks creatures each turn if able.
 
@@ -2338,7 +2338,7 @@ SBW (UB5) Sabotage Worm
 Cr-Corptd/RotWrm 2000
 When one of your Corrupted creatures attacks, your opponent chooses and discards a card.
 
-THR (UB7) The Reviled
+TRV (UB7) The Reviled
 Evo Cr-Corptd/Chmra 6000
 Evo: CORRUPTED CREATURES OR CHIMERAS ; For each Corrupted creature you have in your discard pile, tap 1 less mana card to summon this creature. ; DBkr ; When one of your Corrupted creatures attacks, choose a creature in your discard pile and return it to your hand.
 
@@ -2357,11 +2357,11 @@ FTB (UR7) Frantic Blast
 Sp
 SB ; Reveal the top card of your deck. If it's a creature, banish target enemy creature that has less power than it. Put the revealed card in your hand.
 
-BAA (UG4) Bad Apple
+BAP (UG4) Bad Apple
 Cr-Corptd/WldVgg 3000
 All your Wild Veggies in the battle zone are Corrupted creatures in addition to their other creature types. ; When one of your Corrupted creatures attacks, you may put the top card of your deck in your mana zone.
 
-BRA (UG2) Bronze-Arm Renegade
+BAR (UG2) Bronze-Arm Renegade
 Cr-Corptd/BstKn 2000
 Each time one of your Corrupted creatures would be banished, put it in your mana zone instead.
 
@@ -2512,7 +2512,7 @@ CTO (U3) Captain Orwellia
 Cr-Aqn 3000
 ETB: each player draws a card.
 
-CAT (U4) Captive Squill
+CTQ (U4) Captive Squill
 Cr-Corptd/Aqn 3000
 
 HPH (U2) Hypergrid Hacker
@@ -2566,7 +2566,7 @@ NMH (B6) Nightmare Helix
 Sp
 Choose one: ; * Banish target untapped enemy creature. ; * Choose up to 2 creatures in your discard pile and return them to your hand.
 
-RIC (B3) Rib Collector
+RCL (B3) Rib Collector
 Cr-Zom 1000
 Slay
 
@@ -2613,7 +2613,7 @@ SSL (R3) Sparkspine Lizard
 Cr-DunGko 2000
 While you have another creature named Sparkspine Lizard in the battle zone, this creature has "Fast Attack" and "Powerful Attack +2000". 
 
-THD (R4) The Disassembler
+TDA (R4) The Disassembler
 Cr-BrnBly 2000
 Atk+3000 
 
@@ -2826,11 +2826,11 @@ SDN (W4) Sunstorm Dreadnought
 Evo Cr-StrmPtrl 6000
 Evo: LIGHT CREATURES ; DBkr
 
-THA (W7) The Arbiter
+TAB (W7) The Arbiter
 Cr-Enfcr 2500
 SB ; ETB: tap up to 2 target enemy creatures.
 
-QUI (U1) Aqua Initiate
+QIN (U1) Aqua Initiate
 Cr-Aqn 2000
 Blkr ; Grd
 
@@ -2838,11 +2838,11 @@ QIQ (U5) Aqua Inquisitor
 Evo Cr-Aqn 6000
 Evo: WATER CREATURES ; DBkr ; Draw a card. 
 
-QQU (U5) Aqua Scout
+QSC (U5) Aqua Scout
 Cr-Aqn 4000
 ATKS: choose one of your other creatures. It can't be blocked this turn.
 
-CTT (U4) Citizen Tokori
+CTZ (U4) Citizen Tokori
 Cr-Aqn 3000
 Each of your other Water creatures gets +1000 power.
 
@@ -2921,18 +2921,18 @@ TPT (U2) Temporal Tinkering
 Sp
 LOOK AT THE TOP CARD OF YOUR DECK. YOU MAY PUT IT ON THE BOTTOM OF YOUR DECK., DRAW A CARD.
 
-THC (U3) Thought Collective
+TCL (U3) Thought Collective
 Sp
 SB ; Look at the top 5 cards of your deck. Put one of them in your hand. Put the rest on the bottom of your deck in any order.
 
-TIA (U2) Tide Angler
+TAL (U2) Tide Angler
 Cr-TrcHnt 1000
 
 TIS (U2) Tide Seer
 Cr-Aqn 1000
 ETB: you may draw a card. If you do, discard a card.
 
-VEB (U2) Veil Bubble
+VBB (U2) Veil Bubble
 Sp
 SB ; Return target creature that has power 4000 or less from the battle zone to its owner's hand.
 
@@ -2964,7 +2964,7 @@ CSP (B5) Cursed Phantom
 Cr-Spctr 3000
 ETB: you may banish one of your other creatures. If you do, target enemy creature gets -3000 power until the end of the turn. 
 
-DEG (B4) Den Gorger
+DGG (B4) Den Gorger
 Cr-RotWrm 4000
 SB ; Blkr ; Grd ; WINS: banish it.
 
@@ -3130,7 +3130,7 @@ SHO (R4) Shock Troop
 Cr-Bskr 2000
 Haste
 
-SID (R5) Siege Dragon
+SDG (R5) Siege Dragon
 Cr-ArmDrgn 5000
 
 SCG (R4) Slagcannon Grunt
@@ -3178,11 +3178,11 @@ Atk+2000  ; DIES: to mana
 ADT (G5) Ardu Totem
 Cr-SptTtm 5000
 
-BAC (G5) Barbed Crusher
+BCS (G5) Barbed Crusher
 Evo Cr-Mgbug 7000
 Evo: NATURE CREATURES ; DBkr
 
-AGD (G6) Bronze-Arm Gladiator
+BAG (G6) Bronze-Arm Gladiator
 Evo Cr-BstKn 6000
 Evo: NATURE CREATURES ; DBkr ; During your opponent's turn, this creature gets +4000 power.
 
@@ -3218,7 +3218,7 @@ MSB (G6) Mesa Behemoth
 Evo Cr-Colss 8000
 Evo: NATURE CREATURES ; DBkr ; SEARCH YOUR DECK. YOU MAY REVEAL A CREATURE FROM IT AND PUT THAT CREATURE IN YOUR HAND., SHUFFLE YOUR DECK. 
 
-MOG (G6) Moss Giant
+MGA (G6) Moss Giant
 Cr-Colss 7000
 DBkr
 
@@ -3514,7 +3514,7 @@ WWO (UG7) Worldwaker Omgoth
 Evo Cr-Aqn/Colss 13000
 Put on 2 of your Water and/or Nature creatures. ; TBkr ; ETB: you may put all cards from your hand in your mana zone. ; ATKS: your opponent, for each card you have in hand fewer than 5, you may draw a card.
 
-SRT (BG7) Scaradorable the Behemoth
+SRB (BG7) Scaradorable the Behemoth
 Evo Cr-Chmra/Colss 12000
 Put on 2 of your Darkness and/or Nature creatures. ; TBkr ; ETB: you may put target enemy creature from the battle zone in your opponent's mana zone. ; ETB: you may banish target enemy creature.
 
@@ -3577,7 +3577,7 @@ PSD (W6) Perseus Dragon
 Cr-CelsDrgn 6000
 DBkr ; While you have 2 or fewer shields, this creature gets +2000 power and has "Blocker." 
 
-PHG (W1) Phase Generator
+PGN (W1) Phase Generator
 Sp
 Choose one of your creatures. It can't be blocked this turn. At the end of the turn, untap it.
 
@@ -3706,7 +3706,7 @@ TLE (U7) Teleportation Equation
 Sp
 Return up to 2 target creatures from the battle zone to their owners' hands.
 
-TIG (U5) Tide Gulper
+TGP (U5) Tide Gulper
 Cr-ErthEatr 4000
 Blkr ; Powerful Block +3000  ; Grd
 
@@ -4007,7 +4007,7 @@ GRP (G3) Grove Protector
 Cr-TreeKn 2000
 Protector  ; While it's your opponent's turn, this creature gets +3000 power.
 
-HOC (G1) Horned Chameleon
+HCM (G1) Horned Chameleon
 Cr-Tskr 2000
 SB ; Skmshr
 
@@ -4077,7 +4077,7 @@ CTA (WU3) Cetus the Augur
 Evo Cr-CelsDrgn/Lvth 7500
 Put on 2 of your Light and/or Water creatures. ; DBkr ; ETB: look at the top 2 cards of your deck. Put one of them in your hand and the other in your shield zone face down as a new shield.
 
-WAK (WU4) Wave Keeper
+WKP (WU4) Wave Keeper
 Cr-StrmPtrl/UndtEngn 1500
 Blkr ; Skmshr ; ETB: you may draw a card.
 
