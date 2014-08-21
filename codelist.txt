@@ -8,12 +8,12 @@ ICB Ice Blade
 KIN King Nautilus
 KIP King Pontias
 REE Reef-Eye
-SPM Spy Mission
+SMS Spy Mission
 TLP Teleport
 BOB Bone Blades
 BSM Brain Squirmer
 DES Death Smoke
-DRP Dream Pirate
+DPR Dream Pirate
 FUM Fumes
 GGG Gigargon
 GWH Grave Worm Hatchling
@@ -22,7 +22,7 @@ STS Skeeter Swarmer
 SKC Skull Cutter
 TRP Terror Pit
 ZBK Zagaan, the Bone Knight
-BLB Blaze Belcher
+BBC Blaze Belcher
 CMM Comet Missile
 DTS Draglide the Swiftest
 FTP Flametropus
@@ -34,7 +34,7 @@ ROB Rock Bite
 STG Simian Trooper Grash
 TNF Tornado Flame
 ABS Ambush Scorpion
-BRG Brave Giant
+BGA Brave Giant
 BAT Bronze-Arm Tribe
 ESE Essence Elf
 RGG Raging Goliant
@@ -66,7 +66,7 @@ KBF King Bullfang
 LGS Logos Scan
 PGG Potato Gun Glu-urrgle
 RPG Reef Prince Glu-urrgle
-VEV Veil Vortex
+VVT Veil Vortex
 VKA Vikorakas
 ACT Acid-Tongue Chimera
 BFS Black Feather of Shadow Abyss
@@ -107,7 +107,7 @@ ACK Astinos, the Cloud Knight
 CVF Covering Fire
 CRC Current Charger
 HAL Halon
-JAM Jade Monitor
+JMN Jade Monitor
 LGC Logic Cube
 MTM Magris the Magnetizer
 NBS Nimbus Scout
@@ -130,18 +130,18 @@ BYB Buoyant Blowfish
 CTM Crystal Memory
 FCL Finbarr, Council of Logos
 HCL Hokira, Council of Logos
-ICL Ice Launcher
+ILC Ice Launcher
 KCR King Coral
 KLW Knowledge Warden
 MMS Memory Swarm
 MNC Midnight Crawler
 MCL Milporo, Council of Logos
 PDI Predict
-QOI Queen Orion
+QOR Queen Orion
 RQC Rusalka, Aqua Chaser
 SSG Steam Star Grapplog
 THP Thought Probe
-DAR Dark Return
+DRT Dark Return
 DSC Draxar, the Soul Crusher
 GGS Gigastand
 GSG Gorgeon, Shadow of Gluttony
@@ -162,7 +162,7 @@ BRG Barrage
 BSV Blastforge Slaver
 BGD Bolgash Dragon
 BSD Bolshack Dragon
-FLA Flame Aura
+FAR Flame Aura
 HPD Hyperspeed Dragon
 KTI Kenina the Igniter
 LGL Legionnaire Lizard
@@ -191,7 +191,7 @@ SMQ Sniper Mosquito
 TGA The Great Arena
 TNC Thorny Creeper
 TED Three-Eyed Dragonfly
-DAS Dark Scaradorable
+DSR Dark Scaradorable
 WRT Wrist-Rockets Tatsurion
 ORF Orion, Radiant Fury
 EPN Emperor Neuron
@@ -209,7 +209,7 @@ REC Recharge
 SHS Shock Sentinel
 SWI Starwing
 TLC Twilight Commander
-QUE Aquatic Expulsion
+QTE Aquatic Expulsion
 YBS Cyber Sprite
 YBT Cyber Trader
 EPA Emperor Axon
@@ -236,7 +236,7 @@ BFC Blastforge Captain
 CCT Cliffcutter
 DWC Drakon Warchief
 GWD Gunwing Dragon
-HES Heat Seekers
+HSK Heat Seekers
 JTD Jet-Thrust Darter
 JBG Jetflame Bodyguard
 LAD Laser-Arm Drakon
@@ -292,7 +292,7 @@ GLT Gloom Tomb
 GWV Grudge Weaver
 PSG Patchwork Surgeon
 RPR Ripper Reaper
-TOG Toothed Grubling
+TGB Toothed Grubling
 UMB Umbra
 BGS Bagash
 BFD Blastforge Dragon
@@ -357,7 +357,7 @@ TIR Time Rime
 ACC Arachnoir of Cobweb Cavern
 CGP Cave Gulper
 DRH Dreadhusk
-FAH Fanged Horror
+FHR Fanged Horror
 GTM Gregoria the Malevolent
 GOF Gregoria's Fortress
 MMR Mesmerize
@@ -374,13 +374,13 @@ BFB Blastforge Bruiser
 COS Chaotic Skyterror
 DRS Drill Storm
 EBE Ember-Eye
-FLS Flame Spinner
+FSN Flame Spinner
 JUJ Jump Jets
 KAB Kaboom!
 MDM Magma Dragon Melgars
 MOI Mark of Infernus
 RDK Redscale Drakon
-SCI Scaled Impaler
+SIP Scaled Impaler
 TOB Toolbot
 CTB Chief Thorn-Bringer
 DWD Deepwood Druid
@@ -404,7 +404,7 @@ POT Panopter
 PCJ Piercing Judgment
 SSQ Sunspout Quartz
 WLC Wave Lancer
-BLS Blade Seer
+BSE Blade Seer
 DFQ Dawnflower Quartz
 FML Fullmetal Lemon
 HTB Humonculon the Blaster
@@ -427,7 +427,7 @@ HTM Haunted Mech
 KTB Kronax the Brutal
 LSP Lizard-Skin Puppet
 OZL Oozing Lavasaur
-SOV Soul Vortex
+SVT Soul Vortex
 CDQ Cindermoss Quartz
 FIG Fight!
 GTS Gorim the Striker
@@ -483,7 +483,7 @@ OST Onslaught Trooper
 SVS Skycrusher's Volcano-Ship
 SHR Skytalon Harrier
 SSM Sledgehammer Slammer
-DAG Dawn Giant
+DGA Dawn Giant
 HSW Headstrong Wanderer
 JBK Jarbala Keeper
 MTF Monstrify
@@ -506,7 +506,7 @@ MET Metal Max
 PMP Plasma Pincer
 PTG Prototype Gunship
 SFQ Starforge Quartz
-SSU Sunstrike
+SNK Sunstrike
 XJ3 Aqua Trooper XJ-3
 FMS Flamespitter
 FVD Flame-Vent Diver
@@ -521,11 +521,11 @@ KIS Kivu, Ingenious Shaman
 LOR Lore-Strider
 MVQ Mistvine Quartz
 OTI Oktuska the Infused
-SQD Squall Darter
+SDT Squall Darter
 WBT Wavebreaker Tribe
 CMQ Cavernmold Quartz
 FMN Foul Mana
-GOS Goop Striker
+GSK Goop Striker
 HTH Haunted Harvest
 MGW Masked Gravewing
 OSD Obsidian Death
@@ -576,7 +576,7 @@ DFS Defiant Shaman
 MAC Mark of Almighty Colossus
 NTH Nurturing Hive
 TKT Tricky Turnip
-TUS Tusked Shouter
+TST Tusked Shouter
 SPH Choten's Stalker Sphere
 FLK Fallen Keeper
 LMU Luminar Unleashed
@@ -600,7 +600,7 @@ FAT Fate's Hand
 SBW Sabotage Worm
 TRV The Reviled
 BST Ballistic Skyterror
-BLC Blitz Commando
+BCM Blitz Commando
 YTP Cyber Trooper
 FTB Frantic Blast
 BAP Bad Apple
@@ -662,7 +662,7 @@ TRC Terrorfang Clinger
 TMD The Mystic of Darkness
 VFB Vengeful Blast
 ASI Absolute Incineration
-BLH Blaze Helix
+BHL Blaze Helix
 BDK Bluescale Drakon
 DCM Doomcannon Mech
 LV3 Lavanator 3000
@@ -677,7 +677,7 @@ JBS Jarbala Swordbreaker
 RAP Rampage
 SPP Seedpod Puffer
 SLF Sledgefoot
-SWR Swift Regeneration
+SRG Swift Regeneration
 TTT Taunting Totem
 TMN The Mystic of Nature
 VDH Verdant Helix
@@ -738,7 +738,7 @@ MIC Mind Core
 OCR Ocean Ravager
 OPS Outpost Sentry
 PCF Pincer-Fin
-REK Reef Kraken
+RKK Reef Kraken
 SCN Scavenging Cenophor
 STN Scrutinize
 SHC Shore Chomper
@@ -849,7 +849,7 @@ HIM Hive Marshal Golian
 PTR Pakidamo the Resilient
 ASB Abyssal Stalker Baleia
 MSS Mighty Shouter, the Shaman
-FLI Flare Inhibitor
+FIH Flare Inhibitor
 MTV Moorna the Vengeful
 MVR Mother Virus
 IAL Impalicus
@@ -949,7 +949,7 @@ TGP Tide Gulper
 TIT Time Tethers
 TKN Tusked Nautiloid
 VOS Void Seer
-WAV Wave Skimmer
+WSM Wave Skimmer
 WCC Wavecrest Crawler
 WFS Waveforce Seer
 AOL Agent of Lies
@@ -985,7 +985,7 @@ AMT Ammo Train
 ADG Artillery Dragon
 AHT Ashen Tribute
 BTM Battering Monolith
-BLD Blaze Darter
+BDT Blaze Darter
 CDG Cannonade Dragon
 FAV Flaming Arrow Volley
 FRT Furywing Trooper
@@ -1020,7 +1020,7 @@ EAB Earthbond Giant
 EMB Embolden
 FMC Field Marshal Cornucopia
 GNT Granite Titan
-GRP Grove Protector
+GPT Grove Protector
 HCM Horned Chameleon
 JBH Jarbala Hatchery
 LWT Leafwing Totem
