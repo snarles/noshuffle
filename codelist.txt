@@ -125,7 +125,7 @@ SSB Stormspark Blast
 STF Strobe Flash
 TDC Thunder Cruiser
 UTO Urth, the Overlord
-QUK Aqua Knight
+QKN Aqua Knight
 BYB Buoyant Blowfish
 CTM Crystal Memory
 FCL Finbarr, Council of Logos
@@ -158,7 +158,7 @@ SST Skull Shatter
 VNW Venom Worm
 VOW Voidwing
 BLL Badlands Lizard
-BAR Barrage
+BRG Barrage
 BSV Blastforge Slaver
 BGD Bolgash Dragon
 BSD Bolshack Dragon
@@ -314,7 +314,7 @@ HBD Hornblade Dragon
 MBT Manapod Beetle
 STU Sok'ran the Untamed
 STE Steel Hammer
-THS The Swarmleader
+TSL The Swarmleader
 TTD Treetop Dragon
 STO Sasha the Observer
 KTT King Tritonus
@@ -341,7 +341,7 @@ SRZ Spire Zealot
 TDR Thunder Reaper
 ZOD Zone Defense
 ARP Aeropica
-QUR Aqua Rider
+QRD Aqua Rider
 QRC Aqua-Ranger Commander
 YBY Cyber Cyclones
 YLC Cyber Lord Corile
@@ -396,7 +396,7 @@ SHT Shardhide Tusker
 SVA Silver Axe
 SET Slumbering Titan
 SPS Spore Siren
-AQS Aqua Strider
+QSR Aqua Strider
 CEG Crusader Engine
 ETS Elevan the Seeker
 MMK Memory Keeper
@@ -603,8 +603,8 @@ BST Ballistic Skyterror
 BLC Blitz Commando
 YTP Cyber Trooper
 FTB Frantic Blast
-BAA Bad Apple
-BRA Bronze-Arm Renegade
+BAP Bad Apple
+BAR Bronze-Arm Renegade
 CTP Crystal Pulse
 TTQ Tainted Quartz
 TTS Telanar, the Stormer
@@ -656,7 +656,7 @@ EGC Eager Cleaver
 HTV Harbinger of the Void
 NIH Night Haunt
 NMH Nightmare Helix
-RIC Rib Collector
+RCL Rib Collector
 SCO Scourge Lord
 TRC Terrorfang Clinger
 TMD The Mystic of Darkness
@@ -668,7 +668,7 @@ DCM Doomcannon Mech
 LV3 Lavanator 3000
 MKT Morkaz the Defiant
 SSL Sparkspine Lizard
-THD The Disassembler
+TDA The Disassembler
 TMF The Mystic of Fire
 WLA Waylay
 BLM Blademane
@@ -746,10 +746,10 @@ SPE Snapping Eel
 SFV Steadfast Vorwhal
 SKV Stockade Virus
 TPT Temporal Tinkering
-THC Thought Collective
+TCL Thought Collective
 TAL Tide Angler
 TIS Tide Seer
-VEB Veil Bubble
+VBB Veil Bubble
 WAS Wave Spears
 WRW Whirlpool Warden
 ATR Attic Reaper
@@ -799,7 +799,7 @@ SHH Scrapheap Hunter
 SRS Searing Spears
 SGM Sergeant Maddox
 SHO Shock Troop
-SID Siege Dragon
+SDG Siege Dragon
 SCG Slagcannon Grunt
 TNR Technoraptor
 DRC Thundering Clap
@@ -822,7 +822,7 @@ HBS Hunter Blossom
 HMT Huntmaster Taegrin
 ISM Instill Might
 MSB Mesa Behemoth
-MOG Moss Giant
+MGA Moss Giant
 PCC Pouncing Crickant
 PDS Predatory Snapdragon
 RSC Rapscallion
@@ -1039,7 +1039,7 @@ SPG Sprite's Gift
 TDT Trapdoor Tunneler
 WRS Warren Shaman
 CTA Cetus the Augur
-WAK Wave Keeper
+WKP Wave Keeper
 BSL Brave Shalloteer
 RDB Radiant Blinderhorn
 ASV Abyssal Scavenger
