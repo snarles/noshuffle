@@ -1,6 +1,6 @@
 RZK Razorkinder
 TSR Tatsurion
-QUS Aqua Seneschal
+QSN Aqua Seneschal
 FZK Frogzooka
 HDS Hydro Spy
 HDC Hydrobot Crab
@@ -44,9 +44,9 @@ ROT Root Trap
 RBT Rumbling Terrasaur
 SPR Sprout
 AWJ Alcadeus, Winged Justice
-KIT King Tsunami
+KSN King Tsunami
 BBS Bat-Breath Scaradorable
-LOS Lord Skycrusher
+LSK Lord Skycrusher
 TRD Terradragon Regarion Doom
 BDB Blinder Beetle
 GGT Grand Gure, Tower Keeper
@@ -59,10 +59,10 @@ SKN Shaw K'Naw
 STL Star Lantern
 SUS Sun-Stalk Seed
 SUN Sunshock
-QUC Aqua Commando
+QCM Aqua Commando
 QSD Aqua Soldier
 FOM Fluorogill Manta
-KIB King Bullfang
+KBF King Bullfang
 LGS Logos Scan
 PGG Potato Gun Glu-urrgle
 RPG Reef Prince Glu-urrgle
@@ -131,13 +131,13 @@ CTM Crystal Memory
 FCL Finbarr, Council of Logos
 HCL Hokira, Council of Logos
 ICL Ice Launcher
-KIC King Coral
+KCR King Coral
 KLW Knowledge Warden
 MMS Memory Swarm
 MNC Midnight Crawler
 MCL Milporo, Council of Logos
 PDI Predict
-QUO Queen Orion
+QOI Queen Orion
 RQC Rusalka, Aqua Chaser
 SSG Steam Star Grapplog
 THP Thought Probe
@@ -231,7 +231,7 @@ SVC Scavenging Chimera
 SCS Screeching Scaradorable
 SLY Slyth
 SSW Swampstench Worm
-BIH Big Hissy
+BHS Big Hissy
 BFC Blastforge Captain
 CCT Cliffcutter
 DWC Drakon Warchief
@@ -253,7 +253,7 @@ RAS Reap and Sow
 SVF Silver Fist
 SNC Snapclaw
 TRG Tendril Grasp
-RVT Ra-Vu the Stormbringer
+RVS Ra-Vu the Stormbringer
 NVI Necrodragon of Vile Ichor
 HDF Hammer Dragon Foulbyrn
 ATC Andromeda of the Citadel
@@ -281,7 +281,7 @@ KTP Kindrix the Psionic
 LLO Logos Lookout
 MOW Man o' Warden
 NIX Nix
-QUT Queen Taniwha
+QTN Queen Taniwha
 TAE Trial and Error
 AGW Ancient Grave Worm
 BRD Bonerattle Dragon
@@ -289,12 +289,12 @@ DVS Devouring Smog
 DDH Dreadclaw, Dark Herald
 DLW Drooling Worm
 GLT Gloom Tomb
-GRW Grudge Weaver
+GWV Grudge Weaver
 PSG Patchwork Surgeon
 RPR Ripper Reaper
 TOG Toothed Grubling
 UMB Umbra
-BAG Bagash
+BGS Bagash
 BFD Blastforge Dragon
 BTT Branca the Treacherous
 BTR Burnclaw the Relentless
@@ -355,7 +355,7 @@ REF Reef Scout
 TUT Tenuous Trove
 TIR Time Rime
 ACC Arachnoir of Cobweb Cavern
-CAG Cave Gulper
+CGP Cave Gulper
 DRH Dreadhusk
 FAH Fanged Horror
 GTM Gregoria the Malevolent
@@ -403,7 +403,7 @@ MMK Memory Keeper
 POT Panopter
 PCJ Piercing Judgment
 SSQ Sunspout Quartz
-WAL Wave Lancer
+WLC Wave Lancer
 BLS Blade Seer
 DFQ Dawnflower Quartz
 FML Fullmetal Lemon
@@ -442,7 +442,7 @@ MMG Magnet Mech Glu-uurgle
 FRS Feral Scaradorable
 RPT Rampaging Tatsurion
 ETH Eternal Haven
-KIA King Alboran
+KAL King Alboran
 QKL Queen Kalima
 FLV Forgelord Vesuvius
 WLR Wildstrider Ramnoth
@@ -462,7 +462,7 @@ STR Sentrus
 AGC Angler Cluster
 QRN Aqua-Reflector Nomulos
 BLF Bladefish
-YYB Cyber Scamp
+YSC Cyber Scamp
 DMP Deep Mind Probe
 FBD Finbarr's Dreadnought
 PHS Phase Scout
@@ -493,11 +493,11 @@ TFT Transforming Totem
 WLG Wild Growth
 CMB Calamity Bell
 GMQ Glimmergloom Quartz
-LOP Lost Patrol
+LPT Lost Patrol
 SSS Serpens, the Spirit Shifter
 SRP Spire Puppet
 STI Stingwing
-TAG Tar Gusher
+TGS Tar Gusher
 ZTM Zoltara the Mercenary
 ATA Axos the Avenger
 BMF Blitzer-Mech Falkora
@@ -507,8 +507,8 @@ PMP Plasma Pincer
 PTG Prototype Gunship
 SFQ Starforge Quartz
 SSU Sunstrike
-QTX Aqua Trooper XJ-3
-FTE Flamespitter
+XJ3 Aqua Trooper XJ-3
+FMS Flamespitter
 FVD Flame-Vent Diver
 FBQ Frostburn Quartz
 KTV Krazzix the Volatile
@@ -527,9 +527,9 @@ CMQ Cavernmold Quartz
 FMN Foul Mana
 GOS Goop Striker
 HTH Haunted Harvest
-MAG Masked Gravewing
+MGW Masked Gravewing
 OSD Obsidian Death
-SKT Skaak the Stinger
+SKK Skaak the Stinger
 TRH Terror Hound
 DLJ Death Liger the Justicar
 CSS Cassiopeia Starborn
@@ -567,7 +567,7 @@ ARB Aerial Bombardment
 BFM Blastforge Marauder
 DKU Drakon Upstart
 FLF Flame Fangs
-GAS Galsaur
+GAL Galsaur
 MNM Manic Mechanic
 RCS Ricochet Shot
 BSB Broadsword Butterfly
@@ -598,7 +598,7 @@ EMP Emergency Protocol
 ESS Essence Shade
 FAT Fate's Hand
 SBW Sabotage Worm
-THR The Reviled
+TRV The Reviled
 BST Ballistic Skyterror
 BLC Blitz Commando
 YTP Cyber Trooper
@@ -642,7 +642,7 @@ RDP Radiant Purification
 RET Restrain
 SLH Solar Helix
 CTO Captain Orwellia
-CAT Captive Squill
+CTQ Captive Squill
 HPH Hypergrid Hacker
 LQC Liquid Compulsion
 NRH Neural Helix
@@ -722,11 +722,11 @@ SBK Skybound Keeper
 SRK Spire Keeper
 STT Stratus Dart
 SDN Sunstorm Dreadnought
-THA The Arbiter
-QUI Aqua Initiate
+TAB The Arbiter
+QIN Aqua Initiate
 QIQ Aqua Inquisitor
-QQU Aqua Scout
-CTT Citizen Tokori
+QSC Aqua Scout
+CTZ Citizen Tokori
 CYN Cryo-Nucleus
 YLW Cyber Lord Wakiki
 EAG Ethereal Agent
@@ -747,7 +747,7 @@ SFV Steadfast Vorwhal
 SKV Stockade Virus
 TPT Temporal Tinkering
 THC Thought Collective
-TIA Tide Angler
+TAL Tide Angler
 TIS Tide Seer
 VEB Veil Bubble
 WAS Wave Spears
@@ -757,7 +757,7 @@ BDM Baleful Drummer
 CVS Cavern Snapper
 CPH Creeping Heap
 CSP Cursed Phantom
-DEG Den Gorger
+DGG Den Gorger
 EDL Eldritch Lightning
 FSP Forsaken Puppet
 GHT Gloom-Hollow Taskmaster
@@ -812,8 +812,8 @@ ABH Amberhorn
 AAK Anjak, the All-Kin
 ADR Ardu Ranger
 ADT Ardu Totem
-BAC Barbed Crusher
-AGD Bronze-Arm Gladiator
+BCS Barbed Crusher
+BAG Bronze-Arm Gladiator
 CGG Charging Greatclaw
 CNC Colonel Corn
 CMF Cumulofungus
@@ -896,7 +896,7 @@ UFO Ulphonas, Fiendish Overlord
 DKC Drakomech Commander
 KTM Krotork the Mirror
 WWO Worldwaker Omgoth
-SRT Scaradorable the Behemoth
+SRB Scaradorable the Behemoth
 ARA Aerial Arcavore
 AKP Ancient Keeper
 ADO Ardent Observer
@@ -912,7 +912,7 @@ IIV Intrepid Invader
 JTA Justice Archon
 OVS Overshields
 PSD Perseus Dragon
-PHG Phase Generator
+PGN Phase Generator
 POW Prelate of Wind
 RDS Radion Sphere
 RGA Regent's Attendant
@@ -945,7 +945,7 @@ RIS Rip Swirl
 RMZ Runemaster Zyr
 SPT Spy Tide
 TLE Teleportation Equation
-TIG Tide Gulper
+TGP Tide Gulper
 TIT Time Tethers
 TKN Tusked Nautiloid
 VOS Void Seer
@@ -1021,7 +1021,7 @@ EMB Embolden
 FMC Field Marshal Cornucopia
 GNT Granite Titan
 GRP Grove Protector
-HOC Horned Chameleon
+HCM Horned Chameleon
 JBH Jarbala Hatchery
 LWT Leafwing Totem
 LBC Lumbering Coliseum
