@@ -478,7 +478,6 @@ KTV Krazzix the Volatile
 KTW Karstara the Warder
 KUT Kuth the Dervish
 LAD Laser-Arm Drakon
-LAL Lamp-Lighter
 LBC Lumbering Coliseum
 LBE Lumbering Elderwood
 LBS Lyra, the Blazing Sun
@@ -490,6 +489,7 @@ LGN Legionnaire Corpse
 LGS Logos Scan
 LKO Lurking Orchid
 LLO Logos Lookout
+LLT Lamp-Lighter
 LMD Looming Devourer
 LMN Luminar
 LMS Luminous Shieldwing
@@ -519,7 +519,6 @@ LVR Lava Racer
 LWT Leafwing Totem
 MAC Mark of Almighty Colossus
 MAM Magma Ram
-MAW Mad Watcher
 MBT Manapod Beetle
 MBW Mar-Blurpa the Weaponsmith
 MCL Milporo, Council of Logos
@@ -579,6 +578,7 @@ MTV Moorna the Vengeful
 MVQ Mistvine Quartz
 MVR Mother Virus
 MWM Mindwrack Moth
+MWT Mad Watcher
 NBS Nimbus Scout
 NIH Night Haunt
 NIX Nix
@@ -995,8 +995,8 @@ VNM Venomancer
 VNW Venom Worm
 VOP Violet Puffer
 VOR Vorg
-VOS Void Seer
 VOW Voidwing
+VSE Void Seer
 VSK Veil Stalker
 VSS Vicious Squillace Scourge
 VTA Virtuous Alcadeus
@@ -1047,6 +1047,6 @@ YTP Cyber Trooper
 YWK Cyber Walker Kaylee
 ZBB Zombie Backhoe
 ZBK Zagaan, the Bone Knight
-ZOD Zone Defense
+ZDF Zone Defense
 ZPK Zephyr Keeper
 ZTM Zoltara the Mercenary

@@ -1330,7 +1330,7 @@ Blkr ; Skmshr ; ETB: choose one of your other creatures that has "Skirmisher." I
 TDR (W4) Thunder Reaper
 Cr-MecThndr 4000
 
-ZOD (W4) Zone Defense
+ZDF (W4) Zone Defense
 Sp
 SB ; All your creatures get " Blocker" until the start of your next turn. 
 
@@ -2280,10 +2280,10 @@ CVD (WB5) Corvus Dragon
 Evo Cr-CelsDrgn/TrrDrgn 10500
 Evo: CELESTIAL DRAGONS OR TERROR DRAGONS ; DBkr ; ATKS: if you have the same number or more shields than your opponent, banish target tapped enemy creature. If you have fewer shields than your opponent, you may put the top card of your deck in your shield zone face down as a new shield.
 
-LAL (WB4) Lamp-Lighter
+LLT (WB4) Lamp-Lighter
 Cr-MecThndr/DrdMsk 5500
 
-MAW (WB3) Mad Watcher
+MWT (WB3) Mad Watcher
 Cr-Enfcr/Spctr 1500
 Blkr ; Skmshr ; DIES: your opponent discards a card at random.
 
@@ -3718,7 +3718,7 @@ TKN (U5) Tusked Nautiloid
 Cr-TrcHnt 3000
 Blkr ; When one of your creatures that has "Blocker" attacks, you may draw a card.
 
-VOS (U2) Void Seer
+VSE (U2) Void Seer
 Cr-VdSpwn/Aqn 1000
 ATKS: you may clash with your opponent. If you won the clash, draw a card. 
 
