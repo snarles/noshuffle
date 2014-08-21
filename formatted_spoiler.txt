@@ -37,7 +37,7 @@ REE (U2) Reef-Eye
 Cr-TrcHnt 3000
 Blkr ; Grd
 
-SPM (U4) Spy Mission
+SMS (U4) Spy Mission
 Sp
 SB ; Draw 2 cards.
 
@@ -56,7 +56,7 @@ DES (B5) Death Smoke
 Sp
 Banish target untapped enemy creature.
 
-DRP (B3) Dream Pirate
+DPR (B3) Dream Pirate
 Cr-Spctr 3000
 Blkr ; ATKS: banish it at the end of the attack.
 
@@ -91,7 +91,7 @@ ZBK (B6) Zagaan, the Bone Knight
 Cr-ShdChmpn 7000
 DBkr
 
-BLB (R1) Blaze Belcher
+BBC (R1) Blaze Belcher
 Cr-BrnBly 1000
 MustAtk
 
@@ -136,7 +136,7 @@ SB ; Banish target enemy creature that has power 5000 or less.
 ABS (G2) Ambush Scorpion
 Cr-Mgbug 2000
 
-BRG (G7) Brave Giant
+BGA (G7) Brave Giant
 Cr-Colss 7000
 DBkr
 
@@ -261,7 +261,7 @@ RPG (U5) Reef Prince Glu-urrgle
 Cr-CybLrd 2000
 ETB: look at the top 4 cards of your deck. You may put one of them in your hand. Put the rest on the bottom of your deck in any order.
 
-VEV (U4) Veil Vortex
+VVT (U4) Veil Vortex
 Sp
 SB ; Return target creature from the battle zone to its owner's hand.
 
@@ -423,7 +423,7 @@ At the end of each of your turns, you may untap all your creatures in the battle
 HAL (W5) Halon
 Cr-Enfcr 5500
 
-JAM (W3) Jade Monitor
+JMN (W3) Jade Monitor
 Cr-StrSntnl 4000
 Blkr ; Skmshr
 
@@ -511,7 +511,7 @@ HCL (U5) Hokira, Council of Logos
 Cr-CybLrd 3000
 At the start of each of your turns, if you have 3 or more Cyber Lords in the battle zone, you may draw 2 cards.
 
-ICL (U5) Ice Launcher
+ILC (U5) Ice Launcher
 Cr-Aqn 3000
 Blkr
 
@@ -538,7 +538,7 @@ PDI (U1) Predict
 Sp
 Look at the top 4 cards of your deck and put them back in any order.
 
-QOI (U7) Queen Orion
+QOR (U7) Queen Orion
 Cr-Lvth 6000
 DBkr ; Unblockable
 
@@ -554,7 +554,7 @@ THP (U5) Thought Probe
 Sp
 SB ; Draw a number of cards equal to the number of enemy creatures in the battle zone.
 
-DAR (B2) Dark Return
+DRT (B2) Dark Return
 Sp
 SB ; Return a creature from your discard pile to your hand.
 
@@ -637,7 +637,7 @@ BSD (R6) Bolshack Dragon
 Cr-ArmDrgn 6000
 DBkr ; While attacking, this creature gets +1000 power for each Fire card in your discard pile.
 
-FLA (R1) Flame Aura
+FAR (R1) Flame Aura
 Sp
 One of your creatures gets "Powerful Attack +2000" until the end of the turn.
 
@@ -749,7 +749,7 @@ TED (G3) Three-Eyed Dragonfly
 Cr-Mgbug 2000
 ATKS: choose one of your other creatures. It gets +2000 power until end of turn.
 
-DAS (B6) Dark Scaradorable
+DSR (B6) Dark Scaradorable
 Cr-Chmra 6000
 DBkr ; ETB: choose one of your opponent's shields. This creature breaks that shield.
 
@@ -819,7 +819,7 @@ TLC (W5) Twilight Commander
 Cr-SkfcChmpn 5000
 ATKS: you may choose one of your creatures that has less power than this creature and untap it.
 
-QUE (U6) Aquatic Expulsion
+QTE (U6) Aquatic Expulsion
 Sp
 SB ; Return up to 2 target creatures that are level 3 or less from the battle zone to their owners' hands.
 
@@ -926,7 +926,7 @@ GWD (R6) Gunwing Dragon
 Cr-ArmDrgn 6000
 DBkr
 
-HES (R3) Heat Seekers
+HSK (R3) Heat Seekers
 Sp
 Banish target enemy creature that has power 3000 or less.
 
@@ -1147,7 +1147,7 @@ RPR (B5) Ripper Reaper
 Cr-ShdChmpn 4000
 ETB: you may choose one of your other creatures in the battle zone and banish it. If you do, your opponent chooses one of his or her creatures in the battle zone. Banish that creature.
 
-TOG (B3) Toothed Grubling
+TGB (B3) Toothed Grubling
 Cr-RotWrm 3000
 
 UMB (B2) Umbra
@@ -1400,7 +1400,7 @@ DIES: you may draw a card.
 DRH (B4) Dreadhusk
 Cr-Chmra 3000
 
-FAH (B2) Fanged Horror
+FHR (B2) Fanged Horror
 Cr-RotWrm 5000
 ATKS: banish it at the end of the attack.
 
@@ -1468,7 +1468,7 @@ EBE (R4) Ember-Eye
 Cr-AtkRptr 2000
 When this creature is tapped, all your other creatures have "Powerful Attack +2000". 
 
-FLS (R2) Flame Spinner
+FSN (R2) Flame Spinner
 Cr-Drakn 1000
 ETB: if you have a creature in the battle zone that has "Fast Attack", this creature gets "Fast Attack" until the end of the turn.
 
@@ -1492,7 +1492,7 @@ RDK (R5) Redscale Drakon
 Cr-Drakn 2000
 Haste ; Atk+2000 
 
-SCI (R2) Scaled Impaler
+SIP (R2) Scaled Impaler
 Evo Cr-Drakn 4000
 Evo: Drakn ; This creature can't be attacked.
 
@@ -1584,7 +1584,7 @@ WLC (WU5) Wave Lancer
 Cr-SkfcChmpn/Lvth 5500
 Blkr ; Skmshr ; DIES: self-bounce
 
-BLS (WG6) Blade Seer
+BSE (WG6) Blade Seer
 Cr-StrmPtrl/BstKn 4000
 ETB: look at the top 3 cards of your deck. You may reveal a creature and/or a spell from among them and put the revealed cards in your hand. Put the rest on the bottom of your deck in any order.
 
@@ -1673,7 +1673,7 @@ OZL (BR3) Oozing Lavasaur
 Cr-Tarbg/RokBrt 2000
 Atk+2000  ; DIES: your opponent chooses and discards a card.
 
-SOV (BR5) Soul Vortex
+SVT (BR5) Soul Vortex
 Sp
 SB ; Banish target enemy creature that has power 3000 or less. ; Choose a creature in your discard pile that is level 4 or less and return it to your hand.
 
@@ -1892,7 +1892,7 @@ SSM (R4) Sledgehammer Slammer
 Cr-Bskr 3000
 Atk+2000 
 
-DAG (G7) Dawn Giant
+DGA (G7) Dawn Giant
 Cr-Colss 6000
 DBkr ; ATKS: you may reveal the top card of your deck. If it's a creature, this creature gets +6000 power and "Triple Breaker" until the end of the turn. Put the revealed card on the bottom of your deck. 
 
@@ -1981,7 +1981,7 @@ SFQ (WR4) Starforge Quartz
 Cr-SptQtz 3000
 Each of your other Light creatures gets +1000 power. ; Each of your other Fire creatures gets +1000 power.
 
-SSU (WR6) Sunstrike
+SNK (WR6) Sunstrike
 Sp
 SB ; Choose target enemy creature. if it has power 5000 or less, banish it. Otherwise, tap it and it doesn't untap at the start of your opponent's next turn.
 
@@ -2040,7 +2040,7 @@ OTI (UG6) Oktuska the Infused
 Cr-CybLrd/BstKn 3000
 ETB: you may draw a card. ; ETB: you may put the top card of your deck in your mana zone.
 
-SQD (UG4) Squall Darter
+SDT (UG4) Squall Darter
 Cr-Aqn/Mgbug 2000
 Atk+2000  ; Unblockable
 
@@ -2055,7 +2055,7 @@ FMN (BG6) Foul Mana
 Sp
 SB ; Target enemy creature gets -2000 power until the end of the turn.  ; Put the top card of your deck in your mana zone.
 
-GOS (BG3) Goop Striker
+GSK (BG3) Goop Striker
 Cr-Tarbg/TreeKn 2000
 Slay ; DIES: to mana
 
@@ -2253,7 +2253,7 @@ TKT (G3) Tricky Turnip
 Cr-WldVgg 3000
 This creature can't be the target of your opponent's spells and abilities.
 
-TUS (G5) Tusked Shouter
+TST (G5) Tusked Shouter
 Cr-BstKn 7000
 Protector  ; DBkr ; While your opponent has a creature in the battle zone, this creature can attack only creatures.
 
@@ -2345,7 +2345,7 @@ Evo: CORRUPTED CREATURES OR CHIMERAS ; For each Corrupted creature you have in y
 BST (UR4) Ballistic Skyterror
 Cr-Corptd/AtkRptr 5000
 
-BLC (UR3) Blitz Commando
+BCM (UR3) Blitz Commando
 Cr-Corptd/Stmpr 1000
 All your Corrupted creatures have "Fast Attack." 
 
@@ -2590,7 +2590,7 @@ ASI (R8) Absolute Incineration
 Sp
 BANISH TARGET ENEMY CREATURE THAT HAS POWER 9000 OR LESS,, BANISH TARGET ENEMY CREATURE THAT HAS POWER 6000 OR LESS. ; Banish all enemy creatures that have power 3000 or less
 
-BLH (R6) Blaze Helix
+BHL (R6) Blaze Helix
 Sp
 Choose one: ; * Banish all enemy creatures that have "Blocker." ; * Each of your creatures can attack untapped creatures this turn as though they were tapped.
 
@@ -2648,7 +2648,7 @@ SLF (G6) Sledgefoot
 Cr-Colss 7000
 Skmshr ; WINS: choose 2 of your opponent's shields. This creature breaks those shields.
 
-SWR (G8) Swift Regeneration
+SRG (G8) Swift Regeneration
 Sp
 Choose any number of creatures in your mana zone that have total level 7 or less and put them in the battle zone. ; Until the start of your next turn, all your creatures that have more than 0 power can't be banished.
 
@@ -2889,7 +2889,7 @@ PCF (U3) Pincer-Fin
 Cr-TrcHnt 2000
 SB ; Blkr ; Grd
 
-REK (U5) Reef Kraken
+RKK (U5) Reef Kraken
 Cr-Lvth 3000
 Blkr ; ETB: you may draw a card.
 
@@ -3326,7 +3326,7 @@ MSS (G5) Mighty Shouter, the Shaman
 Cr-BstKn 5000
 ATKS: each of your other creatures gets +2000 power until the end of the turn.
 
-FLI (W5) Flare Inhibitor
+FIH (W5) Flare Inhibitor
 Cr-Enfcr 1500
 Blkr ; Skmshr ; If this creature would be banished, put it in your shield zone face down as a new shield instead.
 
@@ -3722,7 +3722,7 @@ VOS (U2) Void Seer
 Cr-VdSpwn/Aqn 1000
 ATKS: you may clash with your opponent. If you won the clash, draw a card. 
 
-WAV (U4) Wave Skimmer
+WSM (U4) Wave Skimmer
 Cr-Aqn 2000
 Blkr ; Unblockable
 
@@ -3864,7 +3864,7 @@ BTM (R6) Battering Monolith
 Cr-RokBrt 4000
 While battling, this creature gets +4000 power.
 
-BLD (R2) Blaze Darter
+BDT (R2) Blaze Darter
 Cr-FirBrd 1000
 ETB: one of your other creatures gets "Fast Attack" until the end of the turn. 
 
@@ -4003,7 +4003,7 @@ GNT (G7) Granite Titan
 Cr-Colss 8000
 DBkr
 
-GRP (G3) Grove Protector
+GPT (G3) Grove Protector
 Cr-TreeKn 2000
 Protector  ; While it's your opponent's turn, this creature gets +3000 power.
 

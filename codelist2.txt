@@ -49,40 +49,40 @@ BAP Bad Apple
 BAR Bronze-Arm Renegade
 BAS Bronze-Arm Sabertooth
 BAT Bronze-Arm Tribe
+BBC Blaze Belcher
 BBD Bloodbound Dragon
 BBP Blinder Beetle Prime
 BBR Blade Barrier
 BBS Bat-Breath Scaradorable
 BCD Beacon Drone
+BCM Blitz Commando
 BCS Barbed Crusher
 BDB Blinder Beetle
 BDD Billion-Degree Dragon
 BDF Battlebred Defender
 BDK Bluescale Drakon
 BDM Baleful Drummer
+BDT Blaze Darter
 BEB Beam Bloom
 BFB Blastforge Bruiser
 BFC Blastforge Captain
 BFD Blastforge Dragon
 BFM Blastforge Marauder
 BFS Black Feather of Shadow Abyss
+BGA Brave Giant
 BGD Bolgash Dragon
 BGK Bloated Gatekeeper
 BGS Bagash
 BGV Bodyguard Vorg
+BHL Blaze Helix
 BHS Big Hissy
 BIL Bile Raptor
 BKF Ba'kaar Frostwing
 BLA Belua
-BLB Blaze Belcher
-BLC Blitz Commando
-BLD Blaze Darter
 BLF Bladefish
-BLH Blaze Helix
 BLL Badlands Lizard
 BLM Blademane
 BLR Beastlord Rulchor
-BLS Blade Seer
 BMF Blitzer-Mech Falkora
 BMT Broodmother
 BOB Bone Blades
@@ -92,13 +92,13 @@ BOW Bottle of Wishes
 BRB Baron Burnfingers
 BRD Bonerattle Dragon
 BRG Barrage
-BRG Brave Giant
 BRS Borran, the Reality Shaper
 BRT Bestial Rage Tatsurion
 BRU Smoldering Brute
 BRW Blade-Rush Wyvern
 BSB Broadsword Butterfly
 BSD Bolshack Dragon
+BSE Blade Seer
 BSL Brave Shalloteer
 BSM Brain Squirmer
 BSP Blastforge Scrapper
@@ -187,9 +187,6 @@ CWD Cloudwalker Drone
 CYN Cryo-Nucleus
 CYS Canyon Skimmer
 DAB Darkbolt
-DAG Dawn Giant
-DAR Dark Return
-DAS Dark Scaradorable
 DBB Deathblade Beetle
 DBP Dawnblaze Patrol
 DBS Doomblast Scaradorable
@@ -202,6 +199,7 @@ DET Detain
 DFM Defense Mode
 DFQ Dawnflower Quartz
 DFS Defiant Shaman
+DGA Dawn Giant
 DGB Dragon's Breath
 DGD Dagger Doll
 DGE Dragon Engine Glu-urrgle
@@ -219,15 +217,17 @@ DLW Drooling Worm
 DMP Deep Mind Probe
 DNM Saracon, Storm Dynamo
 DOR Dragon of Reflections
+DPR Dream Pirate
 DRC Thundering Clap
 DRF Dreamfish
 DRG Dorado, Golden Dragon
 DRH Dreadhusk
-DRP Dream Pirate
 DRS Drill Storm
+DRT Dark Return
 DSC Draxar, the Soul Crusher
 DSJ Dark-Seer Jurlon
 DSM Diabrost, Shadow Marshal
+DSR Dark Scaradorable
 DTA Dracothane of the Abyss
 DTL Deathtongue Leech
 DTP Daunting Presence
@@ -272,8 +272,8 @@ ETS Elevan the Seeker
 ETT Eye of the Tides
 EYS Eye Spy
 FAG Flame Auger
-FAH Fanged Horror
 FAL Fault-Line Dragon
+FAR Flame Aura
 FAT Fate's Hand
 FAV Flaming Arrow Volley
 FBD Finbarr's Dreadnought
@@ -283,15 +283,14 @@ FCW Foul Cave Worm
 FEF Fear Fang
 FFT Fearfeather the Scavenger
 FGC Forgotten Chief
+FHR Fanged Horror
 FHS Forsett, Heroic Shaman
 FIG Fight!
+FIH Flare Inhibitor
 FKT Freakish Test Subject
-FLA Flame Aura
 FLD Flux Drone
 FLF Flame Fangs
-FLI Flare Inhibitor
 FLK Fallen Keeper
-FLS Flame Spinner
 FLV Forgelord Vesuvius
 FMC Field Marshal Cornucopia
 FML Fullmetal Lemon
@@ -302,6 +301,7 @@ FRD Firemane Dragon
 FRH Forest Hornet
 FRS Feral Scaradorable
 FRT Furywing Trooper
+FSN Flame Spinner
 FSP Forsaken Puppet
 FSR Flamespine Ravager
 FST Flamespike Tatsurion
@@ -350,13 +350,13 @@ GNS General Skycrusher
 GNT Granite Titan
 GOD Grip of Despair
 GOF Gregoria's Fortress
-GOS Goop Striker
+GPT Grove Protector
 GRC Grave Call
 GRD Garrison Duty
-GRP Grove Protector
 GRS Grave Scrounger
 GSC Grim Specter
 GSG Gorgeon, Shadow of Gluttony
+GSK Goop Striker
 GSP Galzak of Shadow Pass
 GTA Gilaflame the Assaulter
 GTG Grybolos the Gatherer
@@ -382,7 +382,6 @@ HDG Hydragon
 HDM Hydra Medusa
 HDN Hydrobot Nautilus
 HDS Hydro Spy
-HES Heat Seekers
 HIM Hive Marshal Golian
 HIR Helios Rings
 HLH Halo Hawk
@@ -401,6 +400,7 @@ HPV Heretic Prince Var-rakka
 HRB Horror Box
 HRS Horrid Stinger
 HRT Horrific Tick
+HSK Heat Seekers
 HSR Hydrobot Scarab
 HSW Headstrong Wanderer
 HTB Humonculon the Blaster
@@ -417,13 +417,13 @@ HZC Hazard Crawler
 IAL Impalicus
 IBB Icebelly Blowfish
 ICB Ice Blade
-ICL Ice Launcher
 ICS Ichor Spider
 IFT Infernal Taskmaster
 IFW Issyl of the Frozen Wastes
 IGN Igniss
 IIV Intrepid Invader
 ILB Illusory Berry
+ILC Ice Launcher
 IOC Ion Cruiser
 IRD Ironvine Dragon
 IRT Ironwill Tree
@@ -431,12 +431,12 @@ ISM Instill Might
 ITA Infernus the Awakened
 ITI Infernus the Immolator
 JAL Jackalax
-JAM Jade Monitor
 JBG Jetflame Bodyguard
 JBH Jarbala Hatchery
 JBK Jarbala Keeper
 JBS Jarbala Swordbreaker
 JLC Joko, Lunatic Chimp
+JMN Jade Monitor
 JND Johnny Darkseed
 JPT Jetpack Thug
 JTA Justice Archon
@@ -648,7 +648,7 @@ QIN Aqua Initiate
 QIQ Aqua Inquisitor
 QKL Queen Kalima
 QKN Aqua Knight
-QOI Queen Orion
+QOR Queen Orion
 QRC Aqua-Ranger Commander
 QRD Aqua Rider
 QRN Aqua-Reflector Nomulos
@@ -660,11 +660,11 @@ QSM Aqua Swordsman
 QSN Aqua Seneschal
 QSR Aqua Strider
 QST Quillspike Tatsurion
+QTE Aquatic Expulsion
 QTG Quetaro the Gladiator
 QTN Queen Taniwha
 QTS Aqua Trickster
 QTU Quakes the Unclean
-QUE Aquatic Expulsion
 RAP Rampage
 RAS Reap and Sow
 RAT Reactor Sphere
@@ -683,7 +683,6 @@ REC Recharge
 REE Reef-Eye
 REF Reef Scout
 REG Regroup
-REK Reef Kraken
 REP Repulse
 RES Red-Eye Scorpion
 RET Restrain
@@ -700,6 +699,7 @@ RGS Regent Sasha
 RIF Reinforce
 RIS Rip Swirl
 RKH Rocket Hawk
+RKK Reef Kraken
 RKN Reckoning
 RKP Razorkinder Puppet
 RLB Rally Bot
@@ -752,7 +752,6 @@ SBW Sabotage Worm
 SCE Skycrusher's Elite
 SCG Slagcannon Grunt
 SCH Saucer-Head Shark
-SCI Scaled Impaler
 SCL Sasha, Channeler of Light
 SCM Superia-Citadel Militia
 SCN Scavenging Cenophor
@@ -770,6 +769,7 @@ SDN Sunstorm Dreadnought
 SDO Shadow Strike
 SDR Skraven, Draconic Reaper
 SDS Scalding Surge
+SDT Squall Darter
 SDV Stormdiver
 SEE Cyber Seer
 SEP Flame Serpent
@@ -791,6 +791,7 @@ SHR Skytalon Harrier
 SHS Shock Sentinel
 SHT Shardhide Tusker
 SHW Striding Hearthwood
+SIP Scaled Impaler
 SJK Spelljacker
 SKC Skull Cutter
 SKK Skaak the Stinger
@@ -812,16 +813,17 @@ SMA Sumo Artichoke
 SMB Shaman Broccoli
 SMF Sunmote Field
 SMQ Sniper Mosquito
+SMS Spy Mission
 SMW Shimmerwing
 SNB Snakebite
 SNC Snapclaw
 SNF Snow Fort
+SNK Sunstrike
 SNS Sinister Scheme
 SNT Snake Trap
 SOP Sigil of Primacy
 SOR Soul Reflection
 SOS Soul Schism
-SOV Soul Vortex
 SPA Spark Drone
 SPC Spark Cage
 SPD Supreme Dragon Bolshack
@@ -829,16 +831,15 @@ SPE Snapping Eel
 SPG Sprite's Gift
 SPH Choten's Stalker Sphere
 SPL Stampeding Longhorn
-SPM Spy Mission
 SPN Shouter, Paragon of Nature
 SPP Seedpod Puffer
 SPR Sprout
 SPS Spore Siren
 SPT Spy Tide
-SQD Squall Darter
 SQL Squillace Scourge
 SRB Scaradorable the Behemoth
 SRC Sky-Ring Captain
+SRG Swift Regeneration
 SRK Spire Keeper
 SRL Swarming Rapids Lurker
 SRP Spire Puppet
@@ -860,7 +861,6 @@ SSQ Sunspout Quartz
 SSR Shapeshifter Scaradorable
 SSS Serpens, the Spirit Shifter
 SST Skull Shatter
-SSU Sunstrike
 SSW Swampstench Worm
 STA Skarvos the Assassin
 STB Stratus Beetle
@@ -893,10 +893,10 @@ SVF Silver Fist
 SVM Skyvolt Mech
 SVR Salvation Reckoner
 SVS Skycrusher's Volcano-Ship
+SVT Soul Vortex
 SWH Sword Horned
 SWI Starwing
 SWP Blastforge Sweeper
-SWR Swift Regeneration
 SWS Spyweb Scurrier
 SYR Sopan, Cyber Renegade
 TAB The Arbiter
@@ -916,6 +916,7 @@ TED Three-Eyed Dragonfly
 TER Spinning Terror
 TFT Transforming Totem
 TGA The Great Arena
+TGB Toothed Grubling
 TGD Trox, General of Destruction
 TGP Tide Gulper
 TGS Tar Gusher
@@ -942,7 +943,6 @@ TNC Thorny Creeper
 TNF Tornado Flame
 TNR Technoraptor
 TOB Toolbot
-TOG Toothed Grubling
 TPL Temple Lantern
 TPT Temporal Tinkering
 TRC Terrorfang Clinger
@@ -958,6 +958,7 @@ TSG Taksha, Scourge Gunner
 TSL The Swarmleader
 TSR Tatsurion
 TSS Molten Stonesaur
+TST Tusked Shouter
 TTB Tatsurion the Brawler
 TTC Tatsurion the Champion
 TTD Treetop Dragon
@@ -969,7 +970,6 @@ TTT Taunting Totem
 TTU Tatsurion the Unchained
 TTV Tarvox the Voracious
 TTW Tekamora the Wretched
-TUS Tusked Shouter
 TUT Tenuous Trove
 TXF Toxic Fog
 TYG Tygrif
@@ -984,7 +984,6 @@ VCD Volcano Dervish
 VCT Volcano Trooper
 VDH Verdant Helix
 VES Veil Slip
-VEV Veil Vortex
 VFB Vengeful Blast
 VHM Voksa, Herd Matriarch
 VIB Vine Bind
@@ -1004,8 +1003,8 @@ VTA Virtuous Alcadeus
 VTC Vectron Crawler
 VTG Victory Gunner
 VTS Vectro Scout
+VVT Veil Vortex
 WAS Wave Spears
-WAV Wave Skimmer
 WBE Wandering Brain-Eater
 WBG Writhing Bone Ghoul
 WBP Warbringer Poseidon
@@ -1028,6 +1027,7 @@ WRM Wreck Mech
 WRS Warren Shaman
 WRT Wrist-Rockets Tatsurion
 WRW Whirlpool Warden
+WSM Wave Skimmer
 WSS Wild Sky Sword
 WTG Waterspout Gargoyle
 WWO Worldwaker Omgoth
