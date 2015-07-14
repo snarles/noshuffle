@@ -14,9 +14,10 @@ c_give_up <- list(name = "Give up",
                  })
 
 c_energy_1 <- list(name = "Energy 1",
-                   desc = "Convert points to en",
+                   desc = "-1 PTS, convert PTS to EN",
                  lg = function(cur, opp) cur$pts > 0,
                  fx = function(cur, opp) {
+                   cur$pts <- cur$pts - 1
                    cur$en <- cur$en + cur$pts
                    cur$pts <- 0
                    list(cur = cur, opp = opp)
@@ -24,13 +25,13 @@ c_energy_1 <- list(name = "Energy 1",
 
 cards <- list(c_give_up, c_energy_1)
 
-for (i in 1:10) {
+for (i in 1:11) {
   rk <- i
   en <- 2 * i
   pts <-  floor(5 * sqrt(i))
   cards <- c(cards, 
              list(list(name = paste("Points", i),
-                       desc = paste0("rank:", rk, ", -", en, "EN, add ", pts, " points"),
+                       desc = paste0("rank:", rk, ", -", en, " EN, + ", pts, " PTS"),
                   rk = rk,
                   en = en,
                   pts = pts
@@ -84,7 +85,7 @@ update_state <- function(num) {
 display_state <- function() {
   tab <- matrix(0, 2, 3)
   rownames(tab) <- c("Player A", "Player B")
-  colnames(tab) <- c("energy", "points", "rank")
+  colnames(tab) <- c("energy (EN)", "points (PTS)", "rank")
   for (i in 1:2) {for (j in 1:3) {
     tab[i, j] <- game_state[[i]][[j]]    
   }}
@@ -107,7 +108,8 @@ ui = shinyUI(
     fluidRow(column(1, actionButton("ch", label = "Choose"))),
     fluidRow(
       uiOutput("dynamicDisplay")
-    )
+    ),
+    fluidRow(column(1, actionButton("rf", label = "Refresh")))
   )
 )
 
@@ -132,8 +134,10 @@ server = function(input, output) {
     )
   })
   output$dynamicDisplay <- renderTable({
-    input$ch
-    display_state()
+    input$num
+    isolate({
+      display_state()
+    })
   })
 }
 
