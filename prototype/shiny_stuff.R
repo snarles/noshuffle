@@ -118,6 +118,7 @@ server = function(input, output) {
     }
     if (input$ch > 0) {
       isolate({
+        print(input$num)
         update_state(as.numeric(input$num))
       })
     }
