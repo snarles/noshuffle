@@ -3,35 +3,45 @@ library(shiny)
 ## Cards
 
 c_give_up <- list(name = "Give up",
+                  desc = "reset ranks, +20 en to both",
                  lg = function(cur, opp) TRUE,
                  fx = function(cur, opp) {
                    cur$rk <- 0
                    opp$rk <- 0
+                   cur$en <- cur$en + 20
+                   opp$en <- opp$en + 20                   
                    list(cur = cur, opp = opp)
                  })
 
 c_energy_1 <- list(name = "Energy 1",
+                   desc = "Convert points to en",
                  lg = function(cur, opp) cur$pts > 0,
                  fx = function(cur, opp) {
-                   cur$en <- cur$en + cur$pts * 5
+                   cur$en <- cur$en + cur$pts
                    cur$pts <- 0
                    list(cur = cur, opp = opp)
                  })
 
 cards <- list(c_give_up, c_energy_1)
 
-for (i in 1:5) {
+for (i in 1:10) {
+  rk <- i
+  en <- 3 * i
+  pts <-  floor(5 * sqrt(i))
   cards <- c(cards, 
              list(list(name = paste("Points", i),
-                  rk = i,
-                  en = i,
-                  pts = floor(10 * sqrt(i)))
-             ))
+                       desc = paste0("rank:", rk, ", -", en, "EN, add ", pts, " points"),
+                  rk = rk,
+                  en = en,
+                  pts = pts
+             )))
 }
 
-nchoices <- as.list(1:length(cards)); names(nchoices) <- sapply(cards, function(v) v$name)
-p1state <- list("en" = 100, "pts" = 0, "rk" = 0)
-p2state <- list("en" = 100, "pts" = 0, "rk" = 0)
+nchoices <- as.list(1:length(cards)); names(nchoices) <- sapply(cards, function(v) {
+  paste0(v$name, " (", v$desc, ")")
+  })
+p1state <- list("en" = 50, "pts" = 0, "rk" = 0)
+p2state <- list("en" = 50, "pts" = 0, "rk" = 0)
 game_state <- list("p1" = p1state, "p2" = p2state)
 turn_no <- 1
 
