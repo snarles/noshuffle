@@ -40,10 +40,6 @@ for (i in 1:10) {
 nchoices <- as.list(1:length(cards)); names(nchoices) <- sapply(cards, function(v) {
   paste0(v$name, " (", v$desc, ")")
   })
-p1state <- list("en" = 50, "pts" = 0, "rk" = 0)
-p2state <- list("en" = 50, "pts" = 0, "rk" = 0)
-game_state <- list("p1" = p1state, "p2" = p2state)
-turn_no <- 1
 
 play_card <- function(num, cur, opp) {
   card <- cards[[num]]
@@ -140,4 +136,8 @@ server = function(input, output) {
   })
 }
 
+p1state <- list("en" = 50, "pts" = 0, "rk" = 0)
+p2state <- list("en" = 50, "pts" = 0, "rk" = 0)
+game_state <- list("p1" = p1state, "p2" = p2state)
+turn_no <- 1
 runApp(list(ui = ui, server = server))
