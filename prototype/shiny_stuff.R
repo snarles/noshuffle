@@ -3,13 +3,13 @@ library(shiny)
 ## Cards
 
 c_give_up <- list(name = "Give up",
-                  desc = "reset ranks, +20 en to both",
+                  desc = "reset ranks, +5 en to both",
                  lg = function(cur, opp) TRUE,
                  fx = function(cur, opp) {
                    cur$rk <- 0
                    opp$rk <- 0
-                   cur$en <- cur$en + 20
-                   opp$en <- opp$en + 20                   
+                   cur$en <- cur$en + 5
+                   opp$en <- opp$en + 5                   
                    list(cur = cur, opp = opp)
                  })
 
@@ -26,7 +26,7 @@ cards <- list(c_give_up, c_energy_1)
 
 for (i in 1:10) {
   rk <- i
-  en <- 3 * i
+  en <- 2 * i
   pts <-  floor(5 * sqrt(i))
   cards <- c(cards, 
              list(list(name = paste("Points", i),
@@ -136,8 +136,8 @@ server = function(input, output) {
   })
 }
 
-p1state <- list("en" = 50, "pts" = 0, "rk" = 0)
-p2state <- list("en" = 50, "pts" = 0, "rk" = 0)
+p1state <- list("en" = 30, "pts" = 0, "rk" = 0)
+p2state <- list("en" = 30, "pts" = 0, "rk" = 0)
 game_state <- list("p1" = p1state, "p2" = p2state)
 turn_no <- 1
 runApp(list(ui = ui, server = server))
