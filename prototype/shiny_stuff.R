@@ -1,6 +1,22 @@
 library(shiny)
 
+## Initial state
+
+reset_state <- function() {
+  p1state <- list("en" = 30, "pts" = 0, "rk" = 0)
+  p2state <- list("en" = 33, "pts" = 0, "rk" = 0)
+  game_state <<- list("p1" = p1state, "p2" = p2state)
+  turn_no <<- 1
+}
+
 ## Cards
+
+c_null <- list(name = "",
+                  desc = "CHOOSE ONE",
+                  lg = function(cur, opp) FALSE,
+                  fx = function(cur, opp) {
+                    list(cur = cur, opp = opp)
+                  })
 
 c_give_up <- list(name = "Give up",
                   desc = "reset ranks, +5 en to both",
@@ -92,6 +108,7 @@ display_state <- function() {
   tab
 }
 
+
 get_current_player <- function() {
   if (turn_no %% 2 == 0) {
     return("Player B")
@@ -109,24 +126,28 @@ ui = shinyUI(
     fluidRow(
       uiOutput("dynamicDisplay")
     ),
-    fluidRow(column(1, actionButton("rf", label = "Refresh")))
+    fluidRow(column(1, actionButton("rf", label = "RESET")))
   )
 )
 
 server = function(input, output) {
-  observe({
-    if (input$quitApp == 1) {
-      stopApp()
-    }
-    if (input$ch > 0) {
-      isolate({
-        print(input$num)
-        update_state(as.numeric(input$num))
-      })
-    }
+  g <- reactiveValues(data = display_state())
+  observeEvent(input$quitApp, {
+    #print("QUIT")
+    stopApp()
+  })
+  observeEvent(input$ch, {
+    #print("Update")
+    update_state(as.numeric(input$num))
+    g$data <- display_state()  
+  })
+  observeEvent(input$rf, {
+    #print("RESET")
+    reset_state()
+    g$data <- display_state()
   })
   output$dynamicOutput <- renderUI({
-    input$ch
+    g$data
     radioButtons(
       "num",
       label = get_current_player(),
@@ -134,15 +155,10 @@ server = function(input, output) {
     )
   })
   output$dynamicDisplay <- renderTable({
-    input$num
-    isolate({
-      display_state()
-    })
+    g$data
   })
 }
 
-p1state <- list("en" = 30, "pts" = 0, "rk" = 0)
-p2state <- list("en" = 30, "pts" = 0, "rk" = 0)
-game_state <- list("p1" = p1state, "p2" = p2state)
-turn_no <- 1
+reset_state()
+
 runApp(list(ui = ui, server = server))
